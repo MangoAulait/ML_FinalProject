@@ -1,0 +1,216 @@
+id,created_at,text,retweet_count,tweet.retweeted
+849791013321420800,2017-04-06 01:09:00,How is #ransomware used in targeted attacks? https://t.co/yirxBAdpMb #thesas2017 via @antonivanovm,9,False
+849757290982920192,2017-04-05 22:55:00,Malware scanning services containers for sensitive business information https://t.co/Hek95ZGJaQ #TheSAS2017,6,False
+849736738213900288,2017-04-05 21:33:20,When smart medical devices become our worst nightmare https://t.co/leiiia7oLQ,7,False
+849708221254307840,2017-04-05 19:40:01,Midori Kuma at #TheSAS2017 #greenbearworldtrip https://t.co/e9FadxvmsJ,0,False
+849698909052162053,2017-04-05 19:03:01,"The Good, the Bad, and the Ugly of Software Export Controls https://t.co/BeTazu62Lg by @DennisF #TheSAS2017",11,False
+849686084124643328,2017-04-05 18:12:03,"Giant buildings, androids and underwater cities: futuristic map predicts Earth's fate https://t.co/jR1lfitNzw… https://t.co/xgtEDY6emo",15,False
+849385160508420096,2017-04-04 22:16:17,"RT @kaspersky: Details around Romanian #phishing kit creator, campaign revealed via @brokenfuses #TheSAS2017 https://t.co/75truzZpLS #infos…",9,False
+849379110686269449,2017-04-04 21:52:15,RT @kaspersky: Social engineering used against Israeli military - @IdoNaor1 100+ soldiers infected with malware #TheSAS2017 #Israel https:/…,28,False
+849378916917706752,2017-04-04 21:51:29,"RT @assolini: Second country with most medical devices exposed on internet: Brazil, according @difezza at #TheSAS2017 https://t.co/A0fpUCpw…",28,False
+849365724342693889,2017-04-04 20:59:03,RT @SecurityWeek: Amazing presentation by Stephen Chavez hacking his own wheelchair with Lani Rupp at #TheSAS2017 https://t.co/AxSjTM2a21,9,False
+849357618468593665,2017-04-04 20:26:51,Top vulnerabilities used against #ICS/SCADA are 3-7 years old. This clearly demonstrates the attitude to firmware updates #TheSAS2017,33,False
+849356782086606848,2017-04-04 20:23:31,open source toolkits in #APT makes it harder to track the threat actors but it allows to fight them more effectivel… https://t.co/CHJrlXKuZ6,15,False
+849356663652069376,2017-04-04 20:23:03,Main source of #cyberattack against #ICS computers #TheSAS2017 https://t.co/JiBEF0KrCs,7,False
+849356082426388481,2017-04-04 20:20:44,Geo split of ICS/#SCADA attacks #TheSAS2017 https://t.co/IK15Pr9yYn,9,False
+849344735244320771,2017-04-04 19:35:39,Some #APT threat actors incl. #Sofacy and APT10 are moving to open source toolkits like BEEF and UNICORN. @k_sec at… https://t.co/LoEwryxIkO,23,False
+849341486231629824,2017-04-04 19:22:44,Fun time at #TheSAS2017 by @MalCrawler https://t.co/15AQ9FsZd8,3,False
+849339964538179587,2017-04-04 19:16:42,RT @erijo08: Dewan Chowdhury @MalCrawler talks about defense towards Industrial malware at #TheSAS2017 https://t.co/lwBNmw2SYS,12,False
+849328755617255424,2017-04-04 18:32:09,RT @chriseng: Clickthrough conversion rate of URLs sent by dating bots via private message: roughly 70%. @inbarraz #TheSAS2017,44,False
+849309389806866436,2017-04-04 17:15:12,Pegasus #malware targets both #iOS and #Android with nearly same features and techniques. @ablaich at #TheSAS2017 https://t.co/4FFglJF2BM,63,False
+849307888380239872,2017-04-04 17:09:14,The list of #iOS apps Pegasus #malware to sniff. @ablaich at #TheSAS2017 https://t.co/HP202sYczI,27,False
+849306559796699136,2017-04-04 17:03:57,Pegasus #malware: yet anothen reason not to click on links incoming via SMS/MMS on #iOS. @ablaich at #TheSAS2017 https://t.co/7YGTKfqrJO,83,False
+849305305431363584,2017-04-04 16:58:58,RT @kjhiggins: Hijack of major global bank's online operations via DNS compromise shows 'fragility of the Internet': https://t.co/3Eg5gtJps…,30,False
+849303243943542784,2017-04-04 16:50:47,Future #ransomware trends in attacking businesses and kind advice from @antonivanovm #TheSAS2017 https://t.co/JtRrWteWRb,12,False
+849302645533806592,2017-04-04 16:48:24,@_xdanx: pls help @joshcorman with reference to the source,0,False
+849302318512304132,2017-04-04 16:47:06,#ransomware threaten not only users but businesses too. Mamba &amp; Petrwrap are two examples hackers aim at orgs. @antonivanovm at #TheSAS2017,7,False
+849296706118320129,2017-04-04 16:24:48,With Ipv6 coming to IoT it may turn things on the Internet into hell if virtually every #IoT device gets IP address. @_xdanx at #TheSAS2017,27,False
+849296238033948672,2017-04-04 16:22:56,RT @brokenfuses: #IoT honeypot's list of probed counties via Demeter (@_xdanx) #TheSAS2017 https://t.co/f4iQRvjSGK,15,False
+849292777145991170,2017-04-04 16:09:11,RT @tyler_townes: BlackBerry's 2016 stats for vulnerabilities remediate in its products #TheSAS2017 https://t.co/cNCNf0C1BL,13,False
+849292498845544449,2017-04-04 16:08:05,Conservative estimation of vulnerable #IoT devices for 2017 is 170M. Many of them have no patches #TheSAS2017,23,False
+849286084395769857,2017-04-04 15:42:36,.@cesarcer 's magic formula for vulnerability disclosure. Vendors beware. #TheSAS2017 https://t.co/3evIWOT5rr,5,False
+849284615500115969,2017-04-04 15:36:45,"RT @threatpost: You have to work with #SCADA slowly, vendors take their time, don’t rush, took more 1 year to fix critical vulns - Dashchen…",4,False
+849284365284716544,2017-04-04 15:35:46,Working with vendors on vulnerability disclosure is not easy too. @cesarcer at #TheSAS2017 https://t.co/j8lzUjjKB0,9,False
+849282628331216896,2017-04-04 15:28:52,Working with CERTs/giv orgs in vulnerability disclosure could be hard. @cesarcer st #TheSAS2017 https://t.co/GThlrszbz0,3,False
+849280496643256320,2017-04-04 15:20:23,"RT @dimitribest: I agree with the conclusion that Exploit Kits are going to move to #mobile platforms. Mostly like to Android. 
+#TheSAS2017…",17,False
+849279829350502401,2017-04-04 15:17:44,"RT @brokenfuses: Takeaway from @securelyfitz: ""If you're buying a chip, know what the manufacturer expects for a threat model."" #TheSAS2017",3,False
+849278236722900993,2017-04-04 15:11:25,RT @DarkReading: Cybercriminals Seized Control of Brazilian Bank for 5 Hours https://t.co/6Z0zBf84B0 #TheSAS2017,52,False
+849277676582051844,2017-04-04 15:09:11,"RT @chriseng: ""Even if you think your company is fully prepared for a bug bounty program, you're probably not."" @ryanaraine #TheSAS2017",4,False
+849270640376991744,2017-04-04 14:41:14,Hackers are able to launder money on stock exchange and evade bank controls by hacking stock trading software. @codelancer at #TheSAS2017,23,False
+849270373254299650,2017-04-04 14:40:10,Real story hackers attacking private depositories. @codelancer at #TheSAS2017 https://t.co/6paBTbnEyt,9,False
+849269898891202560,2017-04-04 14:38:17,Amazing trading math involving malicious traders. @codelancer at #TheSAS2017 https://t.co/IK3DgH7cp9,5,False
+849264434484842498,2017-04-04 14:16:34,Implementing #ICS cybersecurity stumbles upon tons of national/corporate regulations &amp; cultural/org specifics #TheSAS2017,3,False
+849264031236059137,2017-04-04 14:14:58,"RT @DennisF: ""Sitting in a windowless room in Vienna with mostly old men is exactly the grenade I fell on for you."" --@k8em0 re: Wassenaar…",5,False
+849263015501459458,2017-04-04 14:10:56,Cybersecurity hell in #ICS: businnesses are yet to understand the importance of security. Currently this is not a priority #TheSAS2017,13,False
+849261650402308096,2017-04-04 14:05:30,RT @kasperskyuk: Day one wrapup of #TheSAS2017. Via @threatpost https://t.co/YCQrqXC9eV #Podcast https://t.co/bHPg3cUIA8,3,False
+849259483905875968,2017-04-04 13:56:54,RT @kaspersky: Even if you #donate bug bounty $ for #charity ethical problems w vulnerability disclosure arn't getting any easier #theSAS20…,9,False
+849259347054034944,2017-04-04 13:56:21,The quality of code is decreasing but you can run the code in secure environment to prevent unwanted actions w/o rewriting code #TheSAS2017,0,False
+849257611803463680,2017-04-04 13:49:27,"RT @brokenfuses: .@JacobyDavid + @fransrosen raised $15K for charity after calling companies, four hours on the phone, discussing #bugbount…",4,False
+849251894287618048,2017-04-04 13:26:44,.@andreynikishin presenting #KasperskyOS at #TheSAS2017 https://t.co/HIlSDIrqeV,12,False
+849251557573111810,2017-04-04 13:25:24,#TheSAS2017 day2 to begin in 5 min. Lots of amazing #cybersecurity stuff to follow. Stay tuned,2,False
+849191816834502656,2017-04-04 09:28:01,"Fileless Banking Malware Attackers Break In, Cash Out, Disappear https://t.co/8SsdRujYYl #TheSAS2017 #ATMITCH",13,False
+849029999843606530,2017-04-03 22:45:00,Lines around cyber threat intelligence sharing blurring #TheSAS2017 https://t.co/SIwdFeh0lP via @threatpost https://t.co/TDOzhHT1gb,6,False
+849026227683962881,2017-04-03 22:30:01,#Lazarus #APT: Modus operandi and countermeasures https://t.co/gkWRu2Pt9R https://t.co/WXnBuabAZk,15,False
+849013757841899520,2017-04-03 21:40:28,RT @Kym_Possible: A 55 slide rant in 20 minutes? I love this talk already. First up: Stop the culture of celebrating failure. @chriseng at…,11,False
+849003982425083912,2017-04-03 21:01:37,RT @chrissistrunk: #TheSAS2017 has a strong ICS SCADA focus. There are many ICS talks lined up tomorrow. They also have a PLC bartender and…,24,False
+849003184777551875,2017-04-03 20:58:27,Hackers are emptying ATMs with a single drilled hole and $15 worth of gear https://t.co/CeZFCctld1 by @a_greenberg #TheSAS2017 #ATMITCH,123,False
+848993734394081281,2017-04-03 20:20:54,RT @alejandroarango: .@kaspersky &amp; @Kings_College researchers discover 20-year-old attack remains relevant today. https://t.co/FT27KH8dB7 v…,7,False
+848993443963686914,2017-04-03 20:19:45,And #TheSAS2017 MVP award goes to @plusvic for developing Yara rules. Well deserved! https://t.co/Jc1KGfeisK,4,False
+848992402274750464,2017-04-03 20:15:36,@k1k_ &amp; @2igosha breaking PoC equipment they created to reproduce ATM attack and help investigating ATM heist… https://t.co/iFTYC5u91X,13,False
+848989544800296961,2017-04-03 20:04:15,Hackers Stole $800K From Russian ATMs With Disappearing Malware https://t.co/0wdveBDH9s #ATMITCH #TheSAS2017 by @KimZetter,33,False
+848988769848053760,2017-04-03 20:01:10,Robbing an ATM could be that easy. Still... #TheSAS2017 https://t.co/iZevoSxGcF,70,False
+848988233727967235,2017-04-03 19:59:03,RT @SecurityWeek: Kaspersky Lab team did some forensics analysis of ATM incident...#TheSAS2017 https://t.co/4wJFaE4KP4,16,False
+848987331533168640,2017-04-03 19:55:27,Sometimes researchers work in a very hostile envitonment. @2igosha &amp; @k1k_ at #TheSAS2017 on ATM robbery https://t.co/rUfUdDOJ0f,3,False
+848980808249593857,2017-04-03 19:29:32,Cyber geeks at #TheSAS2017 :) https://t.co/JPpnPhcQQp,6,False
+848973731699490820,2017-04-03 19:01:25,"What's special about #TheSAS2017 is we have lots of *joint* research, involving vendors, financial institutions and law enforcement",25,False
+848973327075090432,2017-04-03 18:59:48,"#Lazarus #APT attribution, some thoughts by @vkamluk at #TheSAS2017 https://t.co/AhbX9svKxO",7,False
+848972449152630785,2017-04-03 18:56:19,#Lazarus #APT uses tricks to mask the Korean environment and false flags with broken Russian words. @vkamluk at… https://t.co/21BlDRbzu9,40,False
+848969947472699393,2017-04-03 18:46:23,Inside #Lazarus #APT attack landscape #TheSAS2017 https://t.co/aZQXV8KUc9,8,False
+848967985582792704,2017-04-03 18:38:35,RT @codelancer: #Lazarus latest opsec failure https://t.co/UWI2bTlkBw,54,False
+848967865155944448,2017-04-03 18:38:06,[Video] Chasing #Lazarus: A Hunt for the Infamous Hackers to Prevent Large Bank Robberies https://t.co/5LiEA1J34Y #TheSAS2017,8,False
+848967356344872960,2017-04-03 18:36:05,"RT @dimitribest: Binary patch by #Lazarus to steal money from the banks via #SWIFT 
+#TheSAS2017 https://t.co/hdGLuynS1P",12,False
+848967272563593216,2017-04-03 18:35:45,North Korean Link Found to Theft at New York Fed https://t.co/fB770rfi5X #TheSAS2017,9,False
+848966615249059840,2017-04-03 18:33:08,"Lazarus #APT is one of the most successful in attacking financial industry, incl Bangladesh heist https://t.co/wzFdhTWWn1 #TheSAS2017",22,False
+848964308008611840,2017-04-03 18:23:58,"RT @dimitribest: This is how #swift system works. Now we’re about to see who’s behind #Lazarus attacks on banks and it’s swift systems 
+#Th…",23,False
+848963886468534272,2017-04-03 18:22:18,RT @assolini: “Chasing bad guys from Bangladesh to Costa Rica” presentation about SWIFT attacks now on #TheSAS2017 https://t.co/N6VT3JXmCZ,8,False
+848963846115131392,2017-04-03 18:22:08,RT @RidT: @ILDannyMoore @juanandres_gs @craiu The actual MOONLIGHT MAZE in 3D—with a big shoutout to @ILDannyMoore for the log analysis &amp; @…,45,False
+848935822330146816,2017-04-03 16:30:47,"RT @dimitribest: Where Penquin #turla has been from 1999 to 2004 and what did it do? It’s to dig yet. 
+#TheSAS2017 https://t.co/xD8JFYWC37",4,False
+848935517861359616,2017-04-03 16:29:34,Moonlight Maze vs. Penguin Turla #TheSAS2017 https://t.co/l24UfHxQjp,5,False
+848932731245531136,2017-04-03 16:18:30,"RT @dimitribest: Moonlight Maze and Penquin Turla: the hunt for the dawn of targeted attacks https://t.co/TnxWRdmxzt
+#TheSAS2017",3,False
+848932252029530115,2017-04-03 16:16:35,RT @threatpost: Russian-speaking #Turla joins APT elite - https://t.co/NWMhJUxNRm #MoonlightMaze #TheSAS2017 https://t.co/ukZOGS9I3o,7,False
+848931692530331652,2017-04-03 16:14:22,RT @KasperskySAS: A new look at #MoonlightMaze at #TheSAS2017 full report on @Securelist https://t.co/ynRQ6KQd9U https://t.co/JIxOCuMSG6,13,False
+848930811860709376,2017-04-03 16:10:52,How to pwn https://t.co/0EOWz3f7eY in 8 simple steps. @juanandres_gs at #TheSAS2017 https://t.co/ecv5SLqutj,14,False
+848930113945300994,2017-04-03 16:08:06,In 1996 only 1% of high profile cyberattacks came from nation states. In 2017 it's 99% @craiu at #TheSAS2017,43,False
+848929972794400769,2017-04-03 16:07:32,"RT @a_greenberg: Researchers found a 20-year-old command &amp; control server for Russian hackers, plus hints of a link to an active team https…",246,False
+848928022820519936,2017-04-03 15:59:47,"RT @HeardOntheWire: New Details Connect Moonlight Maze Attacks on US Government to Modern Campaigns https://t.co/R2Wq7d5KXn
+#thesas2017",4,False
+848927649988784128,2017-04-03 15:58:18,"RT @Timo_Steffens: Buky Carmeli on hiring talents for NCSA: Don't compete with industry salaries, but offer intellectual challenges and goo…",4,False
+848927449631117314,2017-04-03 15:57:30,RT @k_sec: Alcobot is just waking up at 11:30 am.   #TheSAS2017 https://t.co/TbPYhMU7px,4,False
+848927407465799680,2017-04-03 15:57:20,RT @juanandres_gs: Torpedoes armed #TheSAS2017 (cc: @ridt @ILDannyMoore @craiu) https://t.co/1ezTMSbrHA,2,False
+848920328051073025,2017-04-03 15:29:13,"RT @dimitribest: This is the scope of cyberspace of Israel presented by Buky Carmeli 
+#theSAS2017 https://t.co/eXDjfzLKNh",8,False
+848918231352004608,2017-04-03 15:20:53,Predicting cybersecurity +10 years from now. By @rongula at #TheSAS2017 https://t.co/4tZAS4PoRh,51,False
+848914462937690112,2017-04-03 15:05:54,.@rongula magic formula #TheSAS2017 https://t.co/82jGxDmeZn,22,False
+848912112508383232,2017-04-03 14:56:34,No law presses security vendors not to detect and disrupt nation-state cyber ops. It's up to vendors to decide @georgetownlaw at #TheSAS2017,14,False
+848910234064228353,2017-04-03 14:49:06,RT @Timo_Steffens: Catherine Lotrionte proposes contact - points between intelligence services and companies disclosing their cyber-operati…,3,False
+848910122558648320,2017-04-03 14:48:39,RT @BAESystems_AI: Today BAE Systems is joining with SWIFT and Kaspersky Labs to present on Bangladesh Bank and recent attacks at #TheSAS20…,13,False
+848909801564372992,2017-04-03 14:47:23,RT @0xcharlie: @e_kaspersky @k8em0 @mdowd yea follow my career: laptops then phones then IoT.  I switch when things get hard.,2,False
+848909658001743873,2017-04-03 14:46:49,.@georgetownlaw at #TheSAS2017: security industry face an ethical dilemma - expose national security or protect the… https://t.co/GCPqg51KGE,19,False
+848909129276153858,2017-04-03 14:44:43,"RT @threatpost: ""Attribution is not perfect and it can work in reverse."" - Lotrionte #TheSAS2017",9,False
+848904812397776896,2017-04-03 14:27:33,As bug mitigation hardens attackers most likely to switch to a easier targets like #IoT etc. @mdowd at #TheSAS2017,18,False
+848901072437616640,2017-04-03 14:12:42,Thanks to bug mitigation technologies the bug discovery time has changed dramatically since 2000s. @mdowd at… https://t.co/N8tnmXdlkS,30,False
+848899447702552576,2017-04-03 14:06:14,"RT @chriseng: Sandboxes, by far, have had the biggest impact on exploit development time. @mdowd #TheSAS2017",10,False
+848899085037965313,2017-04-03 14:04:48,#TheSAS2017 opening scene https://t.co/xdmyNBlhCG,15,False
+848891385528725504,2017-04-03 13:34:12,RT @andreynikishin: 4 minutes to go! #TheSAS2017 https://t.co/IZZvB7eTS3,9,False
+848886033269878784,2017-04-03 13:12:56,RT @threatpost: T-minus 20 minutes until #TheSAS2017. Should have plenty of great research throughout the day here and on the site.,5,False
+848883600120573952,2017-04-03 13:03:16,30 min #TheSAS2017 to begin. Lots of interesting cybersecurity stuff to follow. Stay tuned https://t.co/ub3ibBXW9i,9,False
+848579051279323137,2017-04-02 16:53:06,You can hardly miss #TheSAS2017 https://t.co/JP4ODQEGFs,2,False
+848549781647618049,2017-04-02 14:56:47,"RT @dimitribest: Digital #ExpressHijacking of an entire bank with it’s on-line and mobile operations. 
+Come and see us at #TheSAS2017 
+Apri…",27,False
+847935823194583044,2017-03-31 22:17:08,RT @kaspersky: #Tax season here which means... It’s tax scam time #tips from @emm_david  to steer clear of scams https://t.co/ppuGgzyqu9 ht…,3,False
+847825915790938113,2017-03-31 15:00:24,"RT @KasperskySAS: SAS crew is looking forward to seeing you at #TheSAS2017! Ryan Naraine, Sergey Novikov and Dasha;) https://t.co/VsE66jsyYi",15,False
+846752448811323393,2017-03-28 15:54:50,RT @craiu: Here's our shiny #TheSAS2017 teaser /CC @juanandres_gs @RidT @ILDannyMoore https://t.co/BwVllJ7YwB,30,False
+846394781680971776,2017-03-27 16:13:35,Just one week to go till (probably) the best security conference in the world #TheSAS2017! https://t.co/U6SoBnr2qs https://t.co/2UGr1UsI16,43,False
+842133139463925760,2017-03-15 21:59:21,"@GM2DBW sorry, could have missed your tweet",1,False
+842132081081647104,2017-03-15 21:55:08,"@daveaitel That would be really weird. Only one version is available, same code globally",1,False
+842109984611557376,2017-03-15 20:27:20,Introducing #KasperskyOS at Embedded World https://t.co/9zrqTn96L0,70,False
+841638231120760833,2017-03-14 13:12:45,Research: digital clutter and its dangers https://t.co/frVdSBmxOj https://t.co/YCD99ojOVB,15,False
+841607950229786624,2017-03-14 11:12:26,RT @dimitribest: #PetrWrap: the new Petya-based #ransomware used in targeted attacks - Previously unknown ransomware technique https://t.co…,98,False
+841246461807464449,2017-03-13 11:16:00,RT @stefant: I've personally reported +100 fake Facebook profiles for review in the past few weeks. Care to guess how many got closed? Zero.,27,False
+840582337750532096,2017-03-11 15:17:01,"Metadata, embedded files, documented oddities &amp; other features of Office files you need to know about -&gt;… https://t.co/l2i3UNmJYr",80,False
+840190168149692416,2017-03-10 13:18:40,"@Cambridgeport90 no, they're not",1,False
+840189313535098880,2017-03-10 13:15:16,RT @kasperskyuk: Can you smell fear? 🤔 https://t.co/CH8oEnEkh8 #ThreatdeToilette,6,False
+840176742761410560,2017-03-10 12:25:19,RT @KasperskySAS: #TheSAS2017 agenda is updated! Check our website https://t.co/uZMp8rARef,23,False
+840173894082412546,2017-03-10 12:14:00,Hundreds of thousands of vulnerable IP cameras easy target for #botnet https://t.co/UJTuAf3q1k #IoT #0day,32,False
+840101709556809728,2017-03-10 07:27:10,"RT @achillean: More than 100,000 industrial control systems connected to the Internet: https://t.co/ayruv1gJ90 https://t.co/y9LLRZwmyr",91,False
+840101583870283777,2017-03-10 07:26:40,"""There are a lot of security concerns around routers, and the problem is, there is no liability""… https://t.co/ZoRXTOoDVA",31,False
+839922175473766400,2017-03-09 19:33:46,"Many passwords is good. Many passwords work. Especially with a tool to manage them, now available on #iOS -&gt;… https://t.co/wpvzkJx0Hi",14,False
+839079849687932928,2017-03-07 11:46:40,RT @craiu: On the nuances and nightmares of attribution in cyber: https://t.co/T5vAM16Irz,33,False
+839025577755435009,2017-03-07 08:11:00,#Shamoon is back. And it's not alone. Double wipers trouble in Saudi Arabia https://t.co/NJCDNDdnxv #StoneDrill https://t.co/igl2BkQJw9,47,False
+839025386499551232,2017-03-07 08:10:15,#MWC17: it’s time to rename it Digital World Congress? Or (Auto)mobile World Congress? -&gt; https://t.co/BKMIAwMAXz https://t.co/UvxQR8EOru,18,False
+838786884918706176,2017-03-06 16:22:31,RT @ryanaraine: Shamoon 2.0/Stonedrill technical report [PDF] https://t.co/6SbI1riuOk,21,False
+838782834458390528,2017-03-06 16:06:26,"You know the drill, but you don’t know #StoneDrill until now. A new #Shamoon-esque wiper campaign:… https://t.co/wAbV8Gf7wZ",40,False
+838778785059258368,2017-03-06 15:50:20,"RT @KasperskySAS: #TheSAS2017 training spots:
+- Yara - 1 spot left
+- Maltego - 5 spots left
+- Malware RE - 5 spots left and 50% discount fo…",13,False
+838778689227730944,2017-03-06 15:49:57,Podcast: Bruce Schneier on #IoT regulation https://t.co/wVpgKFLOTB,0,False
+838307976477831169,2017-03-05 08:39:31,New fileless attack using DNS queries to carry out powerShell commands https://t.co/IDQlKWtE0U https://t.co/4HSkUrM37c,47,False
+838033994763620353,2017-03-04 14:30:48,What’s hot at Mobile World Congress 2017? Fingerprinting &amp; biometrics in the spotlight: https://t.co/Whlb1qWc6r… https://t.co/QAAEWih9XH,19,False
+837984228981768192,2017-03-04 11:13:03,Howard Schmidt’s legacy of service remembered https://t.co/HOWnR3Yv5o https://t.co/RHXFxmPz9C,11,False
+837682737385394176,2017-03-03 15:15:02,ML² = Multi-Layered #MachineLearning. True #cybersecurity = multi-layered protection. Details:… https://t.co/T7NQDuIHDA,21,False
+837678073319469058,2017-03-03 14:56:30,RT @googijh: great read https://t.co/u9ppAwnxV2,3,False
+837674662523990017,2017-03-03 14:42:57,"R.I.P. @howardas. A great American, a great loss for cybersecurity. https://t.co/ALogzs3Uka",13,False
+837651701796597760,2017-03-03 13:11:43,RT @Mike_Mimoso: No evidence #Cloudbleed was exploited by attackers. 80K cached pages w/leaked memory removed. https://t.co/HXIZlTzNfF via…,7,False
+837589355988467712,2017-03-03 09:03:58,RT @andreynikishin: Hidden Backdoor Found in Chinese-Made Equipment. Nothing New! It's about time to think of trusted hardware https://t.co…,55,False
+837361973448830981,2017-03-02 18:00:26,RT @spontiroli: If you've been infected with Dharma #ransomware head to https://t.co/cJljWIvr9I and get the updated decryption tool https:/…,28,False
+837349034138415104,2017-03-02 17:09:01,Can you distinguish a metal band from a cyber-threat by its name? Try this quiz -&gt; https://t.co/0iI4hH1gDI https://t.co/O91jimSi2R,35,False
+837274794232004608,2017-03-02 12:14:01,What will the world be like in 2050? Join @timeguide &amp; Co. and have your say to shape up the future… https://t.co/9Z0cEqfWBg,10,False
+837017793488949255,2017-03-01 19:12:47,RT @dangoodin001: 132 Google Play apps tried to infect Android users with… Windows malware https://t.co/pmqdvU80b6,27,False
+837017776351023105,2017-03-01 19:12:43,RT @kjhiggins: Robots have some of the same inherent vulns as IoT in general but with a potentially creepy twist: https://t.co/rUbRXIsUAQ,14,False
+836952877742624768,2017-03-01 14:54:50,People ask why #TheSAS2017 always take place in paradise places like Saint Martin? Because we had enough of this :) https://t.co/nN9m5SwKBX,12,False
+836912405888249856,2017-03-01 12:14:01,The proverb ‘Walls have ears’ is not as metaphoric as it used to be. Discover the dangers of voice assistants -&gt;… https://t.co/JXFuLWFN27,40,False
+836580720604766208,2017-02-28 14:16:01,"Mobile #malware evolution 2016: numbers, trends &amp; future outlook https://t.co/83WzDiCeI0 #KLReport https://t.co/TQzCOfXAdW",18,False
+836541371955757056,2017-02-28 11:39:39,"RT @kaspersky: We're live, discussing #Earth2050 - how the world will look in the year 2050. https://t.co/FrlDFrCA03 #MWC17",5,False
+836503964145311744,2017-02-28 09:11:01,"Independent tests for dummies: history, methodology, types, and how to choose the best option: https://t.co/B3Tqoq3Hcy",8,False
+836496798751604736,2017-02-28 08:42:32,RT @andreynikishin: There are 500 ARM chips [in one car] today — and none of them are secure today btw https://t.co/UlX7Osad6h #MWC17 via @…,20,False
+836496498082922497,2017-02-28 08:41:21,RT @k_sec: https://t.co/4fyAxkPrHM   you might not like the messages that strangers can leave on your kids' freaking teddy bear. #IoT,11,False
+836495983097827328,2017-02-28 08:39:18,A Boeing employee inadvertently leaked PI of 36K co-workers when he emailed a spreadsheet to his non-Boeing spouse… https://t.co/MJTSU6TQoG,24,False
+836264387275014144,2017-02-27 17:19:01,"Not a joke. A real patent: self-operated butt-kicking machine for teambuilding, self-therapy &amp; creativity… https://t.co/TanYNloljE",38,False
+836224194048327680,2017-02-27 14:39:18,"RT @fatemehx2: ""Paranoia is the best strategy to survive."" - @e_kaspersky #OpSec  #Infosec #iot #mwc17",8,False
+836165077329924096,2017-02-27 10:44:24,RT @kaspersky: Watch the live stream of Connected Vehicles Keynote with @e_kaspersky at #MWC17: https://t.co/EkvFuO8cMa #ConnectedCars,11,False
+835839448197828608,2017-02-26 13:10:28,RT @kasperskyuk: .@e_kaspersky will be a key-note speaker at this year’s #MobileWorldCongress discussing connected vehicles: https://t.co/M…,13,False
+834707162530193409,2017-02-23 10:11:10,"RT @RidT: NCA arrested suspected ""Telekom-Hacker,"" a Brit, at London airport for ""grave computer sabotage,"" German Federal Police report—li…",56,False
+834704796158402560,2017-02-23 10:01:46,I do a lot of business travels. And I hate PAs in the airplanes. Here my micro-rant on that: https://t.co/jtsvjAZIsb,3,False
+834421997358690305,2017-02-22 15:18:01,Big fish bring big rewards but that doesn’t mean small fish are safe. Financial cyberthreats in 2016 -&gt; https://t.co/OIynv63k9q #KLReport,28,False
+834395117721178113,2017-02-22 13:31:13,RT @emm_david: New(ish) Mirai spreader poses new risks: https://t.co/bVbNL2PLZk via @Securelist,6,False
+834391291077144577,2017-02-22 13:16:00,Should toys be this smart? Or should we… destroy them before they harm our kids? https://t.co/vLGNAt09LZ,13,False
+834345238080663552,2017-02-22 10:13:00,"7 questions about 11-11, answered: https://t.co/iP3jnCy2SQ #KasperskyOS",11,False
+834320639846707200,2017-02-22 08:35:16,"RT @stefant: This KasperskyOS powered Kraftway switch is the first mass-market hardware to run the new security-focused OS
+https://t.co/4Ab…",21,False
+833709727540473857,2017-02-20 16:07:43,@bluesouldotme sure. We're OK with any sort of tests a customer may consider the best,0,False
+833684905829740545,2017-02-20 14:29:05,@Damian_Zelek hard to tell how long exactly. It was in *active* developement&amp;testing for ~6 years,0,False
+833684195708919810,2017-02-20 14:26:16,@bluesouldotme customers,1,False
+833683890954964992,2017-02-20 14:25:03,RT @avtestorg: [AV-TEST] The best antivirus software for Android: https://t.co/VSV4SoVVIu https://t.co/09aBvvMtOQ,37,False
+833670795251494912,2017-02-20 13:33:01,Spam &amp; phishing in 2016: annual report https://t.co/AWzaFbUBZq #KLReport https://t.co/12Pi1DKsSO,58,False
+833666265235410944,2017-02-20 13:15:01,"We’ve officially launched #kasperskyOS for network devices, #ICS &amp; #IoT. My answers to F.A.Q. about the new OS -&gt;… https://t.co/qtobVc950c",134,False
+833639526270636032,2017-02-20 11:28:45,RT @stefant: Meet The 'Cowboys Of Creepware' - Selling Government-Grade Surveillance To Spy On Your Spouse https://t.co/mgnLgHmDS3,3,False
+832941490057867264,2017-02-18 13:15:01,"Squirrels, not hackers, pose biggest threat to electric grid https://t.co/swhGdPDi9H #RSAC2017",18,False
+832655859243048962,2017-02-17 18:20:01,Researchers reveal 5 biggest problems of car-controlling apps: https://t.co/TP9LrJ3xAy #RSAC2017 https://t.co/lvODhknQ5R,8,False
+832609805839822849,2017-02-17 15:17:01,Quiz: Are you ready for a #ransomware attack? https://t.co/eTDAorwmPL https://t.co/keHn9wSiPG,16,False
+832579380736061440,2017-02-17 13:16:07,"RT @KasperskySAS: If you want to see @nicolasbrulez smiling - get some tips tricks how to reverse at his training course:) #TheSAS2017
+http…",17,False
+832579101525434368,2017-02-17 13:15:01,Podcast: @spacerog about the rhetoric and hype surrounding #cyberwar https://t.co/jYkR7Du3CE https://t.co/qtPgrvnwF9,2,False
+832548397286514688,2017-02-17 11:13:00,7 car-controlling apps tested. Not good. Most disturbing. Here’s what you need to know: https://t.co/fizw4Ufcc4 https://t.co/QENyW76xo7,40,False
+832507935431487488,2017-02-17 08:32:13,Stay tuned to FIDE World Chess Grand Prix on Feb 18-28 https://t.co/H276aX1Q24 #KLChess https://t.co/Qxx2jacwvz,43,False
+832256979410186241,2017-02-16 15:55:01,Forget Artificial Intelligence. Why ‘Artificial Stupidity’ Is the Real Threat https://t.co/GWZQTlzvXt by @rhhackett #ai_oil,25,False
+832203376314064897,2017-02-16 12:22:01,Password and password managers problems: Solved in a single update -&gt; https://t.co/96YzgHlhUn https://t.co/HwT4OSYZno,12,False
+832165947368685568,2017-02-16 09:53:17,RT @shipulin_anton: The New Kaspersky Industrial CyberSecurity (KICS) Digital Substation Simulator #RSAC2017 https://t.co/ib2be3n041,20,False
+832133640968663040,2017-02-16 07:44:54,Unearthly beauty on a desert drive on the Saudi/UAE border. You’ve got to see it to believe it -&gt;… https://t.co/H66HqolPMc,10,False
+831987965350014978,2017-02-15 22:06:03,RT @kasperskyuk: Kaspersky Lab: A #TrueCybersecurity Leader – in Gartner’s Magic Quadrant for 6th year. Learn more: https://t.co/yPidD7xd5W…,12,False
+831919880131735552,2017-02-15 17:35:30,A Digital Geneva Convention? YES! One should have been adopted a long ago &amp; I’ve been advocating for years -&gt; https://t.co/fsRzeOyXlG,27,False
+831877421343313920,2017-02-15 14:46:47,"RT @stefant: A trojan shall not be allowed to do everything, but only what has been specifically authorized by a judge’s warrant. https://t…",14,False
+831782012382019584,2017-02-15 08:27:40,"Cryptographers Dismiss AI, Quantum Computing Threats https://t.co/bqWXdkKobs",12,False
+831514335977562112,2017-02-14 14:44:01,A deep look into the Russian-speaking #ransomware ecosystem https://t.co/0UsxsLRNVQ by @antonivanovm https://t.co/F1o9kYhyZR,24,False
+831430532990980096,2017-02-14 09:11:00,75% of #ransomware comes from Russian-speaking criminal underground https://t.co/SH8bh4cFAT,56,False
+831187789647638529,2017-02-13 17:06:26,Online relationships: Are you dating a scammer? https://t.co/I2ZlKYcLF1 Have a safe Valentine's Day! https://t.co/VswtsAeXmt,17,False
+831093945878843399,2017-02-13 10:53:32,RT @codelancer: Malaysia and Singapore police cripple internet love scam syndicates https://t.co/8aamjBOW6O,8,False
+831093663216332800,2017-02-13 10:52:24,"RT @stefant: Man jailed 16 months for refusing to decrypt HDDs
+Theoretically, he can remain jailed indefinitely until he complies https://t…",24,False
+830466429027708929,2017-02-11 17:20:00,Kaspersky Lab releases #KasperskyOS for embedded systems market https://t.co/EjmS0OmOBe by @cyberscTom https://t.co/B2dNFxZxum,39,False
+830043895308357633,2017-02-10 13:21:00,"RT @codelancer: Funny thing : He isn't russian but US citizen. But who cares, right ? https://t.co/J332sL1QGr",15,False
+829996584716926976,2017-02-10 10:13:01,All you need to know about #Android permissions so as not to let your apps do what they're not supposed to:… https://t.co/fAbsxztKR9,40,False
+829937133968203776,2017-02-10 06:16:46,RT @kaspersky: Do you like #chess? So do we. Find out what Eugene Kaspersky was doing in this pic. https://t.co/JMM0H74iph #KLChess https:/…,15,False
+829795067636350981,2017-02-09 20:52:15,Secure operating system? Is this possible? An insight into #KasperskyOS https://t.co/pfQWtrsSik,23,False
+829412742943670274,2017-02-08 19:33:02,"A rash of invisible, fileless #malware is infecting banks around the globe https://t.co/QblMNsetW3 by @dangoodin001 https://t.co/JXUeJYiOsw",64,False
+829391539239604229,2017-02-08 18:08:46,Macro #malware comes to MacOS https://t.co/ruv3Ntb7iZ https://t.co/kV7gEFgbbZ,34,False
+829370205906178050,2017-02-08 16:44:00,The real story how to save data from #ransomware. Don’t pay the cyber-baddies - use free decryption tools: https://… https://t.co/25cowTZXwU,30,False
+829345730246692864,2017-02-08 15:06:45,Test it yourself but never fall for #ai_oil trick. Some vendors pose their stuff as independent tests… https://t.co/9pDaL7mTtM,1,False
+829317109733797889,2017-02-08 13:13:01,"A brief history of Internet predecessors. All were cool, though all now seem rather quaint https://t.co/MaVvEYvgkt https://t.co/DRy9jDO1w8",12,False
+829265434683793411,2017-02-08 09:47:41,"RT @codelancer: New arrests of #Lurk gang in Russia https://t.co/unu25wIU1L &lt;--- also accused in hacks of ""strategic industrial companies""",17,False

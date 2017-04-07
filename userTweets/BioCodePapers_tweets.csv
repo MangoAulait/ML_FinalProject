@@ -1,0 +1,201 @@
+id,created_at,text,retweet_count,tweet.retweeted
+850293102027841536,2017-04-07 10:24:07,ploidyNGS: Visually exploring ploidy with Next Generation Sequencing data. https://t.co/fIks9rAcLY,1,False
+850293096860442624,2017-04-07 10:24:06,EzMap: A Simple Pipeline for Reproducible Analysis of the Human Virome. https://t.co/0oOmKv2CuR,1,False
+850293093051977730,2017-04-07 10:24:05,Use of AAScatterPlot tool for monitoring the evolution of hemagglutinin cleavage site in H9 avian viruses. https://t.co/felFj2EO6J,0,False
+850293089931481088,2017-04-07 10:24:04,PreMosa: Extracting 2D surfaces from 3D microscopy mosaics. https://t.co/P9S2iyrKtO,0,False
+850293086609522688,2017-04-07 10:24:04,HALC: High throughput algorithm for long read error correction. https://t.co/cQ7g9Z5YIb,0,False
+849928177866559488,2017-04-06 10:14:03,Mackinac: A bridge between ModelSEED and COBRApy to generate and analyze genome-scale metabolic models. https://t.co/FoOy2DRFWV,0,False
+849928175224184832,2017-04-06 10:14:02,DeepEM3D: Approaching human-level performance on 3D anisotropic EM image segmentation. https://t.co/xWLcJdKN0C,0,False
+849927963067994112,2017-04-06 10:13:11,SCODE: An efficient regulatory network inference algorithm from single-cell RNA-Seq during differentiation. https://t.co/oMkl9IN1VF,0,False
+849927960257679361,2017-04-06 10:13:11,SQC: Secure Quality Control for Meta-Analysis of Genome-Wide Association Studies. https://t.co/bqRuwoY01D,0,False
+849927957166440448,2017-04-06 10:13:10,A Penalized Regression Approach to Haplotype Reconstruction of Viral Populations Arising in Early HIV/SIV Infection. https://t.co/u83fb2KYLY,0,False
+849927953228091392,2017-04-06 10:13:09,BioContainers: An open-source and community-driven framework for software standardization. https://t.co/J62BBC44SU,0,False
+849927949818015744,2017-04-06 10:13:08,The Tomato Expression Atlas. https://t.co/zLIYoE28fI,0,False
+849927946768744448,2017-04-06 10:13:08,cnAnalysis450k: An R package for comparative analysis of 450k/EPIC Illumina methylation array derived copy number… https://t.co/HRXfDqOGzJ,0,False
+849927943019044864,2017-04-06 10:13:07,Fuento: functional enrichment for bioinformatics. https://t.co/B9OSFKTT1C,0,False
+849927937868431361,2017-04-06 10:13:05,Kart: a divide-and-conquer algorithm for NGS read alignment. https://t.co/V6Rod104PA,0,False
+849927935507046400,2017-04-06 10:13:05,isomiR2Function: An Integrated Workflow for Identifying MicroRNA Variants in Plants. https://t.co/sQcXk29dfg,0,False
+849927933695217665,2017-04-06 10:13:04,Rewiring of the inferred protein interactome during blood development studied with the tool PPICompare. https://t.co/mqnNRrQWJ2,0,False
+849563909178761217,2017-04-05 10:06:34,Predicting 'hot' and 'warm' spots for fragment binding. https://t.co/3vEVejT28W,0,False
+849563902476251138,2017-04-05 10:06:33,Aligning coding sequences with frameshift extension penalties. https://t.co/gQtmqnii50,0,False
+849202159623192576,2017-04-04 10:09:06,NGSCheckMate: software for validating sample identity in next-generation sequencing studies within and across data… https://t.co/gNfQN8ekwn,0,False
+849202158176096256,2017-04-04 10:09:06,drVM: a new tool for efficient genome assembly of known eukaryotic viruses from metagenomes. https://t.co/hHVWlUw4oD,0,False
+849202156661911553,2017-04-04 10:09:06,HiC-Spector: A matrix library for spectral and reproducibility analysis of Hi-C contact maps. https://t.co/bqsgpXS0Qg,0,False
+849202154921377792,2017-04-04 10:09:05,annotatr: Genomic regions in context. https://t.co/vGHlh6flJU,0,False
+849202153809784835,2017-04-04 10:09:05,rMSI: an R package for MS imaging data handling and visualization. https://t.co/RyTeQyfzUJ,0,False
+849202152060755968,2017-04-04 10:09:05,PARTIE: A Partition Engine to Separate Metagenomics and Amplicon Projects in the Sequence Read Archive. https://t.co/HTmZk7oEZT,0,False
+849202150135615489,2017-04-04 10:09:04,Aozan: an automated post-sequencing data-processing pipeline. https://t.co/bd1XF2CnSJ,0,False
+849202034741878784,2017-04-04 10:08:37,EthSEQ: ethnicity annotation from whole exome sequencing data. https://t.co/QfDya8QhXx,0,False
+849202033592639488,2017-04-04 10:08:36,GenomeScope: Fast reference-free genome profiling from short reads. https://t.co/1bOdEmxPbQ,0,False
+849202032426622976,2017-04-04 10:08:36,Mining heterogeneous causal effects for personalized cancer treatment. https://t.co/JX6NimMVh8,0,False
+849202030862229504,2017-04-04 10:08:36,The RNASeq-er API - a gateway to systematically updated analysis of public RNA-Seq data. https://t.co/5nsxy3E3a1,0,False
+849202029327138816,2017-04-04 10:08:35,A Transition-based Joint Model for Disease Named Entity Recognition and Normalization. https://t.co/rJyp0fVBvD,0,False
+849202028001640448,2017-04-04 10:08:35,https://t.co/RqW5zfTzOK: dating ancestors in phylogenetic trees in R. https://t.co/eKm6yV3ssb,0,False
+849202026772799488,2017-04-04 10:08:35,Automated PDF highlighting to support faster curation of literature for Parkinson's and Alzheimer's disease. https://t.co/2F8zeanwK7,0,False
+849202025413754880,2017-04-04 10:08:34,Literature consistency of bioinformatics sequence databases is effective for assessing record quality. https://t.co/7ROBHDxvl7,0,False
+849202024260321280,2017-04-04 10:08:34,Ensembl core software resources: storage and programmatic access for DNA sequence and genome annotation. https://t.co/goUpnGVtwZ,0,False
+849202022079266816,2017-04-04 10:08:34,whoishRisk - an R package to calculate WHO/ISH cardiovascular risk scores for all epidemiological subregions of the… https://t.co/w0TLRU1opS,0,False
+848116752491790337,2017-04-01 10:16:05,ARACHNE: A neural-neuroglial network builder with remotely controlled parallel computing. https://t.co/jmYQHT8p3J,0,False
+848116748758822912,2017-04-01 10:16:04,A computational method for estimating the PCR duplication rate in DNA and RNA-seq experiments. https://t.co/J8bMxClYpv,0,False
+847752851342344192,2017-03-31 10:10:04,COPAR: A ChIP-Seq Optimal Peak Analyzer. https://t.co/NyVhpjcmDO,0,False
+847394524850667520,2017-03-30 10:26:13,IB2d: a Python and MATLAB implementation of the immersed boundary method. https://t.co/x7O640JMVn,0,False
+847394522074038272,2017-03-30 10:26:12,New var reconstruction algorithm exposes high var sequence diversity in a single geographic location in Mali. https://t.co/mpshD9q9FE,0,False
+847394518605340672,2017-03-30 10:26:11,CIDR: Ultrafast and accurate clustering through imputation for single-cell RNA-seq data. https://t.co/inxubSbbJ8,0,False
+847394511475032064,2017-03-30 10:26:10,Robust high-throughput prokaryote de novo assembly and improvement pipeline for Illumina data. https://t.co/i7ciPrD5fM,0,False
+847394508106907648,2017-03-30 10:26:09,NGMASTER:in silico multi-antigen sequence typing for Neisseria gonorrhoeae. https://t.co/q7PTYx98u5,0,False
+847394502797021184,2017-03-30 10:26:07,Bayesian identification of bacterial strains from sequencing data. https://t.co/ZFwWA8l9GA,3,False
+847394498942353408,2017-03-30 10:26:07,"NASP: an accurate, rapid method for the identification of SNPs in WGS datasets that supports flexible input and… https://t.co/Fb3KAvWTTJ",0,False
+847394494458740740,2017-03-30 10:26:05,Identification of Klebsiella capsule synthesis loci from whole genome data. https://t.co/ezWRgPdtCO,0,False
+847394489094111232,2017-03-30 10:26:04,A Comparative Analysis of the Lyve-SET Phylogenomics Pipeline for Genomic Epidemiology of Foodborne Pathogens. https://t.co/MyGeouvwTv,0,False
+846663823834529793,2017-03-28 10:02:40,Break Down in Order to Build Up: Decomposing Small Molecules for Fragment-Based Drug Design with eMolFrag. https://t.co/cUuUdtXtQr,0,False
+846663817824129029,2017-03-28 10:02:39,INSPIIRED: A Pipeline for Quantitative Analysis of Sites of New DNA Integration in Cellular Genomes. https://t.co/0ulGyce0h8,0,False
+846663813789184000,2017-03-28 10:02:38,INSPIIRED: Quantification and Visualization Tools for Analyzing Integration Site Distributions. https://t.co/8sfJbgE48X,0,False
+846663800287744000,2017-03-28 10:02:34,Exploring Evolutionary Relationships Across the Genome Using Topology Weighting. https://t.co/xRC1hgFHYi,0,False
+845221937143922688,2017-03-24 10:33:07,PosiGene: automated and easy-to-use pipeline for genome-wide detection of positively selected genes. https://t.co/jCYZztOuDK,0,False
+845221935218802688,2017-03-24 10:33:07,Benchmarks for measurement of duplicate detection methods in nucleotide databases. https://t.co/4uhjtfsiVS,0,False
+845221933465530368,2017-03-24 10:33:07,SIApopr: A computational method to simulate evolutionary branching trees for analysis of tumor clonal evolution. https://t.co/2ChrNRSVsb,0,False
+845221931280285697,2017-03-24 10:33:06,Quantifying circular RNA expression from RNA-seq data using model-based framework. https://t.co/VDGPIeXKu6,0,False
+845221928537276416,2017-03-24 10:33:05,poRe GUIs for parallel and real-time processing of MinION sequence data. https://t.co/tQg4FPNxN2,0,False
+845221926607843328,2017-03-24 10:33:05,Estimating error models for whole genome sequencing using mixtures of Dirichlet-multinomial distributions. https://t.co/KmjgDx7qHU,0,False
+845221923285970945,2017-03-24 10:33:04,VCNet: Vector based gene Co-expression Network construction and its application to RNA-seq data. https://t.co/yi5tYOWRLT,0,False
+845221815332978688,2017-03-24 10:32:38,HLA-MA: Simple yet powerful matching of samples using HLA typing results. https://t.co/dnyADSPrOj,0,False
+845221814091464705,2017-03-24 10:32:38,PathwayMapper: a collaborative visual web editor for cancer pathways and genomic data. https://t.co/jbyJ9CMgWh,0,False
+845221812245975041,2017-03-24 10:32:38,SynMap2 &amp; SynMap3D: Web-based whole-genome synteny browsers. https://t.co/SvguSXj992,0,False
+845221810866024450,2017-03-24 10:32:37,PeptideMapper: Efficient and Versatile Amino Acid Sequence and Tag Mapping. https://t.co/E7rIvyPrsC,0,False
+845221808664002560,2017-03-24 10:32:37,SmartR: An open-source platform for interactive visual analytics for translational research data. https://t.co/ccV2pATTL1,0,False
+845221806961156096,2017-03-24 10:32:36,Phenopolis: an open platform for harmonization and analysis of genetic and phenotypic data. https://t.co/y5S5jgQ7LW,0,False
+845221805556088833,2017-03-24 10:32:36,rMATS-DVR: rMATS discovery of Differential Variants in RNA. https://t.co/ESsCEbY55T,0,False
+845221802703912960,2017-03-24 10:32:35,ProtVista: visualization of protein sequence annotations. https://t.co/6rsqQk2Zis,0,False
+845221799826644992,2017-03-24 10:32:35,Stepwise Inference of Likely Dynamic Flux Distributions from Metabolic Time Series Data. https://t.co/m5gsfElp6g,0,False
+845221796475367428,2017-03-24 10:32:34,swga: A primer design toolkit for selective whole genome amplification. https://t.co/IaQGEuryMh,0,False
+845221693199073280,2017-03-24 10:32:09,Identification of genetic outliers due to sub-structure and cryptic relationships. https://t.co/PxE4goqT9O,0,False
+845221689210236928,2017-03-24 10:32:08,SVPV: a structural variant prediction viewer for paired-end sequencing datasets. https://t.co/6S7TCVjQHI,0,False
+845221685640937474,2017-03-24 10:32:07,A generalized association test based on U statistics. https://t.co/YGMijpv89o,0,False
+845221683854127104,2017-03-24 10:32:07,BiRen: predicting enhancers with a deep-learning-based model using the DNA sequence alone. https://t.co/xaVKZeAm7n,0,False
+845221682226724864,2017-03-24 10:32:07,Fast admixture analysis and population tree estimation for SNP and NGS data. https://t.co/WCbYBqsJZb,0,False
+845221680125399041,2017-03-24 10:32:06,BioJava-ModFinder: identification of protein modifications in 3D structures from the Protein Data Bank. https://t.co/mLhs6zzdgf,0,False
+845221677801783296,2017-03-24 10:32:06,RefBool: a reference-based algorithm for discretizing gene expression data. https://t.co/izN6FsLcey,0,False
+845221674689585152,2017-03-24 10:32:05,FUNNEL-GSEA: FUNctioNal ELastic-net regression in time-course gene set enrichment analysis. https://t.co/qEokla6EyR,0,False
+845221672886067200,2017-03-24 10:32:04,Pseudoalignment for metagenomic read assignment. https://t.co/jdswwI9jJT,0,False
+845221669681577988,2017-03-24 10:32:04,"BuddySuite: Command-line toolkits for manipulating sequences, alignments, and phylogenetic trees. https://t.co/L7KV8CLLDD",0,False
+844857541108494337,2017-03-23 10:25:09,"RED-ML: a novel, effective RNA editing detection method based on machine learning. https://t.co/qM1wKKAlPZ",0,False
+844857535379062784,2017-03-23 10:25:07,Enhancing Knowledge Discovery from Cancer Genomics Data with Galaxy. https://t.co/WJyPO6tdwO,0,False
+844857529540632577,2017-03-23 10:25:06,GENE-IS: Time-Efficient and Accurate Analysis of Viral Integration Events in Large-Scale Gene Therapy Data. https://t.co/eLYrGnxN0d,0,False
+844857524708765696,2017-03-23 10:25:05,LW-FQZip 2: a parallelized reference-based compression of FASTQ files. https://t.co/vnsPbPnwCA,0,False
+844129742190125056,2017-03-21 10:13:08,Accurate identification of single-nucleotide variants in whole-genome-amplified single cells. https://t.co/d47J9N9VCL,1,False
+844129738008412160,2017-03-21 10:13:07,On the association analysis of genome-sequencing data: A spatial clustering approach for partitioning the entire… https://t.co/zZeJ3xsLmj,0,False
+844129733654663169,2017-03-21 10:13:06,Cortical surface-based threshold-free cluster enhancement and cortexwise mediation. https://t.co/5lCvzdA4QB,0,False
+844129729535926274,2017-03-21 10:13:05,Large-scale virtual screening on public cloud resources with Apache Spark. https://t.co/yOi73xfyHy,0,False
+844129727233249281,2017-03-21 10:13:04,A simple ImageJ macro tool for analyzing mitochondrial network morphology in mammalian cell culture. https://t.co/LDMTnVU3RN,1,False
+843044079663366144,2017-03-18 10:19:06,Vector Integration Sites Identification for Gene-Trap Screening in Mammalian Haploid Cells. https://t.co/dP0cDRX6L5,0,False
+842689491777216513,2017-03-17 10:50:05,Identification of marginal causal relationships in gene networks from observational and interventional expression… https://t.co/IlOC5ZYSqS,0,False
+842689488455315456,2017-03-17 10:50:05,Cluster Flow: A user-friendly bioinformatics workflow tool. https://t.co/UPSQcFwI2g,0,False
+842689486462967808,2017-03-17 10:50:04,DWCox: A density-weighted Cox model for outlier-robust prediction of prostate cancer survival. https://t.co/cjaf76OmhO,0,False
+842316398370021377,2017-03-16 10:07:33,Deblur Rapidly Resolves Single-Nucleotide Community Sequence Patterns. https://t.co/vqEiIQBIfm,0,False
+841253277551357952,2017-03-13 11:43:05,ClonoCalc and ClonoPlot: immune repertoire analysis from raw files to publication figures with graphical user… https://t.co/Qz2WjgPLfr,0,False
+840518430109265920,2017-03-11 11:03:04,PatchSearch: a fast computational method for off-target detection. https://t.co/tS6HMGDy11,0,False
+840156197902725121,2017-03-10 11:03:41,OVarCall: Bayesian Mutation Calling Method Utilizing Overlapping Paired-End Reads. https://t.co/AvfwFRWk5L,0,False
+840156196308828160,2017-03-10 11:03:41,Integrating molecular QTL data into genome-wide genetic association analysis: Probabilistic assessment of… https://t.co/q4haElrctq,0,False
+840156194870194176,2017-03-10 11:03:40,An open data repository and a data processing software toolset of an equivalent Nordic grid model matched to… https://t.co/RXOwmMQjKE,0,False
+840156193439997953,2017-03-10 11:03:40,PItcHPERFeCT: Primary Intracranial Hemorrhage Probability Estimation using Random Forests on CT. https://t.co/bvnBWiMU2b,0,False
+839806991392362496,2017-03-09 11:56:04,"Safe ""cloudification"" of large images through picker APIs. https://t.co/PbSFuYXQEh",0,False
+839436307612852224,2017-03-08 11:23:06,Microscopic dual-energy CT (microDECT): a flexible tool for multichannel ex vivo 3D imaging of biological specimens. https://t.co/P8K99rIqlt,0,False
+839436304752377856,2017-03-08 11:23:05,On the Quirks of Error Estimation in Cross-Linking/ Mass Spectrometry. https://t.co/w535qROhzj,0,False
+839436302604890112,2017-03-08 11:23:05,A supertree pipeline for summarizing phylogenetic and taxonomic information for millions of species. https://t.co/390F5uryFy,0,False
+839436299777933313,2017-03-08 11:23:04,The Repertoire Dissimilarity Index as a method to compare lymphocyte receptor repertoires. https://t.co/JmGxn1XZx8,0,False
+839073668810457089,2017-03-07 11:22:06,Extracting microRNA-gene relations from biomedical literature using distant supervision. https://t.co/bKCEiRlUFP,0,False
+839073666658795520,2017-03-07 11:22:06,Power analysis of single-cell RNA-sequencing experiments. https://t.co/i8qDBjDVY8,0,False
+839073664511311872,2017-03-07 11:22:05,SYRMEP Tomo Project: a graphical user interface for customizing CT reconstruction workflows. https://t.co/zLmrxyWgz9,0,False
+838706110253023233,2017-03-06 11:01:33,ProteoModlR for functional proteomic analysis. https://t.co/NQDBbsoefQ,0,False
+838349766182354944,2017-03-05 11:25:34,The Bacterial Sequential Markov Coalescent. https://t.co/26JFOcSrLG,0,False
+837987508432453633,2017-03-04 11:26:05,Generating clustered journal maps: an automated system for hierarchical classification. https://t.co/C1SS6Wu5Rk,0,False
+837620225981861889,2017-03-03 11:06:38,Knowledge Guided Disambiguation for Large-Scale Scene Classification with Multi-Resolution CNNs. https://t.co/VWMrCSShkr,0,False
+837620220617338880,2017-03-03 11:06:37,Gaussian Process Based Independent Analysis for Temporal Source Separation in fMRI. https://t.co/UDHVkbTJQY,0,False
+837620214107787265,2017-03-03 11:06:35,Reactome pathway analysis: a high-performance in-memory approach. https://t.co/9sbvFMsZLJ,0,False
+836897958033571840,2017-03-01 11:16:36,A convolutional neural network approach to calibrating the rotation axis for X-ray computed tomography. https://t.co/rLv7cZJjhD,0,False
+836169776833548288,2017-02-27 11:03:04,The State of Open Source Electronic Health Record Projects: A Software Anthropology Study. https://t.co/ICwJfLJ7LO,0,False
+835969338964238336,2017-02-26 21:46:36,"MinorityReport, software for generalized analysis of causal genetic variants. https://t.co/lPjEYhBjLY",0,False
+835969337206808576,2017-02-26 21:46:36,stpm: an R package for stochastic process model. https://t.co/VpsbOp2bCI,0,False
+835089413503758336,2017-02-24 11:30:06,Using hiCLIP to identify RNA duplexes that interact with a specific RNA-binding protein. https://t.co/eHwQLCxMM7,0,False
+835089410337071104,2017-02-24 11:30:05,An open source device for operant licking in rats. https://t.co/Mxs9ZWW1Dk,0,False
+834725501100888066,2017-02-23 11:24:02,"compMS2Miner: an automatable metabolite identification, visualization and data-sharing R package for… https://t.co/exxNoirmyW",0,False
+834725499687444480,2017-02-23 11:24:02,Variant profiling of evolving prokaryotic populations. https://t.co/h3Uvi9JwaX,0,False
+834725498173296642,2017-02-23 11:24:01,"ATGC transcriptomics: a web-based application to integrate, explore and analyze de novo transcriptomic data. https://t.co/zlJw4RIc2i",0,False
+834362120250601472,2017-02-22 11:20:05,MINTmap: fast and exhaustive profiling of nuclear and mitochondrial tRNA fragments from short RNA-seq data. https://t.co/cBPYVVcOOE,0,False
+834362118342275072,2017-02-22 11:20:05,The effects of shared information on semantic calculations in the gene ontology. https://t.co/fpBPnz5ATC,0,False
+834362116601630720,2017-02-22 11:20:04,BLINKER: Automated Extraction of Ocular Indices from EEG Enabling Large-Scale Analysis. https://t.co/oAFRyrEWDr,0,False
+834362114911281153,2017-02-22 11:20:04,An adaptive decorrelation method removes Illumina DNA base-calling errors caused by crosstalk between adjacent… https://t.co/X1ZtJkX48O,0,False
+834362113137127424,2017-02-22 11:20:04,Explicit Modeling of siRNA-Dependent On- and Off-Target Repression Improves the Interpretation of Screening Results. https://t.co/LmLXCAUKmz,0,False
+833639096601833472,2017-02-20 11:27:03,SCALEUS: Semantic Web Services Integration for Biomedical Applications. https://t.co/OgGxfxJRQF,0,False
+833273813953503236,2017-02-19 11:15:33,ChemPreview: an augmented reality-based molecular interface. https://t.co/VL2WIu6w6n,0,False
+832925905353797633,2017-02-18 12:13:05,graph-GPA: A graphical model for prioritizing GWAS results and investigating pleiotropic architecture. https://t.co/JHwY5GujN3,0,False
+832925902463922176,2017-02-18 12:13:04,Orthograph: a versatile tool for mapping coding nucleotide sequences to clusters of orthologous genes. https://t.co/HxUk84nFGB,0,False
+832188792618442752,2017-02-16 11:24:04,MetaTopics: an integration tool to analyze microbial community profile by topic model. https://t.co/MWZpsq6uYH,0,False
+832188790722568193,2017-02-16 11:24:03,AxonPacking: An Open-Source Software to Simulate Arrangements of Axons in White Matter. https://t.co/COArr0xI0O,0,False
+831828586319339520,2017-02-15 11:32:44,Decision Support for the Capacity Management of Bronchoscopy Devices: Optimizing the Cost-Efficient Mix of Reusable… https://t.co/4syMgJvwVL,0,False
+831828571454795777,2017-02-15 11:32:40,Improved regulatory element prediction based on tissue-specific local epigenomic signatures. https://t.co/xj269wv7Zz,0,False
+831828552341352448,2017-02-15 11:32:36,VacSol: a high throughput in silico pipeline to predict potential therapeutic targets in prokaryotic pathogens… https://t.co/b8qyaXTSF9,0,False
+831828544888066048,2017-02-15 11:32:34,"Proof-of-Principle of rTLC, an Open-Source Software Developed for Image Evaluation and Multivariate Analysis of… https://t.co/jQjD53nxe5",0,False
+831465660228132864,2017-02-14 11:30:35,SELF-BLM: Prediction of drug-target interactions via self-training SVM. https://t.co/EAewfI8Hfq,0,False
+831465658609082368,2017-02-14 11:30:35,iELVis: An open source MATLAB toolbox for localizing and visualizing human intracranial electrode data. https://t.co/AeAMg9EMnJ,0,False
+831465656608370689,2017-02-14 11:30:35,aRMSD: A Comprehensive Tool for Structural Analysis. https://t.co/x3uKsZIKY3,0,False
+830738777752498177,2017-02-12 11:22:13,VMCMC: a graphical and statistical analysis tool for Markov chain Monte Carlo traces. https://t.co/YXgOnGkXpN,0,False
+830738775093317632,2017-02-12 11:22:13,On the consistency of orthology relationships. https://t.co/iDVNdEuD3E,0,False
+830738771981185024,2017-02-12 11:22:12,Fast ancestral gene order reconstruction of genomes with unequal gene content. https://t.co/DxKtNOqkOJ,0,False
+830738765870096385,2017-02-12 11:22:10,HIPPI: highly accurate protein family classification with ensembles of HMMs. https://t.co/0R8YSbSJPy,1,False
+830738763542192129,2017-02-12 11:22:10,Reconstructing ancestral gene orders with duplications guided by synteny level genome reconstruction. https://t.co/FTFxHZ5DYg,0,False
+829648806106918912,2017-02-09 11:11:04,Molecular dynamics simulations of L-RNA involving homo- and heterochiral complexes. https://t.co/p6B65foGk7,0,False
+829648804005629952,2017-02-09 11:11:03,Multiscale mutation clustering algorithm identifies pan-cancer mutational clusters associated with pathway-level… https://t.co/fUcdUefvEF,0,False
+829648801254092802,2017-02-09 11:11:03,PyHLA: tests for the association between HLA alleles and diseases. https://t.co/95mzVMUYsQ,0,False
+828923654985519104,2017-02-07 11:09:34,Pareto-Optimal Model Selection via SPRINT-Race. https://t.co/sFGwoeaW6N,0,False
+828563553669914624,2017-02-06 11:18:39,Automatic intensity windowing of mammographic images based on a perceptual metric. https://t.co/bMM0nd0bEQ,0,False
+828563550037696513,2017-02-06 11:18:38,"MIDcor, an R-program for deciphering mass interferences in mass spectra of metabolites enriched in stable isotopes. https://t.co/9bX9HKsbKL",0,False
+828563545050619904,2017-02-06 11:18:37,A fast read alignment method based on seed-and-vote for next generation sequencing. https://t.co/Tmrg9iWOJI,1,False
+828563541095436288,2017-02-06 11:18:36,Classifying kinase conformations using a machine learning approach. https://t.co/A9AAskLeQu,0,False
+828563535609294849,2017-02-06 11:18:35,DMDtoolkit: a tool for visualizing the mutated dystrophin protein and predicting the clinical severity in DMD. https://t.co/gTwInBnbiN,1,False
+827114008222109696,2017-02-02 11:18:41,Balance Trees Reveal Microbial Niche Differentiation. https://t.co/fEItWrEFuY,0,False
+827113999120543745,2017-02-02 11:18:39,Simultaneous Identification of Multiple Causal Mutations in Rice. https://t.co/PLgQaBQmjv,0,False
+827113994053771264,2017-02-02 11:18:37,A scalable algorithm for structure identification of complex gene regulatory network from temporal expression data. https://t.co/X8t9faWddJ,0,False
+827113986596302848,2017-02-02 11:18:36,Disambiguate: An open-source application for disambiguating two species in next generation sequencing data from… https://t.co/A3xuyYEYR0,0,False
+826750974945398784,2017-02-01 11:16:07,"Metabox: A Toolbox for Metabolomic Data Analysis, Interpretation and Integrative Exploration. https://t.co/WHGjx6Ce5G",0,False
+826750971556528128,2017-02-01 11:16:06,HIPred: an integrative approach to predicting haploinsufficient genes. https://t.co/akMedVBTRY,0,False
+826750968712736768,2017-02-01 11:16:05,Sequence-based Discrimination of Protein-RNA Interacting Residues using a Probabilistic Approach. https://t.co/z18qMllYXy,0,False
+826750966057750528,2017-02-01 11:16:05,Chrom3D: three-dimensional genome modeling from Hi-C and nuclear lamin-genome contacts. https://t.co/iZXakLnPEG,0,False
+826750961901187073,2017-02-01 11:16:04,Multiple network algorithm for epigenetic modules via the integration of genome-wide DNA methylation and gene… https://t.co/kIbcVOKRRq,0,False
+826393107646132224,2017-01-31 11:34:05,Detecting heterogeneity in single-cell RNA-Seq data by non-negative matrix factorization. https://t.co/bh5K0sO3e9,0,False
+825661291712745472,2017-01-29 11:06:06,LOCUST: A Custom Sequence Locus Typer for Classifying Microbial Isolates. https://t.co/nM9Anj9CgO,1,False
+825661287426203648,2017-01-29 11:06:05,A comprehensive quality control workflow for paired tumor-normal NGS experiments. https://t.co/bIFoWs7U8U,0,False
+825661283793989633,2017-01-29 11:06:04,ANAQUIN: a software toolkit for the analysis of spike-in controls for next generation sequencing. https://t.co/BP329JCWnH,0,False
+824940292616843264,2017-01-27 11:21:07,3D-e-Chem-VM: Structural cheminformatics research infrastructure in a freely available Virtual Machine. https://t.co/HAyyCU7emw,0,False
+824940290754568193,2017-01-27 11:21:06,Reproducing and In-Depth Evaluation of Genome-Wide Association Studies and Genome-Wide Meta-Analyses Using Summary… https://t.co/sAaV5HdQdQ,1,False
+824940288858664962,2017-01-27 11:21:06,BioPAXViz: a cytoscape application for the visual exploration of metabolic pathway evolution. https://t.co/faEVsCR8p4,0,False
+824940286816120832,2017-01-27 11:21:05,Introducing COCOS: codon consequence scanner for annotating reading frame changes induced by stop-lost and frame… https://t.co/tCjjj5fs7m,0,False
+824940285155110912,2017-01-27 11:21:05,JuPOETs: a constrained multiobjective optimization approach to estimate biochemical model ensembles in the Julia… https://t.co/gDlvpUkoYR,0,False
+824575647250944001,2017-01-26 11:12:08,CyNetSVM: A Cytoscape App for Cancer Biomarker Identification Using Network Constrained Support Vector Machines. https://t.co/QkK1QcaVdo,0,False
+824575643538989058,2017-01-26 11:12:07,Extending the R Library PROPER to Enable Power Calculations for Isoform-Level Analysis with EBSeq. https://t.co/fklWwE9I3i,0,False
+824575638426120192,2017-01-26 11:12:06,ASCIIGenome: A command line genome browser for console terminals. https://t.co/ys8z3WQD8o,0,False
+824233002972495874,2017-01-25 12:30:36,MEDICI: Mining Essentiality Data to Identify Critical Interactions for Cancer Drug Target Discovery and Development. https://t.co/sBLDzoMgOv,0,False
+824232998564286464,2017-01-25 12:30:35,Discriminating sample groups with multi-way data. https://t.co/TIRFmtzWtb,0,False
+823852520833302528,2017-01-24 11:18:42,Learning to Detect Video Saliency with HEVC Features. https://t.co/Huf1vXiKNs,0,False
+823852512344043520,2017-01-24 11:18:40,Normalizing kernels in the Billera-Holmes-Vogtmann treespace. https://t.co/cHWBPT0kge,0,False
+823852503020158976,2017-01-24 11:18:37,Complexity and algorithms for finding a perfect phylogeny from mixed tumor samples. https://t.co/x8QV8N5b1h,0,False
+823852497559113729,2017-01-24 11:18:36,IntSIM: An Integrated Simulator of Next-Generation Sequencing Data. https://t.co/CNpyjcDo3V,0,False
+823852486045810690,2017-01-24 11:18:33,WarpIV: In Situ Visualization and Analysis of Ion Accelerator Simulations. https://t.co/bAqNusCG33,0,False
+823490722741399552,2017-01-23 11:21:02,Biomartr: genomic data retrieval with R. https://t.co/cQrzKy7bmo,1,False
+823131143511756800,2017-01-22 11:32:12,NetLand: quantitative modeling and visualization of Waddington's epigenetic landscape using probabilistic potential. https://t.co/MwNXGB23dP,0,False
+823131137685864448,2017-01-22 11:32:10,Quantification of fibrous spatial point patterns from single-molecule localization microscopy (SMLM) data. https://t.co/gCqxC6Ta9U,0,False
+823131131486666753,2017-01-22 11:32:09,"aRNApipe: A balanced, efficient and distributed pipeline for processing RNA-seq data in high performance computing… https://t.co/y7IQM0kpJj",0,False
+823131125673390080,2017-01-22 11:32:08,chainCleaner improves genome alignment specificity and sensitivity. https://t.co/MgD8Op2l1M,1,False
+823131121739145216,2017-01-22 11:32:07,Multi-rate Poisson Tree Processes for single-locus species delimitation under Maximum Likelihood and Markov Chain… https://t.co/sJNqPCxoM8,0,False
+822765577550761988,2017-01-21 11:19:34,SIMBA: a web tool for managing bacterial genome assembly generated by Ion PGM sequencing technology. https://t.co/pBW2R4lmiy,0,False
+822765575805882369,2017-01-21 11:19:34,"biojs-io-biom, a BioJS component for handling data in Biological Observation Matrix (BIOM) format. https://t.co/JHhqQC8Sb3",0,False
+822765574228819969,2017-01-21 11:19:33,Historian: accurate reconstruction of ancestral sequences and evolutionary rates. https://t.co/g6FOyxUqee,0,False
+822765572790173696,2017-01-21 11:19:33,MAPPI-DAT: data management and analysis for protein-protein interaction data from the high-throughput MAPPIT cell… https://t.co/ZIizSpIBXu,0,False
+822765571347386369,2017-01-21 11:19:33,A fast and robust protocol for metataxonomic analysis using RNAseq data. https://t.co/urjMUKsdZz,0,False
+822403593718247424,2017-01-20 11:21:10,Contextual Refinement of Regulatory Targets Reveals Effects on Breast Cancer Prognosis of the Regulome. https://t.co/9Snx107g30,0,False
+822403588362104833,2017-01-20 11:21:09,Genomic infectious disease epidemiology in partially sampled and ongoing outbreaks. https://t.co/F1nYh9DrU2,0,False
+822403580145504256,2017-01-20 11:21:07,PBrowse: a web-based platform for real-time collaborative exploration of genomic data. https://t.co/hEy3YdDr5W,0,False
+822403574520942592,2017-01-20 11:21:06,MarpoDB: An open registry for Marchantia polymorpha genetic parts. https://t.co/9OiJjt1W6E,0,False
+822039797858304000,2017-01-19 11:15:35,BayesCAT: Bayesian co-estimation of alignment and tree. https://t.co/V5D3TftmlB,0,False
+821789052953235456,2017-01-18 18:39:12,Rhea: a transparent and modular R pipeline for microbial profiling based on 16S rRNA gene amplicons. https://t.co/9zd1wivS5u,0,False
+821789047005679617,2017-01-18 18:39:11,LRSSL: predict and interpret drug-disease associations based on data integration using sparse subspace learning. https://t.co/KfPOlL3LPc,0,False

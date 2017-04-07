@@ -1,0 +1,205 @@
+id,created_at,text,retweet_count,tweet.retweeted
+793506266115026944,2016-11-01 17:33:31,"PCB: Topology, Cross-Frequency, and Same-Frequency Band Interactions Shape the Generation of Phase-Amplitude ... https://t.co/ILBrAYsB1B",0,False
+793209817322008576,2016-10-31 21:55:32,BMC: Erratum to: Detection and sequence/structure mapping of biophysical constraints to protein variation in ... https://t.co/B3nKWdmvOF,0,False
+792104858266460160,2016-10-28 20:44:49,BMC: MEvoLib v1.0: the first molecular evolution library for Python: Molecular evolution studies involve many... https://t.co/wPC5ePsjwp,0,False
+792104856811024384,2016-10-28 20:44:49,BMC: An analysis of simple computational strategies to facilitate the design of functional molecular informat... https://t.co/rWyJtgAdn0,1,False
+792104855682752512,2016-10-28 20:44:48,BMC: BIGMAC : breaking inaccurate genomes and merging assembled contigs for long read metagenomic assembly: T... https://t.co/Fs9f8kzPDz,0,False
+792058124693680128,2016-10-28 17:39:07,PCB: Temperature-Dependent Model of Multi-step Transcription Initiation in Escherichia coli Based on Live Sin... https://t.co/1SG7a9E435,0,False
+792058123653566465,2016-10-28 17:39:07,PCB: MD/DPD Multiscale Framework for Predicting Morphology and Stresses of Red Blood Cells in Health and Dise... https://t.co/4rdBm1GcQ0,1,False
+792058122575556608,2016-10-28 17:39:06,"PCB: Catecholaminergic Regulation of Learning Rate in a Dynamic Environment: by Marieke Jepma, Peter R. Murph... https://t.co/MNBFkgFwvq",0,False
+792058121510268928,2016-10-28 17:39:06,"PCB: Probabilistic Learning by Rodent Grid Cells: by Allen Cheung
+
+Mounting evidence shows mammalian brains a... https://t.co/IcyGPnGgBv",1,False
+792058120067436544,2016-10-28 17:39:06,"PCB: Structural Identifiability of Dynamic Systems Biology Models: by Alejandro F. Villaverde, Antonio Barrei... https://t.co/KmDJOnh2hl",0,False
+791697363282726912,2016-10-27 17:45:35,"PCB: Glucose Oscillations Can Activate an Endogenous Oscillator in Pancreatic Islets: by Joseph P. McKenna, R... https://t.co/tO3cAvDtQr",0,False
+791383779369635840,2016-10-26 20:59:30,BMC: AlignStat: a web-tool and R package for statistical comparison of alternative multiple sequence alignmen... https://t.co/WJO7pahahU,0,False
+791383778224508929,2016-10-26 20:59:30,BMC: TRIg: a robust alignment pipeline for non-regular T-cell receptor and immunoglobulin sequences: T cells ... https://t.co/ND8DygOvTu,0,False
+791334816054521856,2016-10-26 17:44:57,PCB: Apparent Motion Suppresses Responses in Early Visual Cortex: A Population Code Model: by Nathalie Van Hu... https://t.co/UCGk3fq7bJ,0,False
+791089088900177920,2016-10-26 01:28:31,OB: Cyclo-lib: a database of computational molecular dynamics simulations of cyclodextrins: Motivation: Cyclo... https://t.co/dkJIDNvnJz,0,False
+791053682456395776,2016-10-25 23:07:49,"OB: AMIGO2, a toolbox for dynamic modeling, optimization and control in systems biology: Motivation: Many pro... https://t.co/zUySVv2Uis",1,False
+791053681399521282,2016-10-25 23:07:49,OB: SYNBADm: a tool for optimization-based automated design of synthetic gene circuits: Motivation: The desig... https://t.co/4FZHyrLXTm,0,False
+791053680246087681,2016-10-25 23:07:49,OB: PyPanda: a Python package for gene regulatory network reconstruction: Summary: PANDA (Passing Attributes ... https://t.co/5aNZ4cRoel,0,False
+791053678929207296,2016-10-25 23:07:48,OB: BioNetGen 2.2: advances in rule-based modeling: Summary: BioNetGen is an open-source software package for... https://t.co/NeRDkoUhla,0,False
+791053677620400128,2016-10-25 23:07:48,OB: MIMEAnTo: profiling functional RNA in mutational interference mapping experiments: Summary: The mutationa... https://t.co/Nw5OnO2w53,0,False
+791036230884438016,2016-10-25 21:58:28,OB: Accounting for pairwise distance restraints in FFT-based protein-protein docking: Summary: ClusPro is a h... https://t.co/NsS8JGDFRr,0,False
+791036229550649345,2016-10-25 21:58:28,OB: samExploreR: exploring reproducibility and robustness of RNA-seq results based on SAM files: Motivation: ... https://t.co/j26yroM6h6,2,False
+791036228388868096,2016-10-25 21:58:28,OB: TwoPhaseInd: an R package for estimating gene-treatment interactions and discovering predictive markers i... https://t.co/yRlJhUlaZy,0,False
+791036226593632257,2016-10-25 21:58:27,OB: MetaCycle: an integrated R package to evaluate periodicity in large scale data: Summary: Detecting period... https://t.co/YMc60RARq8,1,False
+791036225423409152,2016-10-25 21:58:27,OB: Heat*seq: an interactive web tool for high-throughput sequencing experiment comparison with public data: ... https://t.co/bb01cmRDT5,1,False
+790980749516079104,2016-10-25 18:18:01,OB: ConsPred: a rule-based (re-)annotation framework for prokaryotic genomes: Motivation: The rapidly growing... https://t.co/dE4bYA5EIX,0,False
+790980748404674560,2016-10-25 18:18:00,OB: The SMAL web server: global multiple network alignment from pairwise alignments: Motivation: Alignments o... https://t.co/MBUxaPyQPg,0,False
+790980747066695682,2016-10-25 18:18:00,OB: w4CSeq: software and web application to analyze 4C-seq data: Summary: Circularized Chromosome Conformatio... https://t.co/g1VN4f2R0h,1,False
+790980745703546881,2016-10-25 18:18:00,OB: CRISPR-DO for genome-wide CRISPR design and optimization: Motivation: Despite the growing popularity in u... https://t.co/2reDGzB0l6,0,False
+790980744059289600,2016-10-25 18:17:59,OB: MetaPred2CS: a sequence-based meta-predictor for protein-protein interactions of prokaryotic two-componen... https://t.co/H7yRirPIF7,0,False
+790970478407974912,2016-10-25 17:37:12,PCB: Viral RNA Degradation and Diffusion Act as a Bottleneck for the Influenza A Virus Infection Efficiency: ... https://t.co/w8AHTfTfW7,0,False
+790944900074250241,2016-10-25 15:55:33,OB: New quality measure for SNP array based CNV detection: Motivation: Only a few large systematic studies ha... https://t.co/AE2dQHq7Rw,0,False
+790944898916626432,2016-10-25 15:55:33,OB: A subpopulation model to analyze heterogeneous cell differentiation dynamics: Motivation: Cell differenti... https://t.co/hDjvCxOfEw,0,False
+790944897830223874,2016-10-25 15:55:33,OB: Unbiased classification of spatial strategies in the Barnes maze: Motivation: Spatial learning is one of ... https://t.co/3rkhEvZvzI,0,False
+790944896718737410,2016-10-25 15:55:33,OB: Icarus: visualizer for de novo assembly evaluation: Summary: Data visualization plays an increasingly imp... https://t.co/BCIxsxG368,0,False
+790944895607316480,2016-10-25 15:55:32,"OB: ChAsE: chromatin analysis and exploration tool: Summary: We present ChAsE, a cross-platform desktop appli... https://t.co/i70Csrufkj",0,False
+790944681882378240,2016-10-25 15:54:41,OB: SwiSpot: modeling riboswitches by spotting out switching sequences: Motivation: Riboswitches are cis-regu... https://t.co/ygguO1SkzZ,0,False
+790944680661835776,2016-10-25 15:54:41,OB: Recognizing metal and acid radical ion-binding sites by integrating ab initio modeling with template-base... https://t.co/jd3j47HX8i,0,False
+790944679105736704,2016-10-25 15:54:41,OB: Performance of protein-structure predictions with the physics-based UNRES force field in CASP11: Summary:... https://t.co/XlNIyikwrO,0,False
+790944677897711617,2016-10-25 15:54:40,OB: SIFORM: shared informative factor models for integration of multi-platform bioinformatic data: Motivation... https://t.co/th9nQ4gq5B,0,False
+790944676673048576,2016-10-25 15:54:40,OB: cisASE: a likelihood-based method for detecting putative cis-regulated allele-specific expression in RNA ... https://t.co/ZwV9Vf67oO,0,False
+790944640899751937,2016-10-25 15:54:32,OB: LightAssembler: fast and memory-efficient assembly algorithm for high-throughput sequencing reads: Motiva... https://t.co/pnVJ82bDev,0,False
+790944639784132608,2016-10-25 15:54:31,OB: deBGA: read alignment with de Bruijn graph-based seed and extension: Motivation: As high-throughput seque... https://t.co/LFTPP5Rphx,1,False
+790944638530035712,2016-10-25 15:54:31,OB: Towards the knowledge-based design of universal influenza epitope ensemble vaccines: Motivation: Influenz... https://t.co/zCkl4AmJuV,0,False
+790944637343019009,2016-10-25 15:54:31,OB: An empirical Bayes method for genotyping and SNP detection using multi-sample next-generation sequencing ... https://t.co/X4mPGIZX16,1,False
+790944636118274048,2016-10-25 15:54:30,OB: Application of the MAFFT sequence alignment program to large data--reexamination of the usefulness of cha... https://t.co/JBvX1yMWHx,0,False
+789939587242086400,2016-10-22 21:20:48,BMC: Subcellular protein expression models for microsatellite instability in colorectal adenocarcinoma tissue... https://t.co/oT1ankHFzV,0,False
+789939585962741761,2016-10-22 21:20:48,BMC: A statistical approach to detection of copy number variations in PCR-enriched targeted sequencing data: ... https://t.co/dLKBGeRUBW,2,False
+789568768032645120,2016-10-21 20:47:18,BMC: dupRadar: a Bioconductor package for the assessment of PCR artifacts in RNA-Seq data: PCR clonal artefac... https://t.co/rxOlHVV48F,2,False
+789564930466787328,2016-10-21 20:32:03,PCB: PreTIS: A Tool to Predict Non-canonical 5’ UTR Translational Initiation Sites in Human and Mouse: by Ker... https://t.co/YyGiEMqRLe,1,False
+789564928633950208,2016-10-21 20:32:03,PCB: Long-Range Signaling in MutS and MSH Homologs via Switching of Dynamic Communication Pathways: by Beibei... https://t.co/Y9lz4QuYMc,0,False
+789564926599671808,2016-10-21 20:32:02,PCB: Intrinsic Noise Profoundly Alters the Dynamics and Steady State of Morphogen-Controlled Bistable Genetic... https://t.co/XWI05LM0Ti,0,False
+789167044998553601,2016-10-20 18:11:00,PCB: The Spatial Dynamics of Predators and the Benefits and Costs of Sharing Information: by Matthieu Barbier... https://t.co/1WuhJrVpmD,0,False
+789167043828326400,2016-10-20 18:10:59,PCB: Dynamic Nucleosome Movement Provides Structural Information of Topological Chromatin Domains in Living H... https://t.co/HVfN09j7wZ,0,False
+789167042603593728,2016-10-20 18:10:59,"PCB: Optimized Treatment Schedules for Chronic Myeloid Leukemia: by Qie He, Junfeng Zhu, David Dingli, Jasmin... https://t.co/3AJuoquJz3",0,False
+789167041525657601,2016-10-20 18:10:59,PCB: Population Density Modulates Drug Inhibition and Gives Rise to Potential Bistability of Treatment Outcom... https://t.co/j3OZBh8ZNz,1,False
+789167040208576514,2016-10-20 18:10:59,"PCB: Ten Simple Rules for Digital Data Storage: by Edmund M. Hart, Pauline Barmby, David LeBauer, François Mi... https://t.co/vb6ZIbnclS",0,False
+788833503588691968,2016-10-19 20:05:37,BMC: RNAdualPF: software to compute the dual partition function with sample applications in molecular evoluti... https://t.co/zNJN3BT25T,0,False
+788833502548471808,2016-10-19 20:05:37,BMC: Convert your favorite protein modeling program into a mutation predictor: “MODICT”: Predict whether a mu... https://t.co/AKGY5W2QA4,1,False
+788800207043506176,2016-10-19 17:53:19,PCB: DREISS: Using State-Space Models to Infer the Dynamics of Gene Expression Driven by External and Interna... https://t.co/1pzK7TqUb0,0,False
+788800202798800896,2016-10-19 17:53:18,"PCB: Unsupervised Learning in an Ensemble of Spiking Neural Networks Mediated by ITDP: by Yoonsik Shim, Andre... https://t.co/Jxay23xBzg",0,False
+788800198038257664,2016-10-19 17:53:17,"PCB: rasbhari: Optimizing Spaced Seeds for Database Searching, Read Mapping and Alignment-Free Sequence Compa... https://t.co/0fFRfBpIsv",0,False
+788757313779748865,2016-10-19 15:02:52,BMC: Roar: detecting alternative polyadenylation with standard mRNA sequencing libraries: Post-transcriptiona... https://t.co/rP0FhAC1ZR,0,False
+788640323996123144,2016-10-19 07:18:00,This is a nice chance to update the feed list. So if you think there is a journal that should be included please reply!,0,False
+788639481687576576,2016-10-19 07:14:39,"2/2 Service announcement. We will transition to other alternative services soon, but for a few days might be no tweets! Thanks!",0,False
+788638716948537344,2016-10-19 07:11:36,1/2 Service announcement: Just noticed that twitterfeed (https://t.co/owot48xBZ8) (used by this account) will shut down on 31st October..,0,False
+788070461661777920,2016-10-17 17:33:34,PCB: Correction: A Network Biology Approach Identifies Molecular Cross-Talk between Normal Prostate Epithelia... https://t.co/1SOfqJVDxW,0,False
+788070460583882752,2016-10-17 17:33:34,PCB: A Parsimonious Model of the Rabbit Action Potential Elucidates the Minimal Physiological Requirements fo... https://t.co/A0pJkf4F2v,0,False
+788070459413635072,2016-10-17 17:33:33,"PCB: Likelihood-Based Inference of B Cell Clonal Families: by Duncan K. Ralph, Frederick A. Matsen IV
+
+The hu... https://t.co/nSI4IjXMNW",0,False
+788070458201518080,2016-10-17 17:33:33,PCB: Symbiotic Cell Differentiation and Cooperative Growth in Multicellular Aggregates: by Jumpei F Yamagishi... https://t.co/iSGE74kME1,0,False
+786985921782558720,2016-10-14 17:43:59,PCB: Theta-Gamma Coding Meets Communication-through-Coherence: Neuronal Oscillatory Multiplexing Theories Rec... https://t.co/LdHvPCjF3p,0,False
+786985920356425728,2016-10-14 17:43:59,"PCB: Genetic Redundancies Enhance Information Transfer in Noisy Regulatory Circuits: by Guillermo Rodrigo, Ju... https://t.co/KRZcbqrxws",0,False
+786985919358259200,2016-10-14 17:43:59,PCB: How Do Efficient Coding Strategies Depend on Origins of Noise in Neural Circuits?: by Braden A. W. Brink... https://t.co/3OQHmi9cvm,0,False
+786985918112501760,2016-10-14 17:43:59,PCB: Mechanistic Modelling and Bayesian Inference Elucidates the Variable Dynamics of Double-Strand Break Rep... https://t.co/berD8DJiv1,0,False
+786691705588355073,2016-10-13 22:14:53,BMC: A scalability study of phylogenetic network inference methods using empirical datasets and simulations i... https://t.co/jkBDtwuhNO,0,False
+786659852084969472,2016-10-13 20:08:18,"PCB: Identifying Anatomical Origins of Coexisting Oscillations in the Cortical Microcircuit: by Hannah Bos, M... https://t.co/CqxvCiKL7m",0,False
+786627207431020545,2016-10-13 17:58:35,"PCB: Forgetting in Reinforcement Learning Links Sustained Dopamine Signals to Motivation: by Ayaka Kato, Kenj... https://t.co/HX3IMcWTik",0,False
+786627206390829056,2016-10-13 17:58:35,PCB: Eco-evolutionary Model of Rapid Phenotypic Diversification in Species-Rich Communities: by Paula Villa M... https://t.co/gmP71X1pIQ,0,False
+786627205358952448,2016-10-13 17:58:35,PCB: A New Take on John Maynard Smith's Concept of Protein Space for Understanding Molecular Evolution: by C.... https://t.co/WfNNEajsAN,0,False
+786627204264321024,2016-10-13 17:58:34,"PCB: Functional Connectivity’s Degenerate View of Brain Computation: by Guillaume Marrelec, Arnaud Messé, Ala... https://t.co/eR9rtnygAr",0,False
+786291586783064064,2016-10-12 19:44:57,BMC: Extending digital PCR analysis by modelling quantification cycle data: Digital PCR (dPCR) is a technique... https://t.co/mFf8f9MN1M,0,False
+785563367268245505,2016-10-10 19:31:16,BMC: FMAP: Functional Mapping and Analysis Pipeline for metagenomics and metatranscriptomics studies: Given t... https://t.co/nkMr3Ne5xy,0,False
+784871168775827456,2016-10-08 21:40:43,"BMC: Je, a versatile suite to handle multiplexed NGS libraries with unique molecular identifiers: The yield o... https://t.co/hdkArzwy4R",0,False
+784489044575072257,2016-10-07 20:22:17,BMC: RStrucFam: a web server to associate structure and cognate RNA for RNA-binding proteins from sequence in... https://t.co/dFqnwJYhBV,0,False
+784455087867383808,2016-10-07 18:07:22,PCB: Influence of Rotational Nucleosome Positioning on Transcription Start Site Selection in Animal Promoters... https://t.co/jXXe5zKUXP,0,False
+784455086747426817,2016-10-07 18:07:21,PCB: Large-Scale Off-Target Identification Using Fast and Accurate Dual Regularized One-Class Collaborative F... https://t.co/XmjdYelo7Y,0,False
+784455085577437185,2016-10-07 18:07:21,PCB: Retrospective Parameter Estimation and Forecast of Respiratory Syncytial Virus in the United States: by ... https://t.co/tEmvOrcuwm,0,False
+784455084486766592,2016-10-07 18:07:21,PCB: Mechano-chemical Interactions in Cardiac Sarcomere Contraction: A Computational Modeling Study: by Laure... https://t.co/nhH8Em6sEb,0,False
+784455083299790848,2016-10-07 18:07:20,PCB: Effect of Glycosylation on an Immunodominant Region in the V1V2 Variable Domain of the HIV-1 Envelope gp... https://t.co/2VMZaVfTNo,0,False
+784164739655933952,2016-10-06 22:53:37,BMC: Proceedings of the 2016 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) Conference:  https://t.co/cwA64l85n8,0,False
+784164738494107649,2016-10-06 22:53:37,BMC: Analysis of optimal alignments unfolds aligners’ bias in existing variant profiles: Efforts such as Inte... https://t.co/y9LVbg1j9N,0,False
+784164736971575296,2016-10-06 22:53:37,BMC: Identification of gene-drug interactions that impact patient survival in TCGA: With the advent of large ... https://t.co/Tdfp0u0KWP,0,False
+784164735713357824,2016-10-06 22:53:36,BMC: Effective comparative analysis of protein-protein interaction networks by measuring the steady-state net... https://t.co/D0onx8ZGas,0,False
+784164734543155200,2016-10-06 22:53:36,BMC: Phylogenetic tree construction using trinucleotide usage profile (TUP): It has been a challenging task t... https://t.co/a0uvTOaSh0,0,False
+784101597475254272,2016-10-06 18:42:43,PCB: Stoichiometric Representation of Gene–Protein–Reaction Associations Leverages Constraint-Based Analysis ... https://t.co/xMC3Dj8auI,0,False
+783880390654046209,2016-10-06 04:03:43,OB: A statistical method for the detection of variants from next-generation resequencing of DNA pools:  https://t.co/dbsPE7IhlZ,1,False
+783864247864262656,2016-10-06 02:59:34,OB: CONDOP: an R package for CONdition-Dependent Operon Predictions: Summary: The use of high-throughput RNA ... https://t.co/45YYPxUaBQ,0,False
+783864246694051840,2016-10-06 02:59:34,OB: ABAEnrichment: an R package to test for gene set expression enrichment in the adult and developing human ... https://t.co/yXmtUnta0I,0,False
+783864245666521088,2016-10-06 02:59:34,"OB: SERAPHIM: studying environmental rasters and phylogenetically informed movements: Summary: SERAPHIM (""Stu... https://t.co/C7Q7W4iBdV",0,False
+783864244643045377,2016-10-06 02:59:34,OB: PhenoScanner: a database of human genotype-phenotype associations: Summary: PhenoScanner is a curated dat... https://t.co/tIJeeQWWtx,0,False
+783864243560943616,2016-10-06 02:59:33,"OB: CellProfiler Analyst: interactive data exploration, analysis and classification of large biological image... https://t.co/IjpR9LbAGi",0,False
+783847270156349440,2016-10-06 01:52:07,OB: A probabilistic approach for collective similarity-based drug-drug interaction prediction: Motivation: As... https://t.co/5o39mDXly0,0,False
+783847269195849728,2016-10-06 01:52:06,OB: A simple model predicts UGT-mediated metabolism: Motivation: Uridine diphosphate glucunosyltransferases (... https://t.co/rSDvyrvDcI,0,False
+783847267992150016,2016-10-06 01:52:06,OB: TADtool: visual parameter identification for TAD-calling algorithms: Summary: Eukaryotic genomes are hier... https://t.co/OaDrY8lMCZ,0,False
+783847266960277504,2016-10-06 01:52:06,OB: PEP_scaffolder: using (homologous) proteins to scaffold genomes: Motivation: Recovering the gene structur... https://t.co/WsoxvaVjWW,0,False
+783847265861369856,2016-10-06 01:52:06,OB: Conpair: concordance and contamination estimator for matched tumor-normal pairs: Motivation: Sequencing o... https://t.co/z4X2tzcd2M,0,False
+783809881161633792,2016-10-05 23:23:32,OB: pSumo-CD: predicting sumoylation sites in proteins with covariance discriminant algorithm by incorporatin... https://t.co/gLIDSXeHa2,0,False
+783809879643271168,2016-10-05 23:23:32,OB: AutoSite: an automated approach for pseudo-ligands prediction--from ligand-binding sites identification t... https://t.co/QxaIx7bdk4,0,False
+783809878624133120,2016-10-05 23:23:32,OB: Estimating and testing high-dimensional mediation effects in epigenetic studies: Motivation: High-dimensi... https://t.co/tGh77CVQpm,0,False
+783809877596512256,2016-10-05 23:23:31,OB: Local versus global biological network alignment: Motivation: Network alignment (NA) aims to find regions... https://t.co/XQ9JlWpKK9,0,False
+783809876535369728,2016-10-05 23:23:31,OB: Network-based pathway enrichment analysis with incomplete network information: Motivation: Pathway enrich... https://t.co/YEoUiniZ2O,1,False
+783809542224158720,2016-10-05 23:22:12,OB: ACE: adaptive cluster expansion for maximum entropy graphical model inference: Motivation: Graphical mode... https://t.co/NxjFuxl9oo,0,False
+783809540881907712,2016-10-05 23:22:11,OB: RTCR: a pipeline for complete and accurate recovery of T cell repertoires from high throughput sequencing... https://t.co/HDt92y9FxB,0,False
+783809539883700224,2016-10-05 23:22:11,OB: Accurate in silico prediction of species-specific methylation sites based on information gain feature opt... https://t.co/nhSOz1Umok,0,False
+783809538877120512,2016-10-05 23:22:11,OB: iPTM-mLys: identifying multiple lysine PTM sites and their different types: Motivation: Post-translationa... https://t.co/oVpbwJhcMG,0,False
+783809537631395840,2016-10-05 23:22:10,OB: GeneCodeq: quality score compression and improved genotyping using a Bayesian framework: Motivation: The ... https://t.co/xsq2fEcdxf,0,False
+783809495163994112,2016-10-05 23:22:00,OB: Structural distinctions of fast and slow bacterial luciferases revealed by phylogenetic analysis: Motivat... https://t.co/ipZUxLcj9R,0,False
+783809494065131520,2016-10-05 23:22:00,OB: Genome puzzle master (GPM): an integrated pipeline for building and editing pseudomolecules from fragment... https://t.co/lgmzj5jGVS,0,False
+783809492899143681,2016-10-05 23:22:00,OB: Inheritance-mode specific pathogenicity prioritization (ISPP) for human protein coding genes: Motivation:... https://t.co/hjnTFP2BGZ,0,False
+783809491686961152,2016-10-05 23:21:59,OB: Vecuum: identification and filtration of false somatic variants caused by recombinant vector contaminatio... https://t.co/MbukOWYnqj,0,False
+783809490604830720,2016-10-05 23:21:59,OB: GORpipe: a query tool for working with sequence data based on a Genomic Ordered Relational (GOR) architec... https://t.co/YfOhZtzyBV,0,False
+783738826380279808,2016-10-05 18:41:12,PCB: A Motor-Gradient and Clustering Model of the Centripetal Motility of MTOCs in Meiosis I of Mouse Oocytes... https://t.co/HSoJeYlhF1,0,False
+783738824887111680,2016-10-05 18:41:11,PCB: AlignerBoost: A Generalized Software Toolkit for Boosting Next-Gen Sequencing Mapping Accuracy Using a B... https://t.co/GuK025KVnq,1,False
+783734114847338496,2016-10-05 18:22:28,BMC: Simulating cryo electron tomograms of crowded cell cytoplasm for assessment of automated particle pickin... https://t.co/0bJOG6bSHo,0,False
+783064157637652480,2016-10-03 22:00:18,BMC: VennDiagramWeb: a web application for the generation of highly customizable Venn and Euler diagrams: Vis... https://t.co/kdQcZXKAvE,0,False
+783064156542898176,2016-10-03 22:00:18,BMC: Handling missing rows in multi-omics data integration: multiple imputation in multiple factor analysis f... https://t.co/pjlYgGIg6S,0,False
+783064155301351424,2016-10-03 22:00:17,BMC: ChiLin: a comprehensive ChIP-seq and DNase-seq quality control and analysis pipeline: Transcription fact... https://t.co/hzYDT8GXUu,0,False
+783064154148073472,2016-10-03 22:00:17,BMC: Impact of post-alignment processing in variant discovery from whole exome data: GATK Best Practices work... https://t.co/r8LrP4Eo2I,0,False
+782965418394734592,2016-10-03 15:27:57,OB: Web-based network analysis and visualization using CellMaps: Summary: CellMaps is an HTML5 open-source we... https://t.co/zDAvEudTVn,0,False
+782965417270579200,2016-10-03 15:27:56,OB: Meshable: searching PubMed abstracts by utilizing MeSH and MeSH-derived topical terms: Summary: Medical S... https://t.co/8h5XIsrBYE,0,False
+782965416217812992,2016-10-03 15:27:56,OB: MultiQC: summarize analysis results for multiple tools and samples in a single report: Motivation: Fast a... https://t.co/nFJWSt6HcT,0,False
+782965414410133504,2016-10-03 15:27:56,OB: bdvis: visualizing biodiversity data in R: Summary: Biodiversity studies are relying increasingly on prim... https://t.co/QxilqUrndM,0,False
+782965412002615298,2016-10-03 15:27:55,OB: What time is it? Deep learning approaches for circadian rhythms:  https://t.co/FOT62WEHLE,0,False
+782945467327848449,2016-10-03 14:08:40,OB: RADIS: analysis of RAD-seq data for interspecific phylogeny: In an attempt to make the processing of RAD-... https://t.co/ODOZtn7gAq,0,False
+782945466203779072,2016-10-03 14:08:40,OB: GSA-Lightning: ultra-fast permutation-based gene set analysis: Summary: The computational speed of many g... https://t.co/57gZ6s9gCr,0,False
+782945465159397376,2016-10-03 14:08:39,"OB: ARGON: fast, whole-genome simulation of the discrete time Wright-fisher process: Motivation: Simulation u... https://t.co/fCVhq2X40T",0,False
+782945464056283140,2016-10-03 14:08:39,OB: SELAM: simulation of epistasis and local adaptation during admixture with mate choice: Summary: SELAM is ... https://t.co/yLfybaSyms,0,False
+782945462735151104,2016-10-03 14:08:39,OB: scphaser: haplotype inference using single-cell RNA-seq data: Summary: Determination of haplotypes is imp... https://t.co/pak8tdseMs,0,False
+782925810097201152,2016-10-03 12:50:33,OB: GenVisR: Genomic Visualizations in R: Summary: Visualizing and summarizing data from genomic studies cont... https://t.co/A8VnKKaBJl,1,False
+782925808738242564,2016-10-03 12:50:33,OB: Rapid and powerful detection of subtle allelic imbalance from exome sequencing data with hapLOHseq: Motiv... https://t.co/1iAvQJ3ceI,0,False
+782925806381125633,2016-10-03 12:50:32,OB: RareVariantVis: new tool for visualization of causative variants in rare monogenic disorders using whole ... https://t.co/kVW6mcl737,0,False
+782925805240201216,2016-10-03 12:50:32,OB: Assemblytics: a web analytics tool for the detection of variants from an assembly: Summary: Assemblytics ... https://t.co/rHIvrN1pn0,1,False
+782925803747090432,2016-10-03 12:50:32,OB: RTFBSDB: an integrated framework for transcription factor binding site analysis: Summary: Transcription f... https://t.co/eh1NHRYrZR,0,False
+782887629893185536,2016-10-03 10:18:50,OB: Pseudotime estimation: deconfounding single cell time series: Motivation: Repeated cross-sectional time s... https://t.co/rHqjoHG7pC,0,False
+782887628743901184,2016-10-03 10:18:50,OB: @MInter: automated text-mining of microbial interactions: Motivation: Microbial consortia are frequently ... https://t.co/a7POo03SOG,0,False
+782887627695370240,2016-10-03 10:18:50,OB: New KEGG pathway-based interpretable features for classifying ageing-related mouse proteins: Motivation: ... https://t.co/ZzIOTZz985,0,False
+782887626395176960,2016-10-03 10:18:50,OB: NegGOA: negative GO annotations selection using ontology structure: Motivation: Predicting the biological... https://t.co/IuEV4lnKaw,0,False
+782887625333977088,2016-10-03 10:18:49,OB: The Glycome Analytics Platform: an integrative framework for glycobioinformatics: Motivation: Complex car... https://t.co/sVTYcfokJ0,0,False
+782887457033297920,2016-10-03 10:18:09,OB: Prediction of conserved long-range RNA-RNA interactions in full viral genomes: Motivation: Long-range RNA... https://t.co/RkLW1x2pkX,0,False
+782887455800168449,2016-10-03 10:18:09,OB: STRUM: structure-based prediction of protein stability changes upon single-point mutation: Motivation: Mu... https://t.co/BrvNhZboRD,0,False
+782887453996699648,2016-10-03 10:18:09,OB: The structural effects of mutations can aid in differential phenotype prediction of beta-myosin heavy cha... https://t.co/rgMdjGItF6,0,False
+782887452746715136,2016-10-03 10:18:08,OB: Inferring the perturbation time from biological time course data: Motivation: Time course data are often ... https://t.co/HdnWy3DNE3,0,False
+782887451257737216,2016-10-03 10:18:08,OB: Statistical modeling of isoform splicing dynamics from RNA-seq time series data: Motivation: Isoform quan... https://t.co/H0YDeedlQr,0,False
+782887449349410816,2016-10-03 10:18:07,OB: Evaluating the molecule-based prediction of clinical drug responses in cancer: Motivation: Molecule-based... https://t.co/Y2vptwdHgV,0,False
+782887448019742721,2016-10-03 10:18:07,OB: Zerone: a ChIP-seq discretizer for multiple replicates with built-in quality control:   Motivation: Chrom... https://t.co/82Tb9hyOI9,0,False
+782887446912446465,2016-10-03 10:18:07,OB: A time-varying group sparse additive model for genome-wide association studies of dynamic complex traits:... https://t.co/lnDE41rj4a,0,False
+782887445310300160,2016-10-03 10:18:06,OB: AgIn: measuring the landscape of CpG methylation of individual repetitive elements: Motivation: Determini... https://t.co/HCISiyMRre,0,False
+782887443271782400,2016-10-03 10:18:06,OB: Unbiased probabilistic taxonomic classification for DNA barcoding: Motivation: When targeted to a barcodi... https://t.co/2LVUJJoGPV,0,False
+781929050105184256,2016-09-30 18:49:47,PCB: Correction: Direct Correlation between Motile Behavior and Protein Abundance in Single Cells: by The PLO... https://t.co/YYDkWtoAjm,0,False
+781929048939180032,2016-09-30 18:49:47,PCB: Novel Covariance-Based Neutrality Test of Time-Series Data Reveals Asymmetries in Ecological and Economi... https://t.co/4qWRAmz8M1,0,False
+781929047479586816,2016-09-30 18:49:47,"PCB: The Edge of Stability: Response Times and Delta Oscillations in Balanced Networks: by Grant Gillary, Ern... https://t.co/wiUrnm1X2B",0,False
+781929046011580416,2016-09-30 18:49:46,"PCB: Nonlinear Hebbian Learning as a Unifying Principle in Receptive Field Formation: by Carlos S. N. Brito, ... https://t.co/C3VtSvHxpe",0,False
+781565160439676929,2016-09-29 18:43:49,"PCB: Adaptive Remodeling of Achilles Tendon: A Multi-scale Computational Model: by Stuart R. Young, Bruce Gar... https://t.co/h2zbANNZrl",0,False
+781565158925623296,2016-09-29 18:43:49,"PCB: Exome Sequencing and Prediction of Long-Term Kidney Allograft Function: by Laurent Mesnard, Thangamani M... https://t.co/slyyIKyoLs",0,False
+781556766014263296,2016-09-29 18:10:28,BMC: SAMSA: a comprehensive metatranscriptome analysis pipeline: Although metatranscriptomics—the study of di... https://t.co/ueeibLCvc4,0,False
+781556764835655680,2016-09-29 18:10:28,BMC: Representing and decomposing genomic structural variants as balanced integer flows on sequence graphs: T... https://t.co/vLtgEwjQ85,0,False
+781202767842979840,2016-09-28 18:43:48,PCB: SCOTTI: Efficient Reconstruction of Transmission within Outbreaks with the Structured Coalescent: by Nic... https://t.co/F9Baj2jlnM,0,False
+781202766056202240,2016-09-28 18:43:48,"PCB: Decreases in Gap Junction Coupling Recovers Ca2+ and Insulin Secretion in Neonatal Diabetes Mellitus, De... https://t.co/zG9WJruYXF",0,False
+780840125559296000,2016-09-27 18:42:47,BMC: General continuous-time Markov model of sequence evolution via insertions/deletions: local alignment pro... https://t.co/toq3eu7R1S,0,False
+780840124502249472,2016-09-27 18:42:47,BMC: Predicting protein-protein interactions via multivariate mutual information of protein sequences: Protei... https://t.co/UsTLVuhUTO,0,False
+780831948159672320,2016-09-27 18:10:18,"PCB: Data-Driven Metabolic Pathway Compositions Enhance Cancer Survival Prediction: by Noam Auslander, Allon ... https://t.co/7UiXoaSoVt",0,False
+780831947056553984,2016-09-27 18:10:17,PCB: A Novel Drug-Mouse Phenotypic Similarity Method Detects Molecular Determinants of Drug Effects: by Jeane... https://t.co/J9K7hPqP6s,0,False
+780474853585412096,2016-09-26 18:31:20,"PCB: Modeling the Effects of Morphine on Simian Immunodeficiency Virus Dynamics: by Naveen K. Vaidya, Ruy M. ... https://t.co/yxtHyARZ0J",0,False
+779381686874157060,2016-09-23 18:07:29,"PCB: Template-Based Modeling of Protein-RNA Interactions: by Jinfang Zheng, Petras J. Kundrotas, Ilya A. Vaks... https://t.co/quGhXCWojn",0,False
+779381685792092161,2016-09-23 18:07:28,"PCB: Cytofkit: A Bioconductor Package for an Integrated Mass Cytometry Data Analysis Pipeline: by Hao Chen, M... https://t.co/FwvOs3HnGA",1,False
+779367861324165120,2016-09-23 17:12:32,BMC: Combinatorial identification of DNA methylation patterns over age in the human brain: DNA methylation pl... https://t.co/HIRiWJsoaF,0,False
+779367860241960962,2016-09-23 17:12:32,BMC: rapidGSEA: Speeding up gene set enrichment analysis on multi-core CPUs and CUDA-enabled GPUs: Gene Set E... https://t.co/rQlTfNvRnp,0,False
+779073739958816768,2016-09-22 21:43:48,BMC: MicroScope: ChIP-seq and RNA-seq software analysis suite for gene expression heatmaps: Heatmaps are an i... https://t.co/9curUHLhBJ,1,False
+779073738851573760,2016-09-22 21:43:48,BMC: An Atlas of annotations of Hydra vulgaris transcriptome: RNA sequencing takes advantage of the Next Gene... https://t.co/OS08iXAPfK,0,False
+779073736972439552,2016-09-22 21:43:48,BMC: Correcting the impact of docking pose generation error on binding affinity prediction: Pose generation e... https://t.co/rQhHJnyil9,0,False
+779073735882006529,2016-09-22 21:43:47,BMC: PWHATSHAP: efficient haplotyping for future generation sequencing: Haplotype phasing is an important pro... https://t.co/7kwmDTndHk,1,False
+779073734669836288,2016-09-22 21:43:47,BMC: Automatic classification of registered clinical trials towards the Global Burden of Diseases taxonomy of... https://t.co/hK22Ymw7UA,0,False
+779023784502136832,2016-09-22 18:25:18,PCB: Immersed Boundary Models for Quantifying Flow-Induced Mechanical Stimuli on Stem Cells Seeded on 3D Scaf... https://t.co/5t5DTDKLQd,0,False
+779023783222841345,2016-09-22 18:25:18,PCB: Forecasting Human African Trypanosomiasis Prevalences from Population Screening Data Using Continuous Ti... https://t.co/wbyE0Hcs86,0,False
+779023782212014081,2016-09-22 18:25:17,PCB: In Silico Oncology: Quantification of the In Vivo Antitumor Efficacy of Cisplatin-Based Doublet Therapy ... https://t.co/qY50vN9vQi,0,False
+779023781226422272,2016-09-22 18:25:17,"PCB: Separating Timing, Movement Conditions and Individual Differences in the Analysis of Human Movement: by ... https://t.co/kT6eh4JAiH",0,False
+778817228472922114,2016-09-22 04:44:31,BMC: A covert authentication and security solution for GMOs: Proliferation and expansion of security risks ne... https://t.co/znY8Aa0QnI,0,False
+778314435739779073,2016-09-20 19:26:36,BMC: DBSecSys 2.0: a database of Burkholderia mallei and Burkholderia pseudomallei secretion systems: Burkhol... https://t.co/6jzNJFzl9D,0,False
+778314434619936768,2016-09-20 19:26:36,BMC: systemPipeR: NGS workflow and report generation environment: Next-generation sequencing (NGS) has revolu... https://t.co/An1zJtyiuQ,0,False
+778314433542041600,2016-09-20 19:26:35,BMC: A method for identification of highly conserved elements and evolutionary analysis of superphylum Alveol... https://t.co/DlMFvmmCdZ,0,False
+778314432371761152,2016-09-20 19:26:35,BMC: A corpus for plant-chemical relationships in the biomedical domain: Plants are natural products that hum... https://t.co/SI6voRu5ao,0,False
+777931393443569664,2016-09-19 18:04:32,PCB: Error Correction and the Structure of Inter-Trial Fluctuations in a Redundant Movement Task: by Joby Joh... https://t.co/tytPyvDTqS,0,False
+777444830821556224,2016-09-18 09:51:06,BMC: Structural alignment of protein descriptors – a combinatorial model: Structural alignment of proteins is... https://t.co/5ibWtk6d1I,0,False
+777444829747818496,2016-09-18 09:51:06,BMC: nbCNV: a multi-constrained optimization model for discovering copy number variants in single-cell sequen... https://t.co/JxdfLr43Kq,0,False
+776835479597518848,2016-09-16 17:29:45,"PCB: M-Track: A New Software for Automated Detection of Grooming Trajectories in Mice: by Sheldon L. Reeves, ... https://t.co/9cIU5bc5qW",0,False
+776835478544756736,2016-09-16 17:29:45,PCB: Gamma Synchronization Influences Map Formation Time in a Topological Model of Spatial Learning: by Edwar... https://t.co/rvfMdFiuYT,0,False
+776835477475254272,2016-09-16 17:29:45,PCB: How to Distinguish Conformational Selection and Induced Fit Based on Chemical Relaxation Rates: by Fabia... https://t.co/tWDAGhinAM,0,False
+776828246830620672,2016-09-16 17:01:01,BIB: Computational resources and strategies to construct single-molecule metabolic models of microbial cells:... https://t.co/3Sk39Pn2b4,0,False
+776828245215842307,2016-09-16 17:01:01,BIB: Pathway Tools version 19.0 update: software for pathway/genome informatics and systems biology: Pathway ... https://t.co/RtRnr9Ak9S,0,False
+776828244116942848,2016-09-16 17:01:00,BIB: Transcriptomic and metabolomic data integration: Many studies now produce parallel data sets from differ... https://t.co/nwgdTcs5wJ,0,False

@@ -1,0 +1,201 @@
+id,created_at,text,retweet_count,tweet.retweeted
+625901145106579456,2015-07-28 05:30:36,"Currently in Cambridge Bay, the club is jumpin' jumpin'",0,False
+625886030382673921,2015-07-28 04:30:32,"Currently in Porto Acre, the club is jumpin' jumpin'",0,False
+625878473337360384,2015-07-28 04:00:30,"Currently in Caracas, the club is jumpin' jumpin'",0,False
+625870915818143744,2015-07-28 03:30:29,"Currently in Monticello, the club is jumpin' jumpin'",0,False
+625855800548950016,2015-07-28 02:30:25,"Currently in Salta, the club is jumpin' jumpin'",0,False
+625848245500121088,2015-07-28 02:00:24,"Currently in Newfoundland, the club is jumpin' jumpin'",0,False
+625840685271416832,2015-07-28 01:30:21,"Currently in Miquelon, the club is jumpin' jumpin'",0,False
+625825569918320640,2015-07-28 00:30:17,"Currently in Cape Verde, the club is jumpin' jumpin'",0,False
+625810409103208448,2015-07-27 23:30:03,"Currently in Dakar, the club is jumpin' jumpin'",0,False
+625795546951884800,2015-07-27 22:30:59,"Currently in Dublin, the club is jumpin' jumpin'",0,False
+625780432051793920,2015-07-27 21:30:56,"Currently in Brussels, the club is jumpin' jumpin'",0,False
+625765315587244032,2015-07-27 20:30:52,"Currently in Sofia, the club is jumpin' jumpin'",0,False
+625750199466639360,2015-07-27 19:30:48,"Currently in Muscat, the club is jumpin' jumpin'",0,False
+625742641913831425,2015-07-27 19:00:46,"Currently in Tehran, the club is jumpin' jumpin'",0,False
+625735084663046144,2015-07-27 18:30:44,"Currently in Tashkent, the club is jumpin' jumpin'",0,False
+625727527181492224,2015-07-27 18:00:42,"Currently in Kolkata, the club is jumpin' jumpin'",0,False
+625719970098450433,2015-07-27 17:30:40,"Currently in Dhaka, the club is jumpin' jumpin'",0,False
+625712413678170112,2015-07-27 17:00:39,"Currently in Cocos, the club is jumpin' jumpin'",0,False
+625704861062033408,2015-07-27 16:30:38,"Currently in Hovd, the club is jumpin' jumpin'",0,False
+625689737085485056,2015-07-27 15:30:32,"Currently in Kuala Lumpur, the club is jumpin' jumpin'",0,False
+625674620587376641,2015-07-27 14:30:28,"Currently in Seoul, the club is jumpin' jumpin'",0,False
+625667062489333764,2015-07-27 14:00:26,"Currently in Adelaide, the club is jumpin' jumpin'",0,False
+625659504949075968,2015-07-27 13:30:24,"Currently in Sydney, the club is jumpin' jumpin'",0,False
+625651947320832001,2015-07-27 13:00:22,"Currently in Lord Howe, the club is jumpin' jumpin'",0,False
+625644389411463168,2015-07-27 12:30:21,"Currently in Ponape, the club is jumpin' jumpin'",0,False
+625636832223567872,2015-07-27 12:00:19,"Currently in Norfolk, the club is jumpin' jumpin'",0,False
+625629274679181312,2015-07-27 11:30:17,"Currently in Tarawa, the club is jumpin' jumpin'",0,False
+625614160018206720,2015-07-27 10:30:13,"Currently in Tongatapu, the club is jumpin' jumpin'",0,False
+625599045986291713,2015-07-27 09:30:10,"Currently in HST, the club is jumpin' jumpin'",0,False
+625591488550973440,2015-07-27 09:00:08,"Currently in Marquesas, the club is jumpin' jumpin'",0,False
+625583931417624576,2015-07-27 08:30:06,"Currently in Gambier, the club is jumpin' jumpin'",0,False
+625568817591287808,2015-07-27 07:30:03,"Currently in Pitcairn, the club is jumpin' jumpin'",0,False
+625553954785656832,2015-07-27 06:30:59,"Currently in Pacific-New, the club is jumpin' jumpin'",0,False
+625538838530760704,2015-07-27 05:30:55,"Currently in Belize, the club is jumpin' jumpin'",0,False
+625523719071514624,2015-07-27 04:30:50,"Currently in Rankin Inlet, the club is jumpin' jumpin'",0,False
+625516161300606976,2015-07-27 04:00:49,"Currently in Caracas, the club is jumpin' jumpin'",0,False
+625508602833424384,2015-07-27 03:30:46,"Currently in Porto Velho, the club is jumpin' jumpin'",0,False
+625493488184991746,2015-07-27 02:30:43,"Currently in Catamarca, the club is jumpin' jumpin'",0,False
+625485929738842112,2015-07-27 02:00:41,"Currently in St Johns, the club is jumpin' jumpin'",0,False
+625478372093755393,2015-07-27 01:30:39,"Currently in Miquelon, the club is jumpin' jumpin'",0,False
+625463257810251776,2015-07-27 00:30:35,"Currently in Cape Verde, the club is jumpin' jumpin'",0,False
+625448140779425793,2015-07-26 23:30:31,"Currently in Nouakchott, the club is jumpin' jumpin'",0,False
+625433035102638080,2015-07-26 22:30:30,"Currently in Portugal, the club is jumpin' jumpin'",0,False
+625417920194215937,2015-07-26 21:30:26,"Currently in Longyearbyen, the club is jumpin' jumpin'",0,False
+625402805159895040,2015-07-26 20:30:22,"Currently in Nairobi, the club is jumpin' jumpin'",0,False
+625387690964426755,2015-07-26 19:30:19,"Currently in Dubai, the club is jumpin' jumpin'",0,False
+625380132371492864,2015-07-26 19:00:17,"Currently in Kabul, the club is jumpin' jumpin'",0,False
+625372574906777600,2015-07-26 18:30:15,"Currently in Mawson, the club is jumpin' jumpin'",0,False
+625365017622351873,2015-07-26 18:00:13,"Currently in Calcutta, the club is jumpin' jumpin'",0,False
+625357460065361920,2015-07-26 17:30:11,"Currently in Vostok, the club is jumpin' jumpin'",0,False
+625349904475521024,2015-07-26 17:00:10,"Currently in Rangoon, the club is jumpin' jumpin'",0,False
+625342344863318016,2015-07-26 16:30:07,"Currently in Hovd, the club is jumpin' jumpin'",0,False
+625327230500122624,2015-07-26 15:30:04,"Currently in Macau, the club is jumpin' jumpin'",0,False
+625312357561016320,2015-07-26 14:30:58,"Currently in Pyongyang, the club is jumpin' jumpin'",0,False
+625304800150843392,2015-07-26 14:00:56,"Currently in Broken Hill, the club is jumpin' jumpin'",0,False
+625297242602229760,2015-07-26 13:30:54,"Currently in Saipan, the club is jumpin' jumpin'",0,False
+625289685712158720,2015-07-26 13:00:53,"Currently in Lord Howe, the club is jumpin' jumpin'",0,False
+625282127744122881,2015-07-26 12:30:51,"Currently in Efate, the club is jumpin' jumpin'",0,False
+625274569939644416,2015-07-26 12:00:49,"Currently in Norfolk, the club is jumpin' jumpin'",0,False
+625267011598315521,2015-07-26 11:30:47,"Currently in Wallis, the club is jumpin' jumpin'",0,False
+625251896870219777,2015-07-26 10:30:43,"Currently in Tongatapu, the club is jumpin' jumpin'",0,False
+625236782133735424,2015-07-26 09:30:39,"Currently in Johnston, the club is jumpin' jumpin'",0,False
+625229223272300544,2015-07-26 09:00:37,"Currently in Marquesas, the club is jumpin' jumpin'",0,False
+625221665035825152,2015-07-26 08:30:35,"Currently in Gambier, the club is jumpin' jumpin'",0,False
+625206549774999552,2015-07-26 07:30:31,"Currently in Pitcairn, the club is jumpin' jumpin'",0,False
+625191434975584256,2015-07-26 06:30:28,"Currently in Ensenada, the club is jumpin' jumpin'",0,False
+625176320352387076,2015-07-26 05:30:24,"Currently in El Salvador, the club is jumpin' jumpin'",0,False
+625161205229948928,2015-07-26 04:30:20,"Currently in Tell City, the club is jumpin' jumpin'",0,False
+625153647786258433,2015-07-26 04:00:19,"Currently in Caracas, the club is jumpin' jumpin'",0,False
+625146090560614400,2015-07-26 03:30:17,"Currently in Asuncion, the club is jumpin' jumpin'",0,False
+625130975744405504,2015-07-26 02:30:13,"Currently in Cordoba, the club is jumpin' jumpin'",0,False
+625123418116071424,2015-07-26 02:00:11,"Currently in St Johns, the club is jumpin' jumpin'",0,False
+625115860701696001,2015-07-26 01:30:09,"Currently in Noronha, the club is jumpin' jumpin'",0,False
+625100745784860673,2015-07-26 00:30:06,"Currently in Cape Verde, the club is jumpin' jumpin'",0,False
+625085631291617282,2015-07-25 23:30:02,"Currently in Reykjavik, the club is jumpin' jumpin'",0,False
+625070550537379840,2015-07-25 22:30:07,"Currently in Malabo, the club is jumpin' jumpin'",0,False
+625055436581027840,2015-07-25 21:30:03,"Currently in Bujumbura, the club is jumpin' jumpin'",0,False
+625040575138562050,2015-07-25 20:31:00,"Currently in Qatar, the club is jumpin' jumpin'",0,False
+625025460724965376,2015-07-25 19:30:56,"Currently in Mauritius, the club is jumpin' jumpin'",0,False
+625017904417894400,2015-07-25 19:00:55,"Currently in Iran, the club is jumpin' jumpin'",0,False
+625010346764435456,2015-07-25 18:30:53,"Currently in Oral, the club is jumpin' jumpin'",0,False
+625002789819797504,2015-07-25 18:00:51,"Currently in Kolkata, the club is jumpin' jumpin'",0,False
+624995232854200320,2015-07-25 17:30:50,"Currently in Qyzylorda, the club is jumpin' jumpin'",0,False
+624987676270292993,2015-07-25 17:00:48,"Currently in Rangoon, the club is jumpin' jumpin'",0,False
+624980118973345792,2015-07-25 16:30:46,"Currently in Vientiane, the club is jumpin' jumpin'",0,False
+624965005130235904,2015-07-25 15:30:43,"Currently in Irkutsk, the club is jumpin' jumpin'",0,False
+624949891467472896,2015-07-25 14:30:39,"Currently in Pyongyang, the club is jumpin' jumpin'",0,False
+624942334665453568,2015-07-25 14:00:38,"Currently in Darwin, the club is jumpin' jumpin'",0,False
+624934777330761728,2015-07-25 13:30:36,"Currently in Guam, the club is jumpin' jumpin'",0,False
+624927220516167680,2015-07-25 13:00:34,"Currently in Lord Howe, the club is jumpin' jumpin'",0,False
+624919663437332480,2015-07-25 12:30:32,"Currently in Ponape, the club is jumpin' jumpin'",0,False
+624912106282950656,2015-07-25 12:00:31,"Currently in Norfolk, the club is jumpin' jumpin'",0,False
+624904549275410432,2015-07-25 11:30:29,"Currently in McMurdo, the club is jumpin' jumpin'",0,False
+624889435222622208,2015-07-25 10:30:25,"Currently in Samoa, the club is jumpin' jumpin'",0,False
+624874320536432640,2015-07-25 09:30:22,"Currently in Johnston, the club is jumpin' jumpin'",0,False
+624866763570835456,2015-07-25 09:00:20,"Currently in Marquesas, the club is jumpin' jumpin'",0,False
+624859206680735744,2015-07-25 08:30:18,"Currently in Adak, the club is jumpin' jumpin'",0,False
+624844092837597184,2015-07-25 07:30:15,"Currently in Alaska, the club is jumpin' jumpin'",0,False
+624828978801569792,2015-07-25 06:30:11,"Currently in Tijuana, the club is jumpin' jumpin'",0,False
+624813865205923840,2015-07-25 05:30:08,"Currently in Mountain Canada, the club is jumpin' jumpin'",0,False
+624798751161516032,2015-07-25 04:30:05,"Currently in Panama, the club is jumpin' jumpin'",0,False
+624791194770477057,2015-07-25 04:00:03,"Currently in Caracas, the club is jumpin' jumpin'",0,False
+624783638492774401,2015-07-25 03:30:01,"Currently in Cuba, the club is jumpin' jumpin'",0,False
+624768775078969344,2015-07-25 02:30:58,"Currently in Cordoba, the club is jumpin' jumpin'",0,False
+624761218000113664,2015-07-25 02:00:56,"Currently in Newfoundland, the club is jumpin' jumpin'",0,False
+624753660636098564,2015-07-25 01:30:54,"Currently in Miquelon, the club is jumpin' jumpin'",0,False
+624738546801315840,2015-07-25 00:30:51,"Currently in Cape Verde, the club is jumpin' jumpin'",0,False
+624723433314734080,2015-07-24 23:30:47,"Currently in Ouagadougou, the club is jumpin' jumpin'",0,False
+624708319098351616,2015-07-24 22:30:44,"Currently in Canary, the club is jumpin' jumpin'",0,False
+624693130319765505,2015-07-24 21:30:23,"Currently in Troll, the club is jumpin' jumpin'",0,False
+624678016485064705,2015-07-24 20:30:19,"Currently in Minsk, the club is jumpin' jumpin'",0,False
+624662901228503040,2015-07-24 19:30:15,"Currently in Tbilisi, the club is jumpin' jumpin'",0,False
+624655343537233920,2015-07-24 19:00:14,"Currently in Iran, the club is jumpin' jumpin'",0,False
+624647785544032256,2015-07-24 18:30:12,"Currently in Baku, the club is jumpin' jumpin'",0,False
+624640228037369856,2015-07-24 18:00:10,"Currently in Colombo, the club is jumpin' jumpin'",0,False
+624632670887247873,2015-07-24 17:30:08,"Currently in Urumqi, the club is jumpin' jumpin'",0,False
+624625113468665857,2015-07-24 17:00:06,"Currently in Cocos, the club is jumpin' jumpin'",0,False
+624617556888817664,2015-07-24 16:30:05,"Currently in Saigon, the club is jumpin' jumpin'",0,False
+624602688395710466,2015-07-24 15:31:00,"Currently in West Australia, the club is jumpin' jumpin'",0,False
+624587572136652800,2015-07-24 14:30:56,"Currently in Palau, the club is jumpin' jumpin'",0,False
+624580014613397505,2015-07-24 14:00:54,"Currently in Australia, the club is jumpin' jumpin'",0,False
+624572457794576384,2015-07-24 13:30:52,"Currently in Victoria, the club is jumpin' jumpin'",0,False
+624564899159638016,2015-07-24 13:00:50,"Currently in Lord Howe, the club is jumpin' jumpin'",0,False
+624557342286344192,2015-07-24 12:30:48,"Currently in Macquarie, the club is jumpin' jumpin'",0,False
+624549783672389633,2015-07-24 12:00:46,"Currently in Norfolk, the club is jumpin' jumpin'",0,False
+624542226492862464,2015-07-24 11:30:44,"Currently in Nauru, the club is jumpin' jumpin'",0,False
+624527112016371712,2015-07-24 10:30:41,"Currently in Niue, the club is jumpin' jumpin'",0,False
+624511998009716736,2015-07-24 09:30:37,"Currently in Tahiti, the club is jumpin' jumpin'",0,False
+624504438749818880,2015-07-24 09:00:35,"Currently in Marquesas, the club is jumpin' jumpin'",0,False
+624496881259966464,2015-07-24 08:30:33,"Currently in Atka, the club is jumpin' jumpin'",0,False
+624481766506676224,2015-07-24 07:30:30,"Currently in Nome, the club is jumpin' jumpin'",0,False
+624466652663545856,2015-07-24 06:30:26,"Currently in Whitehorse, the club is jumpin' jumpin'",0,False
+624451538329714688,2015-07-24 05:30:23,"Currently in Galapagos, the club is jumpin' jumpin'",0,False
+624436424864071680,2015-07-24 04:30:19,"Currently in Bogota, the club is jumpin' jumpin'",0,False
+624428870117273600,2015-07-24 04:00:18,"Currently in Caracas, the club is jumpin' jumpin'",0,False
+624421312719679488,2015-07-24 03:30:16,"Currently in Louisville, the club is jumpin' jumpin'",0,False
+624406193381994496,2015-07-24 02:30:12,"Currently in Rosario, the club is jumpin' jumpin'",0,False
+624398636261240832,2015-07-24 02:00:10,"Currently in St Johns, the club is jumpin' jumpin'",0,False
+624391078309986306,2015-07-24 01:30:08,"Currently in Noronha, the club is jumpin' jumpin'",0,False
+624375962965286912,2015-07-24 00:30:04,"Currently in Cape Verde, the club is jumpin' jumpin'",0,False
+624360847884832768,2015-07-23 23:30:00,"Currently in Lome, the club is jumpin' jumpin'",0,False
+624345984458428416,2015-07-23 22:30:57,"Currently in Kinshasa, the club is jumpin' jumpin'",0,False
+624330702499250176,2015-07-23 21:30:13,"Currently in Warsaw, the club is jumpin' jumpin'",0,False
+624315586135244800,2015-07-23 20:30:09,"Currently in Asmera, the club is jumpin' jumpin'",0,False
+624300471394676736,2015-07-23 19:30:05,"Currently in Mahe, the club is jumpin' jumpin'",0,False
+624292913510514688,2015-07-23 19:00:04,"Currently in Iran, the club is jumpin' jumpin'",0,False
+624285355425067009,2015-07-23 18:30:02,"Currently in Ashkhabad, the club is jumpin' jumpin'",0,False
+624278049358528512,2015-07-23 18:01:00,"Currently in Kolkata, the club is jumpin' jumpin'",0,False
+624270492166393856,2015-07-23 17:30:58,"Currently in Omsk, the club is jumpin' jumpin'",0,False
+624262934508793856,2015-07-23 17:00:56,"Currently in Cocos, the club is jumpin' jumpin'",0,False
+624255376880476160,2015-07-23 16:30:54,"Currently in Saigon, the club is jumpin' jumpin'",0,False
+624240261342851072,2015-07-23 15:30:50,"Currently in Taipei, the club is jumpin' jumpin'",0,False
+624225146002403328,2015-07-23 14:30:47,"Currently in Pyongyang, the club is jumpin' jumpin'",0,False
+624217588021727232,2015-07-23 14:00:45,"Currently in Australia, the club is jumpin' jumpin'",0,False
+624210030724796416,2015-07-23 13:30:43,"Currently in Hobart, the club is jumpin' jumpin'",0,False
+624202473109127168,2015-07-23 13:00:41,"Currently in Lord Howe, the club is jumpin' jumpin'",0,False
+624194915631824896,2015-07-23 12:30:39,"Currently in Guadalcanal, the club is jumpin' jumpin'",0,False
+624187356636184577,2015-07-23 12:00:37,"Currently in Norfolk, the club is jumpin' jumpin'",0,False
+624179798118678528,2015-07-23 11:30:35,"Currently in Kwajalein, the club is jumpin' jumpin'",0,False
+624164684053225472,2015-07-23 10:30:31,"Currently in Samoa, the club is jumpin' jumpin'",0,False
+624149567932637185,2015-07-23 09:30:27,"Currently in Johnston, the club is jumpin' jumpin'",0,False
+624142010409160705,2015-07-23 09:00:25,"Currently in Marquesas, the club is jumpin' jumpin'",0,False
+624134450276868096,2015-07-23 08:30:23,"Currently in Gambier, the club is jumpin' jumpin'",0,False
+624119333397110784,2015-07-23 07:30:19,"Currently in Juneau, the club is jumpin' jumpin'",0,False
+624104219293913089,2015-07-23 06:30:15,"Currently in Vancouver, the club is jumpin' jumpin'",0,False
+624089103680864256,2015-07-23 05:30:11,"Currently in Baja Sur, the club is jumpin' jumpin'",0,False
+624073989875437568,2015-07-23 04:30:08,"Currently in Menominee, the club is jumpin' jumpin'",0,False
+624066426345795584,2015-07-23 04:00:05,"Currently in Caracas, the club is jumpin' jumpin'",0,False
+624058866423218177,2015-07-23 03:30:02,"Currently in Grand Turk, the club is jumpin' jumpin'",0,False
+624044000161452032,2015-07-23 02:30:58,"Currently in Santarem, the club is jumpin' jumpin'",0,False
+624036442306650112,2015-07-23 02:00:56,"Currently in St Johns, the club is jumpin' jumpin'",0,False
+624028884233793536,2015-07-23 01:30:54,"Currently in Godthab, the club is jumpin' jumpin'",0,False
+624013768645844992,2015-07-23 00:30:50,"Currently in Cape Verde, the club is jumpin' jumpin'",0,False
+623998653540237312,2015-07-22 23:30:46,"Currently in Bamako, the club is jumpin' jumpin'",0,False
+623983537268592640,2015-07-22 22:30:42,"Currently in Eire, the club is jumpin' jumpin'",0,False
+623968454148816898,2015-07-22 21:30:46,"Currently in Vienna, the club is jumpin' jumpin'",0,False
+623953332328091650,2015-07-22 20:30:41,"Currently in Khartoum, the club is jumpin' jumpin'",0,False
+623938211723767809,2015-07-22 19:30:36,"Currently in Reunion, the club is jumpin' jumpin'",0,False
+623930654154194944,2015-07-22 19:00:34,"Currently in Kabul, the club is jumpin' jumpin'",0,False
+623923096567812096,2015-07-22 18:30:32,"Currently in Aqtobe, the club is jumpin' jumpin'",0,False
+623915539027619840,2015-07-22 18:00:30,"Currently in Calcutta, the club is jumpin' jumpin'",0,False
+623907981202210816,2015-07-22 17:30:29,"Currently in Urumqi, the club is jumpin' jumpin'",0,False
+623900425390047233,2015-07-22 17:00:27,"Currently in Rangoon, the club is jumpin' jumpin'",0,False
+623892866029494272,2015-07-22 16:30:25,"Currently in Christmas, the club is jumpin' jumpin'",0,False
+623877754187083776,2015-07-22 15:30:22,"Currently in Hong Kong, the club is jumpin' jumpin'",0,False
+623862633536585728,2015-07-22 14:30:17,"Currently in Jayapura, the club is jumpin' jumpin'",0,False
+623855030748250112,2015-07-22 14:00:04,"Currently in Broken Hill, the club is jumpin' jumpin'",0,False
+623847473799393281,2015-07-22 13:30:02,"Currently in Guam, the club is jumpin' jumpin'",0,False
+623839916284354560,2015-07-22 13:00:01,"Currently in Lord Howe, the club is jumpin' jumpin'",0,False
+623832610750529537,2015-07-22 12:30:59,"Currently in Noumea, the club is jumpin' jumpin'",0,False
+623825053726191616,2015-07-22 12:00:57,"Currently in Norfolk, the club is jumpin' jumpin'",0,False
+623817495980453889,2015-07-22 11:30:55,"Currently in Kwajalein, the club is jumpin' jumpin'",0,False
+623802382959382528,2015-07-22 10:30:52,"Currently in Apia, the club is jumpin' jumpin'",0,False
+623787270152286208,2015-07-22 09:30:49,"Currently in Hawaii, the club is jumpin' jumpin'",0,False
+623779714579177472,2015-07-22 09:00:47,"Currently in Marquesas, the club is jumpin' jumpin'",0,False
+623772158439858176,2015-07-22 08:30:46,"Currently in Atka, the club is jumpin' jumpin'",0,False
+623757044751974400,2015-07-22 07:30:42,"Currently in Metlakatla, the club is jumpin' jumpin'",0,False
+623741931462508544,2015-07-22 06:30:39,"Currently in Baja Norte, the club is jumpin' jumpin'",0,False
+623726818999291904,2015-07-22 05:30:36,"Currently in Guatemala, the club is jumpin' jumpin'",0,False
+623711705483358208,2015-07-22 04:30:33,"Currently in Knox IN, the club is jumpin' jumpin'",0,False

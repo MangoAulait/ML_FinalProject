@@ -1,0 +1,205 @@
+id,created_at,text,retweet_count,tweet.retweeted
+850005070322307074,2017-04-06 15:19:35,"RT @KimJongBlkchain: @VitalikButerin: upon completion of our nuclear warhead, we declare full theymonuclear war on your blocks for eternity…",16,False
+849981186202062849,2017-04-06 13:44:41,RT @johnregehr: cowsay inception https://t.co/gIX4ZtRMmD,158,False
+849931245358284800,2017-04-06 10:26:14,"RT @JihanWu: When you visit Chengdu, don't forget to see the Panda.",9,False
+849919028198084609,2017-04-06 09:37:41,"@donaldmcintyre_ @aantonop And no, referring to big blockers as ""the mob"" will NOT get you anywhere.",0,False
+849918698802565120,2017-04-06 09:36:23,@donaldmcintyre_ @aantonop *Not* compromising by definition implies one faction exercises domination over its oppon… https://t.co/sVdmDUM1sg,0,False
+849550294107271169,2017-04-05 09:12:28,@celeduc When people/the media realized that it's still popular?,0,False
+849549723845447682,2017-04-05 09:10:12,RT @celeduc: @StamperyCo @VitalikButerin @donaldmcintyre_ @aantonop Lol right. Politics will stop being an issue once humans are no longer…,6,False
+849544652088856576,2017-04-05 08:50:03,"@donaldmcintyre_ @aantonop Example global crisis: turns out fee-only security way too low, only alternatives 0.5%/y… https://t.co/20a7p7FT8Y",0,False
+849543925870321670,2017-04-05 08:47:10,@donaldmcintyre_ @aantonop Political compromise is how the real world works. It is also the opposite of centralization.,2,False
+849513814605398016,2017-04-05 06:47:31,.@bryan_caplan 3. Don't you think society benefits from having a few hundred weirdos off in a corner worrying about… https://t.co/00GtC4UtWG,7,False
+849513688956534784,2017-04-05 06:47:01,".@bryan_caplan 2. I can see the point about ""weird scifi x-risks"" being taken too seriously, but I don't think that this is a problem.",1,False
+849513422379261952,2017-04-05 06:45:57,"1. Cheers to @bryan_caplan for his strident defense of ""the rationality community"" https://t.co/K4z8GQGOUn",7,False
+849475265004802049,2017-04-05 04:14:20,"@LukeDashjr @JihanWu So, an extension block without two-way convertibility? Interesting.",1,False
+848911187370704896,2017-04-03 14:52:53,"@SDLerner I'm making fun of everyone, including ETC and ourselves :)",1,False
+848805749262356480,2017-04-03 07:53:55,From time to time I will be using https://t.co/zWKQN9P4zM this week as a #malta #FC17 trollbox. Now listening to Silvio Micali on algorand.,25,False
+848033084536528896,2017-04-01 04:43:37,@el33th4xor @socrates1024 Look forward to seeing you!,1,False
+847387823388868608,2017-03-30 09:59:35,@JordenGao Yes. Reach out to v@buterin.com anytime.,0,False
+846604205750038529,2017-03-28 06:05:46,@zooko Running around like a headless chicken = Floyd's cycle finding algorithm,0,False
+846602188184956928,2017-03-28 05:57:45,@stealth2377 Much lower.,1,False
+846557500274966528,2017-03-28 03:00:11,RT @aarcamp: @VitalikButerin @el33th4xor What’s the difference between an HMAC and a Big Mac? One is easier to digest. #CryptoJokes,18,False
+846538025412653056,2017-03-28 01:42:47,RT @zooko: @VitalikButerin Whereas collision resistance is a very different prospect: turn two different chickens into the same McNugget. E…,10,False
+846536783013687296,2017-03-28 01:37:51,"""You would have to turn a Chicken McNugget into a chicken to be able to hack it"" - Don Tapscott on hash algorithm preimage resistance",111,False
+845834013793107970,2017-03-26 03:05:18,@zooko @iang_fc @least_nathan @robustus Unfortunately not since there's high uncertainty about rate of hardware improvements into the future,1,False
+845826033311858688,2017-03-26 02:33:35,"@cguida6 @el33th4xor @ryanxcharles with any channel-based tech, 51% miners can not just censor or revert, but also steal. That's the change.",2,False
+844756569262903296,2017-03-23 03:43:55,"@JaEsf @BitcoinBelle @zooko At current levels, I suppose it would only be a 2**35 factor advantage. But the adv grows as diffivulty grows.",0,False
+844656052247384064,2017-03-22 21:04:30,"@JaEsf @BitcoinBelle @zooko Correct, but halving the bits in a 100-bit problem is still a quadrillion-factor advantage.",0,False
+844526244054159364,2017-03-22 12:28:41,RT @gavinandresen: @VitalikButerin ... some other PoW ONLY if double-SHA256 was horribly broken.,4,False
+844526224433123328,2017-03-22 12:28:37,"RT @gavinandresen: @VitalikButerin I'd be ok with some other PoW algorithm.
+
+I'd even support blending in (over years) some type of PoS to…",8,False
+844412609646465024,2017-03-22 04:57:09,@triptananda @JohnLilic @BitcoinBelle A real one. Not that adiabatic BS.,0,False
+844411050900541440,2017-03-22 04:50:57,@JaEsf @BitcoinBelle Grover's algorithm on first 100 bits of SHA256?,0,False
+844398544425549824,2017-03-22 04:01:15,@BenDMahala Agree. And this is true for every word in the English language.,0,False
+844397952173002753,2017-03-22 03:58:54,"@BitcoinBelle I'd say if btc community coordinated on emergency switch to PoS, society would benefit from them being able to keep the name",2,False
+844397356674154496,2017-03-22 03:56:32,"@BitcoinBelle If NSA has world's only quantum computer, can 51% attack any PoW chain with ease (PoS is immune) you'll want to take that back",4,False
+844396128070184961,2017-03-22 03:51:39,"Would any of these ""define bitcoin thru SHA256"" types really voluntarily call themselves an altcoin if SHA256 broke and they had to switch?",30,False
+844395636107698182,2017-03-22 03:49:42,"@VitalikButerin Specifically, I think the *only* sane way to define bitcoin is roughly as I defined it here https://t.co/Xgoo1CHQzW",11,False
+844395377147219968,2017-03-22 03:48:40,"https://t.co/iOl8tzL6ZI Why can't these people understand that it's fundamentally okay, and unavoidable, to have defns that are subjective?",9,False
+844005203099623424,2017-03-21 01:58:15,@diegueins680 @bramcohen Homestead. CLTV. Ethereum DoS fixes. Bitcoin overflow bug fix.,1,False
+843711313834463232,2017-03-20 06:30:27,Paradox poll of the day.,23,False
+843710720172670976,2017-03-20 06:28:05,".@bryan_caplan Sorry I missed it, happy open borders day!",2,False
+843709379249500160,2017-03-20 06:22:46,RT @bryan_caplan: Aren't you exhausted by your own negativity?,24,False
+843681393682993152,2017-03-20 04:31:33,"@derosetech @junseth Real blockchains need government subsidy, got it. Do you prefer PRC, ROC, ROK or DPRK?",2,False
+843646037474529281,2017-03-20 02:11:04,@LukeDashjr @Buddhamangler Plenty of people who all worship truth end up killing each other over disagreements in interpretation.,1,False
+843644571699490816,2017-03-20 02:05:14,"@AceOfWallStreet @junseth @derosetech Context: it's part of their ideology that The Blockchain, singular, is chain that expends most on PoW",0,False
+843643728191401984,2017-03-20 02:01:53,.@junseth @derosetech Currently we're at ~72% of this. Is this enough for you to consider Ethereum a real blockchai… https://t.co/2J9g764khu,47,False
+843622482640699393,2017-03-20 00:37:28,"@el33th4xor I think that technically doesn't work if segwit gets impl'd as UASF; that said, 51% miners can steal from all lightning channels",6,False
+843444068105437184,2017-03-19 12:48:30,@AlexBatlin @triptananda I said it back in 2015 :) https://t.co/Mx9Fcn2Iwd,5,False
+843292562139959300,2017-03-19 02:46:29,I love how industry-signed letters are becoming our new favorite consensus algorithm.,134,False
+843007689013657600,2017-03-18 07:54:30,"@TommyWorldPower I think you meant ETH there, not ETC.",0,False
+843006675070078976,2017-03-18 07:50:28,"@tivrfoa Why does BU have to be the altcoin, and not the UASF chain?",0,False
+842622030331744256,2017-03-17 06:22:01,"@Arbexx One can imagine a plane that carries many drones, and ejects all of them 100ms before the first missile shoots it down.",0,False
+842621930096156672,2017-03-17 06:21:37,"@Arbexx Yes, but what if future attackers give up on planes and use massive drone armies?",1,False
+842621473604878343,2017-03-17 06:19:49,"/r/bitcoin response to my post: https://t.co/SxS8vlQNzZ
+
+/r/btc response: https://t.co/8O0pyoItl3",60,False
+842595353987760131,2017-03-17 04:36:01,"@bramcohen ""If a change is non-contentious, then it can generally be done safely no matter what the format of the fork is"" - from my post",0,False
+842593017441615872,2017-03-17 04:26:44,RT @BTC_kahir: @VitalikButerin https://t.co/BXyaLZbPw8,31,False
+842585736301895680,2017-03-17 03:57:48,@HoboJerk @haq4good @zooko I have an argument that proof of burn is economically equivalent to a bilateral hard fork under some assumptions,2,False
+842547096599195650,2017-03-17 01:24:16,"My post on this topic, as promised: https://t.co/z4DDJc70ya https://t.co/NWUdrDUQpd",149,False
+842295447263707136,2017-03-16 08:44:18,"Ok, maybe modern attack-defense asymmetry isn't quite so unambiguously attacker-favoring after all https://t.co/FaETtijvnV",20,False
+842281401395294208,2017-03-16 07:48:29,"@johnsonlau01 @BashCo_ @btcfork @el33th4xor The point is that default pressure is with the change, not with the non-change",0,False
+842240566205202432,2017-03-16 05:06:13,"I feel like I should also write a post soon about why hard forks are (i) cleaner, (ii) more freedom-preserving than soft forks.",85,False
+842239564756393984,2017-03-16 05:02:14,"@bergealex4 I'm merely pointing out what is possible, and defending my stance in favor of hard forks over soft forks.",1,False
+842239399354023937,2017-03-16 05:01:35,"@brian_argstrong @beijingbitcoins Basically, take all the bitcoin core arguments in favor of UASF and turn it against them",1,False
+842239203123507201,2017-03-16 05:00:48,@brian_argstrong @beijingbitcoins I don't think you understand what soft forking segwit to OP_FALSE means,1,False
+842219896729616384,2017-03-16 03:44:05,"@BashCo_ @btcfork @el33th4xor Soft forks more bludgeony than hard forks. With HFs u can join minority chain, with SFs option doesn't exist.",2,False
+842218788888109057,2017-03-16 03:39:41,@phildaian @el33th4xor And don't you dare eat out of it with a soft fork.,1,False
+842176942191210496,2017-03-16 00:53:24,@beijingbitcoins *unless* of course miners counter-attack by soft-forking the segwit opcode into OP_FALSE or something similar,2,False
+842176505123762176,2017-03-16 00:51:40,"@beijingbitcoins Obviously they know the miner vote won't go the way they like, so coin split",2,False
+842176364765630465,2017-03-16 00:51:06,"@beijingbitcoins UASFs are not a full node vote, they're a miner vote plus a coin split if the vote doesn't do the way the proposers like",2,False
+841882612704653312,2017-03-15 05:23:50,@el33th4xor Before or after the Enterprise PepeCoin Alliance?,2,False
+841873030976536576,2017-03-15 04:45:46,"@swagea sure, send me info v@buterin.com",0,False
+841872865079267328,2017-03-15 04:45:06,@DontPanicBurns Intuitionism doesn't :),0,False
+841540375978299392,2017-03-14 06:43:55,"""Principles can have weights other than zero and infinity"" - myself, June 22, 2012. https://t.co/d4rEqeBx2H",16,False
+841144714841616385,2017-03-13 04:31:42,@hdiedrich It's not. But still worth shaming those who do this.,0,False
+841105685081292800,2017-03-13 01:56:36,"@gavinandresen Or even more precisely: I'm ok with being on the big-block chain, 1 MB chain or SW UASF chain, whichever has most hashpower",2,False
+840933966588784640,2017-03-12 14:34:16,"Former Office dev lead brags about making crappy file formats as a ""competitive moat"" https://t.co/EENLO2h1IN",38,False
+840917465047613440,2017-03-12 13:28:41,@virgilgr @VladZamfir Knowledge and skill useful to those of wealth gives most power of all :),2,False
+840880039595991041,2017-03-12 10:59:58,"@leashless My instinct is that the most viable way is to convince Trump that Snowden is an ally against the ""Deep State"". Thoughts?",6,False
+840862588653068288,2017-03-12 09:50:38,"@eric_lombrozo Toppings are unlimited, though only soft forks and spoons are provided as utensils.",2,False
+840860649441837056,2017-03-12 09:42:55,"If I asked you to pledge allegiance to the Cult of Bayes, would your answer be the same as your answer to this question? @VladZamfir",9,False
+840860364262662146,2017-03-12 09:41:47,Preferred consensus flavor,11,False
+840789339953016832,2017-03-12 04:59:34,"@RouletteRun Of course, mainstream deployment would take much longer, agreed there.",0,False
+840787395708502018,2017-03-12 04:51:50,"@RouletteRun I was thinking bootstrapping this inside the existing crypto community, eg. hardware vendors, conferences, exchange fees, etc",0,False
+840777307845414912,2017-03-12 04:11:45,"I just published ""A Note on Charity Through Marginal Price Discrimination"" https://t.co/sLecLvyL1r",29,False
+840562624316157952,2017-03-11 13:58:41,"@el33th4xor @gadikian DEXes are great for crypto-to-crypto, but crypto-to-fiat will *always* have centralization/regulatory choke points",4,False
+840475841431715842,2017-03-11 08:13:50,"RT @aantonop: @VitalikButerin Agreed. I did commit, there are several videos where I said it was a bad idea to centralize access via ETF.",11,False
+840440501840961536,2017-03-11 05:53:24,"@lioninawhat Various commentators on bitcoin ETF refusal, eg. https://t.co/Et7h9e6dRh",6,False
+840439956044566528,2017-03-11 05:51:14,"RT @Snowden: In 2014, the government sought to create the world's most dangerous key, claiming it would never be leaked. https://t.co/X7PBb…",2170,False
+840419288049631234,2017-03-11 04:29:07,Intellectual honesty reminder: you should commit to how important you believe X-vs-not-X is to Y *before* X or not-X takes place.,46,False
+840194733725032448,2017-03-10 13:36:49,RT @oleganza: Blockchain wars https://t.co/JQMZwy8kQ4,217,False
+840194548752044033,2017-03-10 13:36:05,"RT @el33th4xor: Healthcare is the #1 enabler for entrepreneurship. Without it, young people have no choice but to work for a big company. h…",34,False
+840194206329053190,2017-03-10 13:34:43,"@seweso @drwasho @el33th4xor If they want something more well-tested and already developed with many decoding tools, can also do RLP.",0,False
+840193954687545345,2017-03-10 13:33:43,@seweso @drwasho @el33th4xor Or FlexTrans :)  (daily reminder that the bitcoin tx format is insane) https://t.co/Bc2cAaZU8s,0,False
+840186180289290241,2017-03-10 13:02:49,"@spiroseliot Also, PoS validators are *contractors* of the network, not decision makers. Casper protocol designed around this philosophy.",2,False
+840186047749283840,2017-03-10 13:02:18,@spiroseliot So is PoW.,0,False
+840087039890546688,2017-03-10 06:28:53,“Formal methods on another Casper” by @pirapira https://t.co/1yeVumgJGB,9,False
+839979919081840640,2017-03-09 23:23:13,"@father_mayhem I believe in good and bad, and that winners are sometimes bad.",2,False
+839979213381746689,2017-03-09 23:20:25,I am going to write a blog post soon about the difference between market mechanisms and plutocracy. Very important distinction.,47,False
+839979058968449024,2017-03-09 23:19:48,@dbrisinda I agree that the ETC case is important to think about.,0,False
+839978971848626176,2017-03-09 23:19:27,"@dbrisinda In the segwit vs BU case, it's not really about that, it's about difference in scaling+governance strategies",0,False
+839978871910936576,2017-03-09 23:19:03,"@dbrisinda In the ETC case, you can *kinda* argue that ETC people voluntarily opted into crypto wild west morality",0,False
+839978379675762688,2017-03-09 23:17:06,"@dbrisinda Are you talking about ETC, or segwit vs BU?",0,False
+839978237442760704,2017-03-09 23:16:32,"@sheldonth Oh, I agree that people are capable of exercising coercive plutocracy. I just think free choice is morally better :)",0,False
+839978053656760320,2017-03-09 23:15:48,"@sickpig in the case of bitcoin, note that BU is strict loosening with respect to the current protocol *and* wrt segwit UASF",0,False
+839977846374256640,2017-03-09 23:14:59,"@sickpig And strict loosening HFs, where old-protocol blocks are valid according to new protocol",0,False
+839977777465970688,2017-03-09 23:14:42,"@sickpig As opposed to soft forks, where new-protocol blocks are valid according to old protocol ...",0,False
+839977649317396481,2017-03-09 23:14:12,"@sickpig blocks of branch A are invalid on branch B, and blocks of branch B are invalid on branch A",0,False
+839976700586868737,2017-03-09 23:10:26,"@phildaian @VladZamfir Some may never sell. If BTC mkt cap reaches gold, $7t / 21m * 100k whale = $33b, so roughly same order as bill gates",1,False
+839970561816125442,2017-03-09 22:46:02,@koeppelmann Agree. I am simply pointing out an inconsistency between bitcoin (or other) maximalism and libertarianism.,0,False
+839970070176514049,2017-03-09 22:44:05,"@MrHodl If they socially discourage people from using a chain, free market. If they use technological means to stop one existing, then no",0,False
+839968816918487040,2017-03-09 22:39:06,@KarateMc4w350m3 Using social techniques to *encourage* people to only care about one chain or the other doesn't count; that's marketing,2,False
+839968402152148992,2017-03-09 22:37:27,"@KarateMc4w350m3 (i) 51% spawn camp attacks, (ii) deliberately choosing HF strategy to prevent possibility of 2 persistent chains",0,False
+839967608925331456,2017-03-09 22:34:18,"@sheldonth No, the user's power to *choose* is the free market. Plutocracy != market, they are 2 distinct mechanisms.",0,False
+839967366893010944,2017-03-09 22:33:20,@DRealJackSeger 2015 Jul 30.,0,False
+839967333711933440,2017-03-09 22:33:12,@BitConsultants (ii) that was to prevent attacker from getting money out; request withdrawn as soon as we found out attacker had to wait 35d,0,False
+839967141319188480,2017-03-09 22:32:26,@BitConsultants (i) that has nothing to do with the DAO *fork*,0,False
+839965115927703554,2017-03-09 22:24:24,To those who see snuffing out the opposing chain in a fork as a good thing: why do you hate free markets?,38,False
+839963801806073856,2017-03-09 22:19:10,Conclusion of the day: bilateral hard forks are safer than strict loosening (or for that matter UASF); no super-mega-reorg risks,10,False
+839844642170494981,2017-03-09 14:25:40,@blockrocket @VladZamfir Sorry! Made to say 2016,0,False
+839844582699433985,2017-03-09 14:25:26,"@VladZamfir I used to agree, but events culminating 2016.11.09 made me adjust upwards my estimate of the influence of Deplorables in society",3,False
+839718147523555328,2017-03-09 06:03:02,@gavinandresen @SatoshiLite I think he's talking about the scenario where the segwit UASF chain is the longest chain under BU rules,0,False
+839649920604778496,2017-03-09 01:31:55,@phildaian Do you know if these apps do much to *spoof* metadata (eg. send junk messages at random intervals)?,0,False
+839649776865943552,2017-03-09 01:31:21,"@phildaian Agree, though we should avoid defeatism: metadata is still much less than data",0,False
+839649443397804034,2017-03-09 01:30:01,"I have few things to hide, though private keys are one of them and they're really quite important.",42,False
+839648984880701440,2017-03-09 01:28:12,"Important clarification re Signal ""being hacked"" https://t.co/Vdrhut4LPc ; NOTE: argument about layers of sec applies to private keys too!",31,False
+839648863543681024,2017-03-09 01:27:43,"https://t.co/lS6OTwz8rc ... one china policy ... make a deal on other things ... see, even centralized governance not incentive-compatible",5,False
+839403673838993408,2017-03-08 09:13:25,@BobSummerwill Remember these guys https://t.co/4dm8OXlPm9 ?,0,False
+839049317599985664,2017-03-07 09:45:20,"@timelessdev Sorry, I was being sarcastic :) See what I was replying to.",1,False
+839048591935062016,2017-03-07 09:42:27,"@gparalikidis For example, I often have entire slides saying ""Why Ethereum Sucks"", followed by our roadmap for fixing it",0,False
+839048488272855040,2017-03-07 09:42:03,"@gparalikidis A lot of that post is things that I say at many events, it just suddenly got new reaction b/c vlad said it in a different tone",0,False
+839046964536750080,2017-03-07 09:35:59,"@VitalikButerin Ethereum community open, growing and increasingly decentralized. Lots of room for independent projects &amp; self-organization!",659,False
+839046506124472320,2017-03-07 09:34:10,"Reminder: Ethereum Labs, EthEnt Alliance, Ethcore/parity, etc. are *independent* orgs, no official relation w/ Ethereum Foundation.",90,False
+838766059628867584,2017-03-06 14:59:46,Hacker News thread on IBM's 50-qubit quantum computer announcement: https://t.co/6zJFWavOFB,30,False
+838721344892121089,2017-03-06 12:02:05,"@celeduc Though IMO, it's not quite that farfetched an intersection; linguistics + scifi basically gets you there.",0,False
+838720843853094912,2017-03-06 12:00:06,@celeduc You forgot Greek.,0,False
+838671803471941632,2017-03-06 08:45:14,@celeduc HT to https://t.co/I00oanD6hH for that one.,0,False
+838671632621170688,2017-03-06 08:44:33,@celeduc And multilingual puns. Why do Star Trek engines use dilithium? Because you need dilith (two stone) to overcome monolith (ein stein),0,False
+838632662709514240,2017-03-06 06:09:42,"I wish I was an optimal Ate pairing line function, so I could lie tangent to your elliptic curves. Sixty four times. #obscurecryptojokes",13,False
+838619974734315520,2017-03-06 05:19:17,"@loi_luu But you could go right to left. Though you're right, bidirectional would make the example clearer",0,False
+838613930557612032,2017-03-06 04:55:16,"@RedPillTrading @eric_lombrozo Soft forks are not opt-in. If 51% of miners choose to enforce a new rule, you cannot even opt out.",1,False
+838613600268775424,2017-03-06 04:53:57,"@donaldmcintyre_ Sure, though all academic evidence suggests that 4mb is fine, and that was *two years ago*.",1,False
+838610375167746048,2017-03-06 04:41:08,Minimal slashing conditions explained by analogy https://t.co/YYQZ6LUdmB,22,False
+838598701597798400,2017-03-06 03:54:45,@eric_lombrozo And soft forks are somehow not coercive?,0,False
+838590336377229312,2017-03-06 03:21:31,"@Excellion I think it's more ""you're being crazy even by your own standards""",0,False
+838590101546545152,2017-03-06 03:20:35,Hard forks: they're controversial because some people oppose them because they're concerned they would be too contr… https://t.co/HXFjXcHAsl,17,False
+838390698550284288,2017-03-05 14:08:13,"@iamjosephyoung @nikzh He said average, that source gives median.",0,False
+838349334420815872,2017-03-05 11:23:51,"@DRealJackSeger Depending on  political ideology: (i) they are monopolies, mkt NOT keeping them in check, (ii) too vulnerable to regulators",0,False
+838342372765417473,2017-03-05 10:56:11,@bit_novosti @TuurDemeester That's not what Vlad is talking about. Vlad is talking about Casper-style economic finality.,0,False
+838265225635741697,2017-03-05 05:49:38,@TuurDemeester Note that most of that applies to every other cryptocurrency too,4,False
+838252118213439490,2017-03-05 04:57:33,@TuurDemeester PR attacks work on PoW too. See bitcoin core threatening to fork to a new PoW algo if chinese miners don't bend to their will,1,False
+838250840045412353,2017-03-05 04:52:28,"@JaEsf @TuurDemeester Agree complexity is a risk! That said, I feel like our latest casper designs are actually quite tame.",0,False
+838193954528976898,2017-03-05 01:06:26,"@oneofthefreds @MrChrisEllis Not at all clear that was the hard fork. See: the DAO hack, the DoS attacks.",0,False
+838063812146257921,2017-03-04 16:29:17,I just published “Safety Under Dynamic Validator Sets” https://t.co/xIBEQbK19c,82,False
+838044418137452548,2017-03-04 15:12:14,"@AlpacaSW Ok, true. I was thinking of bilateral hard forks, eg. ETC vs ETH.",0,False
+838043292059103232,2017-03-04 15:07:45,@AlpacaSW Not really; annihilation of either chain would require an explicit 51% attack.,0,False
+838042931541893122,2017-03-04 15:06:19,@AlpacaSW Worst case UASF is a split currency where the non-SF chain gets suddenly annihilated by a growing SF chain 3 months later,0,False
+838042726713077760,2017-03-04 15:05:30,"@AlpacaSW Wrong: best case hard fork is that no one cares about one of the two sides, ie. all ethereum forks except for one.",0,False
+837973480146624512,2017-03-04 10:30:21,@phronez 'EMH is true' and 'EMH is not true' are both way overly simplistic perspectives.,0,False
+837972913588473857,2017-03-04 10:28:06,2017: the year when even dictionaries start trolling the president. (context: https://t.co/M2mWAj5d5d) https://t.co/6ai7N0Eh8C,10,False
+837907587794255872,2017-03-04 06:08:31,Special thanks to the Zcash team for providing a very interesting and multifaceted real-world test of the efficient market hypothesis.,32,False
+837885103426560000,2017-03-04 04:39:10,"@AlpacaSW What to you is (i) a best case hard fork, (ii) a worst case hard fork, and (iii) a worst case UASF?",0,False
+837832757438902273,2017-03-04 01:11:10,"@m4ntr4x (iii) if there is a ~50/50 split between miners, chaotic forks and rejoins can happen many times",0,False
+837832202628947968,2017-03-04 01:08:57,"@m4ntr4x (ii) since the majority of miners may switch over later, the no-fork chain is under constant risk of getting annihilated",0,False
+837832030456963073,2017-03-04 01:08:16,@m4ntr4x Costs: (i) the stability risks of a chaotic split into two chains if the majority of miners do not install the fork,0,False
+837831825170915328,2017-03-04 01:07:27,"@m4ntr4x (ii) not as much user freedom, as if the majority of miners download then users who refuse are stuck on the miners' chain",0,False
+837831606177914880,2017-03-04 01:06:35,@m4ntr4x No benefits: (i) only soft-fork-able changes can be implemented in this way,0,False
+837811319910858752,2017-03-03 23:45:59,Just to be clear: this is pretty close to having 100% of the dangers and 0% of the benefits of a hard fork https://t.co/GxC59Hi0r3,74,False
+837660781483180033,2017-03-03 13:47:47,"RT @BlockInTheChain: @lightcoin @ssoeborg @kristovatlas ""They laughed at Columbus, they laughed at Fulton, they laughed at the Wright broth…",3,False
+837268519754608641,2017-03-02 11:49:05,"@a3456gf @SatoshiLite @BronxR Too much focus on negative strategy (why core sucks), not enough positive strategy (building BU roadmap+tech)",0,False
+837209507767943168,2017-03-02 07:54:35,I just published “Minimal Slashing Conditions” https://t.co/CayMRzJrDL,37,False
+837151206233366528,2017-03-02 04:02:55,@gavinandresen The economically largest ledger that has economic and ecosystem continuity from Satoshi's genesis block.,4,False
+837150398888628224,2017-03-02 03:59:43,@gavinandresen Ethereum is adding precompiles for elliptic curve pairing checks. Feel free to experiment once the integration is done :),6,False
+836319241615904768,2017-02-27 20:56:59,@miami_bitcoin @ethereum You forgot the cat bag.,0,False
+836259329766473728,2017-02-27 16:58:55,@crainbf @sytaylor Hooray for failure to grok the short run / long run demand curve distinction,2,False
+836258955957522433,2017-02-27 16:57:26,"@mwilcox @GeorgeAHallam @crainbf The concept you're looking for isn't statefulness, it's interactivity. And BTW LN is interactive.",0,False
+836258428595089408,2017-02-27 16:55:20,"@mwilcox @GeorgeAHallam @crainbf Having higher fees than credit cards is okay b/c ""that's the price of financial sovereignty"" or some such?",0,False
+835981546821668866,2017-02-26 22:35:07,"@timoncc @Excellion @ethereumproject Ok, so the centrally planned constant has justification. Good. So do ours.",0,False
+835981381553557507,2017-02-26 22:34:27,@timoncc @Excellion @ethereumproject I was assuming s/miners/validators/g was obvious,0,False
+835609819667181572,2017-02-25 21:58:00,"@neptox Ethash uses keccak, not SHA1. We don't even have an opcode or precompile for SHA1.",0,False
+835574022637248512,2017-02-25 19:35:45,FYI this is actually formally proving correctness of a fairly keystone piece of my latest casper spec. https://t.co/LrdO58wsGu,36,False
+835225694036766722,2017-02-24 20:31:37,@CryptoPsych Is omnism truth?,0,False
+835224636442947584,2017-02-24 20:27:25,"Alatrism: you believe in gods, but you don't bother worshipping any of them. https://t.co/qKHMiOstsl",15,False
+835186678876758016,2017-02-24 17:56:35,"@mwilcox @timoncc @Excellion In cases where you *can* validate faster than executing (eg. order matching), I strongly support it",0,False
+835186525033881601,2017-02-24 17:55:59,@mwilcox @timoncc @Excellion The execution vs validation dichotomy is massively overblown imo; most of the time they're one and the same,0,False
+835183546406948866,2017-02-24 17:44:09,"@mwilcox @timoncc @Excellion Example 4: Merkle branches. Medium size, verification time near-zero.",0,False
+835183396578033664,2017-02-24 17:43:33,"@mwilcox @timoncc @Excellion Example 3: SNARKs vs STARKs: 10x verification time difference, 3000x data size difference",0,False
+835183259764027398,2017-02-24 17:43:00,@mwilcox @timoncc @Excellion Example 2: size/verification time tradeoff in hash ladder Lamport sigs https://t.co/xjdnQvFCwO,0,False
+835183100988702720,2017-02-24 17:42:22,"@mwilcox @timoncc @Excellion Example: EC sig vs zk-SNARK. 4.5x size difference, ~20-60x computation time difference.",0,False
+835182878552174597,2017-02-24 17:41:29,@mwilcox @timoncc @Excellion I strongly contest that claim. Can come up with plenty of time/data mismatches.,0,False
+835181975656939520,2017-02-24 17:37:54,@mwilcox @timoncc @Excellion But I do not see how unrolling execution helps at all,0,False
+835181924712923136,2017-02-24 17:37:42,@mwilcox @timoncc @Excellion I agree that having separate consensus and state computation layers is a promising idea,1,False
+835180670053933057,2017-02-24 17:32:43,@mwilcox @timoncc @Excellion Correct. And transactions with 65 bytes of junk data should be cheaper than txs with 65 bytes of sig data.,0,False
+835180352037597185,2017-02-24 17:31:27,"@mwilcox @timoncc @Excellion So you agree tx fees should be proportional to k1 * bytes + k2 * compute cycles, and not just bytes?",0,False
+835179934243033088,2017-02-24 17:29:47,@mwilcox @timoncc @Excellion No because my hard disk trusts my OS.,0,False
+835179794904006657,2017-02-24 17:29:14,"@mwilcox @timoncc @Excellion Ok, but shoving things into that secondary protocol should have costs.",0,False
+835179129188274176,2017-02-24 17:26:35,@mwilcox @timoncc @Excellion Umm.... you have to have consensus on whether or not transactions are valid or what their effect is,0,False
+835178989937430534,2017-02-24 17:26:02,"@mwilcox @timoncc @Excellion Or does your design somehow not do, say, elliptic curve sig verifications in consensus?",0,False
+835178809989169152,2017-02-24 17:25:19,@mwilcox @timoncc @Excellion Still need to verify the outsourced computation.,0,False
+835176735079542784,2017-02-24 17:17:05,"@deadalnix Are you suggesting the long-run demand curve is endogenous? Interesting and probably true, but difficult to model....",0,False
+835176446268145665,2017-02-24 17:15:56,"@timoncc @mwilcox @Excellion So you agree with me: state size and bandwidth are separate resources, and both should be taken into account.",0,False
+835176291737485313,2017-02-24 17:15:19,@mwilcox @timoncc @Excellion A good approximation would be nice.,0,False
+835176258875064320,2017-02-24 17:15:11,@mwilcox @timoncc @Excellion Transactions are data *and* the computation needed to process them.,0,False

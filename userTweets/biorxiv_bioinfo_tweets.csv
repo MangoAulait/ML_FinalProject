@@ -1,0 +1,201 @@
+id,created_at,text,retweet_count,tweet.retweeted
+850468263704371200,2017-04-07 22:00:09,GAPPadder: A Sensitive Approach for Closing Gaps on Draft Genomes with Short Sequence Reads  https://t.co/Wyykcr5LRH #biorxiv_bioinfo,1,False
+850453171201769474,2017-04-07 21:00:11,GSA-Genie: a web application for gene set analysis  https://t.co/ZA8K6BeV2V #biorxiv_bioinfo,1,False
+850407894193516545,2017-04-07 18:00:16,Non-Parametric Estimation Of Population Size Changes From The Site Frequency Spectrum  https://t.co/Tk6vFAHYmg #biorxiv_bioinfo,0,False
+850407885528064002,2017-04-07 18:00:14,DeepBound: Accurate Identification of Transcript Boundaries via Deep Convolutional Neural Fields  https://t.co/y52XsA6mOA #biorxiv_bioinfo,0,False
+850392768484708352,2017-04-07 17:00:10,De novo assembly of microbial genomes from human gut metagenomes using barcoded short read ...  https://t.co/0h91q3rCvS #biorxiv_bioinfo,1,False
+850136071937691648,2017-04-07 00:00:08,Cycledash: a web application for the interactive analysis and exploration of variants  https://t.co/qGQHydG6gg #biorxiv_bioinfo,0,False
+850120983398764545,2017-04-06 23:00:11,Comprehensive statistical inference of the clonal structure of cancer from multiple biopsies  https://t.co/t8qTxv7mmJ #biorxiv_bioinfo,0,False
+850120974473330688,2017-04-06 23:00:09,ZINB-WaVE: A general and flexible method for signal extraction from single-cell RNA-seq data  https://t.co/WKgCrH3tgZ #biorxiv_bioinfo,0,False
+850060599228805121,2017-04-06 19:00:14,Literature Evidence in Open Targets - a target validation platform  https://t.co/ZV3HoJTcjV #biorxiv_bioinfo,0,False
+850060590299176960,2017-04-06 19:00:12,SOMSC: Self-Organization-Map for High-Dimensional Single-Cell Data of Cellular States and ...  https://t.co/qNyToR2COg #biorxiv_bioinfo,0,False
+850060581671493632,2017-04-06 19:00:10,Unbiased Estimate Of Synonymous And Non-Synonymous Substitution Rates With Non-Stationary ...  https://t.co/EwSf4ZSROX #biorxiv_bioinfo,0,False
+849788784627634176,2017-04-06 01:00:09,SOMSC: Self-Organization-Map for High-Dimensional Single-Cell Data of Cellular States and ...  https://t.co/fjZCc5YY5k #biorxiv_bioinfo,1,False
+849713294713790465,2017-04-05 20:00:11,"MMTF - an efficient file format for the transmission, visualization, and analysis of ...  https://t.co/sivekUhPqs #biorxiv_bioinfo",0,False
+849683108270153728,2017-04-05 18:00:14,HadoopCNV: A Dynamic Programming Imputation Algorithm To Detect Copy Number Variants From ...  https://t.co/daLtj08neT #biorxiv_bioinfo,1,False
+849683100464492544,2017-04-05 18:00:12,"DIVERSITY In Binding, Regulation, And Evolution Revealed From High-Throughput ChIP  https://t.co/jlPxJCn55t #biorxiv_bioinfo",0,False
+849683091450998790,2017-04-05 18:00:10,SeedVicious: analysis of microRNA target and near-target sites  https://t.co/oBsMgQkDYd #biorxiv_bioinfo,1,False
+849381096475291649,2017-04-04 22:00:08,PREDICTD: PaRallel Epigenomics Data Imputation With Cloud-based Tensor Decomposition  https://t.co/P4TfUKdT8L #biorxiv_bioinfo,1,False
+849366076915843074,2017-04-04 21:00:27,Interactive Visual Exploration And Refinement Of Cluster Assignments  https://t.co/37Wdy0EhPV #biorxiv_bioinfo,3,False
+849366057987043329,2017-04-04 21:00:23,"UNBIAS: An attempt to correct abundance bias in 16S sequencing, with limited success  https://t.co/6xNHfls8Zk #biorxiv_bioinfo",16,False
+849366038613504000,2017-04-04 21:00:18,CellView: Interactive Exploration Of High Dimensional Single Cell RNA-Seq Data  https://t.co/7bO6s4bn92 #biorxiv_bioinfo,1,False
+849366030111703042,2017-04-04 21:00:16,SINAPS: Prediction of microbial traits from marker gene sequences  https://t.co/7gsorfy1on #biorxiv_bioinfo,2,False
+849366022243192833,2017-04-04 21:00:14,SEARCH_16S: A new algorithm for identifying 16S ribosomal RNA genes in contigs and chromosomes  https://t.co/dOeIjLCpfe #biorxiv_bioinfo,8,False
+848973467592650752,2017-04-03 19:00:22,HiPiler: Visual Exploration Of Large Genome Interaction Matrices With Interactive Small Multiples  https://t.co/udwVEnWZNx #biorxiv_bioinfo,2,False
+848958322732617730,2017-04-03 18:00:11,CiliaCarta: An Integrated And Validated Compendium Of Ciliary Genes  https://t.co/MQWb5wGq9J #biorxiv_bioinfo,1,False
+848958314218217474,2017-04-03 18:00:09,Scallop Enables Accurate Assembly Of Transcripts Through Phasing-Preserving Graph Decomposition  https://t.co/j2iBoq4reW #biorxiv_bioinfo,1,False
+848913053475385344,2017-04-03 15:00:18,Meta-Analysis Of Liver Transcriptomic Data To Identify Mammalian Functional Orthologs  https://t.co/BGA7tNRvjV #biorxiv_bioinfo,4,False
+848913035477626882,2017-04-03 15:00:14,blkbox: Integration Of Multiple Machine Learning Approaches To Identify Disease Biomarkers  https://t.co/fwstILiQ6B #biorxiv_bioinfo,1,False
+848656329359192065,2017-04-02 22:00:10,CogStack - Experiences Of Deploying IntegratedInformation Retrieval And Extraction Services ...  https://t.co/CpRxg6uPRH #biorxiv_bioinfo,1,False
+848369432002953216,2017-04-02 03:00:09,Personal Cancer Genome Reporter: Variant Interpretation Report For Precision Oncology  https://t.co/PJvKcRYpoY #biorxiv_bioinfo,2,False
+847901346787471360,2017-03-31 20:00:08,Intra-protein binding peptide fragments have specific and intrinsic sequence patterns  https://t.co/T0BXrmdA6J #biorxiv_bioinfo,1,False
+847886291702358016,2017-03-31 19:00:19,karyoploteR: An R/Bioconductor Package To Plot Customizable Linear Genomes Displaying ...  https://t.co/pPo8qKbMvk #biorxiv_bioinfo,0,False
+847886280327389186,2017-03-31 19:00:16,Exhaustive capture of biological variation in RNA-seq data through k-mer decomposition  https://t.co/SVsxeVwZyR #biorxiv_bioinfo,14,False
+847886270651039745,2017-03-31 19:00:14,RNA-Seq 2G: Online Analysis Of Differential Gene Expression With Comprehensive Options Of ...  https://t.co/3NRtduU64T #biorxiv_bioinfo,2,False
+847886255132200961,2017-03-31 19:00:10,A Site Specific Model And Analysis Of The Neutral Somatic Mutation Rate In Whole-Genome ...  https://t.co/w85imgY67r #biorxiv_bioinfo,2,False
+847886246366113792,2017-03-31 19:00:08,HiGlass: Web-based Visual Comparison And Exploration Of Genome Interaction Maps  https://t.co/YwZ5zLZ4ri #biorxiv_bioinfo,3,False
+847584275163631617,2017-03-30 23:00:13,Predicting Causal Relationships from Biological Data: Applying Automated Casual Discovery on ...  https://t.co/Ny1QmxkPVO #biorxiv_bioinfo,2,False
+847554060660199424,2017-03-30 21:00:09,xMWAS: an R package for data-driven integration and differential network analysis  https://t.co/rfKh5oiGTK #biorxiv_bioinfo,4,False
+847538960901558273,2017-03-30 20:00:09,miniMDS: 3D structural inference from high-resolution Hi-C data  https://t.co/TioovHFwim #biorxiv_bioinfo,6,False
+847146383677308939,2017-03-29 18:00:11,Squeakr: An Exact and Approximate k-mer Counting System  https://t.co/kozWN3PC0I #biorxiv_bioinfo,4,False
+847146374684721155,2017-03-29 18:00:09,Multiple Kernel Learning Approach For Medical Image Analysis  https://t.co/ow2RBXgE1x #biorxiv_bioinfo,1,False
+847116204661772289,2017-03-29 16:00:16,Enhancing Sensitivity And Controlling False Discovery Rate In Somatic Indel Discovery Using ...  https://t.co/pIB3CaTrad #biorxiv_bioinfo,1,False
+847116195807608832,2017-03-29 16:00:14,Canvas SPW: Calling De Novo Copy Number Variants In Pedigrees  https://t.co/n10fIkGCUq #biorxiv_bioinfo,1,False
+847116187381219329,2017-03-29 16:00:12,SUPERmerge: ChIP-Seq Coverage Island Analysis Algorithm For Broad Histone Marks  https://t.co/Qfw5716vWp #biorxiv_bioinfo,2,False
+847101079808610306,2017-03-29 15:00:10,Patternize: An R Package For Quantifying Color Pattern Variation  https://t.co/o5WIYj8dVB #biorxiv_bioinfo,1,False
+846829288620019712,2017-03-28 21:00:10,Interaction Of N-3-Oxododecanoyl Homoserine Lactone With LasR Protein Of Pseudomonas ...  https://t.co/AnJigZuKN1 #biorxiv_bioinfo,2,False
+846768890021588992,2017-03-28 17:00:10,Correcting For Cell-Type Heterogeneity In Epigenome-Wide Association Studies: Premature ...  https://t.co/LNKNYBcTNG #biorxiv_bioinfo,1,False
+846723597406294017,2017-03-28 14:00:11,Plasmid Profiler: Comparative Analysis Of Plasmid Content In WGS Data  https://t.co/y41XkOJkXX #biorxiv_bioinfo,4,False
+846451805454286850,2017-03-27 20:00:11,ClusterEnG: An interactive educational web resource for clustering big data  https://t.co/tm7lJoLhRy #biorxiv_bioinfo,4,False
+846376296791904257,2017-03-27 15:00:08,Genome Build Information Is An Essential Part Of Genomic Track Files  https://t.co/pnqdIMGhyh #biorxiv_bioinfo,3,False
+846149800542138368,2017-03-27 00:00:07,SNP genotyping and parameter estimation in polyploids using low-coverage sequencing data  https://t.co/cWwMv5TTiu #biorxiv_bioinfo,2,False
+846059210479669248,2017-03-26 18:00:09,Machine Learning-Based State-Of-The-Art Methods For The Classification Of RNA-Seq Data  https://t.co/79JqwfVWn0 #biorxiv_bioinfo,5,False
+845787412345356288,2017-03-26 00:00:07,UpSetR: An R Package For The Visualization Of Intersecting Sets And Their Properties  https://t.co/wapPTkqqwP #biorxiv_bioinfo,60,False
+845651519030677504,2017-03-25 15:00:08,Fast functional annotation of metagenomic shotgun data by DNA alignment to a microbial gene ...  https://t.co/HpYTsOkYPa #biorxiv_bioinfo,2,False
+845636429057331200,2017-03-25 14:00:10,STAG-CNS: An Order-Aware Conserved Non-coding Sequences Discovery Tool For Arbitrary Numbers ...  https://t.co/9b8F7qDRIA #biorxiv_bioinfo,4,False
+845500528704589824,2017-03-25 05:00:09,Evolutionarily Conserved Alternative Splicing Across Monocots  https://t.co/HNBqg1r84M #biorxiv_bioinfo,14,False
+845409947844268032,2017-03-24 23:00:13,STAR-Fusion: Fast and Accurate Fusion Transcript Detection from RNA-Seq  https://t.co/iKFxa45Jol #biorxiv_bioinfo,2,False
+845409938818191361,2017-03-24 23:00:11,PHATE: A Dimensionality Reduction Method for Visualizing Trajectory Structures in ...  https://t.co/SLlCYL0Inh #biorxiv_bioinfo,3,False
+845319336902475776,2017-03-24 17:00:09,JfxNgs : A BAM/VCF viewer with javascript-based filtering/reformatting functionalities  https://t.co/siMdlT6HOM #biorxiv_bioinfo,1,False
+845304256005574656,2017-03-24 16:00:14,Network analysis of patient flow in two UK acute care hospitals identifies key sub-networks ...  https://t.co/SJtFedkZQs #biorxiv_bioinfo,2,False
+845304247835136000,2017-03-24 16:00:12,"Assembling Metagenomes, One Community At A Time  https://t.co/NTzsbDWPPr #biorxiv_bioinfo",3,False
+845077743440216064,2017-03-24 01:00:09,Transcripts evolutionary conservation and structural dynamics give insights into the role of ...  https://t.co/MtjrK1prLt #biorxiv_bioinfo,4,False
+845062658780991488,2017-03-24 00:00:13,Integrated Structure-Transcription analysis of small molecules reveals widespread noise in ...  https://t.co/uE80rGxlnO #biorxiv_bioinfo,1,False
+845062650472095744,2017-03-24 00:00:11,Behavioral decoding of Drosophila locomotionin a circular arena  https://t.co/8KSIKdXtbK #biorxiv_bioinfo,1,False
+845062642150658048,2017-03-24 00:00:09,Genomic analysis of human polymorphisms affecting drug-protein interactions  https://t.co/ukiKfD9UfB #biorxiv_bioinfo,3,False
+844941847776645120,2017-03-23 16:00:09,Assessing The Reliability Of Spike-In Normalization For Analyses Of Single-Cell RNA ...  https://t.co/IyjP9M3aTw #biorxiv_bioinfo,1,False
+844775763530309633,2017-03-23 05:00:11,Bamgineer: Introduction of simulated allele-specific copy number variants into exome and ...  https://t.co/MPkE40pXv6 #biorxiv_bioinfo,1,False
+844645635987046400,2017-03-22 20:23:07,Phandango: an interactive viewer for bacterial population genomics.  https://t.co/1uwFMaQWTP #biorxiv_bioinfo,10,False
+844609650536464388,2017-03-22 18:00:07,LncATLAS database for subcellular localisation of long noncoding RNAs  https://t.co/fVOT6PXRGk #biorxiv_bioinfo,4,False
+844594593626804226,2017-03-22 17:00:17,clusterTools: Proximity Searches For Functional Elements To Identify Putative Biosynthetic ...  https://t.co/U2wO3YLzrm #biorxiv_bioinfo,1,False
+844594585691140097,2017-03-22 17:00:15,CRISPulator: A Discrete Simulation Tool For Pooled Genetic Screens  https://t.co/4UsVlsLwoW #biorxiv_bioinfo,1,False
+844579482153443328,2017-03-22 16:00:14,UBiT2: a client-side web-application for gene expression data analysis  https://t.co/rqkVBsi2yN #biorxiv_bioinfo,0,False
+844579474024869890,2017-03-22 16:00:12,Assembly Of Whole-Chromosome Pseudomolecules For Polyploid Plant Genomes Using Outcrossed ...  https://t.co/64Dw5FlBeM #biorxiv_bioinfo,2,False
+844549274327273472,2017-03-22 14:00:12,Gene Length And Detection Bias In Single Cell RNA Sequencing Protocols  https://t.co/XyPWS6grme #biorxiv_bioinfo,2,False
+844398262035582976,2017-03-22 04:00:08,CoGe LoadExp+: A web-based suite that integrates next-gen sequencing data analysis workflows ...  https://t.co/8RwYvBA40q #biorxiv_bioinfo,1,False
+844262385540104192,2017-03-21 19:00:13,BEARscc: Robustness Of Single-Cell Clusters Determined Using Simulated Technical Replicates  https://t.co/WVFSrsV3up #biorxiv_bioinfo,1,False
+844262376249737216,2017-03-21 19:00:10,SIMLR: A Tool For Large-Scale Single-Cell Analysis By Multi-Kernel Learning  https://t.co/YK2Dp648G0 #biorxiv_bioinfo,2,False
+844247278730686465,2017-03-21 18:00:11,SmartScope2: Simultaneous Imaging and Reconstruction of Neuronal Morphology  https://t.co/MQmdKtFpYL #biorxiv_bioinfo,1,False
+844066068402462720,2017-03-21 06:00:07,Multiplexing droplet-based single cell RNA-sequencing using natural genetic barcodes  https://t.co/2hip7qirbx #biorxiv_bioinfo,1,False
+844020777469034497,2017-03-21 03:00:09,Correcting for Dependent P-values in Rhythm Detection  https://t.co/Q2XBGzP64R #biorxiv_bioinfo,1,False
+844005703652167681,2017-03-21 02:00:15,Bootstrapping and Empirical Bayes Methods Improve Rhythm Detection in Sparsely Sampled Data  https://t.co/6UtaaZnZ7a #biorxiv_bioinfo,2,False
+844005695460724736,2017-03-21 02:00:13,RegCyanoDB: a database of cyanobacterial regulatory interactions  https://t.co/1HJuJLX9ow #biorxiv_bioinfo,1,False
+844005688389091331,2017-03-21 02:00:11,GAMtools: an automated pipeline for analysis of Genome Architecture Mapping data  https://t.co/TxoBiwDU8S #biorxiv_bioinfo,3,False
+843884919340392448,2017-03-20 18:00:18,"Identifiers for the 21st century:How to design, provision, and reuse persistent identifiers ...  https://t.co/6CAC1Dlkgs #biorxiv_bioinfo",4,False
+843839602658082816,2017-03-20 15:00:13,Cross-Platform Normalization Enables Machine Learning Model Training On Microarray And ...  https://t.co/GYozRnhzJx #biorxiv_bioinfo,1,False
+843839593057345536,2017-03-20 15:00:11,MELODI - Mining Enriched Literature Objects to Derive Intermediates  https://t.co/FBz6IHokNk #biorxiv_bioinfo,1,False
+843296000592764929,2017-03-19 03:00:08,"ChIPSeqFPro, a pipeline for sequential processing of ChIP-Seq fastq to bigwig files  https://t.co/LxElrYQS5p #biorxiv_bioinfo",2,False
+843129914442350592,2017-03-18 16:00:10,ARIBA: rapid antimicrobial resistance genotyping directly from sequencing reads  https://t.co/a1cykgJsvk #biorxiv_bioinfo,26,False
+843129905873408000,2017-03-18 16:00:08,GROOLS: reactive graph reasoning for genome annotation through biological processes  https://t.co/FhtEpW17OL #biorxiv_bioinfo,3,False
+843054411400318977,2017-03-18 11:00:09,SQANTI: extensive characterization of long read transcript sequences for quality control in ...  https://t.co/FAcOqZZIb6 #biorxiv_bioinfo,2,False
+843054403418537984,2017-03-18 11:00:07,deStruct: Accurate Rearrangement Detection using Breakpoint Specific Realignment  https://t.co/ROYoDUjx9O #biorxiv_bioinfo,5,False
+842797734453239808,2017-03-17 18:00:12,A Novel And Efficient Algorithm For De Novo Discovery Of Mutated Driver Pathways In Cancer  https://t.co/Y9fAE6Tnf3 #biorxiv_bioinfo,1,False
+842782650070945794,2017-03-17 17:00:16,Comparison Of Multi-locus Sequence Typing Software For Next Generation Sequencing Data  https://t.co/gFq8hHtJHP #biorxiv_bioinfo,1,False
+842782641808199683,2017-03-17 17:00:14,Probabilistic Recovery Of Cryptic Haplotypes From Metagenomic Data  https://t.co/iq84BMwM7y #biorxiv_bioinfo,2,False
+842737334630125569,2017-03-17 14:00:12,Cysteine Proteases Of Hookworm Necator Americanus As Virulence Factors And Implications For ...  https://t.co/UjSapcEFOI #biorxiv_bioinfo,1,False
+842601434315087874,2017-03-17 05:00:11,Identification of Candidate Drugs for Heart Failure using Tensor Decomposition-Based ...  https://t.co/LngiR2unOA #biorxiv_bioinfo,1,False
+842601424215130112,2017-03-17 05:00:08,Guiding the design of bacterial signaling interactions using a coevolutionary landscape  https://t.co/00PZ6WCHiN #biorxiv_bioinfo,2,False
+842465559463772161,2017-03-16 20:00:16,Gene nucleotide composition accurately predicts expression and is linked to topological ...  https://t.co/fIuDxgnQag #biorxiv_bioinfo,2,False
+842465545714839553,2017-03-16 20:00:13,Drug Target Ontology to Classify and Integrate Drug Discovery Data  https://t.co/SUYfFCzoLA #biorxiv_bioinfo,1,False
+842148436807938049,2017-03-15 23:00:08,GenomicDataCommons: a Bioconductor Interface to the NCI Genomic Data Commons  https://t.co/2XuUCuwKG6 #biorxiv_bioinfo,3,False
+842088102097215490,2017-03-15 19:00:23,Reconstructing Promoter Activity From Lux Bioluminescent Reporters  https://t.co/mU0WvdMQ2o #biorxiv_bioinfo,2,False
+842088069557829633,2017-03-15 19:00:15,Accounting For Technical Noise In Single-Cell RNA Sequencing Analysis  https://t.co/oKyUeeZExD #biorxiv_bioinfo,2,False
+842088060938514432,2017-03-15 19:00:13,Bio-Docklets: Virtualization Containers for Single-Step Execution of NGS Pipelines.  https://t.co/YHKHhe0Ke0 #biorxiv_bioinfo,4,False
+842088052159840257,2017-03-15 19:00:11,powsim: Power analysis for bulk and single cell RNA-seq experiments  https://t.co/sjisMcH9Jn #biorxiv_bioinfo,3,False
+841816286816534528,2017-03-15 01:00:17,The Junction Usage Model (JUM): A method for comprehensive annotation-free differential ...  https://t.co/dYATg7UrhK #biorxiv_bioinfo,3,False
+841770976912277504,2017-03-14 22:00:14,Genome Graphs and the Evolution of Genome Inference  https://t.co/qZutDkKYop #biorxiv_bioinfo,2,False
+841529368568573952,2017-03-14 06:00:10,MRCZ - A proposed fast compressed MRC file format and direct detector normalization strategies  https://t.co/bobFX2u5y0 #biorxiv_bioinfo,1,False
+841529359529721857,2017-03-14 06:00:08,Scalable Multi-Sample Single-Cell Data Analysis by Partition-Assisted Clustering and ...  https://t.co/qmxYoObRpP #biorxiv_bioinfo,1,False
+841468980011384833,2017-03-14 02:00:13,Automated assembly of a reference taxonomy forphylogenetic data synthesis  https://t.co/i876IMgtKi #biorxiv_bioinfo,6,False
+840698909970309120,2017-03-11 23:00:14,Classification of RNA-Seq Data via Gaussian Copulas  https://t.co/84npfB9H5V #biorxiv_bioinfo,3,False
+840442203763814400,2017-03-11 06:00:10,DEVELOPING GENE-SPECIFIC META-PREDICTOR OF VARIANT PATHOGENICITY  https://t.co/jEZiK4JYFI #biorxiv_bioinfo,2,False
+840351610559709184,2017-03-11 00:00:11,Uncovering Robust Patterns of MicroRNA Co-Expression across Cancers using Bayesian Relevance ...  https://t.co/h9919Bm1YO #biorxiv_bioinfo,1,False
+840351602515034112,2017-03-11 00:00:09,The Co-regulation Data Harvester for Tetrahymenathermophila: automated high-throughput ...  https://t.co/tP60N7jn3x #biorxiv_bioinfo,0,False
+840351595103678465,2017-03-11 00:00:07,Identification and characterization of m6A circular RNA epitranscriptomes  https://t.co/oaY65BHRZO #biorxiv_bioinfo,1,False
+840321396924399616,2017-03-10 22:00:08,The Sentieon Genomics Tools - A fast and accurate solution to variant calling from ...  https://t.co/2hMvRxi0gI #biorxiv_bioinfo,0,False
+839959029220868096,2017-03-09 22:00:12,Genoppi: A web application for interactive integration of experimental proteomics results ...  https://t.co/VnKidYhHmn #biorxiv_bioinfo,1,False
+839959021209673729,2017-03-09 22:00:10,Improving pairwise comparison of protein sequences with domain co-occurrence  https://t.co/3iFvik6zCl #biorxiv_bioinfo,2,False
+839928812498485250,2017-03-09 20:00:08,ChromoTrace: Reconstruction of 3D Chromosome Configurations by Super-Resolution Microscopy  https://t.co/ELoS3Ee8YZ #biorxiv_bioinfo,1,False
+839898612377268225,2017-03-09 18:00:08,A modified GC-specific MAKER gene annotation method reveals improved and novel gene ...  https://t.co/MWG9hXYCNG #biorxiv_bioinfo,2,False
+839883530989522944,2017-03-09 17:00:12,"OncoScore: a novel, Internet-based tool to assess the oncogenic potential of genes  https://t.co/zI4QM00COc #biorxiv_bioinfo",1,False
+839883518545178624,2017-03-09 17:00:09,Combining Bayesian Approaches and Evolutionary Techniques for the Inference of Breast Cancer ...  https://t.co/sc3WOWWgaC #biorxiv_bioinfo,3,False
+839581560647139328,2017-03-08 21:00:17,A study of the structural properties of sites modified by the O-linked 6-N-acetylglucosamine ...  https://t.co/QffUvVAImx #biorxiv_bioinfo,1,False
+839581536353677323,2017-03-08 21:00:11,Tagger: BeCalm API for rapid named entity recognition  https://t.co/q8yQEUmWoD #biorxiv_bioinfo,1,False
+839506047140265989,2017-03-08 16:00:13,Deep Learning based multi-omics integration robustly predicts survival in liver cancer  https://t.co/4JEF0GJBUf #biorxiv_bioinfo,2,False
+839249333820219394,2017-03-07 23:00:08,A novel method for large-scale identification of polymorphic microsatellites through ...  https://t.co/qaeLga3K9q #biorxiv_bioinfo,1,False
+839219145623355393,2017-03-07 21:00:10,WTFgenes: What's The Function of these genes? Static sites for model-based gene set analysis  https://t.co/M8U2BCsUIH #biorxiv_bioinfo,7,False
+839219137423486976,2017-03-07 21:00:08,BRANE Clust: Cluster-Assisted Gene Regulatory Network Inference Refinement  https://t.co/4O4dG71XrB #biorxiv_bioinfo,3,False
+838947351242944513,2017-03-07 03:00:10,MultiDCoX: Multi-factor Analysis of Differential Co-expression  https://t.co/VyQUtuliPS #biorxiv_bioinfo,7,False
+838902054890393600,2017-03-07 00:00:10,"ARSDA: A new approach for storing, transmitting and analyzing high-throughput sequencing data  https://t.co/pR75yCowXQ #biorxiv_bioinfo",11,False
+838886961964281856,2017-03-06 23:00:12,xCell: Digitally portraying the tissue cellular heterogeneity landscape  https://t.co/NjkUDitTFc #biorxiv_bioinfo,2,False
+838524574102876162,2017-03-05 23:00:12,Impulse model-based differential expression analysis of time course sequencing data  https://t.co/7Sreyn44i5 #biorxiv_bioinfo,1,False
+838207475014844416,2017-03-05 02:00:09,Multi-scale Bayesian modeling of cryo-electron microscopy density maps  https://t.co/L4bTO7wp09 #biorxiv_bioinfo,1,False
+838086680649302022,2017-03-04 18:00:10,Salt-bridge Networks within Globular and Disordered Proteins - Characterizing Trends for ...  https://t.co/sMMh5b6WSv #biorxiv_bioinfo,1,False
+837845090311733248,2017-03-04 02:00:10,Representing Genetic Determinants in BacterialGWAS with Compacted De Bruijn Graphs  https://t.co/Z2Aa337HoN #biorxiv_bioinfo,2,False
+837724302732636160,2017-03-03 18:00:12,SV2: Accurate Structural Variation Genotyping and De Novo Mutation Detection  https://t.co/7qLe4b1iq0 #biorxiv_bioinfo,2,False
+837331717543325696,2017-03-02 16:00:12,Genome-wide association study of asthma in individuals of African ancestry reveals novel ...  https://t.co/3ixE40Hxxr #biorxiv_bioinfo,1,False
+837331704599674880,2017-03-02 16:00:09,RecBlast: Cloud-Based Large Scale Orthology Detection  https://t.co/Bo0lnLhiup #biorxiv_bioinfo,2,False
+837044825241370626,2017-03-01 21:00:12,HiCPlus: Resolution Enhancement of Hi-C interaction heatmap  https://t.co/ySs5csLQDj #biorxiv_bioinfo,3,False
+837029725738516480,2017-03-01 20:00:12,MOSAIC: a chemical-genetic interaction data repository and web resource for exploring ...  https://t.co/J0Y2aMC9Qa #biorxiv_bioinfo,2,False
+836682441934921729,2017-02-28 21:00:13,A Bayesian Framework for Estimating Cell Type Composition from DNA Methylation Without the ...  https://t.co/pmWIKTyUCO #biorxiv_bioinfo,3,False
+836682432275439616,2017-02-28 21:00:11,GMPR: A novel normalization method for microbiome sequencing data  https://t.co/nzQVq1Nk6W #biorxiv_bioinfo,12,False
+836440841304539137,2017-02-28 05:00:11,The 3D Genome Browser: a web-based browser for visualizing 3D genome organization and ...  https://t.co/rxoCPuoLSm #biorxiv_bioinfo,3,False
+836440833138298880,2017-02-28 05:00:09,Comparative genomics approaches accurately predict deleterious variants in plants  https://t.co/4JK9hs5VS0 #biorxiv_bioinfo,1,False
+836410653766266880,2017-02-28 03:00:14,Enabling cross-study analysis of RNA-Sequencing data  https://t.co/fEYP1eVsH4 #biorxiv_bioinfo,15,False
+835549958694633473,2017-02-25 18:00:08,Evidence-based gene models for structural and functional annotations of the oil palm genome  https://t.co/6ocdKtEVLp #biorxiv_bioinfo,1,False
+835534859900751875,2017-02-25 17:00:08,MAGIC: A diffusion-based imputation method reveals gene-gene interactions in single-cell ...  https://t.co/mSSOAlGx0x #biorxiv_bioinfo,1,False
+835217823475576837,2017-02-24 20:00:21,MRIQC: Predicting Quality in Manual MRI Assessment Protocols Using No-Reference Image ...  https://t.co/I51FVCD0eE #biorxiv_bioinfo,1,False
+835217815993008132,2017-02-24 20:00:19,Improved LC-MS chromatographic alignment increases the accuracy of label-free quantitative ...  https://t.co/6oXURT1Frv #biorxiv_bioinfo,1,False
+835217798137843712,2017-02-24 20:00:15,Conserved changes in secondary structure and aggregation properties of in vitro evolved ...  https://t.co/zSwe0IpGYJ #biorxiv_bioinfo,1,False
+835217789665308673,2017-02-24 20:00:13,16GT: a fast and sensitive variant caller using a 16-genotype probabilistic model  https://t.co/4YzjdvlQzq #biorxiv_bioinfo,1,False
+834840306113794048,2017-02-23 19:00:14,EXTRACT 2.0: text-mining-assisted interactive annotation of biomedical named entities and ...  https://t.co/SLeiNikWJp #biorxiv_bioinfo,1,False
+834825205293936640,2017-02-23 18:00:13,MetaCherchant - an algorithm for analyzing genomicenvironment of antibiotic resistance ...  https://t.co/10piQv2A4j #biorxiv_bioinfo,2,False
+834810085713051648,2017-02-23 17:00:09,TeachEnG: a Teaching Engine for Genomics  https://t.co/RSwhEaZr4E #biorxiv_bioinfo,1,False
+834643988497965057,2017-02-23 06:00:08,"W2RAP: a pipeline for high quality, robust assemblies of large complex genomes from short ...  https://t.co/QvKFhTnKu1 #biorxiv_bioinfo",12,False
+834523221139582981,2017-02-22 22:00:15,A Mixture Copula Bayesian Network Model for Multimodal Genomic Data  https://t.co/IubQwYXq7T #biorxiv_bioinfo,1,False
+834508103295066118,2017-02-22 21:00:10,Comparative insights to the transportome of Nosema: a genus of parasitic microsporidians  https://t.co/5L7NXkO7c9 #biorxiv_bioinfo,1,False
+834432599418404864,2017-02-22 16:00:09,Granatum: a graphical single-cell RNA-seq analysis pipeline for genomics scientists  https://t.co/kJSmyhgVGr #biorxiv_bioinfo,1,False
+834281610166034432,2017-02-22 06:00:10,GRIDSS: sensitive and specific genomic rearrangement detection using positional de Bruijn ...  https://t.co/eE3hccrh0G #biorxiv_bioinfo,5,False
+834175922681044992,2017-02-21 23:00:12,SAVE: A secure cloud-based pipeline for CRISPR pooled screen deconvolution  https://t.co/nZVmKP0g8P #biorxiv_bioinfo,1,False
+834160836641951746,2017-02-21 22:00:16,chromVAR: Inferring transcription factor variation from single-cell epigenomic data  https://t.co/S5OKT6Ylrx #biorxiv_bioinfo,1,False
+834145715614076929,2017-02-21 21:00:10,Sweep Dynamics (SD) plots: Computational identification of selective sweeps to monitor the ...  https://t.co/5XLf4jcXZ4 #biorxiv_bioinfo,1,False
+834130636227149825,2017-02-21 20:00:15,IcyTree: Rapid browser-based visualization for phylogenetic trees and networks  https://t.co/6moTvsiyoj #biorxiv_bioinfo,6,False
+833904127591718913,2017-02-21 05:00:11,Evolinc: a comparative transcriptomics and genomics pipeline for quickly identifyingsequence ...  https://t.co/JfmosVMoUs #biorxiv_bioinfo,1,False
+833904119471554560,2017-02-21 05:00:09,"Genome-wide regulatory model from MPRA data predicts functional regions, eQTLs, and GWAS hits  https://t.co/EJ8bJhdFmp #biorxiv_bioinfo",1,False
+833904110327955456,2017-02-21 05:00:07,Similarity identification in gene expression patterns as a new approach in phenotype ...  https://t.co/qTlEVkAvHV #biorxiv_bioinfo,2,False
+833798416505372672,2017-02-20 22:00:08,FUMA: Functional mapping and annotation of genetic associations  https://t.co/izxwUR6hBH #biorxiv_bioinfo,2,False
+833783322396520452,2017-02-20 21:00:09,"CRISPRAnalyzeR: Interactive analysis, annotation and documentation of pooled CRISPR screens  https://t.co/Hmbpc8YuIi #biorxiv_bioinfo",4,False
+833134053264093184,2017-02-19 02:00:11,Intervene: a tool for intersection and visualization of multiple gene or genomic region sets  https://t.co/J0I4hFPUwR #biorxiv_bioinfo,4,False
+832741473133195265,2017-02-18 00:00:13,Strategies for analyzing bisulfite sequencing data  https://t.co/DyBPJ9QejB #biorxiv_bioinfo,1,False
+832741464698400768,2017-02-18 00:00:11,"Mass spectrometrists should search for all peptides, but assess only the ones they care about  https://t.co/wm1tERVzUW #biorxiv_bioinfo",1,False
+832726354177167360,2017-02-17 23:00:08,Emergent community agglomeration from data set geometry  https://t.co/8RSnkXqbOb #biorxiv_bioinfo,1,False
+832696174675161088,2017-02-17 21:00:13,From Sequence to Function: Coevolving Amino Acids Encode Structural and Functional Domains  https://t.co/md9bCu3XDJ #biorxiv_bioinfo,1,False
+832696166617800705,2017-02-17 21:00:11,High-confidence Coding and Noncoding Transcriptome Maps  https://t.co/GfUmHL0trs #biorxiv_bioinfo,1,False
+832696156404584448,2017-02-17 21:00:09,Significance estimation for large scale untargeted metabolomics annotations  https://t.co/eEEcYyhqHa #biorxiv_bioinfo,1,False
+832620670584381440,2017-02-17 16:00:11,"gene-cocite: a web application for extracting, visualising and assessing the cocitations of ...  https://t.co/CDZVAXsprW #biorxiv_bioinfo",1,False
+832409275712548864,2017-02-17 02:00:11,"""Opposite-of""-information improves similarity calculations in phenotype ontologies  https://t.co/ehjNRxX1Dy #biorxiv_bioinfo",1,False
+832348877026107394,2017-02-16 22:00:11,A general and powerful stage-wise testing procedure for differential expression and ...  https://t.co/9s58m1My23 #biorxiv_bioinfo,11,False
+831609004115816449,2017-02-14 21:00:11,mixOmics: an R package for 'omics feature selection and multiple data integration  https://t.co/YAORGAKlNz #biorxiv_bioinfo,6,False
+831231514331508737,2017-02-13 20:00:11,dRep: A tool for fast and accurate genome de-replication that enables tracking of microbial ...  https://t.co/n3ooU2vzUB #biorxiv_bioinfo,4,False
+830552032570384384,2017-02-11 23:00:10,HTSvis: A web app for exploratory data analysis and visualization of arrayed high-throughput ...  https://t.co/mXgPn0Ii2q #biorxiv_bioinfo,1,False
+829857459305054209,2017-02-10 01:00:10,PhyD3: a phylogenetic tree viewer with extended phyloXML support for functional genomics ...  https://t.co/StTGio3Kct #biorxiv_bioinfo,11,False
+829646061711003648,2017-02-09 11:00:09,Integrative analysis and refined design of CRISPR knockout screens  https://t.co/OQHipQaNp7 #biorxiv_bioinfo,1,False
+829434672333611008,2017-02-08 21:00:10,Genome-wide analysis of differential translation and differential translational buffering ...  https://t.co/hkDUXnGmH4 #biorxiv_bioinfo,1,False
+829419567910903808,2017-02-08 20:00:09,Gene ORGANizer: Linking Genes to the Organs They Affect  https://t.co/BSyOVJkmIT #biorxiv_bioinfo,1,False
+829238376633077762,2017-02-08 08:00:10,MEACA: efficient gene-set interpretation of expression data using mixed models  https://t.co/fiS9Jn7Gw5 #biorxiv_bioinfo,0,False
+829072283243278337,2017-02-07 21:00:10,Phenotype and gene ontology enrichment as guides for disease modeling in C. elegans  https://t.co/8LdGmFlOZs #biorxiv_bioinfo,2,False
+828694792544587777,2017-02-06 20:00:09,Iroki: automatic customization for phylogenetic trees  https://t.co/ihKA05JcqO #biorxiv_bioinfo,8,False
+828679734439575552,2017-02-06 19:00:19,Morphologically Constrained and Data Informed Cell Segmentation of Budding Yeast  https://t.co/vYgwrUYEAc #biorxiv_bioinfo,1,False
+828679721194049537,2017-02-06 19:00:16,Non Hybrid Long Read Consensus Using Local De Bruijn Graph Assembly  https://t.co/cPRd3x0eci #biorxiv_bioinfo,19,False
+828679712834727940,2017-02-06 19:00:14,Unsupervised idealization of ion channel recordings by Minimum Description Length: ...  https://t.co/AVlcn1M7gi #biorxiv_bioinfo,1,False
+828423008133971969,2017-02-06 02:00:11,Real-time changepoint detection for noisy biological time series  https://t.co/npc9Ccpv4g #biorxiv_bioinfo,4,False
+827743524523278336,2017-02-04 05:00:09,Maximum Entropy Methods for Extracting the Learned Features of Deep Neural Networks  https://t.co/zjIbJmvYKO #biorxiv_bioinfo,2,False
+827683121239830534,2017-02-04 01:00:08,Normalization of Mass Spectrometry Data (NOMAD)  https://t.co/Zdscmf6LMi #biorxiv_bioinfo,3,False
+827668046798008322,2017-02-04 00:00:14,VaPoR: a high-speed validation approach for structural variation using long-read sequencing ...  https://t.co/eGP0YtQB7E #biorxiv_bioinfo,2,False
+827668039030210560,2017-02-04 00:00:12,QuASAR-MPRA: Accurate allele-specific analysis for massively parallel reporter assays  https://t.co/HqI4z2UrN1 #biorxiv_bioinfo,1,False
+827668031706976266,2017-02-04 00:00:10,An Evaluation of Machine-learning for Predicting Phenotype: studies in yeast and wheat  https://t.co/FRNWDKDnUV #biorxiv_bioinfo,2,False
+827305635624665089,2017-02-03 00:00:08,Cancer Cell Line Profiler (CCLP): a webserver for the prediction of compound activity across ...  https://t.co/5E3jQGzZev #biorxiv_bioinfo,1,False
+827290543529062401,2017-02-02 23:00:10,ATLAS: Analysis Tools for Low-depth and Ancient Samples  https://t.co/6vVy75oZBp #biorxiv_bioinfo,0,False
+827290535530463232,2017-02-02 23:00:08,Efficient Detection of Communities in Biological Bipartite Networks  https://t.co/42NY5SUUZN #biorxiv_bioinfo,0,False
+827260335195197442,2017-02-02 21:00:08,Comparative analysis of protein abundance studies to quantify the Saccharomyces cerevisiae ...  https://t.co/VXiGbjK64T #biorxiv_bioinfo,0,False
+827245246715219969,2017-02-02 20:00:10,Metaviz: interactive statistical and visual analysis of metagenomic data  https://t.co/9dAR1jyxoC #biorxiv_bioinfo,0,False

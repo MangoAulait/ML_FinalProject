@@ -1,0 +1,201 @@
+id,created_at,text,retweet_count,tweet.retweeted
+850464218944081921,2017-04-07 21:44:05,PrintX = x+CurrentFont-&gt;width[1];,0,False
+850449119147634688,2017-04-07 20:44:05,ilmenu.return_invalid = true;,0,False
+850434017304432642,2017-04-07 19:44:04,LODSB ; Get indicator letter,0,False
+850418919164825600,2017-04-07 18:44:05,"(BitTst(&amp;theKeys, thisGlider-&gt;battKey)) ||",0,False
+850403818634432512,2017-04-07 17:44:04,* Information is redrawn on the screen.,0,False
+850388719412670464,2017-04-07 16:44:04,.--+-...-+----+--....-------...--------.-+---,0,False
+850373621717577729,2017-04-07 15:44:05,5.15SPOT OCT 20000,0,False
+850358523070484480,2017-04-07 14:44:05,"ErrMesg(stderr,""Can't make DTM out port %s: %s\n"",",0,False
+850343422162591744,2017-04-07 13:44:05,POP B ;GET RETURN ADDRESS,0,False
+850328318377418752,2017-04-07 12:44:04,if( sleepy &gt; best_sleepy ) {,2,False
+850313221697396737,2017-04-07 11:44:04,if( is_connected() ),0,False
+850298125432631298,2017-04-07 10:44:05,"COLOR_LIGHTGRAY | (COLOR_YELLOW &lt;&lt; 8), /* nuclearState */",0,False
+850283020934406144,2017-04-07 09:44:04,anyProcesses = 0;,0,False
+850267925445353472,2017-04-07 08:44:05,0001:000567c4+ DrawPlanePosts_,0,False
+850252826706010113,2017-04-07 07:44:05,totalbytes++;,0,False
+850237725152165888,2017-04-07 06:44:04,"title = strdup (""Gopher server"" );",0,False
+850222627696254976,2017-04-07 05:44:05,NHEVENT_KBD(KEYTABLE(KEY_GOINTERESTING));,1,False
+850207524645031942,2017-04-07 04:44:04,buf[22] = '0' + (me-&gt;p_shield / 100);,0,False
+850192424903114756,2017-04-07 03:44:04,* a valid Tcl list element.,0,False
+850177327820660737,2017-04-07 02:44:05,thePrefsStructP-&gt;RdataP-&gt;cciPort =,0,False
+850162226803724289,2017-04-07 01:44:04,"OBJECT:$object[0],(44,05)",0,False
+850147127502221312,2017-04-07 00:44:04,const char *bmsg =,0,False
+850132030658662401,2017-04-06 23:44:05,JMP [NEXTINT] ;Chain to next clock routine,0,False
+850116927020290049,2017-04-06 22:44:04,"boolean DrawCinematicEffect ( enum_eventtype type, void * effect )",0,False
+850101830105391105,2017-04-06 21:44:05,int numnodes;,0,False
+850086730644455428,2017-04-06 20:44:05,BNE RSDIR1 27840000,0,False
+850071630382604290,2017-04-06 19:44:04,DisposeHandle(tempObjectHand);,0,False
+850056530548453377,2017-04-06 18:44:04,/* update predictor pole a[0] */,0,False
+850041433935552513,2017-04-06 17:44:05,kb_translation_table[DIK_LEFT] |= 0x50 &lt;&lt; 8;,0,False
+850026332209778688,2017-04-06 16:44:04,/* wetting towel already done via water_damage() in H2Opotion_dip */,1,False
+850011230844616710,2017-04-06 15:44:04,see QFrame::setFrameStyle().,0,False
+849996134466584576,2017-04-06 14:44:05,TS COASTDB +16D,0,False
+849981032782843904,2017-04-06 13:44:04,"{TK_CONFIG_BORDER, ""-activebackground"", (char *) NULL, (char *) NULL,",0,False
+849965932030169088,2017-04-06 12:44:04,} else if (typ == STAIRS) {,0,False
+849950832648998915,2017-04-06 11:44:04,"void Chuck_Instr_Add_int_string_Assign::execute( Chuck_VM * vm, Chuck_VM_Shred * shred )",0,False
+849935732563161088,2017-04-06 10:44:04,"if (flags = fcntl( fd, F_SETOWN, getpid()) == -1 ) {",0,False
+849920637867085824,2017-04-06 09:44:05,"if ((ret=my_copy(src, dest, retBuf, bufsize, overwrite))==SYS_SUCCESS) {",0,False
+849905539530321920,2017-04-06 08:44:05,static OSStatus SMALLRenderProc(,0,False
+849890437632585728,2017-04-06 07:44:05,if (ltyp == ICE || (ltyp == DRAWBRIDGE_UP,1,False
+849875335227244544,2017-04-06 06:44:04,// check partial match,0,False
+849860239876861952,2017-04-06 05:44:05,"CARROT_LUMP_START,",1,False
+849845140466356225,2017-04-06 04:44:05,//-------------------------------------------------------------- ToggleGliderFacing,0,False
+849830037457178627,2017-04-06 03:44:04,// RT_MENU.C,0,False
+849814935081242624,2017-04-06 02:44:03,"punpckhdq mm3,mm6 ; mm3=(41 51)",0,False
+849799838158000128,2017-04-06 01:44:04,"/* if absolute port, return TRUE the first time and FALSE thereafter */",0,False
+849784739565273088,2017-04-06 00:44:04,if ((l1+nameLength+2) &lt;= STATIC_SIZE) {,0,False
+849769641274724352,2017-04-05 23:44:05,# QPRET = NO. MARKS,0,False
+849754540249419776,2017-04-05 22:44:04,"""Self destruct initiated"", /* 90 */",3,False
+849739441723895810,2017-04-05 21:44:04,if (*buf == '\0' || *buf == '\n' || *buf == '#'),0,False
+849724341000515584,2017-04-05 20:44:04,ld-&gt;frontsector = sides[ld-&gt;sidenum[0]].sector;,0,False
+849709240726036480,2017-04-05 19:44:04,"{""fixinv"", &amp;flags.invlet_constant, TRUE, SET_IN_GAME},",0,False
+849694144742215680,2017-04-05 18:44:05,"Strcpy(buf, found + strlen(orig));",0,False
+849679041561022464,2017-04-05 17:44:04,* compile to execute that permits the execute phase to run lots faster on,0,False
+849663945858306048,2017-04-05 16:44:05,t_CKBOOL query_element( HidMsg * query );,0,False
+849648842408681472,2017-04-05 15:44:04,* This is too complex and should be broken down.,2,False
+849633742968770561,2017-04-05 14:44:04,"FATNIB .LONG $00000000,$000000FE,$0000FE00,$0000FEFE",0,False
+849618646590771203,2017-04-05 13:44:05,TCF CGOTO # 04 -- COMPUTED GO TO.,0,False
+849603546022637568,2017-04-05 12:44:04,in_sight = !Blind;,0,False
+849588446855397378,2017-04-05 11:44:04,if (lp-&gt;rev &gt; DLB_MAX_VERS || lp-&gt;rev &lt; DLB_MIN_VERS) return FALSE;,0,False
+849573347579109376,2017-04-05 10:44:05,; tabulated in TestSequence; each subroutine sets flags in TestSequence,0,False
+849558245706522625,2017-04-05 09:44:04,void Gsm_Decoder (,0,False
+849543149403951106,2017-04-05 08:44:05,"// 1878 : long result, cells = 0;",0,False
+849528049779519488,2017-04-05 07:44:05,gain = targetGain;,0,False
+849512952235470848,2017-04-05 06:44:05,aw-&gt;ticcount -= tics;,0,False
+849497846256631808,2017-04-05 05:44:04,dptr = (DialogPtr) NewPtr( sizeof(help_record) );,0,False
+849482748104511490,2017-04-05 04:44:04,"PUBLIC void HTAA_setCurrentProtection ARGS3(WWW_CONST char *, cur_docname,",0,False
+849467651067924481,2017-04-05 03:44:05,"0.8314,",0,False
+849452550902480897,2017-04-05 02:44:04,if (addspeed &lt;= 0),0,False
+849437448849563652,2017-04-05 01:44:04,"extern Rect flame[], tikiFlame[], coals[], pendulumSrc[];",1,False
+849422350038839296,2017-04-05 00:44:04,float hpofdur = ( float )hp / vpinfo.durability;,0,False
+849407252771590146,2017-04-04 23:44:04,"MSG_WriteByte (&amp;sv.signon, svent-&gt;baseline.modelindex);",0,False
+849392152056668160,2017-04-04 22:44:04,"{ int chan, k, current, blockindx, indx, indxstart, diff ;",0,False
+849377052004421633,2017-04-04 21:44:04,"Tcl_AppendResult(interp, ""bad cap style \"""", string,",0,False
+849361953915056128,2017-04-04 20:44:04,"PN_ENCHANTMENT_SPELL, PN_CLERIC_SPELL, PN_ESCAPE_SPELL, PN_MATTER_SPELL,",2,False
+849346854630420480,2017-04-04 19:44:04,USEGTS CS USEQRJTS,0,False
+849331752418123777,2017-04-04 18:44:04,// Also specify that we don't have a gamepad plugged in.,1,False
+849316653779361793,2017-04-04 17:44:04,"gnome_dialog_set_parent(GNOME_DIALOG(box), GTK_WINDOW(mainWnd));",0,False
+849301555975258114,2017-04-04 16:44:04,"pline(""Some %sobjects meld, and %s arises from the pile!"",",1,False
+849286457596530692,2017-04-04 15:44:05,m_renderProc.inputProcRefCon = NULL;,0,False
+849271355208081410,2017-04-04 14:44:04,"while (lo = findnextrun (ng,hi+1)) {",0,False
+849256259576623106,2017-04-04 13:44:05,else if (*screenx&gt;=viewwidth),0,False
+849241162657538048,2017-04-04 12:44:05,"SELB CLI 0(4),C'0' 55760000",0,False
+849226060906586112,2017-04-04 11:44:05,"# then the file is copied to it, otherwise target is a new file name.",1,False
+849210961185693696,2017-04-04 10:44:05,S3229T3B = BIT12 # = FIRST NEWTON ITERATION BEING DONE,0,False
+849195858650423297,2017-04-04 09:44:04,cw-&gt;data[cw-&gt;cury - 1][++i] = '\0';,0,False
+849180757595652097,2017-04-04 08:44:04,"locomotion(mtmp-&gt;data, ""drop""), carriedby);",1,False
+849165661410660352,2017-04-04 07:44:05,* type == 20 to 29 : you breathing as a monster,1,False
+849150562205663234,2017-04-04 06:44:05,"doSetEditState(undoChangeSet.brushesFrom(EditState::Hidden), EditState::Hidden, changeSet);",1,False
+849135462115672064,2017-04-04 05:44:04,"if (inside_room(sroom, x, y))",1,False
+849120362101166081,2017-04-04 04:44:04,oldExport = listPtr-&gt;exportSelection;,0,False
+849105261759516672,2017-04-04 03:44:04,"if (mtmp &amp;&amp; cansee(i + x - 1, j + y - 1) &amp;&amp; !canspotmon(mtmp))",0,False
+849090163108188162,2017-04-04 02:44:04,next_input_byte = cinfo-&gt;src-&gt;next_input_byte;,0,False
+849075061868949506,2017-04-04 01:44:04,base-&gt;id = ZONEID;,0,False
+849059962689134592,2017-04-04 00:44:04,// yield the palette if we're losing the focus,1,False
+849044863043633152,2017-04-03 23:44:04,* The return value is a pointer to a string describing,1,False
+849029763830337536,2017-04-03 22:44:04,case CHAR_QUESTIONMARK:,0,False
+849014665007042561,2017-04-03 21:44:04,"""get a copy of the original game, call 1-800-IDGAMES or see the readme file.\n""",1,False
+848999565957189632,2017-04-03 20:44:04,"add_menu(win, NO_GLYPH, &amp;any, races[i].noun[0],",0,False
+848984469818232834,2017-04-03 19:44:05,"(void) write_savefile(saveRefNum, (Ptr) &amp;version_data,",1,False
+848969366603476993,2017-04-03 18:44:04,modelist[1].width = 640;,0,False
+848954265376829445,2017-04-03 17:44:04,"// TODO: nukes hit above surface, not critter = 0",0,False
+848939168474566656,2017-04-03 16:44:04,"%r,aw",0,False
+848924068762066945,2017-04-03 15:44:04,Indirect - *ipaddr has host address in dotted,0,False
+848908968583999492,2017-04-03 14:44:04,nsb_mung_line(p),0,False
+848893870163333120,2017-04-03 13:44:04,blstats[idx][BL_CONDITION].a.a_ulong &amp;= ~BL_MASK_ILL;,0,False
+848878769087537152,2017-04-03 12:44:04,/ ...,0,False
+848863671241629697,2017-04-03 11:44:05,int nbra;,0,False
+848848570811895808,2017-04-03 10:44:04,if (multi &lt; 0 &amp;&amp; is_fainted()) unmul((char *)0);,0,False
+848833473121046529,2017-04-03 09:44:05,WOR CHAN12 # SET DISPLAY INERTIAL DATA OUTBIT.,0,False
+848818372745842692,2017-04-03 08:44:05,&amp;&amp; (length &gt;= 2)) {,0,False
+848803271305302017,2017-04-03 07:44:04,* Note: this does not allow a +0 anything (except an athame),1,False
+848788174637867008,2017-04-03 06:44:05,void mswin_start_screen(),0,False
+848773073562161152,2017-04-03 05:44:04,"HalfRectWide(&amp;srcRects[kFloorBlower]) - kFloorColumnWide / 2,",0,False
+848757973677748225,2017-04-03 04:44:04,dupstr(string),0,False
+848742872161693696,2017-04-03 03:44:04,if (tem .lt. 0) return 1 !abort torpedo burst,1,False
+848727775137628160,2017-04-03 02:44:04,/* !context.move here: multiple movement command stopped */,1,False
+848712675869827072,2017-04-03 01:44:04,"You(""are getting confused."");",7,False
+848697572571197440,2017-04-03 00:44:03,val_negated = !val_negated;,0,False
+848682475261972480,2017-04-02 23:44:04,DB TRELT ;GENERATE FIRST/NEXT SECTOR,1,False
+848667377998934016,2017-04-02 22:44:05,if ((p[0] &amp; 0xFE) == 0xFC) {,0,False
+848652276805898240,2017-04-02 21:44:04,"tty_putstr(BASE_WINDOW, 0, ""Incompatible race!"");",0,False
+848637176954982401,2017-04-02 20:44:04,"multi_reason = ""sleeping"";",0,False
+848622080316899328,2017-04-02 19:44:05,"it-&gt;make(""noise_emitter"");",2,False
+848606978939248644,2017-04-02 18:44:04,long /* actually returns something that fits in an int */,6,False
+848591880464080896,2017-04-02 17:44:05,useQD = thePreferred.wasUseQD;,0,False
+848576779732357120,2017-04-02 16:44:04,"SUBTTL DATE16, READTIME, DODATE -- GUTS OF TIME AND DATE",1,False
+848561681844363265,2017-04-02 15:44:05,best_thirst = eaten_thirst;,2,False
+848546578566664192,2017-04-02 14:44:04,"std::string message = is_u ? _(""You hit %s"") : _(""&lt;npcname&gt; hits %s"");",1,False
+848531482360647681,2017-04-02 13:44:05,flds tdivz16stepu,0,False
+848516380739739648,2017-04-02 12:44:04,"jsr r5,numb; 3",0,False
+848501280716804096,2017-04-02 11:44:04,"Hallucination ? ""primo"" : ""yummy"",",3,False
+848486181826424832,2017-04-02 10:44:04,* _cache_addIgnoredEntry,0,False
+848471082030034948,2017-04-02 09:44:04,bool pink_rand;,0,False
+848455982103638016,2017-04-02 08:44:04,return (s_level *) 0;,0,False
+848440881334161408,2017-04-02 07:44:04,// check for incoming chat characters,2,False
+848425782280155136,2017-04-02 06:44:04,"TTPI EQUALS TTOGO +2 # B(2)DSP NOUN 37 FOR P34 TPI TIME, CSECS.",0,False
+848410684648042497,2017-04-02 05:44:04,"std::ifstream infile(info_file_path.c_str(), std::ifstream::in | std::ifstream::binary);",0,False
+848395582712446976,2017-04-02 04:44:04,tmp25 = tmp10 - tmp12;,0,False
+848380487286624257,2017-04-02 03:44:04,"modded-&gt;item_tags.insert(""NO_UNLOAD"");",0,False
+848365386479415297,2017-04-02 02:44:04,* comments.,0,False
+848350285751779329,2017-04-02 01:44:04,""" s None c none"",",0,False
+848335188463685633,2017-04-02 00:44:04,"let angleWrap s = ""&lt;"" ^ s ^ ""&gt;""",0,False
+848320085886464001,2017-04-01 23:44:04,// Some elements of lists are nil; we must filter them out.,2,False
+848304988053024769,2017-04-01 22:44:04,"character(kind=CK,len=:),intent(inout),allocatable :: str",0,False
+848289889741393921,2017-04-01 21:44:04,effects_activated.push_back((art_effect_active)https://t.co/0wSjz5HY3P_int());,1,False
+848274791530459140,2017-04-01 20:44:05,memBytesPtr pBytes; /* memory management */,1,False
+848259692279324672,2017-04-01 19:44:05,"Controller::AddObjectsCommand* addObjectsCommand = Controller::AddObjectsCommand::addEntity(document(), *m_entity);",0,False
+848244591262355456,2017-04-01 18:44:04,dnstairs_room = croom;,0,False
+848229492384571393,2017-04-01 17:44:04,// grow,2,False
+848214389937360896,2017-04-01 16:44:04,.globl esymp,0,False
+848199292418502661,2017-04-01 15:44:04,if (has_flag(MF_ACID_BLOOD)),0,False
+848184196422041600,2017-04-01 14:44:05,"if (!resists_magm(steed) &amp;&amp; !resist(steed, WAND_CLASS, 0, NOTELL)) {",0,False
+848169091315748864,2017-04-01 13:44:04,TS PUSHLOC # OFF TO PREPARE FOR INTERPRETIVE PROGRAMS.,1,False
+848153995092873216,2017-04-01 12:44:05,// create a baseline for more efficient communications,3,False
+848138894533160960,2017-04-01 11:44:04,} /* if */,1,False
+848123797903482881,2017-04-01 10:44:05,"fprintf (fp, ""&lt;H1&gt;HDF Brows-o-rama Internal&lt;/H1&gt;\n"");",1,False
+848108696781676544,2017-04-01 09:44:05,size_t (*CFGetTypeID)(void *);,0,False
+848093596263886848,2017-04-01 08:44:04,// 1.3.1.0: check type to use kind instead of size,0,False
+848078497671241728,2017-04-01 07:44:05,"""\312\300\312\300\000\000\000\047\000\000\000\000"",",0,False
+848063401259659264,2017-04-01 06:44:05,if (!szBuffer) {,0,False
+848048298434990080,2017-04-01 05:44:04,CS FLAGWRD9 # SET FLAG FOR P70-P71,0,False
+848033196759547904,2017-04-01 04:44:04,void CarrotThink (objtype *ob);,3,False
+848018097978167300,2017-04-01 03:44:04,"Your(""%s tingles."", body_part(ARM));",1,False
+848002996717985792,2017-04-01 02:44:04,if (cci_event) MoCCISendEventOutput(FILE_EXIT_PROGRAM);,0,False
+847987901040390145,2017-04-01 01:44:05,action in this national crisis. You will proceed with fail-\n\,0,False
+847972800015069184,2017-04-01 00:44:04,std::string remove_color_tags(const std::string &amp;s),0,False
+847957701384712194,2017-03-31 23:44:04,size_t newFreeCapacity = m_freeCapacity;,0,False
+847942600925614081,2017-03-31 22:44:04,g_port = atoi( argv[i]+6 );,0,False
+847927499782860800,2017-03-31 21:44:04,"call lstupd (romlst, romctr, scn, rxf)",0,False
+847912401282510848,2017-03-31 20:44:04,+ (win_start_col * text_map-&gt;square_width);,1,False
+847897304703152132,2017-03-31 19:44:05,count_features();,0,False
+847867103902400512,2017-03-31 17:44:04,if self.header == None:,0,False
+847852006278647809,2017-03-31 16:44:05,"update_pathname(""fontdir"", FILENAMES[""datadir""] + ""font/"");",0,False
+847836905559470080,2017-03-31 15:44:04,/ atan replaces the value in fr0 by its arctangent,0,False
+847821806174130176,2017-03-31 14:44:05,"STATIC_DCL long FDECL(mbag_item_gone, (int, struct obj *));",0,False
+847806705496928256,2017-03-31 13:44:04,"""Yao-hang"", ""Tonbar"", ""Kivenhoug"",",0,False
+847791606744961024,2017-03-31 12:44:04,"add_msg(m_info, _(""You have no fertilizer.""));",0,False
+847776507040866304,2017-03-31 11:44:04,msg_font.size=-size;,0,False
+847761410432094208,2017-03-31 10:44:05,"396984864,397218112,397451264,397684288,397917248,398150080,398382784,398615424,",0,False
+847746308253171715,2017-03-31 09:44:04,"int_max = dice(4, 3);",0,False
+847731206464524288,2017-03-31 08:44:04,if( !proto-&gt;addr ),1,False
+847716110170333185,2017-03-31 07:44:05,void lo_blob_free(lo_blob b),0,False
+847701008587276289,2017-03-31 06:44:04,// The monster can sometimes hang in air due to last fall being blocked,0,False
+847685910120484867,2017-03-31 05:44:04,"if (std::find(begin(display_subtiles), end, multitile_keys[subtile]) != end) {",0,False
+847670809799741441,2017-03-31 04:44:04,while(o&gt;RBRACE) /* ; { } */,0,False
+847655711953756161,2017-03-31 03:44:05,TCF GSHIFT # 23 -- GENERAL SHIFT INSTRUCTION,0,False
+847640610898980864,2017-03-31 02:44:04,swp = treespace;,0,False
+847625511396294657,2017-03-31 01:44:04,#define NEXTMUG_FREQ2 8856,0,False
+847610412560285696,2017-03-31 00:44:04,"// pos1 is the top position, pos2 is the bottom",1,False
+847595312000663554,2017-03-30 23:44:04,** Printing is performed to the logbuffer char array of the SF_PRIVATE struct.,0,False
+847580213290696706,2017-03-30 22:44:04,"* (Disclaimer: don't feel bad for not understanding this, I don't either.)",1,False
+847565114479972352,2017-03-30 21:44:04,""" { currentfile buffer readhexstring pop pop""",0,False
+847550017263022081,2017-03-30 20:44:05,"square_furn(m, f_bookcase, i, j, i+rs, j);",0,False
+847534915138842624,2017-03-30 19:44:04,cmd=NULL;,0,False
+847519816042889216,2017-03-30 18:44:04,MY_FLOAT BeeThree :: tick(),1,False
+847504716581937153,2017-03-30 17:44:04,"VectorMA (dl-&gt;origin, 18, fv, dl-&gt;origin);",0,False
+847489614604419072,2017-03-30 16:44:04,remove_from_location_map( second );,0,False
+847474514392776704,2017-03-30 15:44:04,const Model::EdgeList&amp; edges = hitFace.edges();,0,False
+847459420367867905,2017-03-30 14:44:05,"char *JHParmStrings[] = {""no386"",nil};",0,False
+847444323461242883,2017-03-30 13:44:06,"/* no messages, just make it so */",0,False

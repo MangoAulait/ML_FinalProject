@@ -1,0 +1,245 @@
+id,created_at,text,retweet_count,tweet.retweeted
+850055049841713152,2017-04-06 18:38:11,RT @barryoreilly: Product development is not about developing products. It's about developing knowledge about the product. Great products e…,105,False
+849977957489807360,2017-04-06 13:31:51,I always thought the https://t.co/PcCZZsS4FF comments section was the worst of the the web. Then I found the https://t.co/OM6d8EwdPs one.,0,False
+849651354331222017,2017-04-05 15:54:03,Don't use JVM defaults on a production environment period. Container or not. https://t.co/LLdRki70Od,0,False
+849597141165240320,2017-04-05 12:18:37,@LoranKloeze True. Maar veilige software is sowieso duur. En NFRs zijn het eerste dat de deur uit gaat om de kosten… https://t.co/JQEpAmgzY0,0,False
+849577953080037376,2017-04-05 11:02:23,"@LoranKloeze Vooral voor kl. bedrijven een probleem, want geen verstand van/geen eigen ICT. Ik denk zelf aan een ke… https://t.co/mkRkVkJfvn",0,False
+849163905653985280,2017-04-04 07:37:06,RT @brunoborges: Learn #HTTP status codes in one image... :-) // via @abt_programming // http://t.co/9eB7JLqBxR,2881,False
+848781177293078528,2017-04-03 06:16:16,"If you have trouble building a monolith, microservices are probably not the answer to your problems: https://t.co/D9CzYl13Sz",1,False
+848765290100006912,2017-04-03 05:13:09,RT @Birdy328: @PeterWSinclair @MichaelEMann  https://t.co/ZVu6QrlDdf,52,False
+847068173291700224,2017-03-29 12:49:24,RT @TechnicallyRon: The #Article50 letter in full https://t.co/DvnVqSOAGn,1204,False
+846229910339436544,2017-03-27 05:18:27,RT @AgileFortune: Important skill for devs (and hard to acquire) is being comfortable having no idea what you're doing ^ @bobpoekert https:…,5,False
+845964601628000256,2017-03-26 11:44:12,All the knowledge in the world in the palm of my hand. Possibilities are endless. So I'm using it to watch a guy si… https://t.co/nven5N0oUG,0,False
+845541949528555521,2017-03-25 07:44:44,"Serverless, what does it really cost?
+
+https://t.co/s4EfkUFo4i",0,False
+845166337286582272,2017-03-24 06:52:11,@gamespot This article is extremely outdated. A GTX9xx and 8GB RAM is NOT what to look for today.,0,False
+844437506875645953,2017-03-22 06:36:05,"RT @sadserver: the default log rotation policy here is: rotate and compress, until the disk fills up and takes the service offline, then ma…",580,False
+844427550042607617,2017-03-22 05:56:31,RT @christianmaioli: When work provides you with a side-quest 🗡🛡 https://t.co/4l6i8ty2Go,5592,False
+844218925487394816,2017-03-21 16:07:31,"RT @TomSellers: If you have a server or application that you are too scared to stop, reboot, or patch then you have security AND operation…",86,False
+844082753759002629,2017-03-21 07:06:25,"Cloud architecture made these patterns popular, but they are mandatory in a traditional architecture as well as far as I'm concerned.",0,False
+844080933565284352,2017-03-21 06:59:11,Preparing a couple of slides and a little demo about the usage of bulkheads and circuit breakers in an enterprise environment.,0,False
+843737255458082816,2017-03-20 08:13:32,"Having a Java app run with unbounded memory settings is a bad idea in ANY case, not just when using containers!
+
+https://t.co/oKnpUjcG3d",0,False
+843526870524198912,2017-03-19 18:17:32,RT @neiltyson: The very best way to support and feed your delusions: Surround yourself with people whose world views match yours exactly.,22502,False
+843205863636717568,2017-03-18 21:01:58,"And this is why you don't want a device capable of streaming everything it hears or sees 24/7 in your house:
+
+https://t.co/t5U8l8qBeo",0,False
+842702413916262400,2017-03-17 11:41:26,"RT @tbhjuststop: using microsoft word
+
+*moves an image 1 mm to the left*
+
+all text and images shift. 4 new pages appear. in the distance, s…",12265,False
+842375630318632962,2017-03-16 14:02:55,I hope I don't have to add the word *bounded* to my previous tweet. ;),0,False
+842375240588107776,2017-03-16 14:01:22,Thou shalt use thread pool and conn timeout settings on your HTTP/REST calls. Or no PR approval from me. Bonus if using circuit breaker.,0,False
+842272203559297028,2017-03-16 07:11:56,The Dutch took a good look at what happened in UK and US and decided they'd rather have status quo than flush their country down the toilet.,1,False
+841736548727037954,2017-03-14 19:43:26,"@dotmariusz I got myself an HP Omen, very happy with it. MSI has some good ones too.",0,False
+840496474739859457,2017-03-11 09:35:49,RT @sturdyAlex: All aboard HM Brexit. https://t.co/xnUoOKXo7n,6212,False
+840239278789656579,2017-03-10 16:33:49,23 devices currently connected to my router at home. And I don't even have IoT stuff yet.,0,False
+840145417404788736,2017-03-10 10:20:51,RD nails it yet again. https://t.co/Pz5vCEKEup,0,False
+839730828192202758,2017-03-09 06:53:25,"@guidok True. Most people I've worked with understand the difference when explained though. And if not, I just don't give an estimate.",0,False
+839728462780850176,2017-03-09 06:44:01,"When asking a team to build something they've never done before, you can get a guesstimate from them, but it will be worth nothing.",0,False
+839728235147591681,2017-03-09 06:43:07,"And be at least 50% off. When you're doing mostly the R in R&amp;D, no estimates are ever accurate. https://t.co/5IpTpdHhMM",1,False
+839048271440007169,2017-03-07 09:41:11,"RT @danielbryantuk: ""When I work with software architects, I always ask 'what was the last thing you coded?' "" Architects must code! @lynnl…",228,False
+836572669592088576,2017-02-28 13:44:01,"@jsonmez Around 10 years old, MSX Basic.:)",0,False
+835968484295180289,2017-02-26 21:43:12,Toyota and Spotify became succesful organization templates not by looking at how someone else was doing it.,0,False
+835779503687352320,2017-02-26 09:12:16,RT @al3xandru: https://t.co/DYu9zcu0dM,26,False
+835603961507897345,2017-02-25 21:34:43,Why is applications stealing focus still a thing in Windows 10?,0,False
+834647358793248768,2017-02-23 06:13:31,@phillip_webb Bias is rarely fueled by ratio. It's like one football team vs another. It's why I steer clear from most comment sections.,0,False
+834343385892847617,2017-02-22 10:05:39,"And the blog article from @adrianco himself:
+
+https://t.co/wVoJHDYfIP",1,False
+834343138072354817,2017-02-22 10:04:40,From monoliths to (micro) services to functions: https://t.co/T1onsv6loS,0,False
+834340105758322688,2017-02-22 09:52:37,@KeithMallender Can I have your stuff?,0,False
+834307958427308032,2017-02-22 07:44:52,"RT @danveloper: Parenting CAP Theorem:
+
+Consistent sleep
+Available time
+Peace and quiet
+
+Choose none.",652,False
+833623901632659457,2017-02-20 10:26:40,@BSDGURU Your bill always is a shock. ;),0,False
+833284851931500551,2017-02-19 11:59:25,@altfatterz I get the feeling we're not talking about the same. ;) I was referring to ApplicationContext (and offspring) within a FP context,0,False
+833252494356656129,2017-02-19 09:50:50,@altfatterz Worth the expense as opposed to other methods?,0,False
+832947653923205120,2017-02-18 13:39:30,Keep in mind that AWS Lambda bills you per your functions invocation time. You'll want to generate a response asap. Extra plumbing=$$$,0,False
+832947439728467972,2017-02-18 13:38:39,"I can understand the need or want for Spring's features (which are extremely useful), but application context isnt one IMO.",0,False
+832947269297197056,2017-02-18 13:37:59,"Seeing some AWS Lambda examples of starting up a Spring context. But why, from a functional perspective, would you want to?",0,False
+832882131856658437,2017-02-18 09:19:09,"RT @bercut2000: This definitely is a good one!!!
+https://t.co/37SyOpRJcJ",20,False
+832566891956801536,2017-02-17 12:26:30,@cr3 @liedra Are there more in-depth photos?,0,False
+832555405633024000,2017-02-17 11:40:51,RT @rickygervais: Creationists who believe they haven't evolved from early hominids are sort of right :),781,False
+831580613408858113,2017-02-14 19:07:22,"@phillip_webb @springboot If any bias at all, it would be Heroku. ;)",1,False
+831484994321268744,2017-02-14 12:47:25,@2BFrank En met Let's Encrypt is er zelfs geen reden voor de hobbyist meer om het niet aan te zetten. Waarom bij ANWB niet?,0,False
+831437212336193536,2017-02-14 09:37:33,@2BFrank Niet alleen vanwege security. Google rankt je ook lager tegenwoordig zonder HTTPS.,0,False
+830705901959016453,2017-02-12 09:11:35,Microservices 101: https://t.co/jbPvIRgqzI,0,False
+829087508663246849,2017-02-07 22:00:40,Apache/IBM OpenWhisk: Open source FAAS platform: https://t.co/V8y9FOk4hh,0,False
+828719190282481665,2017-02-06 21:37:06,"RT @TechnicallyRon: ""Why have you imposed this ban?""
+""The attack on Nakatomi plaza in 88 was the worst terrorist attack""
+""Sir""
+""John McClan…",408,False
+828169018913804288,2017-02-05 09:10:55,This is what you get when actively participating in giving feedback on #wildlandsbeta  from @Ubisoft . Guess they d… https://t.co/C2LeBeEZBX,0,False
+827461279954632705,2017-02-03 10:18:37,"Tip from me: it's better to ask for forgiveness than permission. Do what you must to make stuff work. You want TDD,… https://t.co/0aOdgjUTMf",0,False
+827171403707379712,2017-02-02 15:06:45,RT @Schwarzenegger: The National Prayer Breakfast? https://t.co/KYUqEZbJIE,99015,False
+827159502352945152,2017-02-02 14:19:27,@ANanninga Dus ze hebben daar ook een Hans van Baalen. Nounou.,0,False
+827062723284459520,2017-02-02 07:54:53,@EWdeVlieger In je lange regenjas en met gleufhoed op?,0,False
+826848686059696129,2017-02-01 17:44:23,"Well, good luck to @EA if they want to try to top Forza Horizon 3 or The Crew. I hope they succeed of course, but 2… https://t.co/JZMrNGkF7b",0,False
+826308959560663040,2017-01-31 05:59:42,@onedrive Mostly the seamless integration with both my Windows and iOS devices. :),0,False
+825734874707460100,2017-01-29 15:58:30,@internetofshit Good riddance!,0,False
+825680539810136064,2017-01-29 12:22:35,Finding myself using OneDrive or Google Drive over iCloud a lot more.,0,False
+825652219051667457,2017-01-29 10:30:03,"@ANanninga Ik ook niet. Mijn vrouw wel, twee keer. Die deed ook veel braken (o.a.). ;) Samen zwanger my ass, 100% komt op de vrouw.",0,False
+825614273103683585,2017-01-29 07:59:16,Just remember: both in the US and EU we're at a turning point in history. Don't be on the wrong side of history.,0,False
+825393515689558018,2017-01-28 17:22:03,Vieze spelletjes van PvdA richting @F_azarkan Gaat @DenkNL nog meer zetels opleveren.,0,False
+825388663290859522,2017-01-28 17:02:46,@ArtikelZeven @erikmouthaanRTL Zoek eens op hoe lang dat duurt en wat dat kost.,0,False
+825388489273405440,2017-01-28 17:02:05,@zeuramateur @ArtikelZeven Inderdaad. Die mensen zijn gewoon in dienst van Amerikaanse bedrijven.,0,False
+825387277102759937,2017-01-28 16:57:16,@ArtikelZeven @erikmouthaanRTL @ProPublica Dan werk en woon je daar dus al jaren (vaak met gezin) en kun je er opeens niet meer in.,0,False
+825387130964889601,2017-01-28 16:56:41,@ArtikelZeven @erikmouthaanRTL Je kunt inwoner in Amerika zijn zonder Amerikaan te zijn. Net zoals je hier in NL veel expats hebt.,0,False
+825299545588432896,2017-01-28 11:08:39,"RT @RabinaKhan: #WeRemember the Holocaust didn't start in the gas chambers,it began with the rhetoric of hate #HolocaustMemorialDay https:/…",14845,False
+825298621851643906,2017-01-28 11:04:59,"RT @internetofshit: To prove you aren't a robot, tell me what these are so I can eventually outsmart you https://t.co/LaxQYAQW1m",370,False
+825025559138701312,2017-01-27 16:59:56,Too true. :) https://t.co/6IosvF1Mv3,0,False
+824999029113237508,2017-01-27 15:14:30,"RT @southg8lad: ""The Holocaust did not begin with killing, it began with words"" #NeverForget #NeverAgain #HolocaustMemorialDay https://t.co…",6051,False
+824982678583836672,2017-01-27 14:09:32,"Normally I instantly remove all bloatware from a new laptop, but @HP 's Support Assistant is actually a great piece of useful software.",0,False
+824982288060514305,2017-01-27 14:07:59,"Bought a new work laptop: @HP  Omen 17"". Core i7 and an @NVIDIAGeForce GTX 1070. :) https://t.co/t3FtckbGcJ",0,False
+823771905773670401,2017-01-24 05:58:21,@j_c_fitz Let's start by not calling these people 'alt-right' and use the term we always used: neo-nazis.,0,False
+823628753024745472,2017-01-23 20:29:31,.@internetofshit https://t.co/1VVccczbUX,1,False
+823419032233799681,2017-01-23 06:36:10,RT @Tojiro: Eliminate negativity in your code with this one weird trick. https://t.co/pWvw77sMdv,8332,False
+823260695428993024,2017-01-22 20:06:59,How about we drop the term 'alt-right' and call them the same we have always called them? 'Neo-nazis'. Or neo-fascists if you prefer.,0,False
+823205713287774208,2017-01-22 16:28:31,@JhonRules or when alt-right was called neo-nazis.,0,False
+823154397114957824,2017-01-22 13:04:36,RT @TofikDibi: De koppen mogen niets anders zijn dan: Trump LOOG tegen het Amerikaanse volk over opkomstcijfers inauguratie.,44,False
+823128955477786624,2017-01-22 11:23:30,RT @Leolucassen: Anders gezegd: Witte Huis liegt over opkomstcijfers inauguratie https://t.co/j44uVy43FP,6,False
+823110435918450689,2017-01-22 10:09:55,RT @kovanthek: wat de kop is vs wat de kop ook had kunnen zijn https://t.co/EY5gOfNNlx,66,False
+823103862064246789,2017-01-22 09:43:47,"So, the first full day of the Trump administration ended with the White House lying to the American people on an easily verifiable fact.",1,False
+823103529032318977,2017-01-22 09:42:28,Dit dus. Nu lijkt het net of er twijfel (en dus verschillende meningen) bestaan over iets wat gewoon keihard een fe… https://t.co/M2drb3Tdas,0,False
+822916078678507520,2017-01-21 21:17:36,@ThePracticalDev You can star your own repos. 😜,0,False
+822144578400698368,2017-01-19 18:11:56,"@klup NiMh oplaadbaar, met zo hoog mogelijke mAh (flitser en evt scherm verbruiken veel).",0,False
+819902633318187009,2017-01-13 13:43:15,@JoshuaLivestro Overigens zie ik ook veel moois op SM en heb ik veel mensen (weer) ontmoet die ik anders nooit (meer) gezien had. :),0,False
+819902515223347200,2017-01-13 13:42:47,@JoshuaLivestro Eens dat anoniem schelden/bedreigen een probleem is. Maar ik vind het goed dat duidelijk is wat de ware aard is van mensen.,0,False
+819900187690889216,2017-01-13 13:33:32,@JoshuaLivestro Is het erg dat SM dit zichtbaar en dus bespreekbaar maken? Racisme en extremisme is er ook zonder SM.,0,False
+819817666856632320,2017-01-13 08:05:37,"Good article about microservices, encapsulation, autonomy and separation of concerns: https://t.co/7hsUle53I5",0,False
+819814600682024960,2017-01-13 07:53:26,@ANanninga Dat is dan wel Vermont. Ik Georgia stond je gewoon 24h vast op dezelfde plek op de snelweg en werd de noodtoestand ingesteld.,0,False
+819633230794125313,2017-01-12 19:52:44,@bitfield It is (or should be) a general principle. Less code=less bugs. Less code=faster (usually). Less code=easier to maintain/adapt.,0,False
+819526833431519232,2017-01-12 12:49:57,RT @mikealdo007: Anemic Objects Are OK https://t.co/FeuHRO4oI6,1,False
+818928664003878916,2017-01-10 21:13:03,@amutter Nope. You? I think we need to get together for drinks and/or dinner. :),0,False
+818926838160510976,2017-01-10 21:05:47,@amutter Exactly. My bet is on serverless (and functional paradigm as a consequence of that). Fun times ahead. :),0,False
+818925436344434688,2017-01-10 21:00:13,@amutter Not needed for most purposes. Added complexity and costs not worth it. Unless you are massive in size of course.,0,False
+818925144202706946,2017-01-10 20:59:03,@amutter Nope. I believe very strongly that very few companies should build their own cloud infra.,0,False
+818905560888307712,2017-01-10 19:41:14,Going to do a little writeup on our experiences and lessons learned soon. (-ish),0,False
+818904976160342017,2017-01-10 19:38:55,"Oh, and don't forget @ansible . Essential in deployments and DevOps.",0,False
+818904691090329601,2017-01-10 19:37:47,@springboot @springcloud @NetflixOSS have helped us build a solution at a fraction of the cost and time to market compared to what we had.,12,False
+818904543312412672,2017-01-10 19:37:12,Did I mention I'm really happy to have put our @springboot @springcloud @NetflixOSS based solution in production?,0,False
+818771360239546368,2017-01-10 10:47:58,@dagra2 There's no way your front will 'accidentally' connect to my back.,0,False
+818713604237180933,2017-01-10 06:58:28,"RT @pcalcado: Test envs, like servers, should be like crops, not like house plants.Don’t give them names.They come and go all the time, nob…",29,False
+818394447461445634,2017-01-09 09:50:15,@KeithWM Ik ben bang dat het aanpassen van de lijnen juist het probleem verergert: mensen gaan er rijden op momenten dat het niet mag.,0,False
+818382224550744064,2017-01-09 09:01:41,@KooSpee @KeithWM Groene pijl boven rijbaan = je mag er rijden en dus ook de strepen overschrijden. Als mensen dat al niet begrijpen...,0,False
+817444571999309824,2017-01-06 18:55:48,@JoostNiemoller Als je ziet wat Roos en Baudet nu neerzetten vs Nijman dan is het duidelijk wie dat refererendum écht hebben neergezet.,3,False
+817285375077007364,2017-01-06 08:23:12,"What if I told you there is no 'Enterprise' DevOps?
+
+https://t.co/b8UMeuotCl",0,False
+816670244475457538,2017-01-04 15:38:53,@JoshuaLivestro We hebben in 2016 wel gekkere dingen zien gebeuren en 2017 wordt nog veel gekker vermoed ik.,0,False
+816335819715833856,2017-01-03 17:30:00,"@kuba_suder @dotmariusz I tried management, felt like I was slowly dying inside. Proud to be a product builder!",0,False
+816226716477718528,2017-01-03 10:16:28,"Facts don't give a shit about what you think. You are free to believe the earth is flat if you want, doesn't change… https://t.co/kPcOFk5Pra",0,False
+816198270565359616,2017-01-03 08:23:26,"@dijkshoorn Reflection is er ook als app, waarbij de muziek oneindig wordt gegenereerd. Briljant!",0,False
+816187050047242241,2017-01-03 07:38:51,@GeenPeil De analogie klopt sowieso niet. De huidige piloot is dronken en stuurt richting de grond. ;),0,False
+816169950922625025,2017-01-03 06:30:54,"@mi_native_nutt @starbuxman Exactly my point. ;) JEE8 and 9 are both DOA, and they're both not even here yet.",0,False
+816167955859931137,2017-01-03 06:22:59,Different view on microservices vs modularity (OSGi): https://t.co/Tf6MY9S2Se,0,False
+816163680689782785,2017-01-03 06:05:59,"RT @ajlkn: ""lol, [stack] is for noobs, real devs use [trendy stack of the month]""
+
+""oh ok, can you show me something you've built with it""…",36,False
+815486739397611520,2017-01-01 09:16:04,If you've ever written audio apps (like the synths I wrote) you'll know what a horror it is to get (musically) accu… https://t.co/6fEwMDXPfK,0,False
+815343380867715072,2016-12-31 23:46:25,"@frankieboyle unless they don't have cancer, in which case they might get it.",0,False
+815196099183001600,2016-12-31 14:01:10,My favorite way of deploying apps to local environments with multiple servers; Ansible playbooks from Jenkins:  https://t.co/VyH8RCETJi,0,False
+815193307588558848,2016-12-31 13:50:04,"Great intro into building secure web applications, must read for anyone that wants to deploy code online: 
+
+https://t.co/sV8ySiErKk",0,False
+815125821832777728,2016-12-31 09:21:54,".@internetofshit 
+
+https://t.co/YQqkF9DjAO
+
+Being held hostage by your own appliances in your own home, what a time to be alive! :P",0,False
+813629826191986688,2016-12-27 06:17:21,"RT @AgileFortune: Teams are immutable. Every time someone leaves, or joins, you have a new team, not a changed team. ^ @richardadalton http…",36,False
+813352255315439616,2016-12-26 11:54:23,@BartNijman Gewoon keihard haar safe space in triggeren. ;),0,False
+813072149107904512,2016-12-25 17:21:21,"RT @jenplusplus: All the good-enough software developers I know are spending this time with their families, because they know there's more…",10,False
+812777514749853696,2016-12-24 21:50:34,"RT @fivetanley: just because you don't code on your time off doesn't make you a bad programmer. It's ok to enjoy family, friends, and hobbi…",535,False
+812659980914532357,2016-12-24 14:03:32,@franticnick ;) https://t.co/DMgjsIvgan,0,False
+812641923466989568,2016-12-24 12:51:47,"@hayevanderh Welkom op Twitter, waar je zowel het mooiste als het lelijkste van de mens tegenkomt.",0,False
+812585186084945920,2016-12-24 09:06:20,"So true, Conway's law always applies. https://t.co/mwk0ve1KVn",0,False
+811814885592023040,2016-12-22 06:05:26,Why you need rate limits and bounds on every resource your application uses: https://t.co/wVDPmMom8R,0,False
+811679523162951680,2016-12-21 21:07:33,"@SafaTweets Zelf 1x gezien, ook Delta, AMS-NYC. 3 moslim man incl. bagage gedeboard omdat US pass. nerveus werden omdat er 1 te laat was.",0,False
+811631807892439040,2016-12-21 17:57:57,There's always @Bitbucket . Bitbucket has Atlassian behind it though. GitHub needs another source of cash flow. https://t.co/iZFT5TP5h9,0,False
+811181774344687616,2016-12-20 12:09:40,Solved an application running out of heap by reducing the amount of heap. Hah! A.k.a. don't put out a fire by adding more gasoline. :),0,False
+810741682316673024,2016-12-19 07:00:54,"Predictions for 2017: goldilocks, serverless, etc.
+
+https://t.co/GiTN2rzMQ8",0,False
+810741520857001985,2016-12-19 07:00:16,Overview of Netflix OSS: https://t.co/OItC21xQVO,0,False
+810443642016038912,2016-12-18 11:16:36,"RT @dotmariusz: “60, 70, 80 hours a week doesn’t equal work ethic.” — @jasonfried https://t.co/a7uis7JiTp https://t.co/ZNCLjTBEKw",1,False
+810426036190056448,2016-12-18 10:06:38,"RT @naval: ""Fake news"" is clever branding. Sounds like it's about spam filtering but really about creating the apparatus to censor politica…",1619,False
+809665759748194305,2016-12-16 07:45:34,@jrrickard @danveloper I can't recall *anyone* hyping Oracle Cloud. ;),0,False
+809358829574094848,2016-12-15 11:25:56,"From SOA to Microservices to Serverless. If you want job security in coding, my best bet is on a language based on the functional paradigm.",0,False
+809330976623050753,2016-12-15 09:35:16,"&gt;&gt; Unfortunately for Oracle, their whole Java Cloud Service offering is based on JEE and deploying WARs in an application server.",0,False
+809330844011757571,2016-12-15 09:34:44,"Conway's law says no to this scenario. Fortunately, I think the market already understood this, and are moving away from JEE already. &gt;&gt;",0,False
+809330639577251840,2016-12-15 09:33:55,"What this really means is that JEE8 AND 9 are both dead on arrival, unless Oracle radically changes its architecture. &gt;&gt;",0,False
+809330303743434752,2016-12-15 09:32:35,"Gartner: 'Develop a strategy to deal with the obsolescence of Java EE'.
+https://t.co/HcofuIAVWp
+The advize to go cloud-native instead. &gt;&gt;",0,False
+809067519092854784,2016-12-14 16:08:22,"Style Transfer technique is so awesome: https://t.co/Sda2a6N4RQ
+
+Apparently it works for audio too. I feel a new synth app coming up. :)",0,False
+808710123829002241,2016-12-13 16:28:13,@phillip_webb Don't need open source for that. Comments sections are quite self sufficient in accumulating assholes.,0,False
+808709829858623488,2016-12-13 16:27:03,@phillip_webb I would be a lousy open source dev. I'd go all Torvalds on mails like this. ;) No offense to Linus of course. ;),0,False
+808582316419334144,2016-12-13 08:00:21,"So basically, both JEE8 and JEE9 are already DOA. Oracle is lagging so far behind it's absolutely insane. Competition is eating them alive.",0,False
+808582002228232192,2016-12-13 07:59:06,Let that sink in for a bit. They're 4 years late to the party and the draft JEE8 specs are already outdated at this very moment. &gt;&gt;,0,False
+808581716159897602,2016-12-13 07:57:58,"Meanwhile, the competition (#spring, #springboot) has been live since April 2014 and steadily releasing new features/updates. &gt;&gt;",1,False
+808581425171677184,2016-12-13 07:56:49,So Oracle plans to bring JEE to the modern times (cloud and microservices) with JEE8 in late (aka dec) 2017 and JEE9 in late 2018. &gt;&gt;,0,False
+808338213383315457,2016-12-12 15:50:22,RT @esh: How much does it cost to run a serverless API on AWS? Walking through my AWS invoice for TimerCheck.io https://t.co/xPuE71Luro,56,False
+807995195832893442,2016-12-11 17:07:21,Really happy with my Samsung T3 external SSD. Lightning fast!,0,False
+807894118760382464,2016-12-11 10:25:42,"RT @EinJungeAusKiel: ""Oh, are you working as construction worker?"" - ""No, I'm a software developer in an open-plan office."" https://t.co/Of…",3452,False
+807614949761679360,2016-12-10 15:56:23,RT @ajboekestijn: Wij moeten toe naar de Amerikaanse vrijheid van meningsuiting die veel minder beperkt is dan de Europese variant,41,False
+807503395972153344,2016-12-10 08:33:06,RT @RPanh: The owner... https://t.co/Z30htWU7Zj,116,False
+807206493326114816,2016-12-09 12:53:19,"Live (and specifically work) asynchronously:
+
+https://t.co/FMPmkdGhGO",0,False
+807149030979551232,2016-12-09 09:04:59,@BartNijman Wat hij bedoelt: nieuws dat niet zegt wat wij willen noemen we fake en we willen niet dat mensen dat te zien krijgen. Eng.,0,False
+807127039627198464,2016-12-09 07:37:36,"Fake news has always been there, but it can spread more viciously since internet and social media. The same also applies to real news.",0,False
+807125101154070528,2016-12-09 07:29:54,"So, in politicians eyes fake news is any news that doesn't align with their views. Dangerous.",0,False
+807100374784081920,2016-12-09 05:51:39,"@klup Dat, of ze hebben het verkocht aan derden.",0,False
+806945080267325440,2016-12-08 19:34:34,"Funny how things change in a generation. I used to have posters of @Ferrari and @Lamborghini , my son adores @TeslaMotors @elonmusk",0,False
+806491975088308226,2016-12-07 13:34:05,"How to pay programmers less:
+
+https://t.co/J5xkIDFGxU",0,False
+806385116176142336,2016-12-07 06:29:28,Five signs your API is not RESTful: https://t.co/4j4SvyjGSk,0,False
+806193280576876544,2016-12-06 17:47:11,"@bitfield Agreed, but the catch is that it pays to deliver crappy code in certain cases. Still, it's better than not fixing at all. ;)",0,False
+806184980518993921,2016-12-06 17:14:12,"@bitfield @as_w A lot of devs get paid extra for oncall hours, so they really don't mind doing it.",0,False
+806184216706813952,2016-12-06 17:11:10,RT @bitfield: This idea makes a lot of developers extremely angry. They presumably don't see it as their job to care whether their code act…,210,False
+805897043206139905,2016-12-05 22:10:02,Een contractpartij die payrolling biedt als primair 'alternatief' voor ZZPers staat duidelijk niet aan de kant van de ZZPer.,0,False
+805874241732280321,2016-12-05 20:39:26,RT @kelseyhightower: It's much easier to provide feedback than it is to build and share something. 20 hours to build it; 20 seconds to say…,61,False
+805874089600622592,2016-12-05 20:38:50,Many HR departments realize this and 'encourage' employees to write favorable reviews. Which defeats the whole poin… https://t.co/cn3W15kODT,0,False
+805817860220186624,2016-12-05 16:55:23,RT @rogie: Right. On. https://t.co/5H8zTcaHTI,1514,False
+805373161671946240,2016-12-04 11:28:19,"@EWdeVlieger Willen we meer of minder overheid in Nederland? Ik weet 't antwoord, maar durf niet te zeggen, overheid is vast een ras.",0,False
+804609361788235776,2016-12-02 08:53:15,"@EWdeVlieger @klup Ik heet wel geen Nico, maar ben er niet op tegen als het op mijn initatief is. Bv. als app x beter is dan die van bank.",0,False
+804603765567393792,2016-12-02 08:31:01,"@klup @EWdeVlieger Zo te zien alleen met, dus lijkt mij prima.",0,False
+804603020319326208,2016-12-02 08:28:03,"@klup @EWdeVlieger Zoals ik het zie worden banken nu verplicht gegevens te verstrekken aan concurrenten op het gebied van payments, PFM, etc",0,False
+804602085065060352,2016-12-02 08:24:20,"@klup @EWdeVlieger Ben wel benieuwd naar de bron van dit stukje tekst, als ik zelf zoek vind ik hele andere bewoordingen.",0,False
+804408221960175620,2016-12-01 19:33:59,"@BSDGURU Hier stadsverwarming (verwarmt ook mijn water) en electrisch koken, geen idee waar ik een CO-melder voor nodig zou hebben?",0,False
+803551381143621633,2016-11-29 10:49:13,When a draft of JEE8 is released and there's literally nothing in there that looks interesting or innovating.,0,False
+803550839709241344,2016-11-29 10:47:04,The long history of Microservices (and SOA): https://t.co/yIpyqOZ7H3,0,False
+803321793142554624,2016-11-28 19:36:55,@NoMansSky The update is great! Keep'em coming!,0,False
+803150526024220672,2016-11-28 08:16:21,"@BartNijman @NOS Bovendien schakelt Pokemon niks uit, vraagt alleen of je wel passagier bent, gaat vervolgens gewoon door.",0,False
+803150340883435520,2016-11-28 08:15:37,@BartNijman @NOS Kansloos. Telefoon weet niet verschil tussen bestuurder of passagier.,0,False
+802781977120161792,2016-11-27 07:51:52,"RT @2BFrank: Who knew? » ""… the new MacBook Pro is possibly the most open device Apple has ever built"" https://t.co/j8yzMe1aFp",1,False
+802224323603922944,2016-11-25 18:55:58,@joewalnes detachable sides in different shapes to match different hand sizes. Might be a bit too extreme if it's just office work though.,0,False
+802224169559670784,2016-11-25 18:55:21,"@joewalnes For office work I use a wired Razer Abyssus, very light and smooth. Also got a wireless Razer Naga Epic. This one has ...",0,False
+802222350334853120,2016-11-25 18:48:07,Why does @twitter show me tweets in 'while you were away' that I've already seen when it knows I've seen them?,0,False
+802221822423011332,2016-11-25 18:46:01,@joewalnes Gaming mice run very smooth on any surface.,0,False
+802030022961876992,2016-11-25 06:03:53,Defensive programming: https://t.co/vaDHtMGbSY,0,False
+800685188040785920,2016-11-21 12:59:59,"@wmiddelkoop Only surprise for those who lost, rest saw it coming. ;) 3-2017 will be a 'surprise' in NL: I predict political landslide.",0,False
+800580849049669632,2016-11-21 06:05:23,RT @phillip_webb: Evidence on the internet suggests there's a lot of jerks working in IT. Appreciate a good team of you're fortunate enough…,24,False
+800329570486546432,2016-11-20 13:26:53,"@BSDGURU Liability zal een hoop helpen, maar denk dat de fabrikanten daar een beetje mee geholpen moeten worden. ;)",0,False
+799994050875166720,2016-11-19 15:13:39,"RT @YSSMAN: If Pence and Trump can't handle some constructive criticism, how the hell are they going to handle every single protest everywh…",1,False
+799981792279269376,2016-11-19 14:24:56,@MarcvdLinden Dacht toch even een foto van Robert Downey Jr. op je timeline te zien. :),0,False
+799889856176463872,2016-11-19 08:19:37,"Article about costs of ordering abroad. 
+https://t.co/OrkwjamR6y
+Mentions several outdated ways of paying but no word on import fees.",0,False
+799649810420813824,2016-11-18 16:25:46,Mooi. Maak van uitstel ook maar gelijk afstel. En nu weer aan 't werk. https://t.co/XwK2s3kYSV,1,False
+799596666869387264,2016-11-18 12:54:35,"@EWdeVlieger Laten fêteren door Oekraiense zakenlui, oprichten van vage Turkse lobby BVs en nu inmenging in buitenlandse verkiezing. Eng.",0,False
+799596577014812672,2016-11-18 12:54:14,@EWdeVlieger Georganiseerd door D66. Die partij wordt steeds enger en enger.,0,False
+799553917768138753,2016-11-18 10:04:43,@mathijsbouman Duidelijk artikel. Zie hier een grote rol weggelegd voor autonome auto's/apps voor de praktische invulling.,0,False

@@ -1,0 +1,206 @@
+id,created_at,text,retweet_count,tweet.retweeted
+850355120671817729,2017-04-07 14:30:34,"@steverockan Yes, the majority of 360 images.",0,False
+850354962177458176,2017-04-07 14:29:56,@JBrooksBSI Compatibility -- you can argue forever about cube layouts.,0,False
+850324032880857088,2017-04-07 12:27:02,"Silly idea, but proper prefiltering of equirect polar compression could be done directly by truncating horizontal jpg DCT coefficients.",29,False
+850309569008066561,2017-04-07 11:29:33,"@s_ketharaman Megabytes, and often quite a bit more.  Unsurprisingly, FB offices have good internet...",0,False
+850309210944438273,2017-04-07 11:28:08,"Every year I check on the availability of Sc-Al alloys, which would be great for rocket tanks. Some recent movement https://t.co/u6tQLFNVOl",14,False
+850068046408425472,2017-04-06 19:29:50,@s_ketharaman You mean 8x,0,False
+849792539188019200,2017-04-06 01:15:04,"@BruceHoult I remember getting a number like that on a Power Mac, but it probably wasn't as clean a kernel as the STREAMS benchmark.",0,False
+849773105606123520,2017-04-05 23:57:51,"For historic reference, the STREAMS memory benchmark numbers: https://t.co/KCis2WDU5T",18,False
+849771826284609542,2017-04-05 23:52:46,"@BruceHoult Early 386 might have theoretical memory bandwidth like that, but you wouldn't measure close to it in a memset / memcpy.",0,False
+849747032860311554,2017-04-05 22:14:14,"@AwokeKnowing If we had direct neural drive or a perfect foveated display, we wouldn't even need as much as we driv… https://t.co/7Y6QUmjvp2",4,False
+849733784475844608,2017-04-05 21:21:36,Seeing 30+ megabytes/s transfer rates over the internet is still astonishing to me -- that was RAM speed not all that long ago.,374,False
+849624392531288065,2017-04-05 14:06:55,"Everyone says that anonymous namespaces are the new static, but I never understood what was wrong with the old static.",59,False
+849420165964058624,2017-04-05 00:35:23,"@Uramekus I haven't even peeked at the linux game space in years, but I think that was an good assessment of linux… https://t.co/6785bCxDiN",0,False
+849419126925873152,2017-04-05 00:31:15,@DanLikesPizza I'm a fan!,0,False
+849235902262112256,2017-04-04 12:23:11,@rygorous @JBrooksBSI I bet they would be willing to break the (probably empty set of) apps that build PVRTC with compute shaders.,0,False
+849064585843924993,2017-04-04 01:02:26,@sehurlburt @samlittlewood @jwatte @rygorous @EricLengyel @FioraAeterna @Tojiro @tom_forsyth @aras_p @MissQuickstep… https://t.co/1HpanlbIZs,0,False
+848996802883866624,2017-04-03 20:33:06,@LewisCowles1 Designer performance -- they are building and iterating faster.,1,False
+848974189725859840,2017-04-03 19:03:14,@rygorous @EricLengyel @FioraAeterna @Tojiro @tom_forsyth @aras_p @MissQuickstep @SebAaltonen @antumbral But they c… https://t.co/ml54n9QUPa,0,False
+848964274357653507,2017-04-03 18:23:50,"@Rasgueado @Jonathan_Blow If you aren't trying to be better than most people, you are only trying to be average.  Or worse.",0,False
+848929900304007168,2017-04-03 16:07:15,"@Jonathan_Blow Yes, I am advocating the sentiment, not the specifics. I'm not on board with the ""only read 30% of the material"", either.",0,False
+848900425344364545,2017-04-03 14:10:07,“the standard pace is for chumps” from https://t.co/jVJqwo2SwC from https://t.co/JXteTfxlrN,38,False
+848868552853639168,2017-04-03 12:03:28,"@theGunrun Only Home is now, but Oculus Videos, 360 Photos, and the Universal Menu will be in the next couple months.",0,False
+848866403633516544,2017-04-03 11:54:56,@FioraAeterna @antumbral @aras_p So of course it becomes a patent lawsuit.  Sigh.,0,False
+848859430888374275,2017-04-03 11:27:14,"@theGunrun No, it is a staged rollout for A/B testing to make sure we didn't tragically mess something up.",0,False
+848612135760531456,2017-04-02 19:04:34,"@wmacgyver @BleuShan Tax in code and complexity, not performance",0,False
+848611603033489409,2017-04-02 19:02:27,RT @ioquake3: Help Wanted https://t.co/gfBSusLknk,103,False
+848365290937135104,2017-04-02 02:43:41,@TMFChipFool Mostly C with classes + various RAII tools.,1,False
+848315267218153472,2017-04-01 23:24:55,"@MayaPosch It isn't Haskell, but it sure stands above C/C++ for safety! If you write java like C, it can be sort of pleasant.",1,False
+848314557445558272,2017-04-01 23:22:06,"In theory, the safety of Java appeals over C/C++, yet I leap at every chance to convert Java code to C++ on Android. Cross lang tax is big.",84,False
+848249365454086144,2017-04-01 19:03:03,@chetfaliszek @BenedictEvans @7rooper But I doubt it runs wintel,1,False
+847975368485085184,2017-04-01 00:54:17,"@pervognsen Yes, we are.  Ugly.",0,False
+847963623695581184,2017-04-01 00:07:36,The NDK MediaCodec interface is quite nice to use!  Cutting out the back and worth to java land got rid of a lot of messy code.,7,False
+847906274985377792,2017-03-31 20:19:43,"RT @TimSweeneyEpic: As a veteran of the 1990's .plan wars, I sympathize with everyone who discovers fame, fortune, and imprudence in their…",40,False
+847903007681372160,2017-03-31 20:06:44,@DanielderGrosse We have a couple people with outlier IPD at Oculus that remind us often that they really can't use… https://t.co/svxdD36gRQ,1,False
+847882917350998016,2017-03-31 18:46:55,@SanbornVR @Heaney5555 There is a special path from video decoder to display scanout for 10 bit video that isn't GP… https://t.co/9Is63FlsGO,0,False
+847868717723549696,2017-03-31 17:50:29,@Heaney5555 It is still an 8 bit per component display as far as the GPU is concerned.  It would be nice to be able to feed more to display.,0,False
+847854752729751552,2017-03-31 16:55:00,"The ARM Compute Library is open source: https://t.co/xSRV3DMsyp I like Qualcomm's FastCV library, but it isn't open source...",57,False
+847831625119350784,2017-03-31 15:23:06,"@Lucas_Matney My job hasn't changed at all, and I am really happy with the re-org, which has clarified a lot of things.",4,False
+847829021295497217,2017-03-31 15:12:45,Tech notes on the improved visual quality in Gear VR Home: https://t.co/bYRTRwBJDU,80,False
+847781750562574336,2017-03-31 12:04:55,"@mrshlubb Yes. I didn't work with him much, but I'm sad to see him go.",0,False
+847781534946004992,2017-03-31 12:04:03,"@Lucas_Matney I chose to be mobile focused from the start.  Rather prescient, I might say.",0,False
+847780055984082944,2017-03-31 11:58:10,"@alexqgb @Lucas_Matney @hmltn Close enough. I want to be known for building things, not talking about them.",7,False
+847545820916338688,2017-03-30 20:27:25,"RT @Jason_Rubin: Always good to hear from our friends at CCP, one of the smartest devs leading the VR charge: https://t.co/WGrixk5PoO",24,False
+847513783190790144,2017-03-30 18:20:06,"@stevoyager No, the display resolution hasn't changed.  The Home improvements are all software, and 360 photos were… https://t.co/id16jq8Zw1",0,False
+847513621999435777,2017-03-30 18:19:28,@samecake @tom_forsyth This exact issue issue just came up again this week...  That fix is against the spirit of Us… https://t.co/9rB3WwZnz0,0,False
+847486703925252097,2017-03-30 16:32:30,"@7rooper PC is awesome, but the end game of VR is not going to be plugged into a PC; might as well start working on the hard problems now.",60,False
+847143013755187200,2017-03-29 17:46:48,Updated GearVR Home is starting to roll out to people with big quality and perf increases. I'll write up some details in the next day or so.,33,False
+847142621197697025,2017-03-29 17:45:14,"@perbjoerklund @hmltn nope, just ""right sampling"", as opposed to ""wrong sampling"", which is what happens in most VR. I'll write more later.",1,False
+847093108235907072,2017-03-29 14:28:29,"I wish more system and performance information was available through shared memory, rather than API calls. VSYNC time could just be a load.",19,False
+846821376077905920,2017-03-28 20:28:43,"RT @Jason_Rubin: Happy first Birthday @Oculus Rift! You've come a long way To celebrate, here's the best VR deal we've ever run... https://…",59,False
+846821321719742464,2017-03-28 20:28:30,"@bai0 @DevRelCallum My ""remarkably unsentimental"" standpoint doesn't lead me to collect photos.",0,False
+846741823984828419,2017-03-28 15:12:37,@janoc200 you use all of them -- you can get information from the red image of something and the blue image.,1,False
+846732682385997826,2017-03-28 14:36:17,"@janoc200 Not averaging, treating them as three separate cameras. Changing lighting doesn't impact that; features move to other ""camera"".",0,False
+846690583167021056,2017-03-28 11:49:00,"@janoc200 it isn't a matter of features changing color, but that a feature at a given pixel is in different places depending on color",0,False
+846525438797086720,2017-03-28 00:52:46,Subtle improvement in an operation every graphics programmer does. https://t.co/JTTWZkiHEQ,66,False
+846454842860027904,2017-03-27 20:12:15,"@sdamico @elonmusk if you had to pick one frequency band for natural features, I wonder what would be best.  Might even be non-visible.",0,False
+846444461026529280,2017-03-27 19:31:00,@sdamico i would be surprised to see a fisheye lens that didn't have at least one pixel of aberration spread near the periphery.,0,False
+846439853638103040,2017-03-27 19:12:41,...using a Bayer pattern and calculating independent calibrations for each channel would be The Right Thing.,3,False
+846439707571511300,2017-03-27 19:12:07,"...calibrated a pattern to 0.1 pixel accuracy, but changing the color of a tracked feature could move it multiple pixels.  It seems like...",3,False
+846439551371378688,2017-03-27 19:11:29,I only just realized that there is a limitation to the calibration of grey scale cameras because of chromatic aberration.  You might have...,6,False
+846069665264742400,2017-03-26 18:41:42,"Reading a judo book: ""To avoid unnecessary periods of unconsciousness, learning when to give up is an important part of training.""",223,False
+845951262420074496,2017-03-26 10:51:12,RT @mattgodbolt: Scroll the image to reveal... Amazingly cunning visual perception stuff https://t.co/2MXSH7BJrD,175,False
+845248958834360320,2017-03-24 12:20:30,"@sasklacz @kristazilla not using is with Unity -- I am referring to the upcoming VR Shell environment, but also works with WebVR",4,False
+845115498010497024,2017-03-24 03:30:10,"@ricksweenie for UI on 2D panels floating in space right now, but there are thoughts about extending it for controlling 3D environments.",3,False
+845047300451794944,2017-03-23 22:59:11,"@cyronix99 Just reporting the experience -- I didn't choose it, and I was a little skeptical, but it is winning big for the UI developers.",1,False
+845044982562021376,2017-03-23 22:49:58,Tide washed sand makes it look like a lazy level designer just jammed a rock model through the terrain mesh. https://t.co/A19rOdYSUq,98,False
+844902854192250880,2017-03-23 13:25:12,The Art of Atari book is causing a surprising amount of 35 year old memories to pop up. https://t.co/ktyNFwQyPc,49,False
+844902854171262977,2017-03-23 13:25:12,Using React (JavaScript) has turned out to be a bigger win for VR app development than I expected -- UI dev is several x faster than Unity.,1461,False
+844886401875349504,2017-03-23 12:19:50,RT @jbaert: @ID_AA_Carmack @codinghorror this seems relevant : https://t.co/E5MxhBkITt,48,False
+844885670732685313,2017-03-23 12:16:55,@codinghorror JavaScript programmer complains that hardware isn't getting ENOUGH faster each year. :-),91,False
+844879817975779328,2017-03-23 11:53:40,RT @JustRogDigiTec: Custom transport controls &amp; 360 video do not mix Sites should fullscreen the video &amp; leave controls to the browser for…,17,False
+844878889948250114,2017-03-23 11:49:59,"@m1cha3lo0o GearVR is more limited by software than display hardware right now, most apps only use about half the display resolution",0,False
+844306900069986306,2017-03-21 21:57:06,"@DanMatte At least on last years models, you had 10 bit video that could go directly to the display, but not a GPU renderable framebuffer.",1,False
+844295753329590272,2017-03-21 21:12:48,@romainguy Will there be real hardware taking more than 8 rendered bits per component to the display?,0,False
+844287793228500993,2017-03-21 20:41:10,Saw faint artifact at edges of a cube map. Turns out PVRTexTool cubic mip filter wraps inside each cube face instead of edge clamping.,4,False
+844255222419488768,2017-03-21 18:31:45,"@stephentyrone Yes, but with the connotation that it is from a hemisphere.",0,False
+844253193865314305,2017-03-21 18:23:41,Is there an established name for the projection where you just drop the Z to pancake a 3D hemisphere onto a 2D circle?,5,False
+844164945193435136,2017-03-21 12:33:01,"@hughhancock more fun than Luke Cage, probably not as good as Daredevil",0,False
+844159094638436352,2017-03-21 12:09:46,I'm enjoying Iron Fist on Netflix.,30,False
+843994527211839488,2017-03-21 01:15:50,@65816guy I consider it often...,0,False
+843856128316329985,2017-03-20 16:05:53,@dylanmc I think I still have an old VHS tape with a Seymour Cray lecture on it.  I watched it several times.,0,False
+843842371271909376,2017-03-20 15:11:13,@dylanmc Not sure.  I know the media team at Oculus rests easier when I'm not ad-libbing on the record. :-),0,False
+843842025363464192,2017-03-20 15:09:51,"@WackoMedia Yes!  Presentation changes can have huge value. I would rather see more great old games in VR than mediocre ""made for VR"" ones.",3,False
+843835836529496064,2017-03-20 14:45:15,RT @fermatslibrary: Wallace-Bolyai-Gerwien theorem: any two rectilinear figures with = area can be dissected into a finite number of pieces…,1566,False
+843834827207929857,2017-03-20 14:41:15,I will be giving an open to the public tech talk on systems engineering in my home town at UMKC in May: https://t.co/V6bW13eAC6,37,False
+843800353036554244,2017-03-20 12:24:15,"@zarawesome almost nothing to do with the original -- we had an early prototype that had stealth operations, but we went action instead",1,False
+843799539148603394,2017-03-20 12:21:01,"@RedlineSSB I didn't, thanks! I'm not all that clued in on Zelda stuff, just watching my son play it.",0,False
+843799100135002112,2017-03-20 12:19:17,"Doom was a good mix of advancing both the presentation and the design.  The design was simple, but it still feels good today.",100,False
+843798714292625408,2017-03-20 12:17:45,"Wolfenstein 3D was almost purely an advance in presentation, because the game elements were almost identical to a prior 2D game I made.",60,False
+843797541091184640,2017-03-20 12:13:05,... true advances in design from presentation quality and bulk.  What could Breath of the Wild look like if it had been on Game Cube?,44,False
+843797148907069441,2017-03-20 12:11:31,"Interesting exercise to consider how much of modern game designs could be implemented in more abstract form on old hardware, separating ...",54,False
+843546864813293568,2017-03-19 19:36:59,@Radiodave2000 @unity3d effort would be better spent trying to make the test-on-device cycle much faster,1,False
+843313152536338432,2017-03-19 04:08:18,"@zookyinc you really want sustained 30+ Mbps for 4k60, which is tough to stream and WiFi reliably.",0,False
+843278648375361536,2017-03-19 01:51:11,"The 180 (stereo)equirect videos that some people are doing are a reasonable trade off, but a flexible distortion curve would be better.",3,False
+843274788877434880,2017-03-19 01:35:51,"@Radiodave2000 @unity3d I don't think there is any reasonable way to simulate that, you need to regularly test on real hardware.",0,False
+842872053661278208,2017-03-17 22:55:32,"@adurdin They asked us, and we said ok.",0,False
+842816252166905856,2017-03-17 19:13:47,"@sehurlburt @paul_snively Is the ASTC version shipping?  Your web site just had you ""looking at it""",0,False
+842794602545393664,2017-03-17 17:47:46,Is there an ASTC packer out there?  Should be straightforward to beat zip in speed and space with domain knowledge.,3,False
+842722877275365377,2017-03-17 13:02:45,"In many ways both literal and figurative, GCC built the modern computer age. I presume the slide towards clang/LLVM makes some melancholy.",110,False
+842521668396359680,2017-03-16 23:43:13,@pervognsen devs that started on PAL were probably in a world of hurt when they found out they had to go 20% faster on NTSC,0,False
+842520136745545728,2017-03-16 23:37:08,"I don't like 24 fps video, but adding pulldown frames to make a 30 fps video doesn't help and prevents variable rate displays from using 24.",11,False
+842433199573676032,2017-03-16 17:51:41,I wonder if any useful health information could be harvested from repeated trips through airport scanners if you got to keep the scans.,32,False
+842362619570860034,2017-03-16 13:11:13,"RT @racketlang: Beautiful Racket, a book on making languages in Racket, has been officially released!
+
+https://t.co/tBve73YsLJ
+
+https://t.c…",151,False
+842120686491508736,2017-03-15 21:09:52,@JadenGeller I am not a fan of implicit conversions.  Stay strong!,0,False
+842096338858721280,2017-03-15 19:33:07,"@nothings inverting unsigned 32 bit value, then sign extending it to 64 bit will leave all the upper 32 bits clear. Cast first, then invert.",0,False
+842081933152600064,2017-03-15 18:35:52,"After extending a variable to 64 bits, the common clear-bit pattern of bits&amp;=~bit clears the upper 32 bits when bit isn't 64 bits wide.",34,False
+842050060460347392,2017-03-15 16:29:13,"To be clear, I understand all the arguments for CRT artifact emulation, I just don't find them all that compelling.  Purely personal taste.",12,False
+842049811503230976,2017-03-15 16:28:14,"@DamageOnAHit Yes, and those are the things you can't emulate with a fragment shader on an LCD...",0,False
+842048146184134656,2017-03-15 16:21:37,I never really got the quest for CRT artifacts in emulators. I rather like the crisp pixels.,73,False
+842047850359873536,2017-03-15 16:20:26,"Color fidelity on old CRT not so good, and no hue knob. https://t.co/UFdwWcUJfq",104,False
+842001005239783424,2017-03-15 13:14:17,"@jensn1 Same phone got worse after OS upgrade? We are aware that sRGB got broken on some phones, making 360 photos very dark.",0,False
+842000589953347584,2017-03-15 13:12:38,RT @DyslexicDeity: @ThatTomHall @ID_AA_Carmack @romero FYI — I just released my reverse-engineered clone of Keen 4–6 for Windows and Linux.…,29,False
+842000065283657728,2017-03-15 13:10:33,"@LyFTiD4LyFe I was proud of the game feel, especially for running 60 fps on last gen consoles",0,False
+841999788086304768,2017-03-15 13:09:27,@The_Happy_Friar Ha! Note that the latency on emulator and modern TVs make it harder than you remember.,0,False
+841999375186427904,2017-03-15 13:07:49,"@golden_egg Yes, that should help.  Upcoming releases are going to make our 1st party apps more efficient, but can't do much for 3rd party.",0,False
+841861244076363776,2017-03-15 03:58:56,@golden_egg what phone model and carrier do you have?,0,False
+841861164095139843,2017-03-15 03:58:37,@golden_egg remove as many default apps as possible -- it is tragic how much bloat some carrier phones have,0,False
+841812210703724544,2017-03-15 00:44:05,Making a humanoid set of actuators that can pitch a 100 mph fastball and bench press 500 lb is not trivial.,33,False
+841811195048804352,2017-03-15 00:40:03,"When I idly consider powered exoskeletons, I am disappointed how hard it is to exceed human speed+force with common industrial actuators.",49,False
+841796117742346240,2017-03-14 23:40:08,I'm going to put a real NES and CRT beside the classic emulator for a side-by-side comparison tomorrow.,20,False
+841794241122639873,2017-03-14 23:32:41,"Matt plugged an NES Classic in at the office, and everyone stopped working to vie for the Galaga high score.",50,False
+841793566594625537,2017-03-14 23:30:00,"@LyFTiD4LyFe Normally compressed directly during the generation process, so it didn't take up TBs of drive space. Could be output uncomp.",0,False
+841734230031839233,2017-03-14 19:34:13,@AscendingNode @casseveritt a special case that maps to GPU textures,0,False
+841728542790451200,2017-03-14 19:11:37,"@stephenjbrooks @casseveritt The Right Thing To Do is to ""prefilter"" the oversampled areas on equirects to match the equator.",0,False
+841725227797118977,2017-03-14 18:58:27,"I had been calling this approach ""inflated cube maps"" since @casseveritt proposed them a while ago -- puffing a cub… https://t.co/KAQNiM8vRs",46,False
+841651352585539584,2017-03-14 14:04:54,@daniel_carvalho we were full rate bound. Eventually we had dynamic resolution scaling to deal with it.,0,False
+841651097978753024,2017-03-14 14:03:53,@kristjanstrojan I'm really not an awesome math guy -- I would seek advice elsewhere,0,False
+841650107481227268,2017-03-14 13:59:57,@LyFTiD4LyFe I wish we had done that for posterity,0,False
+841649564276969472,2017-03-14 13:57:47,@daniel_carvalho which demos?,0,False
+841649465886941184,2017-03-14 13:57:24,Interesting commonalities between the resolving accuracy in computer vision and the mechanical advantage of coupled&amp;jointed linear actuators,7,False
+841280657607278594,2017-03-13 13:31:53,"@i_am_lion4 lots of software engineers aren't very strong in math, but if you hate math you probably won't be a very good one",0,False
+841093874105909249,2017-03-13 01:09:41,"@jesselloyd_ @rustlang I haven't used it.  It sounds good, but libraries and tooling will be a challenge for game dev.",0,False
+840969048708005888,2017-03-12 16:53:40,@gregbacon I wouldn't say so -- you can be TDD without being readable,0,False
+840788967561793536,2017-03-12 04:58:05,"@Sonikku_a @romero I did the original iOS port all by myself, but that has been someone else's problem for a long time now...",1,False
+840787774387159040,2017-03-12 04:53:21,"@JamesMichaelCox @pervognsen q2 was just dll, q1 was just interpreted quake c, q3 got the best of both",0,False
+840787609827835904,2017-03-12 04:52:41,"@pervognsen q3 supported bytecode for all archs, and (badly) dynamically compiled code for x86 and PPC.",0,False
+840745555861090306,2017-03-12 02:05:35,@pervognsen I have fond memories of lcc; clean and understandable without being a toy.,0,False
+840635582497800192,2017-03-11 18:48:35,"I don't consider myself a curmudgeon, but they often have my respect: The Curmudgeon's Guide to Getting Ahead https://t.co/PN80A3XslH",16,False
+840632547075792896,2017-03-11 18:36:32,"Just read a book with a few sections of advice for writing, and an awful lot of it was relevant for programming as well.",56,False
+840273996243337217,2017-03-10 18:51:46,RT @oculus: Introducing Rooms 1.2 and Oculus Events for #GearVR—Plus a Look at Facebook Livestreaming and Oculus Voice! https://t.co/eg7jH6…,81,False
+840231319082754049,2017-03-10 16:02:11,"Zenimax agreed to pay $150M for Id Software. They haven't paid. They also spent the last year suing me, but got zero damages.",346,False
+839956940176429056,2017-03-09 21:51:54,Oculus Dallas got a tour of the massive new Facebook data center in Fort Worth.  Very impressive! https://t.co/YpGz2cww1Q,41,False
+839569850443800576,2017-03-08 20:13:45,@YoniBinstock interview requests have to go through media@oculus.com,0,False
+839318240325165058,2017-03-08 03:33:56,@MostlyHumanVR next on my list,0,False
+839228139356094465,2017-03-07 21:35:55,"@ColorMat1X The editor is called Radiant, but it is very crude compared to Unity.  Really, you should probably just use Unity!",0,False
+839103559534804993,2017-03-07 13:20:53,RT @Code_Analysis: Writing a Game Engine in 2017. https://t.co/AWueUfwEUq #gamedev,112,False
+838801960509845505,2017-03-06 17:22:26,"RT @da5ch0: Look, I'm not saying ATMs are trivial to hack, just that lots of them seem to run Doom okay. Infer what you will 😏 https://t.co…",8442,False
+838800937632280576,2017-03-06 17:18:22,At 1:37.  Tons of respect for Tim and Epic! https://t.co/JK2OFEf6iU,41,False
+838583306472075264,2017-03-06 02:53:35,@wrobel221 I had fun playing it!,0,False
+838216895950176257,2017-03-05 02:37:35,"@_TwentySeven_ really though, the best answer is to just not do it -- it isn't worth the cost",0,False
+838216728509308930,2017-03-05 02:36:56,"@_TwentySeven_ current layer interface assumes only blend, but that will be changing, so yes, that could be somewhat more efficient.",0,False
+838216076144041984,2017-03-05 02:34:20,"@HomerS66 shouldn't have. I'll check.  You have L, right? K is deprecated.",0,False
+838211508265873409,2017-03-05 02:16:11,VR Critique: Neverout https://t.co/YbKav4DlIO,5,False
+838181380982878208,2017-03-05 00:16:28,"@numberdivisions run-and-gun FPS by its very nature involves a lot of viewpoint acceleration, which is inherently uncomfortable in VR",0,False
+838161332541108224,2017-03-04 22:56:48,@BinaryIdiot @doctorow @Ferrari I've been in Teslas for a while now,0,False
+837878018609577984,2017-03-04 04:11:01,"@dnaltews @romainguy My mainline codebase has a little routine to just extract the base name, which is more readable and avoids this bug.",1,False
+837867084302307328,2017-03-04 03:27:34,"@dnaltews @romainguy 89 -- I'm getting full paths to .cpp files in __FILE__, which can exceed 89 characters",0,False
+837786340708102148,2017-03-03 22:06:43,@dnaltews @romainguy wanting to use __FILE__ as tag isn't crazy,0,False
+837771935647846400,2017-03-03 21:09:29,"@ColorMat1X @iontodirel starting without any use of the commercial assets -- you can't ""paint over"" them",0,False
+837761182282850304,2017-03-03 20:26:45,"@ColorMat1X @iontodirel Yes, you own the copyright of any assets you create from scratch.  Code linked with the GPL code must be public.",0,False
+837755042362843136,2017-03-03 20:02:21,"__android_log_print() and friends apparently have an undocumented limit of 89 characters for the tag. Says ""should be reasonably small"".",21,False
+837754617945477120,2017-03-03 20:00:40,"@mcclure111 @FioraAeterna Ok, good data point then.  Interestingly, I have had people say that a ""temple massage"" vibe could fix sickness...",0,False
+837649330010013697,2017-03-03 13:02:17,@mcclure111 @FioraAeterna Ahh -- decent chance that weird after effects are more due to not-quite-right position tracking than the vibe.,0,False
+837513560267816962,2017-03-03 04:02:47,"@mcclure111 @FioraAeterna last time I checked, that was actively prevented by Samsung. Not sure if there was a policy change or regression.",0,False
+837387467552518144,2017-03-02 19:41:44,"@ColorMat1X the code is under the GPL, but none of the data is",0,False
+837192299037642752,2017-03-02 06:46:13,"@m1cha3lo0o I would love to make GearVR versions of all of my legacy games, but I doubt Zenimax would be supportive.",0,False
+837166140908449794,2017-03-02 05:02:16,"@JimConsole I talk a LOT at Oculus Connect -- the official talk will grow to two hours this year, but lots more in the halls",1,False
+837165539491393536,2017-03-02 04:59:53,RT @sh4na: . @ID_AA_Carmack is on stage to present the lifetime achievement award to @TimSweeneyEpic and this is his speech https://t.co/tE…,57,False
+837165206648152064,2017-03-02 04:58:33,"@Jason_Rubin I learned tonight that I had mispronounced it all these years -- not karahteka, but kara-teka",1,False
+837127224675328000,2017-03-02 02:27:38,Just gave Jordan Mechner a very late $40 for the pirated copies of Karateka and Prince of Persia in my youth.,807,False
+837083939047014401,2017-03-01 23:35:37,"@BOLL7708 @RiCh_HaRd1 @oculus Should have said CTO, don't read anything into it.",0,False
+837055012329021440,2017-03-01 21:40:41,"RT @oculus: Founder @ID_AA_Carmack will be at our #OculusGDC booth today from 2-3! Come by #GDC17 North Hall, Booth 1014 to talk about the…",21,False
+837036678942359552,2017-03-01 20:27:50,"@zewt As a result of my VR efforts, single buffer GL configs now work on some Android drivers, even non-Samsung.",2,False
+836969737703731203,2017-03-01 16:01:50,"@Tenacious_Diaz @DustinHLand He3 fusion has theoretical advantages, but it is HARDER than the fusion that we have been trying for decades.",0,False
+836951660408680449,2017-03-01 14:50:00,It feels significant that I went to the trouble of finding and pasting in a Greek letter to make a tweet fit. https://t.co/MIMrY14Mzn,38,False
+836951091166097409,2017-03-01 14:47:44,"@DustinHLand I remain a moon-firster. ΔV aside, travel time matters, and I want people to look up at night and know humans are on the moon.",22,False
+836942192916606976,2017-03-01 14:12:23,"@danielcassidy that is true, but most abstractions in practice are painfully leaky, and often confuse analysis",0,False
+836941891383906304,2017-03-01 14:11:11,"@Ancurio @antirez there is an old wrestling saying -- ""embrace the grind""",0,False
+836698685429923841,2017-02-28 22:04:46,"@MostlyHumanVR I haven't yet, but I do plan on it.  I'll probably do a VR notes about it.",1,False
+836615932529225728,2017-02-28 16:35:56,RT @antirez: Just blogged: the mythical 10x programmer: https://t.co/Dqq3UI63gZ,240,False
+836396099057262592,2017-02-28 02:02:24,"@ssylvan Even with a real NES, I was surprised how much easier games were when I plugged it into an old CRT versus a modern flat screen.",0,False
+836392906562793472,2017-02-28 01:49:43,"Removing lines of code is good, but removing variable state is even better!",357,False
+836380669068488705,2017-02-28 01:01:05,"@TimSweeneyEpic Couched as ""in the future they could..."" is one thing, but hard to claim anti-consumer for any of those today.",1,False
+836346980490104832,2017-02-27 22:47:13,"RT @elonmusk: Fly me to the moon ... Ok
+https://t.co/6QT8m5SHwn",31293,False
+836205347832463363,2017-02-27 13:24:25,@TimSweeneyEpic @Medium it is hard to be broadly persuasive telling people that Amazon and Uber are somehow bad for consumers.,4,False
+836198173030899712,2017-02-27 12:55:54,@sandwichmaker @t0bit0bsen @mierle it was something with importing to VS 2015; I'll try and repro next weekend.,0,False
+836197729076379649,2017-02-27 12:54:09,"@gemisisDev if you want exponential falloff, bake it into a single component non-mipmapped texture and use very high compression ASTC.",0,False
+836197166754455552,2017-02-27 12:51:55,"@gemisisDev if your rendering is efficient single pass, adding a clamped linear cylindrical fog in the fragment shader is reasonable.",0,False
+835951690847293445,2017-02-26 20:36:28,"@t0bit0bsen It didn't work out of the box, but not too bad. Worth it!",0,False
+835928382307205122,2017-02-26 19:03:51,RT @oculus: Introducing Samsung’s New #GearVR with Controller—Powered by Oculus! https://t.co/zWrHW5GOv0 https://t.co/GUfLF6Rn4X,304,False
+835860952868335616,2017-02-26 14:35:55,RT @sogrady: this idea is genius: https://t.co/J4f0BVeBEQ,307,False
+835713762988523520,2017-02-26 04:51:02,"@sunday_kid I'm not an artist, but there are great communities around most of the software packages; you should be able to get good advice.",0,False
+835595728206508032,2017-02-25 21:02:00,@quantombone I am really impressed with it!,0,False
+835573906383634433,2017-02-25 19:35:18,"C++ templates are well known for making slow debug builds, but Ceres Solver just ran 154 times faster in release than in debug.",44,False
+835522635748405248,2017-02-25 16:11:34,"@Rocky1138 If someone actually did this, it would be in the sealed area between the lenses and the display.",0,False
+835483343571542016,2017-02-25 13:35:26,"@tom_forsyth I'm fairly proud of my 6:09 mile run, but there are 12 year olds in my soon's middle school running 20+ seconds faster.",0,False
+835482553465389056,2017-02-25 13:32:17,@melanor9 I'm not a fan of the fresnel lens trade offs,0,False
+835345197882044416,2017-02-25 04:26:29,"@HarshilShah1910 @Grady_Booch A perfectly fitting abstraction is a thing of beauty, but so many fit so poorly.",0,False
+835332055445692416,2017-02-25 03:34:16,"@pointandcircle there are valid uses, but in general, yes, they are often poor choices",0,False
+835321626308698112,2017-02-25 02:52:49,"@_tomcc I can see the screen reflecting onto the eye cup pretty clearly in some configurations, and it isn't a good thing.",0,False

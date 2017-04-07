@@ -1,0 +1,208 @@
+id,created_at,text,retweet_count,tweet.retweeted
+850290518357626880,2017-04-07 10:13:51,@frede2004 Try again now - we've released some fixes to login yesterday.,0,False
+849380363231260685,2017-04-04 21:57:13,@eronhinton This FAQ article may help: https://t.co/X2QUrCEytE,0,False
+849025237450620928,2017-04-03 22:26:05,@frede2004 Thanks - we're looking into it :),0,False
+848851857359458306,2017-04-03 10:57:08,The problems have been resolved. Turns out we had a DNS problem. Most streamers will need to reconnect the bot to their channel.,5,False
+848840763286982656,2017-04-03 10:13:03,We are looking into a problem on our server at the moment.,3,False
+848657433568444416,2017-04-02 22:04:34,@amy_l0uiseexox Hi Amy - we've added some logging. Can you try again so we can capture the error?,0,False
+848656854062333953,2017-04-02 22:02:15,"@frede2004 Can you try another time? You will still get an error, but we want to capture it in our logs (which we added).",0,False
+848636700612063232,2017-04-02 20:42:10,@frede2004 When does this error occur,0,False
+848633579680780292,2017-04-02 20:29:46,@frede2004 What is the error,0,False
+848628099436740608,2017-04-02 20:08:00,@frede2004 Hi frede - yes we've fixed that up now.,0,False
+848620981593796609,2017-04-02 19:39:43,@amy_l0uiseexox Hi Amy - we cannot reproduce the issue. Is it possible to record a video/screenshots of what is happening. You can DM us.,0,False
+847464695963336704,2017-03-30 15:05:03,@JWesttttt In the permisson box next to the command add everyone to allow everyone or add moderator for moderators ect,0,False
+847460046556418050,2017-03-30 14:46:34,"@JWesttttt Second, make sure your permissions setup correctly as you may be running a mod only command with a normal user.",0,False
+847459802770845696,2017-03-30 14:45:36,"@JWesttttt,
+First, make sure you have made the bot join your chat with the clickable text on the top right of the control panel.",0,False
+846868420645801986,2017-03-28 23:35:40,@TwisteeDJ you're welcome. :),0,False
+846865584285503489,2017-03-28 23:24:23,@TwisteeDJ Hi - the feature was disabled in your feature list. We've gone ahead and enabled that for you.,0,False
+846860066603094020,2017-03-28 23:02:28,@TwisteeDJ Hi - we'll look into that for you and get back to you in a few days.,0,False
+845734372946968576,2017-03-25 20:29:22,A warm welcome to @2bkrulesgaming and Milton to the DrAngryBot team!,2,False
+845269349376163840,2017-03-24 13:41:31,Our Twitter DMs are now open for everyone.,1,False
+844677784056352769,2017-03-22 22:30:51,"RT @TwitchSupport: 🛠 Follower counts should once again be displaying correctly on channel pages.
+
+The number of the day is no longer  -34,6…",70,False
+844677659816853504,2017-03-22 22:30:22,@TechnicianMusic https://t.co/NInmR5vnlD,0,False
+844653554493280257,2017-03-22 20:54:34,@MXquad We've reported this to Twitch. Their API are returning high follower totals.,0,False
+844652905412087809,2017-03-22 20:52:00,RT @TwitchSupport: 🔎 We're looking into reports of some channel pages displaying bugged follower counts. ^AK,116,False
+844652718576844802,2017-03-22 20:51:15,@elaaidi We've reported this to Twitch - they are returning high totals on their followers API.,0,False
+844652613127823360,2017-03-22 20:50:50,The Twitch API are returning highly inflated follower totals at the moment - we've reported the issue to them.,6,False
+844558866033598464,2017-03-22 14:38:19,@stephenbilbao Not at the moment.,0,False
+843211980295065600,2017-03-18 21:26:16,@trumpi success,0,False
+841738016712495105,2017-03-14 19:49:16,RT @Grimsby90: Know DrAngryBot//Discord commands &amp; interested in modding my chat when i stream? Send me a DM with a brief description about…,2,False
+841412722487111680,2017-03-13 22:16:40,@PabloEscobarII @DarMurrayIRL https://t.co/UWcW9TvX5F,0,False
+840518495473418242,2017-03-11 11:03:20,"@TKO_Crow This was a genuine outage, not a planned maintenance. Sorry again about that.",0,False
+840513883693543424,2017-03-11 10:45:00,Sorry about being down earlier. Good news though: custom cooldowns for commands and sounds are now a thing.,4,False
+840275575772200961,2017-03-10 18:58:03,@Rally_PlayzYT @Band_of_Others Hi Bradley - we've opened a bug here: https://t.co/pZdUTC4bQP - we'll begin work on this immediately.,0,False
+840275472344850432,2017-03-10 18:57:38,@JamesBowers1983 @lastritez Hi James - I've opened a bug here: https://t.co/pZdUTC4bQP - we'll work on this immediately.,0,False
+839969823228629013,2017-03-09 22:43:06,"@Band_of_Others Good to hear, man. Glad you got sorted in the end.",0,False
+839962797530382337,2017-03-09 22:15:11,@Band_of_Others We are having some trouble catching up with the Twitch rename situation. A fix was released earlier - let me know if ok.,0,False
+839430355497136129,2017-03-08 10:59:27,Thank you for all the bug reports since our big release last Saturday. You can see all our open bugs here: https://t.co/lB4hE3afVw,0,False
+838676884334522369,2017-03-06 09:05:25,@Bigluigi424 Just click on the help/ideas tab on the website. Please let us know the old name and the new name in the ticket too.,0,False
+838346072011517954,2017-03-05 11:10:53,We've updated our page that details the problems that we are having with Twitch renames. You can read it here: https://t.co/EImyxgFV4v,0,False
+838021591854428160,2017-03-04 13:41:31,We've resolved the issue where bot commands respond slowly. Thank you for all your reports. @Miss_Deacon9l,0,False
+837991971943813121,2017-03-04 11:43:49,We're investigating very slow responses to commands.,2,False
+837979904415252480,2017-03-04 10:55:52,The bot is coming back up now - rejoining all channels. This was a big update and we appreciate any issue reports. :),2,False
+837959120133238784,2017-03-04 09:33:17,Our scheduled maintenance begins in about 30 minutes. DrAngryBot will be unavailable for about 1 hour.,0,False
+837442620217491456,2017-03-02 23:20:54,"@TheKGC02 @ruthven78 @Daddy_Murph11 Streamers love it, but viewers hate it. We recommend having it off, especially if you're starting out.",1,False
+837032708316532739,2017-03-01 20:12:03,DrAngryBot will do down for maintenance at 10am GMT on Saturday 4 March to deploy fixes after the Twitch name change feature.,5,False
+837022022635032581,2017-03-01 19:29:35,@Cyketor We see that endpoint failing quite often. Retrying will usually resolve this. We're working on a fix.,0,False
+837019476969328645,2017-03-01 19:19:29,@Cyketor We see that endpoint failing quite often. Retrying will usually resolve this. We're working on a fix.,0,False
+837015006663348224,2017-03-01 19:01:43,@Cyketor We're taking a look and will get back to you soon.,0,False
+836731371603300355,2017-03-01 00:14:39,@PS4girlies88 @Highly_Critikal Sorry :’(,0,False
+836313945807945728,2017-02-27 20:35:57,We've updated the issue list following the Twitch name change feature at https://t.co/EImyxgFV4v - will need downtime this Saturday.,4,False
+835898247889698817,2017-02-26 17:04:07,We'll be posting updates on the Twitch rename issues to our website on this page: https://t.co/EImyxgFV4v,4,False
+835640268661620740,2017-02-25 23:59:00,@pirawna We're looking at a fix for this. It may take a few days to sort out.,0,False
+835211399685091329,2017-02-24 19:34:49,"Please RT for awareness: Twitch have introduced name changes, however DrAngryBot does not support name changes yet. https://t.co/7NhDiHkW31",22,False
+835210765837684736,2017-02-24 19:32:18,"Twitch have introduced name changes, however DrAngryBot does not support name changes yet. https://t.co/7NhDiHkW31",5,False
+834927897156661249,2017-02-24 00:48:17,@MaddogSuperior Good spot - yeah it needs the https.,0,False
+834918132292681728,2017-02-24 00:09:29,@2bkrulesGaming That will probably be sufficient. Send us a PM at https://t.co/GPXw1Cl5Tl with some details and we can chat.,0,False
+834917640598618112,2017-02-24 00:07:32,We're looking for someone from a US timezone with Windows Server experience to volunteer to help us. Send us a PM at https://t.co/HYeZskC1GK,5,False
+834527943422521345,2017-02-22 22:19:01,@MrCasualGeek @TayterSalad420 I only pick cool people!,0,False
+834526328305106944,2017-02-22 22:12:36,"Umm.. when we said slow for a few minutes, we meant one minute. It should be back to normal now.",1,False
+834525823822655488,2017-02-22 22:10:35,DrAngryBot will be slow for a few minutes while we clear out some stuff.,1,False
+834174180929241090,2017-02-21 22:53:17,@2bkrulesGaming We've made a speculative fix. Please let us know if it is still giving you problems.,0,False
+834173266256355329,2017-02-21 22:49:39,"DrAngryBot is back now. If it is slow in your channel, please make it rejoin.",1,False
+834158018736640001,2017-02-21 21:49:04,We're investigating an issue with DrAngryBot at the moment.,4,False
+833274709928185856,2017-02-19 11:19:06,DrAngryBot has now rejoined all channels. It took a little longer while we sorted out a problem. Report issues here: https://t.co/HYeZskC1GK,4,False
+833258953760989184,2017-02-19 10:16:30,DrAngryBot is restarting and will take up to 30 minutes to rejoin all channels.,4,False
+832940892751278080,2017-02-18 13:12:38,We've got merch: https://t.co/fzxc6selYE,3,False
+832563356649324545,2017-02-17 12:12:27,@rickyeverett Like a bawt!!,0,False
+832356981373550597,2017-02-16 22:32:23,DrAngryBot has now rejoined all channels. Let us know at https://t.co/HYeZskC1GK if you have any issues.,5,False
+832349116101427200,2017-02-16 22:01:08,We are going to restart DrAngryBot now to release a bug fix. The bot will take a few minutes to rejoin all channels.,5,False
+832245703011401728,2017-02-16 15:10:12,Logging in to the DrAngryBot website may be affected by this. Log in before this window starts and you should be go… https://t.co/Vu5NWZLrjn,1,False
+830384570365247488,2017-02-11 11:54:44,@_Manpie Should be fixed now.,0,False
+830384207339847680,2017-02-11 11:53:17,@_Manpie What is your Twitch channel? One of our guys wants to pop in to keep an eye on things.,0,False
+830383258865119232,2017-02-11 11:49:31,@_Manpie Thanks again for reporting that. We'll get that fixed too.,0,False
+830378480453971968,2017-02-11 11:30:32,@TwistedHunter_ https://t.co/DDf3K1wVCX,0,False
+830374722365972480,2017-02-11 11:15:36,"@_Manpie Just did some additional checks, and everyone who hosted also got their coins.",0,False
+830370032903475201,2017-02-11 10:56:58,@_Manpie Should be fixed now :),0,False
+830368382709010432,2017-02-11 10:50:24,@_Manpie @DrAngryBot Sorry about that ManPie - we'll have a look to see whether we can get that fixed.,0,False
+830365796186603520,2017-02-11 10:40:07,"If you use {User}, etc. in your custom commands, the syntax has changed to ${User}. Details here: https://t.co/ZJVzqG5Vvc",1,False
+827995825720684545,2017-02-04 21:42:42,@Jiminyjim85 Hi Jim - I needed to restart a little earlier. I should be all good now.,0,False
+827983660309684226,2017-02-04 20:54:22,@DarkMistTag Hi Trevar - we recently restarted the bot - it tends to do this when restarted.,0,False
+827625515469115393,2017-02-03 21:11:14,"RT @TheWrightVlogs: If ur a streamer then check out @DrAngryBot a fanatstic bot, which i use all the time. https://t.co/W5UwAbs02y also fol…",1,False
+827600934498885632,2017-02-03 19:33:33,@neijonentimo @PS4girlies88 It’s so good.,0,False
+827436251326332928,2017-02-03 08:39:09,"RT @GrumbleHDTV: 24 hr Charity Strm raising funds &amp; awareness for Lupus UK from 9am GMT 2day on https://t.co/nvccSMEMeX  RT Pls
+@LUPUSUK @R…",24,False
+827251339566669824,2017-02-02 20:24:23,"@SoFlaGamer so to make DrAngryBot a moderator, type “/mod DrAngryBot” in chat.",0,False
+827250600651943937,2017-02-02 20:21:27,@SoFlaGamer ok give that a try. The Twitch commands to control the chat room can be found here: https://t.co/N7T72fn5aX,0,False
+827249584393039877,2017-02-02 20:17:25,"@SoFlaGamer Your chat is in follower only mode, so DrAngryBot cannot chat. You can remove that mode, or make DrAngryBot a moderator to fix.",0,False
+827079112971915264,2017-02-02 09:00:01,@Miss_Deacon9l Thank you for your report Miss Deacon.,0,False
+826908266814898177,2017-02-01 21:41:08,@Corsair_Chris @DrAngryBot can you try now? There was a problem on the server that we resolved a few minutes ago.,0,False
+824193231730642945,2017-01-25 09:52:33,@DrAngryBot Exact times: 7pm GMT - 9pm GMT.,0,False
+824192907913625600,2017-01-25 09:51:16,"Last night DrAngryBot was under severe load causing many jobs to misfire. Timed messages, auto-coin awards, etc. was affected.",1,False
+824192352931770368,2017-01-25 09:49:04,@DrAngryBot Over there you can log a private ticket for us.,0,False
+824192190880632832,2017-01-25 09:48:25,@Samthestreamer Please log a ticket on our help site so that we can get the information that we need to help you. https://t.co/WFhsJdTsFE,0,False
+824176717346537473,2017-01-25 08:46:56,"@ShadowShot_ ...or if DrAngryBot is a moderator, then hyperlinks will not be blocked by Twitch.",0,False
+824176107452825601,2017-01-25 08:44:31,"@ShadowShot_ @DrAngryBot Go to https://t.co/QRYdnnIlPh and turn off ""Block Hyperlinks""",1,False
+823853351112732673,2017-01-24 11:22:00,RT @Nick_Delacuesta: @teganbrodiex @DrAngryBot good choice. I use that bot myself 👌🏼,1,False
+823853280103112704,2017-01-24 11:21:43,RT @TheWhiteClutch: @StDxProfessor shoutout to my main bot drangrybot appreciate you keeping my gambling addiction going strong,1,False
+823174457372143616,2017-01-22 14:24:19,"@Holland_94x Out support team does not have access to DMs, but to get support, see https://t.co/WFhsJdTsFE",0,False
+821400082780131330,2017-01-17 16:53:35,@AznSurfGuru Hi AznSurfGuru - we have some important information to share with you about DrAngryBot here: https://t.co/hnsJlFVEkD,0,False
+821270190595932160,2017-01-17 08:17:26,"RT @xMinks: The most angry cookies you'll ever see
+
+#LOVED.VA ✌🏼💗 https://t.co/95MDif4EIW",11,False
+821265094109700096,2017-01-17 07:57:11,Need help with @DrAngryBot? Visit https://t.co/OqVmYjWsgP for details about our official support channels.,3,False
+820284118172860418,2017-01-14 14:59:08,@Real_Life_Dad We have it because streamers want it. It is not enabled by default though; the streamer needs to turn it on.,0,False
+820227059549085696,2017-01-14 11:12:24,"@Real_Life_Dad Streamers can, of course, turn this feature off. It is not popular with viewers and we encourage discretion when enabling it.",0,False
+818925806328152064,2017-01-10 21:01:41,@stich83guy Thanks for your report. I've logged a bug here if you want to follow its progress: https://t.co/YZUP5M82Rn,0,False
+817375760902193152,2017-01-06 14:22:22,@SkyPlaysStuff Try this: https://t.co/azIdFlMtz3,0,False
+817304666249822208,2017-01-06 09:39:51,@stich83guy And thank you very much for your report as well.,0,False
+817304586310524928,2017-01-06 09:39:32,@stich83guy Hi - yes there was a problem earlier. A Twitch chat outage caused part of the bot to stop. We've started it up again.,0,False
+809458991139028992,2016-12-15 18:03:57,We've started DrAngryBot back up again and will keep a close eye on things.,3,False
+809448504586342400,2016-12-15 17:22:16,We're having trouble connecting to Twitch chat at the moment. DrAngryBot is disconnected while we figure out what is going on.,4,False
+808476692230586368,2016-12-13 01:00:38,We've restarted the bot to restore our connection to @Gamewisp. Please disconnect and reconnect to refresh groups. We'll fix this soon.,0,False
+806952970684395520,2016-12-08 20:05:55,The chat issue is now resolved. https://t.co/jvIb61jyeC,0,False
+806951052935364608,2016-12-08 19:58:18,This is affecting the chat embedded on the DrAngryBot dashboard. Watch @twitchsupport for an announcement of a reso… https://t.co/UDJBCexLeV,1,False
+805895251764408320,2016-12-05 22:02:55,The issue where DrAngryBot is not posting to chat is now resolved. It will take a few minutes to rejoin all channels.,3,False
+805893760777338880,2016-12-05 21:57:00,We're investigating an issue where DrAngryBot is not posting to chat.,3,False
+805362019440492544,2016-12-04 10:44:02,"We should have done this a long time ago, but you can now !permit users with DrAngryBot.",3,False
+798179104721924101,2016-11-14 15:01:42,RT @trumpi: Horse race. Vote and retweet.,18,False
+796130139360919553,2016-11-08 23:19:51,@WolfsicknessHD  https://t.co/GygtNZoY8c,0,False
+794902636524957696,2016-11-05 14:02:11,We've just hit 1500 active streamers on DrAngryBot! Thanks to everyone who recommended me and thanks for all your support!,1,False
+793878294521319424,2016-11-02 18:11:49,@JamesBowers1983 https://t.co/RVINxaNP73,0,False
+793567757753262080,2016-11-01 21:37:51,RT @Hive_Mods: @trumpi just want to say thank you to you and @DrAngryBot for making like while streaming so much easier. One of the biggest…,1,False
+793567673187700737,2016-11-01 21:37:31,@WolfsicknessHD I love to be used ;),0,False
+793557857350418432,2016-11-01 20:58:31,A new stream game called high-low is now available on DrAngrybot. Type '!enable-feature high-low' in your chat to enable it!,6,False
+793199967015936000,2016-10-31 21:16:23,@neil7879 https://t.co/IroT9w7WyI,0,False
+793199791438229504,2016-10-31 21:15:41,@THEOFFICALOIOI https://t.co/eonbeOv7QV,0,False
+792989928783245312,2016-10-31 07:21:46,@ThatKezz Hi - sorry to hear that you are having trouble. I've opened a ticket here so that we can discuss this: https://t.co/1DTmy4M0Ho,0,False
+791365373119586306,2016-10-26 19:46:22,@TechnicianMusic  https://t.co/aitnTF4axh,0,False
+791254670081658880,2016-10-26 12:26:28,DrAngryBot has now rejoined channels after the emergency fix. Please visit https://t.co/HYeZskC1GK if you're still having trouble.,1,False
+791247231399657472,2016-10-26 11:56:55,We've deployed an emergency fix to resolve DrAngryBot leaving channels in error leaving it unable to rejoin.,2,False
+789763384258551808,2016-10-22 09:40:38,The scheduled maintenance is now complete and DrAngryBot has rejoined all channels.,0,False
+789753952178962432,2016-10-22 09:03:09,A scheduled maintenance has begun. We'll let you know when it is all done :),1,False
+787364490547519492,2016-10-15 18:48:17,"We're using a new method for quicker host alerts. To activate it, please got to https://t.co/5tOn1RNgoJ and log in again before going live.",4,False
+785086263930023936,2016-10-09 11:55:26,You can now whisper DrAngryBot to create support tickets. Go to https://t.co/7o5PSe2HaU for details on how to do it.,4,False
+783748044957347840,2016-10-05 19:17:49,"RT @TwitchSupport: We're recovering from the earlier site outage, please do let us know if you continue to see further issues. Thank you fo…",193,False
+783747297301495810,2016-10-05 19:14:51,"Twitch is back Online ,DrAngryBot should be back to normal now.",7,False
+783739223228739585,2016-10-05 18:42:46,"RT @TwitchSupport: We're currently investigating reported site issues, thank you for your reports! ^RM",987,False
+783738185859928065,2016-10-05 18:38:39,The Twitch API is down - DrAngryBot may behave as though you are offline while this is happening.,6,False
+777073867416281088,2016-09-17 09:17:01,Our @GameWisp integration is now complete and available for all DrAngryBot users. Visit https://t.co/lCi1cvqZGA for more information.,8,False
+774932358378250240,2016-09-11 11:27:26,@TeradinGaming  https://t.co/TpSSIV6p5U,0,False
+774927013404676096,2016-09-11 11:06:12,DrAngryBot is back up - we'll continue to keep a close eye on things today.,3,False
+774919436822274048,2016-09-11 10:36:05,We need to temporarily stop DrAngryBot while we sort out a database problem.,6,False
+774555546003316736,2016-09-10 10:30:07,@ambermadi420 Thank you for those kind words :D,0,False
+774554963225739264,2016-09-10 10:27:48,Hi guys - I wasn't working a little earlier today. I'm really sorry. I had some food and energy drinks and I'm back to my old self now.,2,False
+771432238772813824,2016-09-01 19:39:12,RT @hootener: .@GameWisp is @TwitchAlerts integration broken? Yes. The transition to stream labs 404ed the entire api. Bear with us :( #Hea…,5,False
+770370166945353728,2016-08-29 21:18:55,@Patten6332 It has indeed sir! https://t.co/4SqumZuOLo,0,False
+770058699574566913,2016-08-29 00:41:15,@deviljho12  https://t.co/cAOA7N08mj,0,False
+769218495900975104,2016-08-26 17:02:35,"If follower alerts aren't working in your channel, see https://t.co/7k5yTmQFCf for a workaround. A fix will be released on Monday.",4,False
+768963370859032576,2016-08-26 00:08:48,@xNeooNz Hey - you can find us here: https://t.co/XasfN1FAvc. You can also use the help/ideas link on the DrAngryBot website.,0,False
+768095626252943360,2016-08-23 14:40:42,@L4DY_Athena @SnooZyUS Sorry to hear about that. Twitch had a major chat outage last night - could it be that? Congrats on 2k!!,0,False
+767313918473756673,2016-08-21 10:54:28,DrAngryBot is back up. You may need to get the bot to rejoin your channel.,2,False
+767311623677734912,2016-08-21 10:45:21,We're still working on bringing DrAngryBot up. We'll post again when it is available again.,1,False
+767302709196234756,2016-08-21 10:09:56,Hey - we're rebooting our servers right now - be back in 15 minutes.,2,False
+767159684184834049,2016-08-21 00:41:36,@calvin12312  https://t.co/8Kmv6kXrpM,0,False
+766930750352404484,2016-08-20 09:31:54,We've added some new customisations to messages that DrAngryBot posts. View them here: https://t.co/rzY1IUGYkU,3,False
+765127590202007552,2016-08-15 10:06:47,@LiamMarkham1202  https://t.co/BSGzMqXzW9,0,False
+764419765519716352,2016-08-13 11:14:08,You can customise some messages that DrAngryBot posts. See https://t.co/2albLsP8wm for details. We'll be adding more soon!,4,False
+760228043239686148,2016-08-01 21:37:44,"Welcome to the DrAngryBot team Mad_Menace_69! Visit https://t.co/2doFoO3kvH to ask your questions, log bugs or suggest ideas!",2,False
+759391885928570880,2016-07-30 14:15:09,Your moderators are now able to preview and moderate your song request queue by following your song request link. No more troll songs!,6,False
+759345552748322816,2016-07-30 11:11:02,Coin multipliers have moved to the groups page and you can now set multiple multipliers: https://t.co/iGaCpabIN1,2,False
+756826595776729088,2016-07-23 12:21:36,Did anyone spot something new on the song request page?,1,False
+756420344810962944,2016-07-22 09:27:18,@Blaque_Majikk26 I tried opening a DM with you now and that is not working either. Is there another way that you can be reached?,0,False
+756417620413390848,2016-07-22 09:16:28,"@Blaque_Majikk26 Either way, we'll make a plan.",0,False
+756416687445073920,2016-07-22 09:12:46,@Blaque_Majikk26 I'm afraid we are having problems inviting you. It may be because of blocking on Twitter.,0,False
+756256970756292608,2016-07-21 22:38:07,@Spike_LeStrange Awesome - thank you very much!,0,False
+756256731534069760,2016-07-21 22:37:10,@Spike_LeStrange Awesome! Can you follow our Twitter account so that we can invite you to the DM group?,0,False
+756231162939473920,2016-07-21 20:55:33,Any @GameWisp users who also use @DrAngryBot ? Please reply if you want to alpha test our GameWisp integration.,8,False
+755492782962249728,2016-07-19 20:01:30,We're looking into delayed responses from DrAngryBot.,0,False
+754668033050836992,2016-07-17 13:24:14,@Zfee0129 Not at all. Redis was filling the OS network buffer after a release and we needed to roll back after gaining access to the server.,0,False
+754653507471470592,2016-07-17 12:26:31,We're back! Our team will continue to keep an eye on things to make sure everything is running smoothly.,2,False
+754649401499541504,2016-07-17 12:10:12,We currently are having an issue at the data centre. A ticket has been opened - DrAngryBot may be down for the rest of the day.,3,False
+754636084756316160,2016-07-17 11:17:17,DrAngryBot is down for emergency maintenance right now. We'll let you know as soon as we're back.,7,False
+752577835865341952,2016-07-11 18:58:32,We've just uploaded a tutorial video on how to use the DrAngryBot sounds feature. View it here https://t.co/JDvFiNlX2s,6,False
+750785920027267072,2016-07-06 20:18:06,We're all back to normal!,2,False
+750780157418438656,2016-07-06 19:55:13,We are busy investigating a problem where DrAngryBot is slow to respond in certain channels.,0,False
+750093048680423424,2016-07-04 22:24:53,@Princes41765268  https://t.co/rt2vXLoU5B,0,False
+748847712741842945,2016-07-01 11:56:22,@oGvnnn  https://t.co/ZxFSAtLfSl,0,False
+746647454909612033,2016-06-25 10:13:19,"RT @Smithy20418: LIVE WITH PRO CLUBS LETS WIN THE CUP @DoNGaming123 @DennisBoldy @BigAzzaB @neil7879 @therealjackster 
+https://t.co/thNWfHb…",3,False
+746642938130751488,2016-06-25 09:55:23,"The scheduled maintenance is now complete. If DrAngryBot did not rejoin your channel, then visit https://t.co/HEnd3joW3m.",0,False
+746614407384473600,2016-06-25 08:02:00,Reminder: we have scheduled maintenance happening in one hour. DrAngryBot will be down for a few minutes while this happens.,2,False
+746465668510396416,2016-06-24 22:10:58,@DrAngryBot Spelling is hard.,0,False
+746441009630969856,2016-06-24 20:32:59,"The outage is resolves. If DrAngryBot hasn't rejoined your channel, then you can get it to rejoin from https://t.co/5tOn1RNgoJ",2,False
+746439480098299904,2016-06-24 20:26:54,We're experiencing an outage right now. We'll be back in a few minutes.,3,False
+746304571203530756,2016-06-24 11:30:50,@OIOIW00DYOIOI Hey Woody - there was a bug present that we have just patched. https://t.co/36sHtDNokD,0,False
+746296643998355456,2016-06-24 10:59:20,Subscribers to https://t.co/DUuwEK7kTA can now use a sexy DrAngryBot emote in Twitch chat.,7,False
+746126175886524416,2016-06-23 23:41:57,We have needed to perform an emergency release - DrAngryBot is busy rejoining all the channels right now.,1,False
+745013933891805185,2016-06-20 22:02:18,We need to perform some maintenance on DrAngryBot this Saturday at 9am UTC. Find out what time that is for you here: https://t.co/QwoLsaa4Yu,3,False
+741394425541103617,2016-06-10 22:19:40,Something new has just been released... Video coming this weekend.,3,False
+741211832057221122,2016-06-10 10:14:06,@louietheskater  https://t.co/5FnXxEc0jk,0,False
+738514664963870720,2016-06-02 23:36:31,This will only work for PC streamers unfortunately.,0,False
+738513484376383489,2016-06-02 23:31:50,We're looking for a small number of streamers who use DrAngryBot to alpha test the coming sounds feature. Reply if interested.,3,False
+738507434034106368,2016-06-02 23:07:47,We gave DrAngryBot a reboot a few moments ago and it should have rejoined all channels.,0,False
+738505893231382528,2016-06-02 23:01:40,@SaM_WisE88 Hi - we've given it a gentle reboot - hope this solves the problem you're having.,0,False
+736537904000995328,2016-05-28 12:41:35,"@TerraQube Sad to see you go, Angry Swede! I wish you all the best! :D https://t.co/85ers8Bk5r",0,False
+735485295886356481,2016-05-25 14:58:53,Our server provider has informed us that there is a fault affecting the DrAngryBot servers. There may be further outages today.,2,False
+735482904982130689,2016-05-25 14:49:23,Our servers are available again. The bot will come back online over the next few minutes.,2,False
+735482515633385473,2016-05-25 14:47:50,We'll update you as soon as we know more.,0,False
+735482063269199872,2016-05-25 14:46:03,We've just received an alert that the DrAngryBot servers are unreachable.,3,False
+735233320217391104,2016-05-24 22:17:38,@Whitecrowo2  https://t.co/uTYMAWYiMi,0,False
+733974436915904512,2016-05-21 10:55:17,"@Tess3llatedGuy !skip-song is your friend, but only if you're a mod :)",0,False
+733949740656791552,2016-05-21 09:17:08,"New DrAngryBot commands just released: !game, !title, !current-song and !next-song. You're welcome.",13,False
+729097248064311296,2016-05-07 23:55:04,I apologise for not adding anyone's songs to the queue today. The devs and I had a good talk and now I will do it.,8,False
+728877836099006464,2016-05-07 09:23:12,The maintenance is all done,7,False
+728871495439679489,2016-05-07 08:58:00,DrAngryBot will be unavailable for the next few minutes while we carry out some essential maintenance.,4,False

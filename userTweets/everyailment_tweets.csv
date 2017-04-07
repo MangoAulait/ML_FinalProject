@@ -1,0 +1,201 @@
+id,created_at,text,retweet_count,tweet.retweeted
+850475781889372160,2017-04-07 22:30:02,"S20.161 Insect bite (nonvenomous) of breast, right breast",0,False
+850468233333407746,2017-04-07 22:00:02,S20.16 Insect bite (nonvenomous) of breast,0,False
+850460681296117763,2017-04-07 21:30:01,"S20.159 Superficial foreign body of breast, unspecified breast",0,False
+850453131364356099,2017-04-07 21:00:01,"S20.152 Superficial foreign body of breast, left breast",0,False
+850445584498642944,2017-04-07 20:30:02,"S20.151 Superficial foreign body of breast, right breast",0,False
+850438033459609600,2017-04-07 20:00:02,S20.15 Superficial foreign body of breast,0,False
+850430483339120641,2017-04-07 19:30:02,"S20.149 External constriction of part of breast, unspecified breast",0,False
+850422936561496064,2017-04-07 19:00:02,"S20.142 External constriction of part of breast, left breast",0,False
+850415384880701444,2017-04-07 18:30:02,"S20.141 External constriction of part of breast, right breast",0,False
+850407833849954304,2017-04-07 18:00:02,S20.14 External constriction of part of breast,0,False
+850400286992629760,2017-04-07 17:30:02,"S20.129 Blister (nonthermal) of breast, unspecified breast",0,False
+850392738659016706,2017-04-07 17:00:03,"S20.122 Blister (nonthermal) of breast, left breast",0,False
+850385186072264704,2017-04-07 16:30:02,"S20.121 Blister (nonthermal) of breast, right breast",0,False
+850377634257264640,2017-04-07 16:00:01,S20.12 Blister (nonthermal) of breast,0,False
+850370083973156865,2017-04-07 15:30:01,"S20.119 Abrasion of breast, unspecified breast",0,False
+850362535333298176,2017-04-07 15:00:02,"S20.112 Abrasion of breast, left breast",0,False
+850354986085212161,2017-04-07 14:30:02,"S20.111 Abrasion of breast, right breast",0,False
+850347437998911489,2017-04-07 14:00:02,S20.11 Abrasion of breast,0,False
+850339886288818176,2017-04-07 13:30:02,"S20.109 Unspecified superficial injuries of breast, unspecified breast",0,False
+850332339020455936,2017-04-07 13:00:02,"S20.102 Unspecified superficial injuries of breast, left breast",0,False
+850324788962840578,2017-04-07 12:30:02,"S20.101 Unspecified superficial injuries of breast, right breast",0,False
+850317238754258944,2017-04-07 12:00:02,S20.10 Unspecified superficial injuries of breast,0,False
+850309688990330880,2017-04-07 11:30:02,S20.1 Other and unspecified superficial injuries of breast,0,False
+850302140287524864,2017-04-07 11:00:02,S20.02 Contusion of left breast,0,False
+850294587407171584,2017-04-07 10:30:02,S20.01 Contusion of right breast,0,False
+850287041132863488,2017-04-07 10:00:02,"S20.00 Contusion of breast, unspecified breast",0,False
+850279487568723969,2017-04-07 09:30:01,S20.0 Contusion of breast,0,False
+850271939289415681,2017-04-07 09:00:02,S20 Superficial injury of thorax,0,False
+850264390645436418,2017-04-07 08:30:02,S19.9 Unspecified injury of neck,0,False
+850256841175031808,2017-04-07 08:00:02,S19.89 Other specified injuries of other specified part of neck,0,False
+850249291050307587,2017-04-07 07:30:02,S19.85 Other specified injuries of pharynx and cervical esophagus,0,False
+850241741873598464,2017-04-07 07:00:02,S19.84 Other specified injuries of thyroid gland,0,False
+850234189802754048,2017-04-07 06:30:02,S19.83 Other specified injuries of vocal cord,0,False
+850226640089001988,2017-04-07 06:00:02,S19.82 Other specified injuries of cervical trachea,0,False
+850219089939226625,2017-04-07 05:30:02,S19.81 Other specified injuries of larynx,0,False
+850211541634793473,2017-04-07 05:00:02,S19.80 Other specified injuries of unspecified part of neck,0,False
+850203991069687808,2017-04-07 04:30:02,S19.8 Other specified injuries of neck,0,False
+850196444170420224,2017-04-07 04:00:02,S19 Other specified and unspecified injuries of neck,0,False
+850188891298680832,2017-04-07 03:30:02,"S17.9 Crushing injury of neck, part unspecified",0,False
+850181343829000192,2017-04-07 03:00:02,S17.8 Crushing injury of other specified parts of neck,0,False
+850173792664117249,2017-04-07 02:30:02,S17.0 Crushing injury of larynx and trachea,0,False
+850166242749157377,2017-04-07 02:00:02,S17 Crushing injury of neck,0,False
+850158691684937728,2017-04-07 01:30:01,"S16.9 Unspecified injury of muscle, fascia and tendon at neck level",0,False
+850151145704230912,2017-04-07 01:00:02,"S16.8 Other specified injury of muscle, fascia and tendon at neck level",0,False
+850143592349921283,2017-04-07 00:30:01,"S16.2 Laceration of muscle, fascia and tendon at neck level",0,False
+850136046520209410,2017-04-07 00:00:02,"S16.1 Strain of muscle, fascia and tendon at neck level",0,False
+850128493895667713,2017-04-06 23:30:02,"S16 Injury of muscle, fascia and tendon at neck level",0,False
+850120943863312384,2017-04-06 23:00:02,S15.9 Injury of unspecified blood vessel at neck level,0,False
+850113396372647936,2017-04-06 22:30:02,S15.8 Injury of other specified blood vessels at neck level,0,False
+850105848403812352,2017-04-06 22:00:03,S15.399 Other specified injury of unspecified internal jugular vein,0,False
+850098295800078336,2017-04-06 21:30:02,S15.392 Other specified injury of left internal jugular vein,0,False
+850090745943994372,2017-04-06 21:00:02,S15.391 Other specified injury of right internal jugular vein,0,False
+850083198692413442,2017-04-06 20:30:03,S15.39 Other specified injury of internal jugular vein,0,False
+850075649087868928,2017-04-06 20:00:03,S15.329 Major laceration of unspecified internal jugular vein,0,False
+850068099558715394,2017-04-06 19:30:03,S15.322 Major laceration of left internal jugular vein,0,False
+850060546468700165,2017-04-06 19:00:02,S15.321 Major laceration of right internal jugular vein,0,False
+850052996192972803,2017-04-06 18:30:02,S15.32 Major laceration of internal jugular vein,0,False
+850045449167884288,2017-04-06 18:00:02,S15.319 Minor laceration of unspecified internal jugular vein,0,False
+850037898674130944,2017-04-06 17:30:02,S15.312 Minor laceration of left internal jugular vein,0,False
+850030350197821440,2017-04-06 17:00:02,S15.311 Minor laceration of right internal jugular vein,0,False
+850022796956663808,2017-04-06 16:30:02,S15.31 Minor laceration of internal jugular vein,0,False
+850015249306726400,2017-04-06 16:00:02,S15.309 Unspecified injury of unspecified internal jugular vein,0,False
+850007698632560640,2017-04-06 15:30:02,S15.302 Unspecified injury of left internal jugular vein,0,False
+850000148717502464,2017-04-06 15:00:02,S15.301 Unspecified injury of right internal jugular vein,0,False
+849992598022479872,2017-04-06 14:30:02,S15.30 Unspecified injury of internal jugular vein,0,False
+849985051261640704,2017-04-06 14:00:02,S15.3 Injury of internal jugular vein,0,False
+849977500084170752,2017-04-06 13:30:02,S15.299 Other specified injury of unspecified external jugular vein,0,False
+849969948713791489,2017-04-06 13:00:02,S15.292 Other specified injury of left external jugular vein,0,False
+849962401969602561,2017-04-06 12:30:02,S15.291 Other specified injury of right external jugular vein,0,False
+849954849709899776,2017-04-06 12:00:02,S15.29 Other specified injury of external jugular vein,0,False
+849947297945448449,2017-04-06 11:30:01,S15.229 Major laceration of unspecified external jugular vein,0,False
+849939749813006336,2017-04-06 11:00:02,S15.222 Major laceration of left external jugular vein,0,False
+849932202053967872,2017-04-06 10:30:02,S15.221 Major laceration of right external jugular vein,0,False
+849924651337867264,2017-04-06 10:00:02,S15.22 Major laceration of external jugular vein,1,False
+849917101481631745,2017-04-06 09:30:02,S15.219 Minor laceration of unspecified external jugular vein,0,False
+849909553248563200,2017-04-06 09:00:02,S15.212 Minor laceration of left external jugular vein,0,False
+849902002779942912,2017-04-06 08:30:02,S15.211 Minor laceration of right external jugular vein,0,False
+849894455285075970,2017-04-06 08:00:03,S15.21 Minor laceration of external jugular vein,0,False
+849886900215320576,2017-04-06 07:30:01,S15.209 Unspecified injury of unspecified external jugular vein,0,False
+849879356096880640,2017-04-06 07:00:03,S15.202 Unspecified injury of left external jugular vein,0,False
+849871803665309696,2017-04-06 06:30:02,S15.201 Unspecified injury of right external jugular vein,0,False
+849864255147040769,2017-04-06 06:00:02,S15.20 Unspecified injury of external jugular vein,0,False
+849856702430294017,2017-04-06 05:30:02,S15.2 Injury of external jugular vein,0,False
+849849153953951745,2017-04-06 05:00:02,S15.199 Other specified injury of unspecified vertebral artery,0,False
+849841602214461442,2017-04-06 04:30:01,S15.192 Other specified injury of left vertebral artery,0,False
+849834053847089153,2017-04-06 04:00:02,S15.191 Other specified injury of right vertebral artery,0,False
+849826505182064640,2017-04-06 03:30:02,S15.19 Other specified injury of vertebral artery,0,False
+849818953639743488,2017-04-06 03:00:02,S15.129 Major laceration of unspecified vertebral artery,0,False
+849811402810437633,2017-04-06 02:30:01,S15.122 Major laceration of left vertebral artery,0,False
+849803853012795393,2017-04-06 02:00:01,S15.121 Major laceration of right vertebral artery,0,False
+849796307992678401,2017-04-06 01:30:02,S15.12 Major laceration of vertebral artery,0,False
+849788756693577728,2017-04-06 01:00:02,S15.119 Minor laceration of unspecified vertebral artery,0,False
+849781203767054336,2017-04-06 00:30:01,S15.112 Minor laceration of left vertebral artery,0,False
+849773654950936576,2017-04-06 00:00:02,S15.111 Minor laceration of right vertebral artery,0,False
+849766104616620032,2017-04-05 23:30:01,S15.11 Minor laceration of vertebral artery,0,False
+849758557352456193,2017-04-05 23:00:02,S15.109 Unspecified injury of unspecified vertebral artery,0,False
+849751006443433987,2017-04-05 22:30:02,S15.102 Unspecified injury of left vertebral artery,0,False
+849743459934236672,2017-04-05 22:00:02,S15.101 Unspecified injury of right vertebral artery,0,False
+849735908609978371,2017-04-05 21:30:02,S15.10 Unspecified injury of vertebral artery,0,False
+849728356488708099,2017-04-05 21:00:02,S15.1 Injury of vertebral artery,0,False
+849720807018385412,2017-04-05 20:30:02,S15.099 Other specified injury of unspecified carotid artery,0,False
+849713261415211009,2017-04-05 20:00:03,S15.092 Other specified injury of left carotid artery,0,False
+849705711051436032,2017-04-05 19:30:02,S15.091 Other specified injury of right carotid artery,0,False
+849698157302870016,2017-04-05 19:00:01,S15.09 Other specified injury of carotid artery,0,False
+849690607366926336,2017-04-05 18:30:01,S15.029 Major laceration of unspecified carotid artery,0,False
+849683060316680203,2017-04-05 18:00:02,S15.022 Major laceration of left carotid artery,0,False
+849675510363934721,2017-04-05 17:30:02,S15.021 Major laceration of right carotid artery,0,False
+849667961220739073,2017-04-05 17:00:02,S15.02 Major laceration of carotid artery,0,False
+849660410022293504,2017-04-05 16:30:02,S15.019 Minor laceration of unspecified carotid artery,0,False
+849652866486865920,2017-04-05 16:00:03,S15.012 Minor laceration of left carotid artery,0,False
+849645311278682112,2017-04-05 15:30:02,S15.011 Minor laceration of right carotid artery,0,False
+849637760940093440,2017-04-05 15:00:02,S15.01 Minor laceration of carotid artery,0,False
+849630212237164544,2017-04-05 14:30:02,S15.009 Unspecified injury of unspecified carotid artery,0,False
+849622660283863041,2017-04-05 14:00:02,S15.002 Unspecified injury of left carotid artery,0,False
+849615111950127104,2017-04-05 13:30:02,S15.001 Unspecified injury of right carotid artery,0,False
+849607563910017024,2017-04-05 13:00:02,S15.00 Unspecified injury of carotid artery,0,False
+849600012728377344,2017-04-05 12:30:02,S15.0 Injury of carotid artery of neck,0,False
+849592464637906945,2017-04-05 12:00:02,S15 Injury of blood vessels at neck level,0,False
+849584910780305408,2017-04-05 11:30:01,S14.9 Injury of unspecified nerves of neck,0,False
+849577366498234368,2017-04-05 11:00:03,S14.8 Injury of other specified nerves of neck,0,False
+849569813907288064,2017-04-05 10:30:02,S14.5 Injury of cervical sympathetic nerves,0,False
+849562262239141893,2017-04-05 10:00:02,S14.4 Injury of peripheral nerves of neck,0,False
+849554714740109312,2017-04-05 09:30:02,S14.3 Injury of brachial plexus,0,False
+849547165634621440,2017-04-05 09:00:02,S14.2 Injury of nerve root of cervical spine,0,False
+849539613513396224,2017-04-05 08:30:02,S14.159 Other incomplete lesion at unspecified level of cervical spinal cord,0,False
+849532065641111553,2017-04-05 08:00:02,S14.158 Other incomplete lesion at C8 level of cervical spinal cord,0,False
+849524516183302144,2017-04-05 07:30:02,S14.157 Other incomplete lesion at C7 level of cervical spinal cord,0,False
+849516964947144706,2017-04-05 07:00:02,S14.156 Other incomplete lesion at C6 level of cervical spinal cord,0,False
+849509415501824000,2017-04-05 06:30:02,S14.155 Other incomplete lesion at C5 level of cervical spinal cord,0,False
+849501870783647745,2017-04-05 06:00:03,S14.154 Other incomplete lesion at C4 level of cervical spinal cord,0,False
+849494314514251777,2017-04-05 05:30:02,S14.153 Other incomplete lesion at C3 level of cervical spinal cord,0,False
+849486766801375232,2017-04-05 05:00:02,S14.152 Other incomplete lesion at C2 level of cervical spinal cord,0,False
+849479216739627010,2017-04-05 04:30:02,S14.151 Other incomplete lesion at C1 level of cervical spinal cord,0,False
+849471667613159424,2017-04-05 04:00:02,S14.15 Other incomplete lesions of cervical spinal cord,0,False
+849464117962452993,2017-04-05 03:30:02,S14.149 Brown-Séquard syndrome at unspecified level of cervical spinal cord,0,False
+849456567669972993,2017-04-05 03:00:02,S14.148 Brown-Séquard syndrome at C8 level of cervical spinal cord,0,False
+849449017146826752,2017-04-05 02:30:02,S14.147 Brown-Séquard syndrome at C7 level of cervical spinal cord,0,False
+849441467391234048,2017-04-05 02:00:02,S14.146 Brown-Séquard syndrome at C6 level of cervical spinal cord,0,False
+849433915274211328,2017-04-05 01:30:01,S14.145 Brown-Séquard syndrome at C5 level of cervical spinal cord,0,False
+849426366651125764,2017-04-05 01:00:02,S14.144 Brown-Séquard syndrome at C4 level of cervical spinal cord,0,False
+849418818594242560,2017-04-05 00:30:02,S14.143 Brown-Séquard syndrome at C3 level of cervical spinal cord,0,False
+849411266858938378,2017-04-05 00:00:01,S14.142 Brown-Séquard syndrome at C2 level of cervical spinal cord,0,False
+849403717451472896,2017-04-04 23:30:02,S14.141 Brown-Séquard syndrome at C1 level of cervical spinal cord,0,False
+849396169272950785,2017-04-04 23:00:02,S14.14 Brown-Séquard syndrome of cervical spinal cord,0,False
+849388619609591809,2017-04-04 22:30:02,S14.139 Anterior cord syndrome at unspecified level of cervical spinal cord,0,False
+849381070869082113,2017-04-04 22:00:02,S14.138 Anterior cord syndrome at C8 level of cervical spinal cord,0,False
+849373521495064578,2017-04-04 21:30:02,S14.137 Anterior cord syndrome at C7 level of cervical spinal cord,0,False
+849365970883883009,2017-04-04 21:00:02,S14.136 Anterior cord syndrome at C6 level of cervical spinal cord,0,False
+849358419484168192,2017-04-04 20:30:02,S14.135 Anterior cord syndrome at C5 level of cervical spinal cord,0,False
+849350871225950208,2017-04-04 20:00:02,S14.134 Anterior cord syndrome at C4 level of cervical spinal cord,0,False
+849343321805922305,2017-04-04 19:30:02,S14.133 Anterior cord syndrome at C3 level of cervical spinal cord,0,False
+849335771890933761,2017-04-04 19:00:02,S14.132 Anterior cord syndrome at C2 level of cervical spinal cord,0,False
+849328221334142978,2017-04-04 18:30:02,S14.131 Anterior cord syndrome at C1 level of cervical spinal cord,0,False
+849320674627907584,2017-04-04 18:00:03,S14.13 Anterior cord syndrome of cervical spinal cord,0,False
+849313121781112834,2017-04-04 17:30:02,S14.129 Central cord syndrome at unspecified level of cervical spinal cord,0,False
+849305573254418433,2017-04-04 17:00:02,S14.128 Central cord syndrome at C8 level of cervical spinal cord,0,False
+849298020437024768,2017-04-04 16:30:01,S14.127 Central cord syndrome at C7 level of cervical spinal cord,0,False
+849290473214799872,2017-04-04 16:00:02,S14.126 Central cord syndrome at C6 level of cervical spinal cord,0,False
+849282924373577728,2017-04-04 15:30:02,S14.125 Central cord syndrome at C5 level of cervical spinal cord,0,False
+849275374907346946,2017-04-04 15:00:02,S14.124 Central cord syndrome at C4 level of cervical spinal cord,0,False
+849267821204975616,2017-04-04 14:30:01,S14.123 Central cord syndrome at C3 level of cervical spinal cord,0,False
+849260274674802689,2017-04-04 14:00:02,S14.122 Central cord syndrome at C2 level of cervical spinal cord,0,False
+849252724122279939,2017-04-04 13:30:02,S14.121 Central cord syndrome at C1 level of cervical spinal cord,0,False
+849245175037788160,2017-04-04 13:00:02,S14.12 Central cord syndrome of cervical spinal cord,0,False
+849237622824345601,2017-04-04 12:30:02,S14.119 Complete lesion at unspecified level of cervical spinal cord,0,False
+849230077061718017,2017-04-04 12:00:02,S14.118 Complete lesion at C8 level of cervical spinal cord,0,False
+849222525708009473,2017-04-04 11:30:02,S14.117 Complete lesion at C7 level of cervical spinal cord,0,False
+849214973784055808,2017-04-04 11:00:02,S14.116 Complete lesion at C6 level of cervical spinal cord,0,False
+849207423663558656,2017-04-04 10:30:01,S14.115 Complete lesion at C5 level of cervical spinal cord,0,False
+849199875623460865,2017-04-04 10:00:02,S14.114 Complete lesion at C4 level of cervical spinal cord,0,False
+849192325041541120,2017-04-04 09:30:02,S14.113 Complete lesion at C3 level of cervical spinal cord,0,False
+849184778133925888,2017-04-04 09:00:02,S14.112 Complete lesion at C2 level of cervical spinal cord,0,False
+849177225442320385,2017-04-04 08:30:02,S14.111 Complete lesion at C1 level of cervical spinal cord,0,False
+849169674260688897,2017-04-04 08:00:01,S14.11 Complete lesion of cervical spinal cord,0,False
+849162127051034624,2017-04-04 07:30:02,S14.109 Unspecified injury at unspecified level of cervical spinal cord,0,False
+849154576871804928,2017-04-04 07:00:02,S14.108 Unspecified injury at C8 level of cervical spinal cord,0,False
+849147026965225472,2017-04-04 06:30:02,S14.107 Unspecified injury at C7 level of cervical spinal cord,0,False
+849139475162836994,2017-04-04 06:00:01,S14.106 Unspecified injury at C6 level of cervical spinal cord,0,False
+849131927722483712,2017-04-04 05:30:02,S14.105 Unspecified injury at C5 level of cervical spinal cord,0,False
+849124379153883140,2017-04-04 05:00:02,S14.104 Unspecified injury at C4 level of cervical spinal cord,0,False
+849116828739784704,2017-04-04 04:30:02,S14.103 Unspecified injury at C3 level of cervical spinal cord,0,False
+849109278107590657,2017-04-04 04:00:02,S14.102 Unspecified injury at C2 level of cervical spinal cord,0,False
+849101726535823360,2017-04-04 03:30:01,S14.101 Unspecified injury at C1 level of cervical spinal cord,0,False
+849094177665282051,2017-04-04 03:00:02,S14.10 Unspecified injury of cervical spinal cord,0,False
+849086629293826049,2017-04-04 02:30:02,S14.1 Other and unspecified injuries of cervical spinal cord,0,False
+849079082541355009,2017-04-04 02:00:03,S14.0 Concussion and edema of cervical spinal cord,0,False
+849071528796934144,2017-04-04 01:30:02,S14 Injury of nerves and spinal cord at neck level,0,False
+849063978600943616,2017-04-04 01:00:02,S13.9 Sprain of joints and ligaments of unspecified parts of neck,0,False
+849056430741127168,2017-04-04 00:30:02,S13.8 Sprain of joints and ligaments of other parts of neck,0,False
+849048889256759297,2017-04-04 00:00:04,S13.5 Sprain of thyroid region,0,False
+849041331989217280,2017-04-03 23:30:02,S13.4 Sprain of ligaments of cervical spine,0,False
+849033781285711872,2017-04-03 23:00:02,S13.29 Dislocation of other parts of neck,0,False
+849026230351540227,2017-04-03 22:30:02,S13.20 Dislocation of unspecified parts of neck,0,False
+849018683980697601,2017-04-03 22:00:02,S13.2 Dislocation of other and unspecified parts of neck,0,False
+849011133596012544,2017-04-03 21:30:02,S13.181 Dislocation of C7/T1 cervical vertebrae,0,False
+849003581076381696,2017-04-03 21:00:02,S13.180 Subluxation of C7/T1 cervical vertebrae,0,False
+848996032411205632,2017-04-03 20:30:02,S13.18 Subluxation and dislocation of C7/T1 cervical vertebrae,0,False
+848988497751019522,2017-04-03 20:00:05,S13.171 Dislocation of C6/C7 cervical vertebrae,0,False
+848980934686887937,2017-04-03 19:30:02,S13.170 Subluxation of C6/C7 cervical vertebrae,0,False
+848973384839041027,2017-04-03 19:00:02,S13.17 Subluxation and dislocation of C6/C7 cervical vertebrae,0,False

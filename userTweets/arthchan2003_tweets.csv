@@ -1,0 +1,231 @@
+id,created_at,text,retweet_count,tweet.retweeted
+850347534702850048,2017-04-07 14:00:25,"ZDnet interview with Nervanna's CTO:
+https://t.co/qfK8LEIQ6g",0,False
+850347415567835136,2017-04-07 13:59:57,Bob Ross possessed:  https://t.co/ufrzr8zBGK,1,False
+850347296181161984,2017-04-07 13:59:28,"OpenAI's work on Stanford Sentiment Treebank, record breaking:  https://t.co/CENtMrvt2q",0,False
+850160260761432064,2017-04-07 01:36:16,"I am curious of how people think about BEGAN, which sound solving many issues with GAN training convergence.  https://t.co/rsUZixy0ua",0,False
+850160055827779585,2017-04-07 01:35:27,"CycleGAN is quite cute, especially the cycle loss function.  Yet the authors still need to jump the hoop to train the adversarial networks.",0,False
+849993692056301568,2017-04-06 14:34:22,AI vs MD https://t.co/7UR6oIemI3,0,False
+849993610099650561,2017-04-06 14:34:03,"github of cycleGAN
+https://t.co/G8cLl0QMzD",0,False
+849993508308078593,2017-04-06 14:33:39,https://t.co/zqExLoJx7o,0,False
+849614280743940104,2017-04-05 13:26:44,ML predicts the look of stem cells. https://t.co/DQRImzBAsR,0,False
+849614187793977345,2017-04-05 13:26:22,CNTK 2.0 https://t.co/ERTyf9D6d5,0,False
+849265263208017920,2017-04-04 14:19:51,Newly-released documents from Google’s October arbitration against Anthony Levandowski. https://t.co/IMdRO9hZTw,0,False
+849265054432333824,2017-04-04 14:19:02,https://t.co/Wr1RNXI4Lt,0,False
+849264828078272514,2017-04-04 14:18:08,"Vijay Pande, a Chemistry Professor from Stanford, tries to use one-shot learning to solve drug development problem. https://t.co/SJ8OSB15ah",0,False
+847824511177240576,2017-03-31 14:54:49,"""Engineers skilled and experienced in the field of autonomous technology are hard to come by ....."" https://t.co/NdpjSiKufc",0,False
+847823631560454144,2017-03-31 14:51:20,"""Girouard argues that new, smarter data can make lending more fair."" https://t.co/mZwL4WRVBC",0,False
+847444912370982915,2017-03-30 13:46:26,Talk by Gary Marcus: https://t.co/toPL3Iwe10,0,False
+846764494156185600,2017-03-28 16:42:42,"The interesting thing is if you know some basics of gamma distribution, you can follow the proof as well. That's wh… https://t.co/68rhI51P01",0,False
+846764302103183360,2017-03-28 16:41:56,Very intriguing. How Thomas Royen solved a 70 year old problem which elude top minds: https://t.co/XEqtUtFLSv,0,False
+846700627434590208,2017-03-28 12:28:55,"Zachary Lipton: ""This pairing of interest with ignorance has created a perfect storm for a misinformation epidemic."" https://t.co/jt7fq5vT8v",0,False
+846575681962160129,2017-03-28 04:12:25,thanks! https://t.co/KvIgZgAu5G,0,False
+846353416452476928,2017-03-27 13:29:13,"""Google’s AI Explosion in One Chart "" https://t.co/2PLhuhiupC",0,False
+846352818839662592,2017-03-27 13:26:51,RT @Rbloggers: Fitting Bayesian Linear Mixed Models for continuous and binary data using Stan: A quick https://t.co/Oe9fsEozI5 #rstats #Dat…,32,False
+846352650316759040,2017-03-27 13:26:10,Uber suspends testing SDC: https://t.co/N30CW72JwG,0,False
+846055402055852038,2017-03-26 17:45:01,RT @alexjc: Policy Networks with Two-Stage Training for Dialogue Systems https://t.co/uEKV2e60FI 📄🤖 https://t.co/uWBUUJUt1W,7,False
+846055132672483328,2017-03-26 17:43:57,RT @alexjc: How to Construct Deep Recurrent Neural Networks https://t.co/MhFzO2LVOm 📄🤖 https://t.co/HdTlwZBiET,11,False
+845621724108521474,2017-03-25 13:01:44,"""DataRobot, ....., has raised $54 million in a Series C funding round.....""https://t.co/U7DZA97D6i",1,False
+845621437620781057,2017-03-25 13:00:36,"AIDL Weekly #6 is out! On Ng's Departure, Intel's AIPG and RCNN ! https://t.co/7GYlMYShLk",1,False
+845345512123518976,2017-03-24 18:44:10,"Uber's expansion of Pittsburgh SDC test track. 
+https://t.co/VclwP39uex",0,False
+845345369684873221,2017-03-24 18:43:36,"On Mythic:
+https://t.co/jhe0xfYTXz",1,False
+845014372275642369,2017-03-23 20:48:20,"""The first ever automatic sound effect captioning system for YouTube."" https://t.co/MwZYd7BCeI",0,False
+844912157011664896,2017-03-23 14:02:10,"Floyd, a deep learning cloud. https://t.co/Df9ofxAaPf",0,False
+844538639723974656,2017-03-22 13:17:57,Nice blogging principles by Julia Evans https://t.co/RVb3p2TPCL via @b0rk,0,False
+844184506752028672,2017-03-21 13:50:45,"7d ago, but vert relevant: NVIDIA Partners with Bosch for System Based on DRIVE PX Xavier Platform - https://t.co/yFRObVFgpn",0,False
+844184208499232768,2017-03-21 13:49:34,ARM’s new chip design focuses on AI and machine learning https://t.co/f04uG9lyTX,0,False
+843284374917447680,2017-03-19 02:13:57,What are the methods of conversion from speech to text? by Arthur Chan https://t.co/3rlqDACjuj,1,False
+843265078195621889,2017-03-19 00:57:16,"RT @fchollet: For all the progress made, it seems like almost all important questions in AI remain unanswered. Many have not even been prop…",104,False
+843092416265707520,2017-03-18 13:31:10,"About the Penrose Chess Puzzle, Mr. James Tagg verified that the position is indeed penned by Sir Penrose:
+
+https://t.co/B42MhOp8BG",0,False
+843057852348620801,2017-03-18 11:13:49,Hello! Check out our newsletter on AI and Deep Learning.  This week we cover self-driving carsCheck it out! https://t.co/Bxl9AJqFfN,1,False
+842944135984267264,2017-03-18 03:41:57,RT @OriolVinyalsML: Our lip reading work will be presented as an oral at CVPR! You can read more at https://t.co/LKGzak5Cw9 https://t.co/dA…,65,False
+842943963661324288,2017-03-18 03:41:16,RT @dennybritz: Seriously? https://t.co/kHlRIhrXac https://t.co/VhznZ5ViFY,42,False
+842455865240231938,2017-03-16 19:21:45,New AIDL Office Hour!!  https://t.co/C2PS7IFqwb,0,False
+842455680023961600,2017-03-16 19:21:00,Deep Learning literally saving the Earth..... https://t.co/NhrqWTqHV0,0,False
+842024478439821312,2017-03-15 14:47:34,Great analysis on why Intel buy Mobileye (with a $15B price tag). https://t.co/NPuTmYoIEN,1,False
+841297076185100289,2017-03-13 14:37:08,Intel buy Mobileyes: https://t.co/uzLjphpRcn,0,False
+841296832298921984,2017-03-13 14:36:10,Waymo vs Uber Updates: https://t.co/qOTmRwY0hI,0,False
+841296479499223040,2017-03-13 14:34:45,On Drive.ai: https://t.co/taubQ2sgsc,0,False
+839867487625887745,2017-03-09 15:56:27,"Facebook Big Basin
+https://t.co/3hnnYyU3D2",1,False
+839618940603154439,2017-03-08 23:28:49,"Fellows... ""Stopping GAN Violence: Generative Unadversarial Networks"" is a prank.  Don't distribute like it is the latest/greatest DL. :)",0,False
+839499232767848449,2017-03-08 15:33:08,"@chetanhere Indeed: I guess a better word is ""reportedly"".",0,False
+839498789803143168,2017-03-08 15:31:23,"More analysis on FB suicide detection capability:
+https://t.co/c6xLhfPXfy",0,False
+839359620045029376,2017-03-08 06:18:22,"Rumor: Google is acquiring Kaggle
+https://t.co/tGuOCTvq5E",0,False
+839179556187668484,2017-03-07 18:22:52,"IBM-Salesforce Partnership, AI-oriented.
+https://t.co/eMPAX67Yeg",0,False
+838912821983334400,2017-03-07 00:42:57,"Tensorflow as gcc of deep learning:
+https://t.co/tzzuZSqL9z",1,False
+838773479864479744,2017-03-06 15:29:15,With 24 NVIDIA DGX-1 servers! https://t.co/ARLNpRZ1P6,0,False
+838136769707192320,2017-03-04 21:19:12,"Check out Issue #3 (https://t.co/eLMtZICHV9) of AIDL Weekly now! This week we deep dive into Waymo lawsuit, Jugsaw and DeepCoder!",0,False
+835510216175276032,2017-02-25 15:22:13,Check out this new newsletter on AI and DL! The second issue on Gamalon/BatchRenorm is out! https://t.co/wHYVYbtTwI,1,False
+831900135781187586,2017-02-15 16:17:02,"Hey Guys, Waikit and I created a newsletter on deep learning and machine learning, you can subscribe here: https://t.co/wHYVYbtTwI",0,False
+806561609749581824,2016-12-07 18:10:47,Some updates on my Top-5 resources: https://t.co/bQyxzdR0j3,1,False
+805816563555241985,2016-12-05 16:50:14,RT @ssdpd: #nips2016 gossip: schmidhuber hijacked 5 min of ian goodfellow's tutorial to revive a battle on gener. advers. nets' similarity…,3,False
+802570077052641280,2016-11-26 17:49:52,RT @b0rk: the stack https://t.co/vcUvWiFeuN,91,False
+798592481491226625,2016-11-15 18:24:19,A cat I draw lately. #cats #fatcat #fatcatsleeping https://t.co/TRKXfozN1T,1,False
+788743096074838016,2016-10-19 14:06:22,RT @MSFTResearch: Historic Achievement: Microsoft researchers first to reach human parity in conversational speech recognition https://t.co…,166,False
+785208894847127552,2016-10-09 20:02:43,RT @TicTacUSA: Tic Tac respects all women. We find the recent statements and behavior completely inappropriate and unacceptable.,55111,False
+782695834164932608,2016-10-02 21:36:43,"Reading Michael Nielsen's NNDL:
+https://t.co/lusA9MtDkk",0,False
+780438692389347329,2016-09-26 16:07:38,"Baby! It's imagenet 2016 results! 
+https://t.co/iGvJAkoep8",0,False
+777479533356343298,2016-09-18 12:09:00,RT @YogaArmy: Awesome #art image #photo via @rainbowjeon @GWPStudio https://t.co/W7g5D06DCV,2,False
+777119279296708608,2016-09-17 12:17:29,RT @ThePracticalDev: She runs C shells by the seashore https://t.co/hzQe0sSo0h,4440,False
+770389004948738048,2016-08-29 22:33:46,"""FACEBOOK ARTIFICIAL INTELLIGENCE/DEEP LEARNING GROUP"" https://t.co/WMe4b7KnBn on @LinkedIn",0,False
+766612217227870209,2016-08-19 12:26:10,"RT @alexjc: Full Resolution Image Compression with RNN https://t.co/JOaC6HcjsD Google gets serious, outperforms JPGs everywhere. https://t.…",38,False
+765350580403507200,2016-08-16 00:52:52,"""LEARNING DEEP LEARNING - MY TOP-FIVE RESOURCE"" https://t.co/DyweAJ3A7P on @LinkedIn",1,False
+762619925315727360,2016-08-08 12:02:13,"Pure Gem on using /proc, just learning the directory unlike ever before! https://t.co/6JmymLMMLF",0,False
+762447309502238721,2016-08-08 00:36:18,RT @karpathy: The new WikiReading dataset looks impressive https://t.co/29qBtbc9oQ …: 18M text reading comprehension instances across ~50%…,102,False
+761530377492172800,2016-08-05 11:52:45,RT @boredyannlecun: Keep activation spreading / like John Coltrane shredding / out-dropping &amp; hardbopping / the gpu server boots / chase th…,4,False
+759919338908291072,2016-08-01 01:11:03,"RT @nytimes: ""Game of Thrones"" gets an end date https://t.co/q8IHgZyT1q https://t.co/hg1HXPcIAx",138,False
+755794510081392640,2016-07-20 16:00:27,How Robots learn CNN from Prof. LeCun. https://t.co/SyohdIvoZB,0,False
+755794188143357952,2016-07-20 15:59:11,How Robot learn CNN from Prof. LeCun. https://t.co/PnNTxl8ir7,0,False
+754441217576841216,2016-07-16 22:22:57,https://t.co/daw5jHrxc9,0,False
+749815150866206721,2016-07-04 04:00:37,"RT @boredyannlecun: Hey @amazon: now that alternative history's so hot, dig this: Series about world in which neural nets never die, Hinton…",4,False
+749414191459540992,2016-07-03 01:27:21,"RT @NBCNightlyNews: BREAKING: Elie Wiesel,  Auschwitz survivor who kept Holocaust memory alive, dead at 87. @PeterAlexander reports.
+https:…",4934,False
+748541161858490368,2016-06-30 15:38:14,"@b0rk Hey Julia, would you mind to write it up? I am very interested how to reach such performance.",0,False
+747058156925259776,2016-06-26 13:25:18,RT @reckel: #AI 's white guy problem via @katecrawford @MSFTResearch https://t.co/uZOuQdfyBN @erichorvitz @peteratmsr @etzioni @drfeifei @h…,33,False
+746328816231002112,2016-06-24 13:07:10,"""Why Scientists are so worried about Brexit"" https://t.co/YvqAc1asgJ",1,False
+746077947958796290,2016-06-23 20:30:18,"Facebook ""Deep Learning"" Group.  Just another place to hang out. 
+
+https://t.co/iwncTVVzc8",1,False
+744247020433465344,2016-06-18 19:14:51,RT @kdnuggets: 16 Free #MachineLearning Books #DeepLearning #NeuralNets #Classification https://t.co/iwPoa75gZb,19,False
+742543675641712640,2016-06-14 02:26:22,My deepest condolences to Orlando victims.,0,False
+742541108807380992,2016-06-14 02:16:10,"""HOW TO GET BETTER AT X (X = PROGRAMMING, MATH, ETC ) ......"" on @LinkedIn https://t.co/fMQxgISmAh",0,False
+741982955988525056,2016-06-12 13:18:16,RT @quantombone: Cat-Themed Deep Art (Improving the Neural Algorithm of Artistic Style) https://t.co/YD7WQArxcu #DeepLearning #art https://…,11,False
+741267306962112517,2016-06-10 13:54:32,"RT @b0rk: good: ""we're honest about our abilities &amp; willing to say we don't know""
+bad: ""we're all constantly worried that we're terrible at…",29,False
+740287178522103808,2016-06-07 20:59:51,In-depth introduction of CNN. As the OP said - it's incomplete but it's worthwhile for reading. https://t.co/qU8eHisCpb,0,False
+738221528056274944,2016-06-02 04:11:42,RT @ML_toparticles: Google Is A Machine Learning Powerhouse https://t.co/NbwIAibINI https://t.co/AE84WStjQr,7,False
+738149027926052864,2016-06-01 23:23:37,"""Just a murder-suicide in a small UCLA office. And so America shrugs"" https://t.co/7gyt022vGr",0,False
+737988413958291456,2016-06-01 12:45:23,Very interesting write up of ICLR2016 from Tomasz Malisiewicz  https://t.co/OrCZG9I536,0,False
+737210837350395904,2016-05-30 09:15:34,A good write-up on deep learning with Neural Network Playground.  https://t.co/2pj8ODw2Zp,0,False
+736949428364398592,2016-05-29 15:56:50,"(still new) HLVED builds a sampling method into an Enc-Dec model, which is important for generating dialogue.  https://t.co/8RVSXdBhth",0,False
+736900517482369024,2016-05-29 12:42:28,"RT @quantombone: BatchNorm is the butter of Deep Learning. Add it to everything, it'll just taste better. #DeepLearning @MichalSofka",6,False
+736526991088857088,2016-05-28 11:58:13,This man has a (medical) move! https://t.co/MqWwG7XjcD,0,False
+734918996991053824,2016-05-24 01:28:37,This paper poses ResNet as an ensemble of more shallow network.  It's an early version but it sound convincing.  https://t.co/kGGCYlw6hn,0,False
+734723376464441344,2016-05-23 12:31:18,"Great paper on technical debt from machine learning:
+https://t.co/X4mnfwjSoO",0,False
+734509480650641408,2016-05-22 22:21:21,Congrat @danluu ! Now I finally get the context of many of his blog messages.  https://t.co/TfR4PhKJbg,0,False
+734400763984633856,2016-05-22 15:09:21,"RT:  My ""experience"" post seems to be quite popular.  So here's a retweet: 
+https://t.co/N0imKZNRio",0,False
+734127698856038400,2016-05-21 21:04:17,"Here's an article about my personal experience of learning machine/deep learning. Tell me if you like it. 
+https://t.co/IgIk7ts0zy",4,False
+731110906839597056,2016-05-13 13:16:38,"⚡️ ""Google unveils Parsey McParseface""
+
+https://t.co/tvJ09nYfVH",0,False
+730563020791877636,2016-05-12 00:59:32,RT @CVCND: Amazon says its new deep learning library is 2x faster than Google’s https://t.co/4l8pUTu0CU via @siliconangle,13,False
+727838259867328512,2016-05-04 12:32:18,"Inspiring words for all developers:
+https://t.co/B0BfP6rlIS",0,False
+726450884926951424,2016-04-30 16:39:22,Why my 10 years of blogging was more like 5 or 6 https://t.co/DxfGFJOpGf,0,False
+725573170133127168,2016-04-28 06:31:38,Very interesting blog list by Dan Luu : https://t.co/0wQl6ZN7Zq,0,False
+724561360747663360,2016-04-25 11:31:04,RT @artfinderlatest: Spring Garden. Sm... by Malgorzata Miroslaw #watercolor #painting #art https://t.co/v7WRNF93We @artfinder https://t.co…,7,False
+724482770412666881,2016-04-25 06:18:47,A great facebook group on deep learning: https://t.co/iwncTVVzc8,1,False
+723444783109296128,2016-04-22 09:34:11,"Brilliant response from a daughter to her father: 
+
+https://t.co/7JCyux6Io6
+
+Note: tech industry doesn't need another Alex St. John.",0,False
+716391898865397760,2016-04-02 22:28:33,"RT @randal_olson: As #SiliconValley fights for talent, unis struggle to hold on to their stars. #DeepLearning
+
+https://t.co/Feuo7oMI4X http…",72,False
+714247092131262464,2016-03-28 00:25:51,"Some speculations on why Tay fails. 
+https://t.co/yqeI80rt2x",1,False
+711194162868174848,2016-03-19 14:14:36,RT @HWarlow: Dr S was so pleased to find this. Designed and built by Bradford Corporation in the 1920 at their Thornbury Works. https://t.c…,4,False
+709749947281903617,2016-03-15 14:35:48,RT @mosenkis: .@brianboyer waiting for the epic nerd battles when the new @CassSunstein book comes out https://t.co/1kmzw8MmtJ,11,False
+695447357433905159,2016-02-05 03:22:25,RT @lifeatgoogle: Google’s AI Masters the Game of Go a Decade Earlier Than Expected https://t.co/Tu88aRIdYM,61,False
+694890035263320064,2016-02-03 14:27:49,RT @AndrewYNg: Coursera now has 2 courses with &gt;1 million enrollments. Machine learning (https://t.co/KhXXRmfM2I) and Learning How to Learn!,147,False
+694888422473773056,2016-02-03 14:21:24,I am back.,0,False
+533864707825106944,2014-11-16 06:10:39,那香港有甚麼不太美式的地方呢？http://t.co/KwqggvSpb6,1,False
+507904442256359424,2014-09-05 14:53:50,舊文重發: 《三百三十三星期》在一間創業公司，那一類人會先被解僱呢？就是滿口在說：「我是技術X的專才，所以我不會去管技術Y。」你應該說的是。。。。。。http://t.co/uBPm2zcEGZ,0,False
+507872551960580096,2014-09-05 12:47:06,舊文重發: 《三百三十三星期》無論您多少歲，是年紀大或小，在你停止學習的一天，你已經死了。http://t.co/zqWjD4gaQZ,0,False
+507693885188222976,2014-09-05 00:57:09,舊文重發: 簡直一舊雲 : 假若你慢慢瞭解世情，你就知香港多的是迷失的人。不只是你的一代，比你老十、二十年的人也很迷失。。。。。。http://t.co/dSfV1lMXA7,0,False
+507620919146475520,2014-09-04 20:07:12,平均每五十篇一次，呼籲讀者訂閱《一舊雲》的連結：http://t.co/DrHwQFon0O,0,False
+507579554991316994,2014-09-04 17:22:50,平均每五十篇一次的自我宣傳：有關《簡直一舊雲》。http://t.co/mHve1osKP5,0,False
+507557817654722560,2014-09-04 15:56:28,舊文重發: 道不同，不相為謀。朋友有時只是平水相逢，如果講究兩家性格，可能根本一開始不應做朋友，甚至不應相識。勉強下去也是徒勞。 http://t.co/CaXxn1niCl,0,False
+507401394782236674,2014-09-04 05:34:54,舊文重發: 簡直一舊雲 : 讀者群多是中國人，活在醬缸，要厚黑的時候多，能清白的時候少。所以今次想寫點實用文章，教大家怎樣卑鄙。若大家執迷不悟。。。。。。http://t.co/ETgmDgu6Sx,0,False
+507377051847102465,2014-09-04 03:58:10,舊文重發: 簡直一舊雲 : 成功！成功！成功！成功......？甚麼是成功？http://t.co/meKqixhJm4,0,False
+507353234533810176,2014-09-04 02:23:31,舊文重發: 《三百三十三星期》若各位細想《333星期》寫作的動機，可能會問我為何這麼有信心會留在一間公司六年半呢？http://t.co/q6R71vFwPq,0,False
+507335317133983744,2014-09-04 01:12:20,舊文重發: 《三百三十三星期》 http://t.co/k3qd1X985X,0,False
+507262064034062336,2014-09-03 20:21:15,舊文重發: 本篇解釋《一舊雲》與《333星期》的製作過程。http://t.co/y7CUV0dFPS,0,False
+507207205461184512,2014-09-03 16:43:15,舊文重發: 美國感受（種族 ‧ 同理心）在美國社會，有很多人會放開一點。不硬去要其他人去明白和瞭解一切，因為大家都知道是沒可能。甚至有人會笑言Everyone is a little bit racist。。。。。。。http://t.co/HGuY2QYMHS,0,False
+507177132779659265,2014-09-03 14:43:46,舊文重發: 美國感受（續金錢觀 ‧ 政府財政 ‧ 再說置業 ‧ 投資 ‧ 經濟）夢想在商業世界反映出來，就是你可以找到全國最利害的人去為你做事，而他們亦是心甘命抵為你工作，無他，因為他們確實喜歡自己的工作，現在還有人工收，何樂而不為？http://t.co/2sMsHl6R1a,0,False
+507121885247995904,2014-09-03 11:04:13,舊文重發: 美國感受（生活 ‧ 金錢 ‧ 置業）: 假如你一生都住在香港，炒買炒賣其實已經會成為你生命的一部份。要想像美國，你需要放開一點成見，不妨要想其實生命可以有很多贏家，輸贏亦不是甚麼大不了的事情。http://t.co/H9Vknfmb6n,0,False
+506941145394728960,2014-09-02 23:06:02,舊文重發: 《三百三十三星期》就如世上很多事情，合理的政策隨現實而異。決策者最忌是「一本通書睇到老」。合情理的辦法通常是近在咫尺，只在乎人理性地選擇。http://t.co/ivjPVmeCOP,0,False
+506881903417651200,2014-09-02 19:10:37,舊文重發: 《三百三十三星期》假若你發覺自己的工時很長，請不要沾沾自喜，認為自己「勞苦功高」。那是中國人思維錯套在研究上。事實，隨著年月消逝，你只會感到越來越疲倦，反而是事倍功半的情況。http://t.co/D4xDn7E9Vq,0,False
+506854802291441665,2014-09-02 17:22:56,舊文重發: 創意不是天生，是人人皆有的能力。http://t.co/EFXfgf4XiN,0,False
+506830303441477633,2014-09-02 15:45:35,舊文重發: 不作一事的一天http://t.co/M3YwWQLrLT,0,False
+506810062309163008,2014-09-02 14:25:09,舊文重發: 《三百三十三星期》人與人之間的關係，在大部份情況是互補互利。人與人間產生有上級和下級關係，是特殊情況才會產生。 http://t.co/MLNi5vbdBs,0,False
+506612921850658818,2014-09-02 01:21:47,舊文重發: 《三百三十三星期》問各位讀者一個問題：究竟在一間創業公司，最重要的是實力還是奇思呢？請大家先想一想，才繼續看下去。 http://t.co/I7SLrKAZJA,0,False
+506525776603525120,2014-09-01 19:35:30,舊文重發: 《三百三十三星期》說科技人的三條路（一）：學界 http://t.co/YlKJ3AnJWX,0,False
+506427116880416768,2014-09-01 13:03:28,舊文重發: 我們的生命，歡敘有時，獨處有時。我們的每一天，既可是平凡，又可以是特別。http://t.co/Y8DIIfvdaI,0,False
+506280259353055232,2014-09-01 03:19:54,孫振耀先生的話。。。。說做事要等待和積累，對我亦是當頭棒喝。我學到的，就是不要只因為短線的小利，而不斷轉工作，我相信這個感悟對大家都有用。http://t.co/FqC3R1IbDb,0,False
+506219365835231232,2014-08-31 23:17:56,舊文重發: 有很多中國人到美國，見到很多美國人愛玩，算數差，又不愛努力，很多人都想不通為何美國會為何如此強大。究竟那當中有甚麼秘密呢？ http://t.co/wP7tqTrvSF,0,False
+506121894421348353,2014-08-31 16:50:37,舊文重發: 有很多人認為學習一件事，一定要從小開始。如學電腦就一定要從小學才會好。若年紀大了，就學不了。這種說法，是一種精密的藉口。http://t.co/zG0k8Y6p4i,0,False
+506077007441309696,2014-08-31 13:52:15,舊文重發: 在博誌這類媒體，應該選擇甚麼題目？ http://t.co/m0TxRg0qxn,0,False
+506057740046057472,2014-08-31 12:35:41,舊文重發: 《三百三十三星期》在一間創業工司生存和大公司不同，你的錯誤會很快被人發現。所以你要想像你每一刻都在和現實搏鬥，不可掉以輕心。 http://t.co/6qJGbW51qS,0,False
+505858818497335296,2014-08-30 23:25:15,舊文重發: 誠實是一件困難的事。我說的有兩個層面，一是對人不說謊，二是對自己不說謊。對人不說謊已經很難，對自己從一而忠，更是甚為少見。 http://t.co/N940MWQ176,0,False
+505807162132938752,2014-08-30 19:59:59,舊文重發: 《三百三十三星期》一間科技公司，應該是由技術人員來主導，還是由市場銷售人員來主導呢？ http://t.co/TA7MVwzMZA,0,False
+505745870944763904,2014-08-30 15:56:26,舊文重發: 《三百三十三星期》一般技術人仕思考的盲點，就是認為好團隊是把一堆優秀、聰明、好、強的人放在一起。用這樣的想法，一百個博士應該就會組成世界最賺錢的公司。。。。。。http://t.co/LByj6l1DkA,0,False
+505723572699275264,2014-08-30 14:27:50,舊文重發: 事隔一年。在《簡直一舊雲》中，我已寫了不少和哲學，思辨有關的主題。問題是「究竟金錢是否一個需要思辨的問題呢？」我的答案是非常肯定。http://t.co/252uCDgSoF,0,False
+505543735628029954,2014-08-30 02:33:13,舊文重發: 《三百三十三星期》有很多創意工序如設計、創新、寫作等，機器仍沒辦法取代人。所以浪費創意工作者的時間是一種罪。而創意工作者亦要善用自己的時間。。。。。http://t.co/qapf4RL6xu,0,False
+505459104568344576,2014-08-29 20:56:56,舊文重發:《三百三十三星期》一個開辦創業公司的重要問題：有科技不代表有市場，那有科技的公司怎樣取得市場呢？ http://t.co/KgD7qbFvag,0,False
+505436522594979841,2014-08-29 19:27:12,舊文重發: 《195面的骰子》想像你在生前，投了一顆195面的骰子，骰子的每一面就是一個國家，而你投中那一面，你就生在那一國。。。。。 http://t.co/mFzw52VXYF,0,False
+505402539614171138,2014-08-29 17:12:10,舊文重發: 有很多人說香港是文化沙漠。但很多人亦忘記了在香港閱讀的地利：香港曾是殖民地，。。。又因香港是經濟樞紐。。。所以亞洲的其他一些國家文化。因為你可以讀到好幾個有影響力國家的資訊. http://t.co/SWmLMn2zZP,0,False
+505355286404931584,2014-08-29 14:04:23,舊文重發: 要瞭解一個人是否有實力，不可以只看表面的成功。要看他有否失敗過，遇過困難，他所做的事是否要冒風險。 http://t.co/bc6fjP0vuS,0,False
+505338635169042432,2014-08-29 12:58:14,舊文重發: 近代的人生哲學，有兩個主流：一是英美的邏輯思維，二是歐陸的存在主義。前者像科學，後者似是藝術。就如科學和藝術，兩個主流總讓人有水火不容的感覺。 http://t.co/9enGIsPwS1,0,False
+505154348444553216,2014-08-29 00:45:56,舊文重發: 這種以生死為起點的觀點，有人會堅持是宗教的範疇，實際上是人有了這種觀點，而產生我們所謂的宗教。 http://t.co/TYxmsmqtg2,0,False
+505058486770995203,2014-08-28 18:25:01,舊文重發:《三百三十三星期》很多人會盲目無條件的愛上自己的公司。這種愛，就像戀人初相識時的熱戀，是稍瞬即逝，不會持久。到你醒來，後悔也太遲了。。。。。。。http://t.co/sE36lhCjha,0,False
+504864391129743360,2014-08-28 05:33:45,舊文重發:《三百三十三星期》我認識的優秀程序員通常有一個共通點：就是要求有一個寧靜的工作環境，另外就是討厭有人打擾。所以最好是每人有一間房，每人有一張舒服的沙發。喜歡小睡就小睡。。。。。。 http://t.co/cn3eJB5LMo,0,False
+504784200588087296,2014-08-28 00:15:06,舊文重發:《三百三十三星期》解決複雜的問題，要先解決一些簡單的部分。不要把所有問題放在一起而嘗試一次過想通。這是事倍功半，甚至是不可能的。http://t.co/I1x1b8nIwu,0,False
+504737849309421571,2014-08-27 21:10:55,《簡直一舊雲》舊文重發: 我經常會勸人..... 不盡信書，不如多看幾本，因為你胸無點墨，你不是「不信」，而是  ..... http://t.co/nrVIg333l2,0,False
+504703860179738626,2014-08-27 18:55:51,舊文重發:《三百三十三星期》愚昧的人多是一個樣板，聰明人卻像是天上繁星，每一個有不同的性格和做事手法。人與人合作的難就在於此。。。。。。 http://t.co/R4SNB2HSwm,0,False
+504678072327892993,2014-08-27 17:13:23,舊文重發:《三百三十三星期》在我們這一代，很多人在多間創業公司工作，皆是有計算過，考慮過。做這些決定要有點學問，人人如學得其法，其實皆會受益。 http://t.co/3ZXG6jzPMU,0,False
+504658324953235456,2014-08-27 15:54:55,舊文重發:近來睜開眼，看到活得最愚笨的好例：就是對於過去的執著。而這種執著有時會傳到下一代。。。。。。 http://t.co/m6yoaH6WjQ,0,False
+504475227309768704,2014-08-27 03:47:21,舊文重發:「在高牆與撞向它的雞蛋間，我會永遠站在雞蛋的一邊。」村上春樹 http://t.co/Kci1gnhzYf,0,False
+504448745476751360,2014-08-27 02:02:07,舊文重發:有時做科技人很簡單：找一本好書，和一個朋友說句話。只要是學懂一件事情，就可能會想通一些想十年都想不通的事情。 http://t.co/8D71clWIx8,0,False
+504431634478034945,2014-08-27 00:54:08,舊文重發:對於運氣的看法，足以影響一個人的貧富。有一句西方名句，「世上最倒霉的人就是迷信的人。」（Being superstitious is bad luck。） 這大概解釋為何大部份人都無法富起來: 世上有幾多人毫不迷信？ http://t.co/OnQeUB2W3J,0,False
+504410239958253568,2014-08-26 23:29:07,很多人說做創業的就要搏盡，假若你審視這些人用的時間，有很多時是浪費: 一個聰明的想法，就解決了要花二十個小時死做的問題。。。。。。http://t.co/I1PvTo6b25,0,False
+504343453111963648,2014-08-26 19:03:44,舊文重發:《過去的雲》擁抱過去的自己 http://t.co/1nv18c1l6O,0,False
+504301379406802945,2014-08-26 16:16:32,舊文重發:《過去的雲》五分鐘之前 http://t.co/Sp5lPOcQJQ,0,False
+504107793457373184,2014-08-26 03:27:18,舊文重發: 《雲書》 : Why People Photograph - Robert Adams http://t.co/Ap2AtiLZJ5,0,False
+504048616856887297,2014-08-25 23:32:09,舊文重發: 《過去的雲》你在被催眠嗎？(終篇） http://t.co/MLwf7BEyY9,0,False
+504022367929368576,2014-08-25 21:47:51,舊文重發: 希冀 http://t.co/w1cTbfRd0j,0,False
+503975665310650369,2014-08-25 18:42:16,舊文重發: 擁抱過去的自己 http://t.co/1nv18c1l6O,0,False
+503950375750471681,2014-08-25 17:01:47,舊文重發: 《聽風的日子》John Lennon - Imagine http://t.co/qJKOfpM9Sa,0,False
+503914273056501760,2014-08-25 14:38:19,舊文重發: 《夢想黃金屋》（一）要對金錢負個人責任 http://t.co/18bCgjINEP,0,False
+503740168025931777,2014-08-25 03:06:29,舊文重發：要和人溝通，先要對人尊重和包容，要教人溝通，就先要教怎樣尊重和包容其他人。http://t.co/2RqUbo9GRh,0,False
+503719620554264577,2014-08-25 01:44:50,舊文重發：安慰約伯的人 (二) : 為何「善有惡報」? 假若大家沒有瞭解傷痛者不幸的原因，而用自己的想法去加著傷痛者的心內。你不但沒有達到安慰人的目的，反而可能加重別人的傷痛。http://t.co/JLLrLoENGG,0,False
+503686841426780160,2014-08-24 23:34:35,舊文重發：《過去的雲》我失業了，應該怎辦？http://t.co/C4b7rM0NSL,0,False
+503667712674250752,2014-08-24 22:18:35,舊文重發：《離開奧美拉城的人》 人不只是統計中的一點，一個數據。我們的快樂不應是建築於人家，尤其是弱小的不幸。有這樣思考心態的人，我的心情只是可憐，不可能是嫉妒。http://t.co/VAJFGnekUP,0,False
+503517200222019584,2014-08-24 12:20:30,舊文重發: 自從中國經濟騰飛，有越來越多外國人對中國文化和中文有興趣。你認為這說法對嗎？http://t.co/TQh4C5izz8,0,False
+502478020721250304,2014-08-21 15:31:10,舊文重發: 《三百三十三星期》Au Lang Syne http://t.co/97OGbxyQ25,0,False
+502438089105895424,2014-08-21 12:52:29,舊文重發: 《三百三十三星期》每一年年初，我都會寫一篇文章總結工作狀況。若你想想，替他人工作斷不是易事，尤其是創業工司。http://t.co/1yXYxS5D0W,0,False
+502329173319614466,2014-08-21 05:39:42,舊文重發: 《三百三十三星期》這就是程序員的生涯：把食物轉化成思維，把思維轉化成機器碼，然後以一定概率把機器碼化作金錢，最後期望金錢可以買點食物。周而復始，至死方盡。http://t.co/3ekShYF06p,0,False
+502303412286128129,2014-08-21 03:57:20,舊文重發: 《三百三十三星期》在大概一年前寫了 說科技人的三條路（一）：學界。人太懶，說要寫續篇卻遲遲沒有寫。有網友追問，現在才執筆行文。 http://t.co/l0MLl8vj1n,0,False
+502271989135179776,2014-08-21 01:52:28,舊文重發: 有關傳銷的一些經歷。總會問：我為這類無謂事情，浪費了多少時間？http://t.co/QGv31iRtd4,0,False
+502252279026941952,2014-08-21 00:34:09,舊文重發: 《三百三十三星期》你不可以停下來，這是我們行業有趣之處，亦是人家請我們這類人的真正原因。。。。。。http://t.co/41fq7QZcRt,0,False
+502209522199724032,2014-08-20 21:44:15,舊文重發: 人命像片飄葉。風要把我們吹到那裡，誰也說不出來。http://t.co/42VptpWjTL,0,False
+502161842081656832,2014-08-20 18:34:47,舊文重發: 你會問：「假若你讀的是名校，你不引以為傲嗎？」對於這一點，我個人的見解是。。。。。。http://t.co/p7831tDtT7,0,False
+502134586227556352,2014-08-20 16:46:29,舊文重發: 《三百三十三星期》世界總有些問題是你解決不了，也不要太灰心，人生就是這樣。不要去想一定要把整個問題解決掉，試想想有沒有更好的方法呢？有沒有把現存的方法更快，更妥善的辦法呢？http://t.co/dtCK8wc8PK,0,False
+501902237464293376,2014-08-20 01:23:12,舊文重發: 《三百三十三星期》在一間創業公司，那一類人會先被解僱呢？就是滿口在說：「我是技術X的專才，所以我不會去管技術Y。」你應該說的是。。。。。。http://t.co/uBPm2zuNV7,0,False
+501856194060103680,2014-08-19 22:20:15,舊文重發: 《三百三十三星期》無論您多少歲，是年紀大或小，在你停止學習的一天，你已經死了。http://t.co/qOEY8QUJwz,0,False
+501826163392925696,2014-08-19 20:20:55,舊文重發: 簡直一舊雲 : 假若你慢慢瞭解世情，你就知香港多的是迷失的人。不只是你的一代，比你老十、二十年的人也很迷失。。。。。。http://t.co/bLbjPtsRnv,0,False
+501779591565176833,2014-08-19 17:15:51,平均每五十篇一次，呼籲讀者訂閱《一舊雲》的連結：http://t.co/hAOdARhRfS,0,False
+501752377234698240,2014-08-19 15:27:43,平均每五十篇一次的自我宣傳：有關《簡直一舊雲》。http://t.co/Wf0zladCpF,0,False
+501732269917503488,2014-08-19 14:07:49,舊文重發: 道不同，不相為謀。朋友有時只是平水相逢，如果講究兩家性格，可能根本一開始不應做朋友，甚至不應相識。勉強下去也是徒勞。 http://t.co/CaXxn1FrQt,0,False
+501467140701315073,2014-08-18 20:34:17,舊文重發: 簡直一舊雲 : 讀者群多是中國人，活在醬缸，要厚黑的時候多，能清白的時候少。所以今次想寫點實用文章，教大家怎樣卑鄙。若大家執迷不悟。。。。。。http://t.co/ETgmDgMg6F,0,False
+501436762120802304,2014-08-18 18:33:34,舊文重發: 簡直一舊雲 : 成功！成功！成功！成功......？甚麼是成功？http://t.co/meKqix0Gk4,0,False
+501418469838315521,2014-08-18 17:20:53,舊文重發: 《三百三十三星期》若各位細想《333星期》寫作的動機，可能會問我為何這麼有信心會留在一間公司六年半呢？http://t.co/q6R71vXG3y,0,False
+501215208539717633,2014-08-18 03:53:12,舊文重發: 《三百三十三星期》 http://t.co/k3qd1Xrhk5,0,False
+501189678574612480,2014-08-18 02:11:45,舊文重發: 本篇解釋《一舊雲》與《333星期》的製作過程。http://t.co/y7CUUZWCNS,0,False
+501127323371192322,2014-08-17 22:03:59,舊文重發: 美國感受（種族 ‧ 同理心）在美國社會，有很多人會放開一點。不硬去要其他人去明白和瞭解一切，因為大家都知道是沒可能。甚至有人會笑言Everyone is a little bit racist。。。。。。。http://t.co/xyAfUs8Bn1,1,False

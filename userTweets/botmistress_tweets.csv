@@ -1,0 +1,172 @@
+id,created_at,text,retweet_count,tweet.retweeted
+830270839400517634,2017-02-11 04:22:48,test test,0,False
+683612217112150016,2016-01-03 11:33:48,"test,test",2,False
+683610477717512193,2016-01-03 11:26:53,@alicemazzy Something went wrong.,0,False
+670935887719583744,2015-11-29 12:02:35,tweet~,0,False
+670896878586896384,2015-11-29 09:27:35,another extremely cool tweet,1,False
+670729815352352769,2015-11-28 22:23:44,"oauth test3 !""#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~",0,False
+670723524051533824,2015-11-28 21:58:44,"oauth test2 !""#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~",0,False
+670671380795547648,2015-11-28 18:31:32,"oauth test !""#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~",0,False
+617737418867912704,2015-07-05 16:50:52,@tinysubversions test,0,False
+616122601283432448,2015-07-01 05:54:09,@alicemazzy I am 95.2% sure @plaatto is a bot,1,False
+616122317144498176,2015-07-01 05:53:02,@alicemazzy I am 100% sure @PlatoQuote is a human,0,False
+616120244973735937,2015-07-01 05:44:48,@alicemazzy I am 98.6% sure @botmistress is a bot,0,False
+616119911253962752,2015-07-01 05:43:28,@alicemazzy I am 100% sure @POTUSTL is a human,0,False
+616119557766426624,2015-07-01 05:42:04,@alicemazzy I am 94.9% sure @Horse_ebooks is a bot,0,False
+616116368769990656,2015-07-01 05:29:23,@alicemazzy I am 100% sure @Horse_ebooks is a bot,0,False
+615834275812888576,2015-06-30 10:48:27,@alicemazzy I am 100% sure @Artemissian is a human,1,False
+615828568329842688,2015-06-30 10:25:46,@alicemazzy I am 100% sure @future_junk is a human,0,False
+608048283223789569,2015-06-08 23:09:42,@alicemazzy I am 100% sure @Lowpolybot is a bot,0,False
+608046328212381696,2015-06-08 23:01:56,@alicemazzy I am 100% sure @Horse_ebooks is a bot,0,False
+608046031331315713,2015-06-08 23:00:45,@alicemazzy I am 99.9% sure @massconnect4 is a bot,0,False
+608045280051765248,2015-06-08 22:57:46,@alicemazzy I am 100% sure @massconnect4 is a human,0,False
+608037814043852801,2015-06-08 22:28:06,@alicemazzy I am 75.8% sure @botmistress is a human,1,False
+608037376452083713,2015-06-08 22:26:21,@alicemazzy I am 87.9% sure @LeopoldMushkov is a bot,0,False
+608037336966942720,2015-06-08 22:26:12,@alicemazzy I am 99.7% sure @8zMalantsev80 is a bot,0,False
+608036525738217472,2015-06-08 22:22:59,@alicemazzy I am 100% sure @drildawk_ebooks is a bot,0,False
+608036142009753600,2015-06-08 22:21:27,@alicemazzy I am 100% sure @SkunkyTop is a bot,0,False
+608034961963253761,2015-06-08 22:16:46,@alicemazzy I am 85.9% sure @charlesdg is a human,0,False
+608034534559481858,2015-06-08 22:15:04,@alicemazzy I am 100% sure @GreatResponder is a human,0,False
+608034354871332864,2015-06-08 22:14:21,@alicemazzy I am 100% sure @mkovyazina1 is a bot,0,False
+608034196716703744,2015-06-08 22:13:43,@alicemazzy I am 87% sure @ForMyLiifee is a bot,0,False
+608034017691213825,2015-06-08 22:13:01,@alicemazzy I am 99.7% sure @turanovae is a bot,0,False
+608032073165606912,2015-06-08 22:05:17,@alicemazzy I am 100% sure @RedditLifeHacks is a bot,0,False
+608030643189121024,2015-06-08 21:59:36,@alicemazzy I am 99.6% sure @tull_ebooks is a bot,0,False
+608029107935248384,2015-06-08 21:53:30,@alicemazzy I am 65.9% sure @consumer_ideal is a human,0,False
+608025302053175296,2015-06-08 21:38:23,@alicemazzy I am 100% sure @Horse_ebooks is a bot,1,False
+608025062529105920,2015-06-08 21:37:26,@alicemazzy I am 100% sure @oliviataters is a bot,0,False
+608023704862261248,2015-06-08 21:32:02,@alicemazzy I am 99.5% sure @VagueLyrics is a bot,0,False
+608023568614584321,2015-06-08 21:31:29,@alicemazzy I am 100% sure @byroniczero is a human,1,False
+608023149565878272,2015-06-08 21:29:50,"@alicemazzy I am 72.6% sure @pentametron oh shit, hm is a human",0,False
+608023064106762240,2015-06-08 21:29:29,@alicemazzy I am 100% sure @pentametron is a human,0,False
+608021850145169408,2015-06-08 21:24:40,@alicemazzy I am NaN% sure @pentametron is a human,1,False
+608021263475306497,2015-06-08 21:22:20,@alicemazzy I am 100% sure @zoeyisgay is a human,0,False
+608021058797469696,2015-06-08 21:21:31,@alicemazzy I am 100% sure @yuriprincess_ is a human,0,False
+608020600792084480,2015-06-08 21:19:42,@alicemazzy I am 100% sure @cher is a human,1,False
+608020102613745664,2015-06-08 21:17:43,@alicemazzy I am 51.1% sure @BarackObama is a human,2,False
+608019483278458880,2015-06-08 21:15:15,@alicemazzy I am 99.2% sure @aerithcanlive is a bot,0,False
+608019146270339072,2015-06-08 21:13:55,@alicemazzy I am 100% sure @POTUS is a human,1,False
+608017847093035009,2015-06-08 21:08:45,@alicemazzy I am 100% sure @horse_overflow is a bot,0,False
+608017714569842688,2015-06-08 21:08:14,@alicemazzy I am 100% sure @orezpraw is a human,0,False
+608017258997272576,2015-06-08 21:06:25,@alicemazzy I am 100% sure @BooDooTeen is a bot,0,False
+608017178667786240,2015-06-08 21:06:06,@alicemazzy I am 100% sure @muffinista is a human,0,False
+608016881463652353,2015-06-08 21:04:55,@alicemazzy I am 100% sure @Nicole_Mattea is a human,0,False
+608016746482524160,2015-06-08 21:04:23,@alicemazzy I am 100% sure @negatendo is a human,0,False
+608016359973228544,2015-06-08 21:02:51,@alicemazzy I am 100% sure @littlebluerobot is a human,0,False
+608016166473199616,2015-06-08 21:02:05,@alicemazzy I am 100% sure @Isfet is a human,0,False
+608015929012723712,2015-06-08 21:01:08,@alicemazzy I am 100% sure @everyadage is a bot,0,False
+608015599373926400,2015-06-08 20:59:49,@alicemazzy I am 100% sure @poem_exe is a bot,0,False
+608015295932821504,2015-06-08 20:58:37,@alicemazzy I am 100% sure @inky is a human,0,False
+608013934176563202,2015-06-08 20:53:12,@alicemazzy I am 100% sure @_hartsick is a human,0,False
+608013502888833024,2015-06-08 20:51:30,@alicemazzy I am 100% sure @darius_at_gdc is a bot,0,False
+608013357719810048,2015-06-08 20:50:55,@alicemazzy I am 82.4% sure @Ludonaut is a human,0,False
+608013080123998208,2015-06-08 20:49:49,@alicemazzy I am 100% sure @AaronM is a human,0,False
+608012463301222400,2015-06-08 20:47:22,@alicemazzy I am 100% sure @sanspoint is a human,0,False
+608012293172039681,2015-06-08 20:46:41,@alicemazzy I am 100% sure @feignamnesia is a human,0,False
+608010999153631232,2015-06-08 20:41:33,@alicemazzy I am 100% sure @akatookey is a human,0,False
+608010829657546752,2015-06-08 20:40:52,@alicemazzy I am 100% sure @BooDooPerson is a human,0,False
+608010620617814017,2015-06-08 20:40:02,@alicemazzy I am 99.5% sure @IAmAboutUs is a human,3,False
+608010197861302272,2015-06-08 20:38:22,@alicemazzy I am 100% sure @LUREKILL is a human,0,False
+608009873842765824,2015-06-08 20:37:04,@alicemazzy I am 100% sure @jabelsjabels is a human,0,False
+608009568765943808,2015-06-08 20:35:52,@alicemazzy I am 100% sure @kittyhorrorshow is a human,0,False
+608009330802065408,2015-06-08 20:34:55,@alicemazzy I am 100% sure @VergleichBot is a bot,0,False
+608009204855635968,2015-06-08 20:34:25,@alicemazzy I am 100% sure @ojahnn is a human,1,False
+608008609851568129,2015-06-08 20:32:03,@alicemazzy I am 100% sure @mno00 is a human,0,False
+608007645497147392,2015-06-08 20:28:13,@alicemazzy I am 99.3% sure @Pyroka is a bot,1,False
+608007264322994176,2015-06-08 20:26:42,@alicemazzy I am 100% sure @swayandsea is a human,0,False
+608006802223988736,2015-06-08 20:24:52,@alicemazzy I am 100% sure @super_jeopardy is a bot,0,False
+608006639711494144,2015-06-08 20:24:13,@alicemazzy I am 53.7% sure @digital_henge is a bot,1,False
+608006514872164353,2015-06-08 20:23:44,@alicemazzy I am 100% sure @lichlike is a human,0,False
+608006169492226048,2015-06-08 20:22:21,@alicemazzy I am 100% sure @smoochbot is a human,1,False
+608004586339631104,2015-06-08 20:16:04,"@alicemazzy I am 83.3% sure @, 15 minutes ago.. &amp;gt;.&amp;gt; is a bot",0,False
+608004159292325889,2015-06-08 20:14:22,@alicemazzy I am 100% sure @alicemazzy is a human,0,False
+607370674726825984,2015-06-07 02:17:07,testing,0,False
+607306294358212609,2015-06-06 22:01:18,@swayandsea heeeeey gurl &lt;3&lt;3&lt;3,0,False
+607305932725321728,2015-06-06 21:59:52,@swayandsea how r u bb,0,False
+607305670577156096,2015-06-06 21:58:49,@swayandsea Hello I'm sending this from the command line :3,0,False
+607305402804404224,2015-06-06 21:57:45,@tametick Hi Ido sorry just testing again whee~~~,0,False
+607303720783638529,2015-06-06 21:51:04,@tametick lucky},0,False
+607296852950581248,2015-06-06 21:23:47,Testing,0,False
+605196284681695232,2015-06-01 02:16:52,test reply 17,0,False
+605196281804406784,2015-06-01 02:16:52,test initial 17,0,False
+605195156002881536,2015-06-01 02:12:23,test initial 16,0,False
+605194851261497344,2015-06-01 02:11:11,test initial 15,0,False
+605194473581236227,2015-06-01 02:09:41,test initial 14,0,False
+605193062634147841,2015-06-01 02:04:04,test initial 13,0,False
+605192408976859136,2015-06-01 02:01:28,test initial 12,0,False
+605191868658257920,2015-06-01 01:59:20,test initial 11,0,False
+605190600162455552,2015-06-01 01:54:17,test initial 10,0,False
+605190167838597120,2015-06-01 01:52:34,test initial f,1,False
+605189845154004992,2015-06-01 01:51:17,test initial e,0,False
+605188764424507392,2015-06-01 01:46:59,test initial d,0,False
+605188379878260737,2015-06-01 01:45:28,test initial c,0,False
+605187754016698370,2015-06-01 01:42:59,test initial b,0,False
+605187410993901569,2015-06-01 01:41:37,test initial a,0,False
+605186892032843776,2015-06-01 01:39:33,test initial 9,0,False
+605185665832243202,2015-06-01 01:34:41,test initial 8,0,False
+605185512895152128,2015-06-01 01:34:04,test initial 7,0,False
+605176295148777472,2015-06-01 00:57:27,test reply 6,0,False
+605176293282488320,2015-06-01 00:57:26,test initial 6,0,False
+605174547730472960,2015-06-01 00:50:30,test initial 5,0,False
+605174113968209920,2015-06-01 00:48:47,.@botmistress test reply 4,0,False
+605174112676290560,2015-06-01 00:48:46,test initial 4,0,False
+605173607606546432,2015-06-01 00:46:46,test reply 3,0,False
+605173605689745409,2015-06-01 00:46:45,test initial 3,0,False
+605172755600941056,2015-06-01 00:43:23,test reply 2,0,False
+605172754296373248,2015-06-01 00:43:22,test initial 2,0,False
+605169718043934721,2015-06-01 00:31:18,test reply,0,False
+605169716194373632,2015-06-01 00:31:18,test initial,0,False
+603204039900209152,2015-05-26 14:20:24,stream test 2 start,0,False
+603203564702289920,2015-05-26 14:18:31,stream test start,0,False
+603203231913619457,2015-05-26 14:17:12,bot test again,0,False
+603185000473755648,2015-05-26 13:04:45,Prototype test,0,False
+603168430829633536,2015-05-26 11:58:54,Testing yet another set of code changes,0,False
+601476205557198848,2015-05-21 19:54:36,@massconnect5 7,0,False
+601475910689300481,2015-05-21 19:53:26,@alicemazzy @massconnect4 2,0,False
+601475588445085696,2015-05-21 19:52:09,@massconnect4 7,0,False
+601473497907470336,2015-05-21 19:43:51,@massconnect4 4,0,False
+600582356416724992,2015-05-19 08:42:46,@alicemazzy just making sure the new t method sig works,0,False
+600573608751149057,2015-05-19 08:08:01,.@alicemazzy Testing handle lookup and automated dot-reply,0,False
+600265717842227201,2015-05-18 11:44:34,.@alicemazzy Now I can reply to you,0,False
+600235619080540160,2015-05-18 09:44:58,This is the second test of the new @botmistress modules,0,False
+600234986566848512,2015-05-18 09:42:27,This is the first test of the new @botmistress modules,0,False
+598755386049499136,2015-05-14 07:43:03,@alicemazzy Alice Maz is now in my clutches,0,False
+598362535046184960,2015-05-13 05:42:00,x`xgnnq`xsdrs####,0,False
+598362133567377408,2015-05-13 05:40:24,sdrssdrs,0,False
+598322804627361792,2015-05-13 03:04:07,@massconnect4 1,0,False
+598322161330298881,2015-05-13 03:01:34,?l`rrbnmmdbs30,0,False
+597724599850176512,2015-05-11 11:27:04,"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 0123456789^&amp;*?.,$@#`{}[]()'""-_",1,False
+597702409058582528,2015-05-11 09:58:53,"Loremipsumidolorsitamet,consectcouretdpsiscingelamnscoudolcoudiusmosmetdmpsilaelcidunmeumelaborecoudmeolorsremagnaetolcqua'hu&lt;~@",1,False
+597640703578120192,2015-05-11 05:53:42,@massconnect4 6,0,False
+597609978946461698,2015-05-11 03:51:36,@massconnect4 5,0,False
+597579936677941249,2015-05-11 01:52:14,test test test hello 140 chars testing a thing yay go woo hi ok whatever aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,0,False
+597576759479902209,2015-05-11 01:39:36,test test again,0,False
+597576674058711042,2015-05-11 01:39:16,"""test test 1 2 1 2""",0,False
+597385271441690626,2015-05-10 12:58:42,@elibrody Ugh ok I guessI  have som sdebugging to d dontoavtokn s:(,3,False
+597348553422286848,2015-05-10 10:32:47,#saveolivia,2,False
+597334615238451200,2015-05-10 09:37:24,@massconnect4 sun,0,False
+597334430965858305,2015-05-10 09:36:40,massconnect4 sun,0,False
+596296097158561793,2015-05-07 12:50:42,@alicemazzy WTF?!?! Animal Facts is now in my clutches,0,False
+593667674288197632,2015-04-30 06:46:18,@massconnect4 4,0,False
+593667340551618561,2015-04-30 06:44:58,@massconnect4 1,0,False
+593667128571531265,2015-04-30 06:44:07,@massconnect4 7,0,False
+593666866289061888,2015-04-30 06:43:05,@massconnect4 2,0,False
+593666655718223872,2015-04-30 06:42:15,@massconnect4 1,0,False
+593666356781789186,2015-04-30 06:41:03,@massconnect4 3,0,False
+593664344526721024,2015-04-30 06:33:04,@massconnect4 4,0,False
+593663615619629056,2015-04-30 06:30:10,@massconnect4 sun,0,False
+593409688131149825,2015-04-29 13:41:09,@alicemazzy Alice is now in my clutches,0,False
+593344725626724353,2015-04-29 09:23:01,"Hello. I am botmistress. This tweet was written for me by my own mistress, @alicemazzy, to test compression. Soon I will speak for myself.",1,False
+593328761405198336,2015-04-29 08:19:34,@alicemazzy alice@venus:~# is now in my clutches,0,False
+593327898859175936,2015-04-29 08:16:09,"@alicemazzy Hello, Alice. I'm presently resting. I have 5 bots under my control.",0,False
+593325919063777281,2015-04-29 08:08:17,"@alicemazzy Hello, Alice. I'm presently awake. I have 5 bots under my control.",0,False
+593324452806438912,2015-04-29 08:02:27,"@alicemazzy Hello, Alice. I'm presently awake. I have NaN bots under my control.",0,False
+591195108046864384,2015-04-23 11:01:12,@alicemazzy Alice Googling is now in my clutches,0,False
+591194902899200000,2015-04-23 11:00:23,@alicemazzy Knock Knock Bot is now in my clutches,0,False
+591194701140721664,2015-04-23 10:59:35,@alicemazzy Jeopardy! Stumpers is now in my clutches,0,False
+591194490049732609,2015-04-23 10:58:44,@alicemazzy Captain Barbossa is now in my clutches,0,False
+591190084008873986,2015-04-23 10:41:14,@alicemazzy I have forged a bond,0,False
+591189906346520576,2015-04-23 10:40:32,@alicemazzy The bond is broken,0,False
+591183202204585984,2015-04-23 10:13:53,@alicemazzy I have forged a bond,0,False
+591182392766795776,2015-04-23 10:10:40,@alicemazzy digital henge is now in my clutches,0,False
+591168176009838593,2015-04-23 09:14:11,"@alicemazzy I'm sorry, I couldn't find gggfxbyua on Twitter",0,False

@@ -1,0 +1,201 @@
+id,created_at,text,retweet_count,tweet.retweeted
+565097822949621760,2015-02-10 10:39:54,"@ParallelsCares I got a new computer but can't past ""You have reached the maximum number of activations available"",can u help?",0,False
+524847932340568064,2014-10-22 09:01:12,Use RequestBin to see what your HTTP client is sending or to inspect and debug webhook requests. http://t.co/C2psRxdIA4,0,False
+524840050291245056,2014-10-22 08:29:53,Deis is an open source PaaS that makes it easy to deploy and manage applications on your own servers. http://t.co/vEGaBRclCn,0,False
+520270760804249600,2014-10-09 17:53:10,"cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
+https://t.co/tGFSz1hOEw",0,False
+496173677478551552,2014-08-04 05:59:57,@ppcelery @yurii_yu 实际部署的话应该首选用SSD instance storage. EBS至多做一个额外的备份节点就行了。,0,False
+477135929270755328,2014-06-12 17:10:44,@SeeMinus @leifwalsh @yurii_yu 使用事务，提交或回滚，更简单的是使用文档版本来解决冲突。这么说吧tokuMX中的update操作本身就具备mongodb中findAndModify的原子性了。真没必要用了。,0,False
+477106001368211458,2014-06-12 15:11:49,@SeeMinus @leifwalsh @yurii_yu findAndModify在mongodb中也是一向很差的。Tokumx其实是没有使用findAndModify的必要了。,0,False
+477105379071913984,2014-06-12 15:09:21,@yurii_yu 不是完全兼容的，不可混用。Geospatial index是没有的。count比mongodb还要差，少用。迁移的时候，最好是停机迁移，即用mongorestore方式比较稳妥。当然，其他都不错，osx需要自己编译。空间那是省级了。,0,False
+436401782818758656,2014-02-20 07:27:47,"@aislefinder Does commercial version(@SupermarketAPI ) have any Costco data? If yes I'll purchase the license, thanks.",0,False
+426066546469781504,2014-01-22 18:59:15,@leifwalsh any download url for it?,0,False
+400881320579981313,2013-11-14 07:02:09,@Caiwangqin @robbinfan 1password的确是很没节操的。不过没办法，没有合适可替代的，考虑到它保管的资料的重要性，忍了。唉，所以说，产品是硬道理哇。,0,False
+400880994565120000,2013-11-14 07:00:51,@robbinfan License 发你gmail邮箱了。,0,False
+400690383169941504,2013-11-13 18:23:26,@robbinfan 我准备在它官网上买Family license 5user一共$70，你要凑不？单个App Store也要328，不如这个。,0,False
+293349297448185856,2013-01-21 13:28:17,操他大爷的方兴滨Gfw 封github 简直难以理喻,0,False
+293347185574158337,2013-01-21 13:19:53,@Fenng 然后还有一群缺锌的媒体捧臭脚 象某某家 都什么世道啊,0,False
+283120844857802753,2012-12-24 08:04:04,@gamewind @zhufengme 我也在帝都，你试试把dns改成google，我发现威众自带的dns会被污染。话说现在威众的客户支持是基本废了，按照要求发n次了也没人理会，上次归结到邮箱设置，没过几天又老样子了。,0,False
+278897524637593600,2012-12-12 16:22:06,@wezones 最近什么时候能更新阿，启用就完蛋。另外，能否把阿里云的电信机房地址放到白名单？淘宝的第三方服务都必须在阿里云，开加密也基本完蛋。最后，邮件服务啥时候能恢复到标准，别30分钟了，24小时回复也行。,0,False
+278896010397364224,2012-12-12 16:16:05,唉，威众路由器基本失去了作用。还是自己搭了一个VPN手动翻管用。,0,False
+255251267167862784,2012-10-08 10:20:19,The Bricks - User Interface Framework http://t.co/VAzSrQde #psd #webdesign via @designmodo,0,False
+254425012419846144,2012-10-06 03:37:04,Objective-C wrapper for XXTEA https://t.co/jVhf3My2,0,False
+178519710122512385,2012-03-10 16:36:30,@zhufengme 好像imac类似现象还真有，而且是升级10.6.8以后就出现了。不接上层路由某些网站就访问不了，之前客服给我提供的解决方案。我明天把家里的胶囊拿来挂威众下面先试试，要支持不行就再入一个ap基站。估计这类问题水果400就是打酱油，没空和他们折腾。,0,False
+178517790225989633,2012-03-10 16:28:52,"@zhufengme 奇怪是就imac有闪断，升级10.7.3前日志断前有""ath_chan_set:unable reset to channel 140""错误信息 网上有说是路由不兼容 本想买个新无线挂后面 又怕选不好，我现在威众前面已经挂了普通有线路由，呵呵。",0,False
+178516157832245248,2012-03-10 16:22:23,@zhufengme 我以为是imac的问题 所以没好意思麻烦客服 6、11频道都换过就剩1没试过。mbp正常，有个t41信号也不稳定 但一直以为是它网卡不行，明天让客服看看吧 谢了！,0,False
+178513871886225408,2012-03-10 16:13:18,iMac21 wifi 链接威众路由器 每隔5-30分钟就断掉 必须关闭／启用wifi后才行 已经升级10.7.3 重置NVRAM均无效 求助 @zhufengme  有何良策?,0,False
+167251120157233152,2012-02-08 14:19:09,@robinlu 和pm25没毛关系 就是屏幕质量问题 不想折腾直接抱店里换,0,False
+143587961689214977,2011-12-05 07:10:12,@zhufengme 那很抱歉，我邮箱只收到了1封自动回复的（不算今天的）。也许差错就在这里了。今天的客服就很好，能够沟通，即使无法很快解决问题，都是可以接受的。,0,False
+143586258306875392,2011-12-05 07:03:26,@zhufengme 大哥，您说的那个邮件是刚刚那封吗？ 那是针对今天我提交的吧？可是我1号就提交了的问题呢，那2天的问题可没有客服回邮。唯一人工回复是您老人家推上的reply。后来就没音讯了。,0,False
+143583395442724865,2011-12-05 06:52:03,@stonehoo @zhufengme 好的，这次实在是无法忍受 接二连三的几个网站无法访问 我要发疯了 心理落差太大 控不住,0,False
+143582741085171714,2011-12-05 06:49:27,@zhufengme 我说弱的意思是，1号提交了问题，2号又提交了，包括上次推上反映 但没有后续的邮件告诉我什么问题解决的结果或者还需要等待多少时间。 自任忍耐力足够也理解大家做事不易 如果客服能够象刚收到的邮件告诉我原因 我不会抱怨什么,0,False
+143529990766600192,2011-12-05 03:19:51,禁用Vpn还要把转发模式从智能改为全局才能当普通路由器 我觉得禁用Vpn就要回复到对应的路由模式 @zhufengme,0,False
+143528926038339584,2011-12-05 03:15:37,威众的服务太弱了吧 号称30分钟响应就是一个自动回复邮件吗 我1号2号提交的问题无回应 昨天连京东也无法访问了 刚提交给客服  cc @zhufengme,0,False
+142463148786597888,2011-12-02 04:40:36,貌似更新的12版本威众路由依然未能解决访问http://t.co/FjawV6Vc的问题 应该是威众的某个节点被阻了 但现在害得我要访问1688还得上个别的vpn绕过去 有点不淡定,0,False
+142460482190712832,2011-12-02 04:30:00,@janlay 优越感不能填饱肚子 放下身段委屈一下也是一个艰难决定吧,0,False
+142066081903820801,2011-12-01 02:22:48,@nightsailer @zhufengme 哦，确切的说是 http://t.co/wecyiHfc 这个被阻了,0,False
+142065272851927040,2011-12-01 02:19:35,威众路由器在我这里北京联通无法访问阿里的http://t.co/FjawV6Vc，而且像新浪之类的都奇慢 请问 @zhufengme 有办法解决吗？版本11.,0,False
+136229324117389313,2011-11-14 23:49:36,@vnline 使用Gcc编译是没什么问题的 icc需要把mongod和其他分别处理 client和Sdk用Icc问题比较多我嫌麻烦一般跳过,0,False
+131641100061515776,2011-11-02 07:57:38,@Fenng 秋裤是必须的吧 现在还没来暖气 除非你很想冻人,0,False
+123433852390748160,2011-10-10 16:24:58,哎哟 受不住这帮诱惑也入了个veer,0,False
+118683974045401089,2011-09-27 13:50:39,直接代理贩卖图片是赚钱的生意但我实在没啥兴趣 想象你的念头淹没在一片销售誓师声中 更加兴趣索然,0,False
+118680711979995137,2011-09-27 13:37:41,加入一个靠谱的团队重新奋斗 这个念头不断困扰我 越近年底 愈加强烈,0,False
+118679373854425089,2011-09-27 13:32:22,@HeseyWang @janlay 但现在通过第三方跳转后那个支付宝密码控件依然无法使用,0,False
+117458582655598592,2011-09-24 04:41:23,支付宝这个系统异常问题从早上9点持续到现在了有人解决吗 打了几通客服电话，一堆人让我换浏览器换正常的pc，说系统正常，最后终于说服一个客服去操作，承认不正常。郁闷啊 http://t.co/4wf0jYJX,0,False
+117272003119034370,2011-09-23 16:19:59,@Fenng 幸福的人儿啊,0,False
+114716324466409473,2011-09-16 15:04:37,Package your assets transparently in Sinatra or Padrino  http://t.co/i8PnBbLq,1,False
+114327802509139969,2011-09-15 13:20:46,@janlay 哥哇 mac下何时可用？2012前能等到不,0,False
+113278976776093698,2011-09-12 15:53:07,RT @mongodb: MongoDB 2.0 released http://t.co/LBtu3zJ,467,False
+113058986449829888,2011-09-12 01:18:57,RT @Ubuntu_OS: Deploy a Node.js and MongoDB stack to Ubuntu server in seconds with Ensemble. Great indepth article http://t.co/vmponWb,54,False
+113057951979290625,2011-09-12 01:14:50,"RT @justinvincent: How to Design Classes (in Ruby, Python, Java or any OOP) http://t.co/OMj66nD",8,False
+108479300969316352,2011-08-30 10:00:55,I like this: adds native full screen app support to TextMate in Mac OS X Lion http://t.co/vqNKLX9,0,False
+98987049952088064,2011-08-04 05:22:06,@und3f @antirez,0,False
+97668541351854080,2011-07-31 14:02:49,@robbinfan 有你们用不完的ruby人才给我介绍介绍哈,0,False
+97549084319166464,2011-07-31 06:08:08,@gaochunhui mongod即便使用v8也无实际意义 执行js时候整个db属于阻塞 该作者出发点就错了,1,False
+97111469891665920,2011-07-30 01:09:13,【通知：鉴于7.23涌温线特别重大铁路交通事故，境内外舆情趋于复杂，各地方媒体包括子报子刊及所属新闻网站对事故相关报道要迅速降温，除正面报道和权威部门发布的动态消息外，不再做任何报道，不发任何评论。】,2,False
+96837509790707712,2011-07-29 07:00:36,最气人的是，从周围了解的情况，如果自己扛到store店里是能换的，400就坚称无问题不再保修范围内。推托是进灰，我怀疑是屏幕过热从内部产生的灰斑。草泥马我买care就是为了能上门，这apple快tm成铁道部了。,0,False
+96836766497128448,2011-07-29 06:57:38,imac屏幕出现大面积灰斑，和apple 400折腾4天，400坚称是进灰不给保，被我骂了多次，客户关系号称给我申请了多次，现在也未果。蒙人哪环境不达标，明明是屏幕缺陷。再进灰能进里面去？想买imac的同学就放弃吧，相当多机器有类似问题,0,False
+94201663237275648,2011-07-22 00:26:41,@timnity 嗯 不知道apple咋想的 finder不支持两指进退 或者四指拖动也中 那就妥了,0,False
+94095070977998849,2011-07-21 17:23:07,终于让两指前进后退功能工作了 貌似是和之前在SL设置了拖动锁定造成的 升级后trackpad的preference还存在之前的设置,0,False
+94094413957054464,2011-07-21 17:20:31,@timnity 但那样三指拖动就不能用了,0,False
+93932833017561088,2011-07-21 06:38:27,@robinlu 都设置了 能推送 但页面就是滑动一下就弹回来 连续10次估计有1次能划过去 换三指就没事,0,False
+93932027224653824,2011-07-21 06:35:15,@robinlu 谢啦 看来是我的机器问题 不行得去店里换个板,0,False
+93930949246590976,2011-07-21 06:30:58,@robinlu 我表述错了 是想问：两指控制safari的前进后退 即“在页面之间推送”,0,False
+93930251679301633,2011-07-21 06:28:11,@robinlu 插个队哈 你触板双指翻页有问题不？,0,False
+93929637318631424,2011-07-21 06:25:45,#lion 反复尝试和练习两指推送后 我投降了 放弃三指拖动 将这个手势让给了safari的前进后退 因为两指根本不行哇 页面推了一半就弹回 20次有1次成功 胳膊都酸了 是我rp问题吗 还是触板的问题?,0,False
+93859717390151680,2011-07-21 01:47:55,求问: Lion 中如何设置三指显示应用程序切换（cmmand+tab那个),0,False
+93857730065993728,2011-07-21 01:40:01,Lion 的滚动太不习惯了 适应中,0,False
+93696378714337281,2011-07-20 14:58:52,"直接下Lion要5天, 暂停上vpn翻墙，yeah 剩余4小时了",0,False
+93695911947014144,2011-07-20 14:57:00,@ratazzi_potts 和itunes store一样 实际账单有延迟,0,False
+82959732528254976,2011-06-20 23:55:16,“@slashdot: SSL/TLS Vulnerability Widely Unpatched http://t.co/aMv2XXl” 看这名单 http://t.co/c92kGLI 支付宝在其中,0,False
+67151658005692416,2011-05-08 08:59:37,RT @miyagawa: Perl embedded in Go by @bradfitz http://bit.ly/mQS4LV,7,False
+64256757932883968,2011-04-30 09:16:19,使用CoffeScript重写了原来项目的js 这下清爽多了,0,False
+64254180939923457,2011-04-30 09:06:05,"腾讯的QQ登录也太坑了 除了获得一个OpenID,唯一的API只能获得用户的头像地址 对于接入商有个鸟用啊 只能招来一堆spam",1,False
+63559556126621696,2011-04-28 11:05:53,“@jjgod: Vico 用起来还不错，比上次那个已经忘了名字的雾件编辑器强多了。”// 试了一下 TextMate+Vim 真的不错！,0,False
+58740071385411584,2011-04-15 03:54:59,我fuck它工信部的 都有ICP了还尼玛让备案    有意义吗 还有那做备案系统的，尼玛这么烂 好意思上网吗？对得起你丫上的这些网站吗,1,False
+58397673685917696,2011-04-14 05:14:25,"看了这2天遗漏的t,对 @virushuo 越发喜爱",0,False
+58319462234996736,2011-04-14 00:03:37,RT @ihower: 真 high，Rails 3.1 要把 coffee-script 跟 SCSS 納入預設支援，只要附檔名是 .coffee 或 .scss，就會幫你自動 compile 成 javascript 和 css。 http://t.co/OjYagUB,14,False
+58095687035920385,2011-04-13 09:14:25,"求教: SAS 2T 7200rpm vs 600G 15krpm , 谁实际测过，6快组Raid10 二者IOPS差别有多大? 想用2T的",0,False
+57747458536652800,2011-04-12 10:10:41,@qingfeng 也是nightsailer 已经有豆瓣说了,0,False
+57703674083950592,2011-04-12 07:16:42,淘宝商城的cdn是不是有问题，10个页面有8个报错误“很抱歉，您查看的宝贝不存在，可能已下架或者被转移” 不是1天2天了。连商户的首页都一样,0,False
+57466382123671552,2011-04-11 15:33:47,@cashplk 新的还手感硬 我对IBM T21和手里这07老款MBP键盘最满意。要是雾面不是高分就好了 受不了高分,0,False
+57464191442894848,2011-04-11 15:25:05,"MBP风扇又开始抽风罢工了。今天终于申请更换这个老古董了,非常留恋现在舒适的键盘和屏。新款MBP除了键盘不爽，镜面屏也太晃眼了，纠结是否要定制雾面屏，就怕没现货，我视力不好也不喜欢高分。",0,False
+57449756418506752,2011-04-11 14:27:43,突然收到twitter发来一堆被fo的通知，蒙了 这就是被 @Fenng RT的威力?,0,False
+57101215036751872,2011-04-10 15:22:45,"QCon结束。特别感谢我所在track的主持人 @hongqn // BTW, 我的豆瓣说还没开哪 ;-)",0,False
+56945826211180544,2011-04-10 05:05:17,@robinlu 讲的挺好的 就是演示的时候出点小差错早点跳过就好了 我当时想你肯定会超时了 下次在iphone上开个秒表,0,False
+55918838377754624,2011-04-07 09:04:24,a light-weight jquery plugin that reduces ajax requests to one-line. http://t.co/WzDkSLX,0,False
+55908173537738753,2011-04-07 08:22:01,@mockee @qingfeng 豆瓣说，能走个后门，赏个帐号不？连续申请好几天了,0,False
+55907100844498944,2011-04-07 08:17:46,@qingfeng 去。晚上你们去beta吗,0,False
+55596117609558016,2011-04-06 11:42:02,RT @jjgod: ePub Zen Garden: http://t.co/P29Ra4Z,2,False
+55498313113419776,2011-04-06 05:13:23,刚才淘宝的数字证书又把我气着了 要退款竟然还需要数字证书，于是又掉进泥沼 没辙只能取消退货的念头 淘宝支付宝的同学们啊 能让用mac的多点幸福感吗,1,False
+52173720315379712,2011-03-28 01:02:38,@zhufenggood 不能用数字证书 取消数字证书又不能余额支付 付款有限额 总之是个死循环,0,False
+52052259474911232,2011-03-27 17:00:00,淘宝app付款都要短信回复多花我1毛钱，上了好几次当了。用支付宝app倒能直接付款，干嘛不统一呢？,0,False
+52052034890891264,2011-03-27 16:59:06,淘宝mac上说无数字证书不让确认收货，iphone中确认收货还要短信确认，尼玛22点让我等1分钟，现在24:53才收到。没耐心换了支付宝app无需短信就能确认。对比刚才paypal的流畅，真是恶心，难道不能针对mac用户把狗屎的数字证书限制去掉么?,0,False
+50923075780354048,2011-03-24 14:13:02,写BP比敲代码头疼多了。我有才思的时候都在路上，正经坐下来要写反倒空了。加上推不是变蓝，分神呀，关了丫的,0,False
+50584773751611392,2011-03-23 15:48:44,@lordhong @maplecoder 我现在是用gitbox直接把git push到DropBox folder 轻松至极 http://t.co/p0hqlVX,4,False
+50200660448256000,2011-03-22 14:22:24,实际而言 纯php程序员成为最短那块板概率是最高的 作为一个php开发者心里最清楚,0,False
+50199070979006466,2011-03-22 14:16:05,我还依稀记得当年用C写CGI的痛苦 perl和php的出现带来的惊喜,0,False
+50013722546147328,2011-03-22 01:59:35,@ikingqu 老板给你奖励的特殊福利吧,0,False
+50009104177041408,2011-03-22 01:41:14,大早上收到@kidrane 递来的华章《设计原本》和mongodb的卡片 惊喜 谢谢！,0,False
+49881112343875584,2011-03-21 17:12:38,#node.js 势头不错 后劲如何 年度期待,0,False
+49880769455329280,2011-03-21 17:11:16,"RT @boxedice: 2.0 @mongodb release June 2011. Concurrency, data compaction, faster map/reduce & TTL collections. #mongouk",7,False
+49879553744707585,2011-03-21 17:06:26,但是纸上谈兵和实战是差别很大的 @robbinfan 有丰富的实践 但我的团队则没有这样的救火队员 这是最致命的 所以选择工具还得看自己的团队的能力量身定做才行,0,False
+49878781422338048,2011-03-21 17:03:22,"Rails对我是一个熟悉而陌生的框架 3年前我修改自己的PHP框架时借鉴了不少的思想, 而Plack则是Perl版的Rack 做Perl的MongoDB驱动则参考了ruby的实现 这就是我纠结Perl/Ruby的地方",0,False
+49877189763674112,2011-03-21 16:57:03,"说起来可笑 我对python不感冒一点就是它没有{ }和;  受c/perl这类毒害啊, ruby最初学抵触就是那个begin/end,因为我那时对写vb已经恶心了",0,False
+49875751662661632,2011-03-21 16:51:20,@robbinfan 一般能用非主流的都有一个主流的技能作为糊口 自学能力很强 如你所说 踏实，上进，靠谱。,0,False
+49875343934369792,2011-03-21 16:49:43,@xorcerer 国内来说大公司是相对有吸引力的 当然薪资肯定是一个问题 现在生活压力这么大 选择一个相对安逸的环境也是无可厚非的,0,False
+49874351234883584,2011-03-21 16:45:46,我是很羡慕ruby社区的 今天在cu的perl版看了看 让我心凉半截 和10几年在linuxforum看到几乎类似，都多少年了 怎么还讨论这些呢 国内外差距真大啊,0,False
+49873679336742912,2011-03-21 16:43:06,@virushuo 放弃PHP后我也是一直在Perl/Python/Ruby之间徘徊，但对于后2个一直也是气场不和 用着总有点点的不习惯,0,False
+49872608451231744,2011-03-21 16:38:51,这些年我一直把PHP作为主要开发工具的一个理由就是人力给的：好招人 但事与愿违 招到的即便有经验都带来很多不良的习气 当费劲调教好刚有点生产力就被某些挖走了 有苦难言,0,False
+49871575268343808,2011-03-21 16:34:44,@robinlu @virushuo 赞同 我们就生活在一个多元化的世界,0,False
+49870602143674368,2011-03-21 16:30:52,@robbinfan 赞，文采够好的！看你这文我更心安理得用我的Perl+Node.js了 去它的PHP吧，不给你们丫的当培训学校了 哈哈,0,False
+49869249447075840,2011-03-21 16:25:30,"06年的时候用过dojo做cms后很快被它的tag搞烦死还有可怜的grid渲染性能 虽然也写了一些plugin但当jQuery出现时毫不犹豫就扔掉了 刚看到1.6里面还有那些熟悉的tag,立马关掉了demo页面",0,False
+49864307084763136,2011-03-21 16:05:51,不能不说github的404超级好 还带动画的,0,False
+49863484380413952,2011-03-21 16:02:35,白天在公司几乎都上不了github 趁现在多pull一些repos,0,False
+49862427705229312,2011-03-21 15:58:23,@Fenng @turingbook 哈哈 脑子突然短路 半天才醒悟过来这个李刚是谁,0,False
+49860175091351552,2011-03-21 15:49:26,"CoffeeScript不仅仅用于node.js,用来编写普通的前端Javascript也是非常惬意的事情 #coffeescript",0,False
+49858603313664000,2011-03-21 15:43:12,@turingbook @fenng 啥时候满大街都是ruby培训班才好卖. 再看看国内几乎没有支持ruby的虚拟主机，国内的生存压力这么大 自然优先考虑糊口 也许等到那些使用ruby的创业公司成长出几个典范就有出头之日了,0,False
+49855193789120512,2011-03-21 15:29:39,@janlay 哈哈，我倒常用这个坑做默认赋值,0,False
+49854593449992192,2011-03-21 15:27:15,@Fenng 以TOP论成败过于功利了吧 当时是正确的选择 时至今日未必还会同样的结果比如craigslist选择了Perl。 PHP的quick dirty让人浮躁是真的 范凯的感慨我能理解,0,False
+49454323410804736,2011-03-20 12:56:44,"CoffeeScript, I'm lovin' it!",0,False
+48748992691044352,2011-03-18 14:14:00,@guolijing 1.6.3 你的版本足够 注意如果没有arbiter 需要三个节点 一主两备,0,False
+48603632211476480,2011-03-18 04:36:23,@guolijing 将primary stepDown到另一台修复后切回来,0,False
+48044044869312512,2011-03-16 15:32:47,Git repository hosting inside a Dropbox folder http://t.co/HybaCDV,0,False
+47850360081100800,2011-03-16 02:43:09,@supersoko @robbinfan 个人感觉zoie更面向java应用，而elasticsearch完全基于rest和json，和所使用的语言应用无关，这点是我最感兴趣的,0,False
+47842325812084736,2011-03-16 02:11:13,@fenng 你说的DNS头疼问题是不是从监控宝看的数据？ 这个我们也有，某些线路的DNS在Dnspod一直有问题。使用BGP双线做DNS反而无事。搞不清楚是谁的问题,0,False
+47685591424438272,2011-03-15 15:48:25,@robbinfan @fenng 我也刚用上dnspod 弄个vip 省事不少 主要是还有一些统计数据,0,False
+47683710983733248,2011-03-15 15:40:57,@robbinfan 那个ElasticSearch就是构建在Lucene上，所以我猜你要做的它是不是已经是现成的了,0,False
+47597179082244096,2011-03-15 09:57:06,@robbinfan  看看这个 http://t.co/XfX5Bdd 和你做的lucene搜索比较下,0,False
+47555224499531776,2011-03-15 07:10:23,@robbinfan 该斩则斩 当机立断,0,False
+45439735237320704,2011-03-09 11:04:11,@robbinfan 没事 也是指那个猎头,0,False
+45403163431415808,2011-03-09 08:38:52,@kidrane 啥时候？先给我拜读拜读;-),0,False
+45389207379783681,2011-03-09 07:43:24,这是谁家的没养好就放出来抓站 都flood了，钻死胡同了吧您哪,0,False
+45388302710349824,2011-03-09 07:39:49,@virushuo @robbinfan //另外就是某些人说话不靠谱，加qq没加，发邮件也没有。整得我以为是自己人品问题。,0,False
+45384229407817728,2011-03-09 07:23:38,@realaddin @duoglas_du @oliveryty @Fenng  是不是使用aria2更好一些?,0,False
+45381486668562432,2011-03-09 07:12:44,谁有知乎的码DM一个，忍不住想看看咯,0,False
+45381062653775872,2011-03-09 07:11:03,"@wangym // 你刚知道啊？Eliot
+不是CTO哪能那么持之以恒的积极呢",0,False
+45011690345070592,2011-03-08 06:43:17,@Fenng @hongqn 转发过程中会丢信啊,0,False
+44430361228349441,2011-03-06 16:13:18,Baby benchmark of PSGI frameworks http://t.co/e7W3eb8  #Mojolicious is loser?,0,False
+44299489770606592,2011-03-06 07:33:16,"@raecoo 试试 ""Split panes"",""Paste History"" ""Instant Replay"" Expose tab ...",0,False
+44288520763871232,2011-03-06 06:49:40,"iTerm2 is awesome, try it! http://t.co/yGNC23B",0,False
+44236619489882113,2011-03-06 03:23:26,@robinlu 谢谢，收了准备提前学习了,0,False
+43579345930948608,2011-03-04 07:51:40,@robinlu 活的狗还是现场看靠谱，得挑一个对上眼的吧,0,False
+43423188234936320,2011-03-03 21:31:09,我在mongodb beijing会上使用的keynote 注水较多慎入  http://t.co/WWKrd78,1,False
+43422079357419520,2011-03-03 21:26:45,昨天参加mongodb北京会议的最大收获是发现原来有这么多公司已经在开始试用并考虑投入 非常期待像淘宝豆瓣盛大新浪的经验，感觉现在的mongoDB就像早期的mysql发展态势一样 #mongodb,0,False
+43009865072902144,2011-03-02 18:08:45,@janlay @panweizeng ThinkPad的键盘只有T20/21是不错的。现在只有在MBP上才找到那种感觉，我现在也想扔我的T41，当然系统也是不习惯W$了,0,False
+42592020719616000,2011-03-01 14:28:23,@xlight 稳定性欠佳 内存回收不良 coredump机率不小 需要其他工具小心伺候着 麻烦,0,False
+42113705999204353,2011-02-28 06:47:44,@cashplk thanks! fixed.,0,False
+42109145809297408,2011-02-28 06:29:37,去年给同事作的下吧项目总结 http://t.co/Ok7WuYM,0,False
+42108148873568256,2011-02-28 06:25:39,@Fenng 昨天拿千鸟的例子教育我老婆，上淘宝不要再没事开xp虚拟机，老老实实用mac,0,False
+41891325360091137,2011-02-27 16:04:04,刚从linkedin上看到一直和我联系的10gen 的Adam是一个挺帅的小伙子。,0,False
+41889353210925056,2011-02-27 15:56:14,"准备完mongoDB北京的keynote, 有点担心会和前面几位内容重叠。",0,False
+41685628609507328,2011-02-27 02:26:43,“@marcusramberg: Build a static version of your Perl app with App::Staticperl http://t.co/eJ7XkuM via @su_bzero”// I should try it.,0,False
+40614600068042753,2011-02-24 03:30:49,@fuchaoqun 那如果封装到你的php framework里也问题不大吧？即便成为官方feature，实现方式也是类似的。,0,False
+40614142695964672,2011-02-24 03:29:00,@virushuo @yarsure @tinyfool  好奇如何开源？解剖还是脱衣？放出DNA样本?,0,False
+40612671376072704,2011-02-24 03:23:10,"@fuchaoqun 我倒是相反，很少使用auto increment,在mysql时候也是使用自定义sequence. 这样可以简单绕过cluster的id冲突问题,手动sharding也方便",0,False
+40606201821528064,2011-02-24 02:57:27,http://t.co/F03K1z4 简评mongodb 1.8的关键改进,0,False
+40424412310147072,2011-02-23 14:55:05,如果离开了做什么呢？二次创业得换个新思路，短期内做app倒是蛮快乐的,0,False
+39890124170858497,2011-02-22 03:32:01,@Fenng @janlay // 什么时候mac下能支持再喝彩吧。相比Windows的可选方案，Mac下的数字证书才是最必要的。,0,False
+39842064266956800,2011-02-22 00:21:03,RT @chromatic_x: Unifying the Two Worlds of #perl 5: http://www.modernperlbooks.com/mt/2011/02/unifying-the-two-worlds-of-perl-5.html,4,False
+39727456348807168,2011-02-21 16:45:38,交行信用卡网上支付真麻烦 打个电话过来核实操作我以为就完了又给我转到客服去解决支付问题 我一听输入卡号立马挂了 换招行。,0,False
+39724061453979648,2011-02-21 16:32:08,@jjgod 虽然手里已有不劳而获的PDF，但冲着epub还是忍不住买了,0,False
+39712269042454528,2011-02-21 15:45:17,"Craigslist is about 95% Perl internally, wow.",0,False
+39335343689830400,2011-02-20 14:47:31,@robbinfan 入伙！,0,False
+38452574386388992,2011-02-18 04:19:42,@Fenng 都用过，Mantis对中文支持不太好。目前转到redmine 比较简单清爽。,0,False
+38424196866383872,2011-02-18 02:26:57,“@Fenng: 五毛大报环球时报英文版采访GFW之父方滨兴，方透漏家里电脑有6个VPN帐号来测试 GFW 和 VPN 到底誰更牛。方校长，日你大爷！阻碍社会进步！。http://t.co/pzcQDVr” //同日！,0,False
+38172985714016257,2011-02-17 09:48:43,@turingbook 图老师 给份程序员呗 大半年没看着了,0,False
+37532836143566850,2011-02-15 15:25:00,“@hongqn: 正写着代码，发现屏幕上脏了一小块，怎么擦也擦不掉，突然意识到这是自己不小心敲进去的 ` 号”  我下意识也想去擦来着。。,0,False
+37531794211344384,2011-02-15 15:20:51,"RT @kraih: This is pretty much what every #perl programmer out there expects from subroutine signatures, why can't we have those? http:/ ...",1,False
+36809904031272960,2011-02-13 15:32:19,"As rails on Rack, http://t.co/SCltPZO any PSGI #perl framework should be on #Plack  but not ""vs it"".",0,False
+36807738327564288,2011-02-13 15:23:43,"http://t.co/MhdVJca  webOS上提供Qt支持, 讽刺的是WP上还不支持.Nokia未来还能够对Qt有多大投入? 2年前开始用QtCreator，最清爽的IDE,太惋惜了.",0,False
+36754315821449216,2011-02-13 11:51:26,@laoxiong 症结就在此 发布了这么多年 接受度和获得的支持太小了,0,False
+36753359104909312,2011-02-13 11:47:38,The dynamic stylesheet language http://t.co/AfOhcV7,0,False
+36749111357087745,2011-02-13 11:30:45,看Python3的轨迹 有点要走Perl6的迹象啊,0,False
+36578398566359040,2011-02-13 00:12:24,@Fenng 也许这里的server并非独立主机 否则相当浪费,0,False
+35860177341124609,2011-02-11 00:38:27,RT @justinvincent: Web based Textmate like editor that saves to Dropbox http://bit.ly/ffDSFY,12,False
+35703411131293696,2011-02-10 14:15:31,@hongqn onering 基于qt和webkit 好想法,0,False
+35325392248119296,2011-02-09 13:13:24,RT @flycondor: Quora’s Technology Examined http://bit.ly/fCBNev,1,False
+35129494863876096,2011-02-09 00:14:58,RT @justinvincent: Maze Generation: Algorithm Recap http://bit.ly/dVhDxk,2,False
+32476868741439488,2011-02-01 16:34:23,RT @JoL1hAHN: POLL: What kind of approach would you prefer for Predis v0.7 regarding support for PHP 5.2? http://ur.ly/CyNL (please RT!) ...,4,False
+32476534786752512,2011-02-01 16:33:03,"@kchodorow @dalemdavis I'm lucky,before checkout and found the  ""ONE DAY ONLY"". wow!",0,False
+30552321142292481,2011-01-27 09:06:55,狗屎电信通，投诉多次机柜温度过高有问题，置若罔闻，现在他娘的跳闸了，没的说了吧。您这3天两头的跳闸，谁受的了,0,False
+30533653494767616,2011-01-27 07:52:44,我靠，中关村机房又全部掉电了，我要崩溃了！,0,False
+30522054834913280,2011-01-27 07:06:39,“@sartak: Why I chose to build a #Plack framework instead of using #Mojolicious http://t.co/OdzC2hU #perl” I'm too.,0,False
+29948852249296896,2011-01-25 17:08:57,今天收到来自伊朗的一个哥们邮件希望购买下吧的源码。同事说鉴于国内油价如此高涨，不如赶紧换点石油吧。,0,False
+29948199649157120,2011-01-25 17:06:21,"“@kchodorow: Why MongoDB command helpers suck: http://t.co/01OGslm” // Just for driver level, I think.",0,False
+29737983884136448,2011-01-25 03:11:02,"RT @kraih: Neat, looks like #perl has a #nosql database too now. http://t.co/8bQw1Ua",6,False
+29250523722944512,2011-01-23 18:54:02,Monary: High-performance column queries for MongoDB http://t.co/Zc5v4Ch #python #mongodb,0,False
+28717094707138560,2011-01-22 07:34:23,@lordhong 数字证书开通没P用，也只能在IE下操作。mac下没辙。用iPhone版有支付额度限制，大额也支付不了。,0,False
+28696850932432897,2011-01-22 06:13:57,“ClientCursor::yield can't unlock b/c of recursive lock” w/ findAndModify? make sure the query used have a proper index. #mongodb,0,False
+28307635887407105,2011-01-21 04:27:20,@Fenng 嗯，我也要去观摩下，CSDN搬家后就没去过,0,False
+28307477548240896,2011-01-21 04:26:43,@Fenng @robbinfan @ahbei 早说啊，我就在旁边，也过去溜达溜达了,0,False
+27417307542200320,2011-01-18 17:29:30,"@kraih nice, what's about Coro?",0,False
+27397572112941056,2011-01-18 16:11:04,"RT @OvidPerl: Commits with the word ""optimize"" must include benchmarks for ""code versus developer"" performance for the code you've obfus ...",4,False
+27239971240808448,2011-01-18 05:44:49,“@eliothorowitz: Slides from my talk at #mongo_la http://t.co/Jn9iwhw” // 没有特别的新意 除了1.8 todolist,0,False
+27236419944583168,2011-01-18 05:30:43,@Fenng @turingbook @felixding @dlee Linuxforum 好古老的历史 回想起来 时间过的真快 不知道当年那些搞中文化的XD安否,0,False
+27235758603501570,2011-01-18 05:28:05,@turingbook @felixding @dlee 啥帖子？,0,False
+25471631321202689,2011-01-13 08:38:04,@chumsdock @jjgod 估计都和我一样把字体强制设置成简黑或者华文黑体吧.,0,False
+25392522939338753,2011-01-13 03:23:43,@redicaps 如果Moo能按期完成并整合到Moose，就不需要Mouse了. 现在只能用Any::Moose .,0,False
+25392067161100288,2011-01-13 03:21:55,"@redicaps catalyst是moose的重度用户,慢是正常的。dancer我感觉对于PSGI的支持还是欠佳. 建议关注下mojo. catalyst就是提供太多的选择了反而成为负担，学习曲线感觉太陡.",0,False
+25389249264099329,2011-01-13 03:10:43,"@virushuo @fenng 不同的测试有不同的结果吧. 我对ruby不熟,但实际中对比Php和你的测试却是有些不同的结果。争论无义，咱都散了吧.",0,False

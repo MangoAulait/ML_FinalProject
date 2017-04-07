@@ -1,0 +1,205 @@
+id,created_at,text,retweet_count,tweet.retweeted
+793678400254717952,2016-11-02 04:57:31,A large-scale comparative assessment of methods for residue-residue contact prediction: Sequence-based predic... https://t.co/curxPasObK,0,False
+793658463381393408,2016-11-02 03:38:17,QUBIC: a bioconductor package for qualitative biclustering analysis of gene co-expression data: Motivation: B... https://t.co/krvOpTcoCo,2,False
+793511163355025408,2016-11-01 17:52:58,"Topology, Cross-Frequency, and Same-Frequency Band Interactions Shape the Generation of Phase-Amplitude Coupl... https://t.co/r2Vy1Vepb3",0,False
+793184483599982592,2016-10-31 20:14:52,Erratum to: Detection and sequence/structure mapping of biophysical constraints to protein variation in satur... https://t.co/oa6ZjNhBFM,0,False
+792908002516840448,2016-10-31 01:56:13,Pathway Inspector: a pathway based web application for RNAseq analysis of model and non-model organisms: Summ... https://t.co/mSzB738hhX,2,False
+792604730258169856,2016-10-30 05:51:08,Molecular mechanisms underlying COPD-muscle dysfunction unveiled through a systems medicine approach: Motivat... https://t.co/HDtJFdLtTU,0,False
+792101133334355968,2016-10-28 20:30:01,MEvoLib v1.0: the first molecular evolution library for Python: Molecular evolution studies involve many diff... https://t.co/5TcvkKSDFe,1,False
+792078889510055937,2016-10-28 19:01:38,Temperature-Dependent Model of Multi-step Transcription Initiation in Escherichia coli Based on Live Single-C... https://t.co/fHNTA86VE4,0,False
+791852226536886272,2016-10-28 04:00:57,"Data-driven approaches used for compound library design, hit triage and bioactivity modeling in high-throughp... https://t.co/cmiJJTLH2R",1,False
+791739055121633280,2016-10-27 20:31:15,"Glucose Oscillations Can Activate an Endogenous Oscillator in Pancreatic Islets: by Joseph P. McKenna, Raghur... https://t.co/OMnsZ8h3wi",0,False
+791487594852786176,2016-10-27 03:52:02,Network-based analysis of omics data: The LEAN method: Motivation: Most computational approaches for the anal... https://t.co/EX8FIo9VMd,1,False
+791387044521979904,2016-10-26 21:12:29,AlignStat: a web-tool and R package for statistical comparison of alternative multiple sequence alignments: A... https://t.co/wzqh9HwkRO,0,False
+791336542342045697,2016-10-26 17:51:48,Apparent Motion Suppresses Responses in Early Visual Cortex: A Population Code Model: by Nathalie Van Humbeec... https://t.co/O7AXgP75bk,0,False
+791194689869275136,2016-10-26 08:28:08,A graphical model approach visualizes regulatory relationships between genome-wide transcription factor bindi... https://t.co/YEGRqj7jwf,0,False
+791177525497958400,2016-10-26 07:19:56,CGDM: collaborative genomic data model for molecular profiling data using NoSQL: Motivation: High-throughput ... https://t.co/aMBZo3Y2by,1,False
+790978274264424448,2016-10-25 18:08:10,Viral RNA Degradation and Diffusion Act as a Bottleneck for the Influenza A Virus Infection Efficiency: by Ma... https://t.co/LpUEuXoeuL,0,False
+790944639373029377,2016-10-25 15:54:31,Cyclo-lib: a database of computational molecular dynamics simulations of cyclodextrins: Motivation: Cyclodext... https://t.co/x0FZVE5Mba,0,False
+790801075838124032,2016-10-25 06:24:03,Comprehensive assessment and performance improvement of effector protein predictors for bacterial secretion s... https://t.co/GqdomTekYZ,0,False
+790784338853924864,2016-10-25 05:17:33,INTEGRATE-Neo: A pipeline for Personalized Gene Fusion Neoantigen Discovery: Motivation: While high-throughpu... https://t.co/7j7xB3e49X,0,False
+790773454597332992,2016-10-25 04:34:18,The landscape of microbial phenotypic traits and associated genes: Bacteria and Archaea display a variety of ... https://t.co/AWep02fRtz,0,False
+790372729627095040,2016-10-24 02:01:57,Web-Igloo : A web based platform for multivariate data visualization: Motivation: The majority of data genera... https://t.co/Un56DFOI8s,0,False
+789929354545377280,2016-10-22 20:40:08,Subcellular protein expression models for microsatellite instability in colorectal adenocarcinoma tissue imag... https://t.co/IgLRVz5j4K,0,False
+789672494156308480,2016-10-22 03:39:28,Transferring entropy to the realm of GxG interactions: Genome-wide association studies are moving to genome-w... https://t.co/UUnOozAAEK,0,False
+789594626256580608,2016-10-21 22:30:03,PreTIS: A Tool to Predict Non-canonical 5’ UTR Translational Initiation Sites in Human and Mouse: by Kerstin ... https://t.co/EQCBINO8sw,1,False
+789576456120643584,2016-10-21 21:17:51,dupRadar: a Bioconductor package for the assessment of PCR artifacts in RNA-Seq data: PCR clonal artefacts or... https://t.co/Fg2AQd4b8e,0,False
+789217781883428864,2016-10-20 21:32:36,"The Spatial Dynamics of Predators and the Benefits and Costs of Sharing Information: by Matthieu Barbier, Jam... https://t.co/oMSOva9Z63",0,False
+789016554801287170,2016-10-20 08:13:00,"The framework for population epigenetic study: At present, understanding of DNA methylation at the population... https://t.co/30kGY15Aiw",1,False
+788927004066258945,2016-10-20 02:17:09,Imbalanced multi-label learning for identifying antimicrobial peptides and their functional types: Motivation... https://t.co/vEqMqxK833,0,False
+788867278532177921,2016-10-19 22:19:50,RNAdualPF: software to compute the dual partition function with sample applications in molecular evolution th... https://t.co/67z6WWYqRs,0,False
+788809006739361792,2016-10-19 18:28:17,DREISS: Using State-Space Models to Infer the Dynamics of Gene Expression Driven by External and Internal Reg... https://t.co/zIX3BFhuKL,0,False
+788761842407448576,2016-10-19 15:20:52,Improved methods for multi-trait fine mapping of pleiotropic risk loci: Motivation: Genome-wide association s... https://t.co/RwHxtDMHCE,0,False
+788647972028362752,2016-10-19 07:48:23,Roar: detecting alternative polyadenylation with standard mRNA sequencing libraries: Post-transcriptional reg... https://t.co/GDOmLrwbSR,0,False
+788613374749863936,2016-10-19 05:30:54,Bio-TDS: bioscience query tool discovery system: Bioinformatics and computational biology play a critical rol... https://t.co/RASJFuBMPU,1,False
+788075194535456768,2016-10-17 17:52:22,Correction: A Network Biology Approach Identifies Molecular Cross-Talk between Normal Prostate Epithelial and... https://t.co/RCrK6z1FLD,0,False
+787149080560410624,2016-10-15 04:32:19,CloudPhylo: a fast and scalable tool for phylogeny reconstruction: Summary: Phylogeny reconstruction is funda... https://t.co/vh4nUsBt2t,0,False
+787110409291505664,2016-10-15 01:58:40,Notions of similarity for systems biology models: Systems biology models are rapidly increasing in complexity... https://t.co/XiSQfYWJxP,0,False
+787017500890271744,2016-10-14 19:49:28,Theta-Gamma Coding Meets Communication-through-Coherence: Neuronal Oscillatory Multiplexing Theories Reconcil... https://t.co/JJPKIPG1Nm,0,False
+786802310777233409,2016-10-14 05:34:23,PyMod 2.0: improvements in protein sequence-structure analysis and homology modeling within PyMOL: Motivation... https://t.co/ejTOP7pXJb,1,False
+786691994672369664,2016-10-13 22:16:02,A scalability study of phylogenetic network inference methods using empirical datasets and simulations involv... https://t.co/OCi6dQQ4tO,0,False
+786663889035341824,2016-10-13 20:24:21,"Forgetting in Reinforcement Learning Links Sustained Dopamine Signals to Motivation: by Ayaka Kato, Kenji Mor... https://t.co/J4CQkWoLcX",0,False
+786310510413090816,2016-10-12 21:00:09,Extending digital PCR analysis by modelling quantification cycle data: Digital PCR (dPCR) is a technique for ... https://t.co/Qweqdj5Klq,0,False
+785981256777371648,2016-10-11 23:11:49,Evolutionary conservation of Ebola virus proteins predicts important functions at residue level: Motivation: ... https://t.co/XgyR2uYYaf,1,False
+785559448915849216,2016-10-10 19:15:42,FMAP: Functional Mapping and Analysis Pipeline for metagenomics and metatranscriptomics studies: Given the la... https://t.co/7CHVXiYPFh,0,False
+784866685429829632,2016-10-08 21:22:54,"Je, a versatile suite to handle multiplexed NGS libraries with unique molecular identifiers: The yield obtain... https://t.co/z76puGSuSu",0,False
+784485850830614528,2016-10-07 20:09:36,RStrucFam: a web server to associate structure and cognate RNA for RNA-binding proteins from sequence informa... https://t.co/iAxlpPEPXi,0,False
+784460738370822144,2016-10-07 18:29:49,Influence of Rotational Nucleosome Positioning on Transcription Start Site Selection in Animal Promoters: by ... https://t.co/U4VbGOYchw,0,False
+784251834135228416,2016-10-07 04:39:42,ChemTreeMap: an interactive map of biochemical similarity in molecular datasets: Motivation: What if you coul... https://t.co/p69iKQvVe4,0,False
+784249795489574912,2016-10-07 04:31:36,Inter-kingdom prediction certainty evaluation of protein subcellular localization tools: microbial pathogenes... https://t.co/Hg0cgx4yaN,0,False
+784161541838901248,2016-10-06 22:40:55,Proceedings of the 2016 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) Conference:  https://t.co/SYvYUKBaKw,0,False
+784115433448222721,2016-10-06 19:37:42,Stoichiometric Representation of Gene–Protein–Reaction Associations Leverages Constraint-Based Analysis from ... https://t.co/r7sN0Go5nP,0,False
+783809492517433344,2016-10-05 23:22:00,Structural distinctions of fast and slow bacterial luciferases revealed by phylogenetic analysis: Motivation:... https://t.co/hU1iXXUqNq,1,False
+783745939139735554,2016-10-05 19:09:27,A Motor-Gradient and Clustering Model of the Centripetal Motility of MTOCs in Meiosis I of Mouse Oocytes: by ... https://t.co/UrwnKUc1xT,0,False
+783727995353636864,2016-10-05 17:58:09,Simulating cryo electron tomograms of crowded cell cytoplasm for assessment of automated particle picking: Cr... https://t.co/su2s8nCVXa,0,False
+783067677862473728,2016-10-03 22:14:17,VennDiagramWeb: a web application for the generation of highly customizable Venn and Euler diagrams: Visualiz... https://t.co/vMBsVIwjnR,1,False
+782887444236513280,2016-10-03 10:18:06,Evaluating the molecule-based prediction of clinical drug responses in cancer: Motivation: Molecule-based pre... https://t.co/Pa2lfgTyYc,0,False
+782887183430537217,2016-10-03 10:17:04,State aggregation for fast likelihood computations in molecular evolution: Motivation: Codon models are widel... https://t.co/Rodcn3bmdn,0,False
+782868829172936704,2016-10-03 09:04:08,"A systematic evaluation of normalization methods in quantitative label-free proteomics: To date, mass spectro... https://t.co/BqDOYg6Cia",0,False
+781950289486106624,2016-09-30 20:14:11,Correction: Direct Correlation between Motile Behavior and Protein Abundance in Single Cells: by The PLOS Com... https://t.co/QFu3GDyhSs,0,False
+781578316998291457,2016-09-29 19:36:06,SAMSA: a comprehensive metatranscriptome analysis pipeline: Although metatranscriptomics—the study of diverse... https://t.co/f2yHzySWLB,0,False
+781570574493421568,2016-09-29 19:05:20,"Adaptive Remodeling of Achilles Tendon: A Multi-scale Computational Model: by Stuart R. Young, Bruce Gardiner... https://t.co/tJ7nPdFikJ",0,False
+781229290981429248,2016-09-28 20:29:12,SCOTTI: Efficient Reconstruction of Transmission within Outbreaks with the Structured Coalescent: by Nicola D... https://t.co/LtzvAEulIr,0,False
+780846820272418817,2016-09-27 19:09:24,General continuous-time Markov model of sequence evolution via insertions/deletions: local alignment probabil... https://t.co/0IYsoMGEYq,0,False
+780837509177630720,2016-09-27 18:32:24,"Data-Driven Metabolic Pathway Compositions Enhance Cancer Survival Prediction: by Noam Auslander, Allon Wagne... https://t.co/Flc5WB7Ysx",0,False
+780504220701106176,2016-09-26 20:28:01,"Modeling the Effects of Morphine on Simian Immunodeficiency Virus Dynamics: by Naveen K. Vaidya, Ruy M. Ribei... https://t.co/YRtOEO48Yj",0,False
+779534150328082432,2016-09-24 04:13:19,FastRFS: Fast and Accurate Robinson-Foulds Supertrees using Constrained Exact Optimization: Motivation: The e... https://t.co/3UMFqxCBmG,0,False
+779383128079015937,2016-09-23 18:13:12,"Template-Based Modeling of Protein-RNA Interactions: by Jinfang Zheng, Petras J. Kundrotas, Ilya A. Vakser, S... https://t.co/uRfHKvXJwQ",1,False
+779364954067480577,2016-09-23 17:00:59,Combinatorial identification of DNA methylation patterns over age in the human brain: DNA methylation plays a... https://t.co/6ZbIRHFpN8,2,False
+779151845918769152,2016-09-23 02:54:10,Evolutionary conservation of Ebola virus proteins predicts important functions at residue level: Motivation: ... https://t.co/8QEoKKybq7,1,False
+779096017601896448,2016-09-22 23:12:20,MicroScope: ChIP-seq and RNA-seq software analysis suite for gene expression heatmaps: Heatmaps are an indisp... https://t.co/SR1CGijwff,0,False
+779029798572089345,2016-09-22 18:49:12,Immersed Boundary Models for Quantifying Flow-Induced Mechanical Stimuli on Stem Cells Seeded on 3D Scaffolds... https://t.co/y505kYbpZH,0,False
+778818358674272257,2016-09-22 04:49:01,A covert authentication and security solution for GMOs: Proliferation and expansion of security risks necessi... https://t.co/jOaGXXS85g,1,False
+778464728997691392,2016-09-21 05:23:49,Tissue-specific pathway association analysis using genome-wide association study summaries: Motivation: Pathw... https://t.co/40e0CDhlqj,0,False
+778408969106624512,2016-09-21 01:42:15,AlloMap6: an R package for genetic linkage analysis in allohexaploids: Allopolyploids are a group of polyploi... https://t.co/fXpPVj4YRe,0,False
+778294599345319936,2016-09-20 18:07:47,DBSecSys 2.0: a database of Burkholderia mallei and Burkholderia pseudomallei secretion systems: Burkholderia... https://t.co/IrYXNRZzcp,0,False
+778103223689379840,2016-09-20 05:27:19,"Error Correction and the Structure of Inter-Trial Fluctuations in a Redundant Movement Task: by Joby John, Jo... https://t.co/U5AonoYgBV",0,False
+778053446398152708,2016-09-20 02:09:31,BatchQC: interactive software for evaluating sample and batch effects in genomic data: Sequencing and microar... https://t.co/64GJV1fPaZ,0,False
+777426484629680128,2016-09-18 08:38:12,Structural alignment of protein descriptors – a combinatorial model: Structural alignment of proteins is one ... https://t.co/MWnB29e6Pz,0,False
+777337218008436736,2016-09-18 02:43:29,Prediction of nucleosome positioning by the incorporation of frequencies and distributions of three different... https://t.co/JgIjlSHEzA,0,False
+777013697721925632,2016-09-17 05:17:56,MSAProbs-MPI: Parallel Multiple Sequence Aligner for Distributed-Memory Systems: Summary: MSAProbs is a state... https://t.co/dK5cSwg3Nc,2,False
+776838779587788801,2016-09-16 17:42:52,"M-Track: A New Software for Automated Detection of Grooming Trajectories in Mice: by Sheldon L. Reeves, Kelse... https://t.co/ahpEu8IxtN",1,False
+776811884041293826,2016-09-16 15:56:00,How computer science can help in understanding the 3D genome architecture: Chromosome conformation capture te... https://t.co/JTrXnmHVAc,1,False
+776604307181277185,2016-09-16 02:11:10,"Reference point insensitive molecular data analysis: Motivation: In biomedicine, every molecular measurement ... https://t.co/IgjL45o6pc",0,False
+776526892857892864,2016-09-15 21:03:33,Estimating Copy Number and Allelic Variation at the Immunoglobulin Heavy Chain Locus Using Short Reads: by Sh... https://t.co/qub8CIztIq,0,False
+776353532244955136,2016-09-15 09:34:40,Interactive knowledge discovery and data mining on genomic expression data with numeric formal concept analys... https://t.co/AqdvQz2Zcz,0,False
+776190056960634880,2016-09-14 22:45:05,"SUMOFLUX: A Generalized Method for Targeted 13C Metabolic Flux Ratio Analysis: by Maria Kogadeeva, Nicola Zam... https://t.co/8O9No8uD5r",0,False
+775811135962361856,2016-09-13 21:39:23,GeneSCF: a real-time based functional enrichment tool with support for multiple organisms: High-throughput te... https://t.co/E1iNbvKRgg,1,False
+775755776765726721,2016-09-13 17:59:24,"Processing Oscillatory Signals by Incoherent Feedforward Loops: by Carolyn Zhang, Ryan Tsoi, Feilun Wu, Lingc... https://t.co/kfPeQ2foG4",0,False
+775391456898854912,2016-09-12 17:51:44,"Statistical Analysis of Tract-Tracing Experiments Demonstrates a Dense, Complex Cortical Network in the Mouse... https://t.co/YvVgGJytRe",0,False
+774993918341488640,2016-09-11 15:32:03,D-VASim - An Interactive Virtual Laboratory Environment for the Simulation and Analysis of Genetic Circuits: ... https://t.co/I7ZuONpVPW,0,False
+774975285263347712,2016-09-11 14:18:01,Functional classification of CATH superfamilies: a domain-based approach for protein function annotation:  https://t.co/YVuq3K3lvC,0,False
+774791450764587010,2016-09-11 02:07:31,The OGCleaner: filtering false-positive homology clusters: Summary: Detecting homologous sequences in organis... https://t.co/BGHLzpWSe0,0,False
+774553434766741504,2016-09-10 10:21:44,A hybrid computational strategy to address WGS variant analysis in &gt;5000 samples: The decreasing costs of seq... https://t.co/f2sv87uoDh,1,False
+774402844959006721,2016-09-10 00:23:20,"Stimulation-Based Control of Dynamic Brain Networks: by Sarah Feldt Muldoon, Fabio Pasqualetti, Shi Gu, Matth... https://t.co/14GrWSjn8P",0,False
+774349086824632321,2016-09-09 20:49:43,A robust data scaling algorithm to improve classification accuracies in biomedical data: Machine learning mod... https://t.co/hfVZHOl60A,1,False
+774061715537354752,2016-09-09 01:47:49,"A novel method for predicting activity of cis-regulatory modules, based on a diverse training set: Motivation... https://t.co/BXPuTJa1YW",2,False
+773997800157646848,2016-09-08 21:33:50,"The Statistical Determinants of the Speed of Motor Learning: by Kang He, You Liang, Farnaz Abdollahi, Moria F... https://t.co/el7sAD67m2",0,False
+773701488421986305,2016-09-08 01:56:24,TRI_tool: a web-tool for prediction of protein protein interactions in human transcriptional regulation: Summ... https://t.co/e0Kk5cgubj,0,False
+773575562346450944,2016-09-07 17:36:01,"Inhomogeneity Based Characterization of Distribution Patterns on the Plasma Membrane: by Laura Paparelli, Nik... https://t.co/LKabEPGH9n",1,False
+773218667567853568,2016-09-06 17:57:50,Qualitative Dynamical Modelling Can Formally Explain Mesoderm Specification and Predict Novel Developmental P... https://t.co/IeYVepMPCH,0,False
+773173898682642432,2016-09-06 14:59:56,LMAP: Lightweight Multigene Analyses in PAML: Uncovering how phenotypic diversity arises and is maintained in... https://t.co/OoJYk8vXh1,0,False
+772610637994217472,2016-09-05 01:41:45,Multivariate Two-part Statistics for Analysis of Correlated Mass Spectrometry Data from multiple Biological S... https://t.co/ZSJ2OSJjlv,0,False
+771883168638967808,2016-09-03 01:31:02,HAPRAP: a haplotype-based iterative method for statistical fine mapping using GWAS summary statistics: Motiva... https://t.co/Zxdv2eutgr,0,False
+771778183590912000,2016-09-02 18:33:52,Leukocyte Motility Models Assessed through Simulation and Multi-objective Optimization-Based Model Selection:... https://t.co/N0ON4zUUCy,0,False
+771731750246424576,2016-09-02 15:29:21,MMinte: an application for predicting metabolic interactions among the microbial species in a community: The ... https://t.co/gAVpdjIP4e,0,False
+771574227866521600,2016-09-02 05:03:25,Exploring and visualizing multidimensional data in translational research platforms: The unprecedented advanc... https://t.co/2ogSQlD8L9,8,False
+771268969751732224,2016-09-01 08:50:26,ECCB 2016: The 15th European Conference on Computational Biology:  https://t.co/jxOFSlVmCG,1,False
+771224096222814208,2016-09-01 05:52:07,A novel method for the identification of conserved structural patterns in RNA: From small scale to high-throu... https://t.co/21g89mbRED,0,False
+771192739589345280,2016-09-01 03:47:31,BatchQC: interactive software for evaluating sample and batch effects in genomic data: Sequencing and microar... https://t.co/ZN3ZEBIaAW,1,False
+771173809395081216,2016-09-01 02:32:18,Opportunities for community awareness platforms in personal genomics and bioinformatics education: Precision ... https://t.co/xh3akigvh1,0,False
+770909666989584388,2016-08-31 09:02:42,A genetic algorithm-based weighted ensemble method for predicting transposon-derived piRNAs: Predicting piwi-... https://t.co/jcsYU8l1Nn,0,False
+770862225653313536,2016-08-31 05:54:11,RNA2DNAlign: nucleotide resolution allele asymmetries through quantitative assessment of RNA and DNA paired s... https://t.co/wkdh5NUJ6s,0,False
+770804362499067905,2016-08-31 02:04:15,"Multivariate Welch t-test on distances: Motivation: Permutational non-Euclidean analysis of variance, PERMANO... https://t.co/MY2Gtt8c1m",0,False
+770673927852961792,2016-08-30 17:25:57,Integrating multiple molecular sources into a clinical risk prediction signature by extracting complementary ... https://t.co/99bhMWytut,0,False
+769758703759167488,2016-08-28 04:49:11,Protein side-chain packing problem: is there still room for improvement?: The protein side-chain packing prob... https://t.co/oj2ajld6wA,0,False
+769720490290057216,2016-08-28 02:17:20,oxBS-MLE: an efficient method to estimate 5-methylcytosine and 5-hydroxymethylcytosine in paired bisulfite an... https://t.co/dbcJh0BSIg,0,False
+769569321831976960,2016-08-27 16:16:38,Statistical inference for time course RNA-Seq data using a negative binomial mixed-effect model: Accurate ide... https://t.co/1RN9ZyuYxs,0,False
+769398222070640640,2016-08-27 04:56:45,Benchmarking computational tools for polymorphic transposable element detection: Transposable elements (TEs) ... https://t.co/2RXJAYe8Vk,0,False
+769380320017719296,2016-08-27 03:45:37,PseKRAAC: A flexible web server for generating pseudo K-tuple reduced amino acids composition: Summary: The r... https://t.co/BRoHku96dq,0,False
+769247625518342144,2016-08-26 18:58:20,The Loss and Gain of Functional Amino Acid Residues Is a Common Mechanism Causing Human Inherited Disease: by... https://t.co/3dXkec1yh9,0,False
+769018117980844034,2016-08-26 03:46:21,Recent advances in sequence-based protein structure prediction: The most accurate characterizations of the st... https://t.co/nf8T0PdRos,0,False
+768990462833111040,2016-08-26 01:56:28,A novel copy number variants kernel association test with application to autism spectrum disorders studies: M... https://t.co/YggsmhPB9z,0,False
+768891333536649216,2016-08-25 19:22:33,"Noncommutative Biology: Sequential Regulation of Complex Networks: by William Letsou, Long Cai
+
+Single-cell v... https://t.co/YURN86ja9g",0,False
+768784599321239552,2016-08-25 12:18:26,An ensemble framework for identifying essential proteins: Many centrality measures have been proposed to mine... https://t.co/QXfgtoepo6,0,False
+768678580825968640,2016-08-25 05:17:09,Simultaneous gene finding in multiple genomes: Motivation: As the tree of life is populated with sequenced ge... https://t.co/jWwC9re38w,0,False
+768658275894038528,2016-08-25 03:56:28,Characterization of MinION nanopore data for resequencing analyses: The Oxford Nanopore Technologies MinION i... https://t.co/KuigFxiwRU,7,False
+768440480811982854,2016-08-24 13:31:02,Interpreting transcriptional changes using causal graphs: new methods and their practical utility on public n... https://t.co/h7qtc501Li,0,False
+768341679883505664,2016-08-24 06:58:26,FastProject: a tool for low-dimensional analysis of single-cell RNA-Seq data: A key challenge in the emerging... https://t.co/eMaDYp1nez,0,False
+768144770669514752,2016-08-23 17:55:59,Conflict Resolution as Near-Threshold Decision-Making: A Spiking Neural Circuit Model with Two-Stage Competit... https://t.co/8dBXGrY9Np,0,False
+767975042718113792,2016-08-23 06:41:33,SHIVA - a web application for drug resistance and tropism testing in HIV: Drug resistance testing is mandator... https://t.co/VIraKrF4D9,1,False
+767905645701894144,2016-08-23 02:05:47,NCMine: Core-peripheral based functional module detection using near-clique mining: Motivation: The identific... https://t.co/XuotMyZzCI,0,False
+767903624923971584,2016-08-23 01:57:45,miRNA-miRNA crosstalk: from genomics to phenomics: The discovery of microRNA (miRNA)–miRNA crosstalk has grea... https://t.co/SzzgFa36uX,0,False
+767193203514630144,2016-08-21 02:54:48,NET-GE: a web-server for NETwork-based human gene enrichment: Motivation: Gene enrichment is a requisite for ... https://t.co/QQJa687xkO,0,False
+767191159223365632,2016-08-21 02:46:40,Robust logistic regression to narrow down the winners curse for rare and recessive susceptibility variants: L... https://t.co/iUFFFQeKwK,0,False
+767042819332509697,2016-08-20 16:57:13,Improving feature selection performance using pairwise pre-evaluation: Biological data such as microarrays co... https://t.co/zLm1IeH9xo,0,False
+766866708552257536,2016-08-20 05:17:25,MSIdV: a versatile tool to visualize biological indices from mass spectrometry imaging data: Summary: Mass sp... https://t.co/ZFGoMrvJnq,1,False
+766844834313154560,2016-08-20 03:50:30,Recording negative results of protein-protein interaction assays: an easy way to deal with the biases and err... https://t.co/AArRYTL2CV,0,False
+766692769066684416,2016-08-19 17:46:15,"Vulnerability-Based Critical Neurons, Synapses, and Pathways in the Caenorhabditis elegans Connectome: by Seo... https://t.co/8SKlTLA8es",0,False
+766553039486410752,2016-08-19 08:31:01,CloneCNA: detecting subclonal somatic copy number alterations in heterogeneous tumor samples from whole-exome... https://t.co/J735xaclrQ,0,False
+766474163640872960,2016-08-19 03:17:35,Towards the knowledge-based design of universal influenza epitope ensemble vaccines: Motivation: Influenza A ... https://t.co/mJxLmQErF6,0,False
+766349572989865988,2016-08-18 19:02:30,Genome Landscapes of Disease: Strategies to Predict the Phenotypic Consequences of Human Germline and Somatic... https://t.co/z7IIm3P8SE,0,False
+766318163789123584,2016-08-18 16:57:42,Replica exchange molecular dynamics simulations reveal the structural and molecular properties of levan-type ... https://t.co/wzbCPf1ON5,0,False
+765998192534007808,2016-08-17 19:46:15,"Inference of Ancestral Recombination Graphs through Topological Data Analysis: by Pablo G. Cámara, Arnold J. ... https://t.co/SDRdb676oQ",0,False
+765793603587366917,2016-08-17 06:13:17,The interplay between chromosome stability and cell cycle control explored through gene-gene interaction and ... https://t.co/wOqqdINPRC,0,False
+765766646095048704,2016-08-17 04:26:10,Selective Mutation Accumulation: A Computational Model of the Paternal Age Effect: Motivation: As the mean ag... https://t.co/7eXhNzeCgE,0,False
+765013555498201088,2016-08-15 02:33:39,FARAO: the flexible all-round annotation organizer: Summary: With decreasing costs of generating DNA sequence... https://t.co/Hyjfo2DOLS,0,False
+764996250550665217,2016-08-15 01:24:53,Benchmarking computational tools for polymorphic transposable element detection: Transposable elements (TEs) ... https://t.co/YKso9uz9Fo,0,False
+764664585898954756,2016-08-14 03:26:58,Extensive Complementarity between Gene Function Prediction Methods: Motivation: The number of sequenced genom... https://t.co/lFHIQOqoeQ,0,False
+764156477107941376,2016-08-12 17:47:56,"A Mechanistic Model for Cooperative Behavior of Co-transcribing RNA Polymerases: by Tamra Heberling, Lisa Dav... https://t.co/7KBXqUfnVI",0,False
+764068705332408320,2016-08-12 11:59:09,BAMQL: a query language for extracting reads from BAM files: It is extremely common to need to select a subse... https://t.co/fDAwx2rlxL,0,False
+763913141671440384,2016-08-12 01:41:00,"Multivariate Welch t-test on distances: Motivation: Permutational non-Euclidean analysis of variance, PERMANO... https://t.co/csmCiXN7G9",0,False
+763832087795212288,2016-08-11 20:18:55,"Evolutionary Games of Multiplayer Cooperation on Graphs: by Jorge Peña, Bin Wu, Jordi Arranz, Arne Traulsen
+
+... https://t.co/yuxlAzsNHV",0,False
+763723008275992576,2016-08-11 13:05:29,Erratum to: Practical impacts of genomic data “cleaning” on biological discovery using surrogate variable analysis:  https://t.co/M4ebUfoy2z,0,False
+763619815554560000,2016-08-11 06:15:26,Membranome: a database for proteome-wide analysis of single-pass membrane proteins: The Membranome database w... https://t.co/0GlGe9MxKu,0,False
+763451275375620096,2016-08-10 19:05:42,"Malaria Incidence Rates from Time Series of 2-Wave Panel Surveys: by Marcia C. Castro, Mathieu Maheu-Giroux, ... https://t.co/KYwap6AA0P",0,False
+763285146107686912,2016-08-10 08:05:34,Identifying cell-specific microRNA transcriptional start sites: Motivation: Identification of microRNA (miRNA... https://t.co/OafaDugNsJ,0,False
+763250643972743169,2016-08-10 05:48:28,DTMiner: Identification of potential disease targets through biomedical literature mining: Motivation: Biomed... https://t.co/7VxAtGiWqZ,0,False
+763095278563930112,2016-08-09 19:31:06,Modeling of Large-Scale Functional Brain Networks Based on Structural Connectivity from DTI: Comparison with ... https://t.co/Acd2KUtcRm,0,False
+762848170548211713,2016-08-09 03:09:11,PRODIGY: a web server for predicting the binding affinity of protein-protein complexes: Summary: Gaining insi... https://t.co/izOeMhUuPH,0,False
+762460424340070401,2016-08-08 01:28:25,TopPIC: a software tool for top-down mass spectrometry-based proteoform identification and characterization: ... https://t.co/4fY4AOWv81,0,False
+762103932265099264,2016-08-07 01:51:51,A computational model to predict the immune system activation by citrus-derived vaccine adjuvants: Motivation... https://t.co/vqDzlYSHvD,0,False
+761734090827509761,2016-08-06 01:22:14,BrowseVCF: a web-based application and workflow to quickly prioritize disease-causative variants in VCF files... https://t.co/uBoDTEg2V0,1,False
+761626548034080768,2016-08-05 18:14:54,Comparison of Detailed and Simplified Models of Human Atrial Myocytes to Recapitulate Patient Specific Proper... https://t.co/9ZvDZERi20,0,False
+761400019744284673,2016-08-05 03:14:45,"COCACOLA: binning metagenomic contigs using sequence COmposition, read CoverAge, CO-alignment and paired-end ... https://t.co/6Ut8CqmKdg",0,False
+761259513492086785,2016-08-04 17:56:26,"The Representation of Prediction Error in Auditory Cortex: by Jonathan Rubin, Nachum Ulanovsky, Israel Nelken... https://t.co/RSWQ1zKuWX",0,False
+761139839030824960,2016-08-04 10:00:53,Erratum to: A novel procedure on next generation sequencing data analysis using text mining algorithm:  https://t.co/9KQuCVFr4m,0,False
+760708527270887424,2016-08-03 05:27:00,"HiPub: Translating PubMed and PMC Texts to Networks for Knowledge Discovery: Summary: We introduce HiPub, a s... https://t.co/5Kupjmpuim",0,False
+760553563143536644,2016-08-02 19:11:14,"Improved Metabolic Models for E. coli and Mycoplasma genitalium from GlobalFit, an Algorithm That Simultaneou... https://t.co/hZt0vEHB51",0,False
+760499798470369281,2016-08-02 15:37:36,"Gene, Environment and Methylation (GEM): a tool suite to efficiently navigate large scale epigenome wide asso... https://t.co/gBUGTUjJF0",0,False
+760331254570987520,2016-08-02 04:27:52,CRISPR-DO for genome-wide CRISPR design and optimization: Motivation: Despite the growing popularity in using... https://t.co/L6jSct5qFu,0,False
+760170533417684994,2016-08-01 17:49:13,"Inference of Gene Regulatory Network Based on Local Bayesian Networks: by Fei Liu, Shao-Wu Zhang, Wei-Feng Gu... https://t.co/ejJNVyFHzt",0,False
+759939921905725440,2016-08-01 02:32:51,New KEGG pathway-based interpretable features for classifying ageing-related mouse proteins: Motivation: The ... https://t.co/iu4GwMWAxX,0,False
+759818360318152704,2016-07-31 18:29:48,Prediction of FAD binding sites in electron transport proteins according to efficient radial basis function n... https://t.co/GFxSptffWo,0,False
+759216281669214212,2016-07-30 02:37:21,Indel detection from RNA-seq data: tool evaluation and strategies for accurate detection of actionable mutati... https://t.co/b5urpzXlx3,1,False
+759038446430146560,2016-07-29 14:50:42,Erratum to: ‘NETTAB 2014: From high-throughput structural bioinformatics to integrative systems biology’:  https://t.co/pZYKzNqQq7,0,False
+758927355188346880,2016-07-29 07:29:16,"On genomic repeats and reproducibility: Results: Here, we present a comprehensive analysis on the reproducibi... https://t.co/Hj8fBnrPjJ",0,False
+758742925408731140,2016-07-28 19:16:24,A Multi-scale Computational Platform to Mechanistically Assess the Effect of Genetic Variation on Drug Respon... https://t.co/whWWwkka9P,0,False
+758669763732058112,2016-07-28 14:25:41,flowVS: channel-specific variance stabilization in flow cytometry: Comparing phenotypes of heterogeneous cell... https://t.co/nTTb6KypE8,0,False
+758570770154987520,2016-07-28 07:52:19,Motif comparison based on similarity of binding affinity profiles:   Summary: Measuring motif similarity is e... https://t.co/DmcyRsnvaI,0,False
+758520489962639360,2016-07-28 04:32:32,Erratum to: A comparative evaluation of data-merging and meta-analysis methods for reconstructing gene-gene i... https://t.co/MCz2hF5p39,0,False
+758358641472786432,2016-07-27 17:49:24,"Model-Based Characterization of Inflammatory Gene Expression Patterns of Activated Macrophages: by Julia Rex,... https://t.co/oyREDM01wi",0,False
+758134981243789315,2016-07-27 03:00:39,Group-combined P-values with applications to genetic association studies: Motivation: In large-scale genetic ... https://t.co/ZvtD77Emj0,0,False
+758000110835867648,2016-07-26 18:04:44,Multiscale Simulations Suggest a Mechanism for the Association of the Dok7 PH Domain with PIP-Containing Memb... https://t.co/aiYWTgTBwY,0,False
+757642908069531649,2016-07-25 18:25:20,Modeling Electrophysiological Coupling and Fusion between Human Mesenchymal Stem Cells and Cardiomyocytes: by... https://t.co/zkGpQPuk7b,0,False
+757524563177512961,2016-07-25 10:35:04,Protein complexes predictions within protein interaction networks using genetic algorithms: Protein–protein i... https://t.co/x6l25rjVFy,0,False
+757397136530997248,2016-07-25 02:08:43,Application of the MAFFT sequence alignment program to large data--reexamination of the usefulness of chained... https://t.co/arXzEUNZFi,1,False
+756555397398396928,2016-07-22 18:23:57,Inference for Stochastic Chemical Kinetics Using Moment Equations and System Size Expansion: by Fabian Fröhli... https://t.co/N1EgJQ7huD,0,False
+756463356219760644,2016-07-22 12:18:13,Boosting the discriminatory power of sparse survival models via optimization of the concordance index and sta... https://t.co/qfjtTAGAZN,0,False
+756345383752638464,2016-07-22 04:29:26,iPTM-mLys: identifying multiple lysine PTM sites and their different types: Motivation: Post-translational mo... https://t.co/OIxJhJQvVs,0,False
+756309318115270656,2016-07-22 02:06:07,"Protein-protein interactions: detection, reliability assessment and applications: Protein–protein interaction... https://t.co/LThWz2DeOZ",0,False
+756209849017376768,2016-07-21 19:30:52,Ten Simple Rules for Curating and Facilitating Small Workshops: by Greg J. McInerny https://t.co/thiKMZnEh3,0,False
+756111115772235776,2016-07-21 12:58:32,Model-based clustering with certainty estimation: implication for clade assignment of influenza viruses: Clus... https://t.co/oJSM7Unrar,0,False
+755959825314353157,2016-07-21 02:57:22,MSAViewer: interactive JavaScript visualization of multiple sequence alignments: Summary: The MSAViewer is a ... https://t.co/aGHTp80TzP,0,False
+755956084053913600,2016-07-21 02:42:30,Identification and function annotation of long intervening noncoding RNAs: RNA-seq technology offers the prom... https://t.co/uBwa8M0imZ,0,False
+755823402443612160,2016-07-20 17:55:16,"Reinforcement Learning Explains Conditional Cooperation and Its Moody Cousin: by Takahiro Ezaki, Yutaka Horit... https://t.co/0OCH04Ye7P",1,False
+755621711031177216,2016-07-20 04:33:49,Variance Adaptive Shrinkage (vash): Flexible Empirical Bayes estimation of variances: Motivation: Genomic stu... https://t.co/TxAEvY4VSi,0,False
+755598705361694720,2016-07-20 03:02:24,Systematic bias of correlation coefficient may explain negative accuracy of genomic prediction: Accuracy of g... https://t.co/xKJleGOiJ4,0,False
+755497983706140673,2016-07-19 20:22:10,Parallel algorithms for large-scale biological sequence alignment on Xeon-Phi based clusters: Computing align... https://t.co/P6YPjBJAVE,0,False
+755118236736360448,2016-07-18 19:13:11,"The Integrated Role of Wnt/β-Catenin, N-Glycosylation, and E-Cadherin-Mediated Adhesion in Network Dynamics: ... https://t.co/K1xiS6PNcH",0,False
+754862918496235520,2016-07-18 02:18:39,RTCR: a pipeline for complete and accurate recovery of T cell repertoires from high throughput sequencing dat... https://t.co/K9bk3PslF7,0,False
+754510626026721280,2016-07-17 02:58:46,Online interactive analysis of protein structure ensembles with Bio3D-web: Summary: Bio3D-web is an online ap... https://t.co/tP4G5hywt1,0,False

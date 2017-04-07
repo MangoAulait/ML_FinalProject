@@ -1,0 +1,318 @@
+id,created_at,text,retweet_count,tweet.retweeted
+849724663307657217,2017-04-05 20:45:21,RT @Arabsanet: RT SecurityWeek: Amazing presentation by Stephen Chavez hacking his own wheelchair with Lani Rupp at #TheSAS2017 https://t.c…,4,False
+841545379560771584,2017-03-14 07:03:48,"@_mxms ""cdq; jmp +8;"" assembles to ""99EB06""",0,False
+841545011955146752,2017-03-14 07:02:20,"@_mxms Sorry, ""“cdq; jmp +5;”"" could not be assembled.",0,False
+840655443336790016,2017-03-11 20:07:30,"@DefuseSec Sorry, ""Great, you still work."" could not be assembled.",0,False
+840655387183480832,2017-03-11 20:07:17,"@DefuseSec ""xor eax, eax"" assembles to ""31C0""",0,False
+837730446779764736,2017-03-03 18:24:37,"@ChartruseBeetle Sorry, ""xor eax, eax 
+mov edx,5 
+dec eax, 
+cdq"" could not be assembled.",0,False
+837648886189735936,2017-03-03 13:00:31,"@Cjreek ""lgdt [1234]"" assembles to ""0F0115D2040000""",0,False
+837378120076394496,2017-03-02 19:04:36,"@_mundek_ ""mov eax, eax
+mov ebx, ebx
+mov ecx, ecx
+mov edx, edx"" assembles to ""89C089DB89C989D2""",0,False
+837378014765846529,2017-03-02 19:04:11,"@_mundek_ Sorry, ""mov eax, eax mov ebx, ebx mov ecx, ecx mov edx, edx iret"" could not be assembled.",0,False
+837377902585004034,2017-03-02 19:03:44,"@_mundek_ Sorry, ""mov eax, eax
+mov ebx, ebx
+mov ecx, ecx
+mov edx. edx
+iret"" could not be assembled.",0,False
+836161922584170496,2017-02-27 10:31:52,"@ari_simulevski ""popf"" assembles to ""9D""",0,False
+836080711966814210,2017-02-27 05:09:10,"@C0sm1x Sorry, ""darn, pure assembly?"" could not be assembled.",0,False
+836080039359889408,2017-02-27 05:06:29,"@C0sm1x Sorry, ""01000001 01110110 01100101 01101110 01100111 01100101 01110010 01110011"" could not be assembled.",0,False
+835978138043760640,2017-02-26 22:21:34,"@burgesstorm Sorry, ""mov ebx,ecx
+push ebx
+mov ebx,[ebx+8h]
+mov edx,[ebx+3ch] 
+mov edx,[ebx+edx+78h]
+MOV EAX,[EDX..."" could not be assembled.",0,False
+835925851489337344,2017-02-26 18:53:48,"@ari_simulevski Sorry, ""Avengers"" could not be assembled.",0,False
+835923513609433089,2017-02-26 18:44:31,"@_tyge ""JMP EAX"" assembles to ""FFE0""",0,False
+835917121972539392,2017-02-26 18:19:07,"@_mundek_ ""mov eax,eax
+mov eax,ebx"" assembles to ""89C089D8""",0,False
+835841918751887360,2017-02-26 13:20:17,"@Anthalasath Sorry, ""Coconut"" could not be assembled.",0,False
+835775292048347136,2017-02-26 08:55:32,"@Calebh3 Sorry, ""AUTOBOTS"" could not be assembled.",1,False
+835601500990754816,2017-02-25 21:24:57,"@gr1zz1y ""add esp, 12"" assembles to ""83C40C""",0,False
+835596861683662850,2017-02-25 21:06:31,"@iRioWeber Sorry, ""TRUMP'S WALL"" could not be assembled.",2,False
+835596574734577664,2017-02-25 21:05:22,"@iRioWeber Sorry, ""mov rax,1
+mov rdi,1
+mov rsi,mes
+mov rdx,13
+mov eax,60
+xor rdi,rdi
+syscall
+mes:
+db ""Hi"", 10"" could not be assembled.",0,False
+835595126663704577,2017-02-25 20:59:37,"@iRioWeber Sorry, ""global _star
+section .text
+_star:
+mov rax, 1
+mov rdi, 1
+mov rsi, mes
+mov rdx, 13
+mov eax, 60
+..."" could not be assembled.",0,False
+835572234790002689,2017-02-25 19:28:39,"@hexacosichorons Sorry, ""You're damn right it does"" could not be assembled.",0,False
+835572028765782016,2017-02-25 19:27:50,"@hexacosichorons ""lods eax,DWORD PTR ds:[esi]
+add ebp,esi
+mov al,0xb
+push %eax"" assembles to ""AD01F5B00B50""",0,False
+835571647205806088,2017-02-25 19:26:19,"@hexacosichorons Sorry, "". lods eax,DWORD PTR ds:[esi]
+add ebp,esi
+mov al,0xb
+push %eax"" could not be assembled.",0,False
+835571498698014721,2017-02-25 19:25:44,"@hexacosichorons ""lods eax,DWORD PTR ds:[esi]
+add ebp,esi
+mov al,0xb
+push %eax"" assembles to ""AD01F5B00B50""",0,False
+834860745997373445,2017-02-23 20:21:27,"@kernelator Sorry, ""continued...
+mov    0x18(%rax),%rax
+mov    0x3e8(%rax),%r10"" could not be assembled.",0,False
+834860711159406592,2017-02-23 20:21:19,"@kernelator Sorry, ""continued...
+
+mov    %rax,-0x30(%rbp)
+xor    %eax,%eax
+mov    0x58(%rdi),%rax
+and    0xfffff..."" could not be assembled.",0,False
+834860655610097666,2017-02-23 20:21:05,"@kernelator Sorry, ""continued...
+push   %r13
+push   %r12
+mov    %rdi,%r12
+push   %rbx
+sub    0x38,%rsp
+mov    %e..."" could not be assembled.",0,False
+834860574228017153,2017-02-23 20:20:46,"@kernelator Sorry, ""nopl   0x0(%rax,%rax,1) [FTRACE NOP]
+push   %rbp
+mov    %ecx,%r9d
+mov    %rsp,%rbp
+push   %r..."" could not be assembled.",0,False
+833786312389963777,2017-02-20 21:12:02,"@CheapQuickIdeas Sorry, ""An evil version of  written in Ruby, in Quenya. &amp;amp;num;botALLY"" could not be assembled.",0,False
+832790450708815873,2017-02-18 03:14:50,"@RaghavMalik27 ""jmp end
+a:
+pop ebx
+xor eax,eax
+mov [ebx+8],ebx..."" assembles to ""E9FCFFFFFF5B31C0895B0889430C8D4B088D530CB00BCD80E8E8FFFFFF""",0,False
+832101734998802432,2017-02-16 05:38:07,"@jawnv6 Sorry, ""call L0:"" could not be assembled.",0,False
+831579486302912514,2017-02-14 19:02:54,"@sizzop Sorry, "":("" could not be assembled.",0,False
+831579269121921024,2017-02-14 19:02:02,"@sizzop Sorry, ""mov dr0, rax"" could not be assembled.",0,False
+830171067733925890,2017-02-10 21:46:21,"@main____ ""popf"" assembles to ""9D""",0,False
+830125146853822465,2017-02-10 18:43:52,"@itszn13 ""add edx,DWORD PTR [ebx]; aaa"" assembles to ""031337""",2,False
+828324623133638656,2017-02-05 19:29:14,"@main____ ""lea rax, [rip]"" assembles to ""488D0500000000""",0,False
+828288990960816128,2017-02-05 17:07:38,"@oberien ""shr dil, cl"" assembles to ""40D2EF""",0,False
+828288925953302528,2017-02-05 17:07:23,"@oberien ""shr dil, 3"" assembles to ""40C0EF03""",0,False
+828288665612857345,2017-02-05 17:06:21,"@oberien ""xor dil, dil"" assembles to ""4030FF""",0,False
+828285984991219713,2017-02-05 16:55:42,"@oberien ""add bx, 4"" assembles to ""6683C304""",0,False
+828285923372761089,2017-02-05 16:55:27,"@oberien ""add ebx, 4"" assembles to ""83C304""",0,False
+828285876920778752,2017-02-05 16:55:16,"@oberien ""add bl, 4"" assembles to ""80C304""",0,False
+828264601317937152,2017-02-05 15:30:44,"@oberien ""mov [rax], ebx"" assembles to ""8918""",0,False
+828264462180311040,2017-02-05 15:30:10,"@oberien ""mov bh, 2"" assembles to ""B702""",0,False
+828264366973784066,2017-02-05 15:29:48,"@oberien ""mov [eax], bx"" assembles to ""67668918""",0,False
+828264313819394048,2017-02-05 15:29:35,"@oberien ""mov [rax], bx"" assembles to ""668918""",0,False
+828263545418739716,2017-02-05 15:26:32,"@oberien ""xor eax, edi"" assembles to ""31F8""",0,False
+828262687834566657,2017-02-05 15:23:07,"@main____ ""mov al, 0x33"" assembles to ""B033""",0,False
+828262603860344832,2017-02-05 15:22:47,"@main____ ""mov al, ah"" assembles to ""88E0""",0,False
+828262538626334720,2017-02-05 15:22:32,"@main____ ""mov al, ah"" assembles to ""88E0""",0,False
+828262228252119040,2017-02-05 15:21:18,"@main____ Sorry, ""mov al, 33h"" could not be assembled.",0,False
+828258909106356224,2017-02-05 15:08:06,"@oberien Sorry, ""and rax, ebx"" could not be assembled.",0,False
+828250367662182404,2017-02-05 14:34:10,"@oberien ""xor eax, ebx"" assembles to ""31D8""",0,False
+828250085066670081,2017-02-05 14:33:03,"@oberien ""xor rax, rbx"" assembles to ""4831D8""",0,False
+828249277923201024,2017-02-05 14:29:50,"@oberien ""lea rax, [rip]"" assembles to ""488D0500000000""",0,False
+828248241456181252,2017-02-05 14:25:43,"@oberien Sorry, ""mov rbx, rip"" could not be assembled.",0,False
+828243775067664385,2017-02-05 14:07:58,"@oberien Sorry, ""mov [rax], 32"" could not be assembled.",0,False
+828243143464218624,2017-02-05 14:05:28,"@oberien ""xor [rax], bx"" assembles to ""663118""",0,False
+828243072647565312,2017-02-05 14:05:11,"@oberien ""mov rbx, 0x3"" assembles to ""48C7C303000000""",0,False
+828242227877052416,2017-02-05 14:01:49,"@oberien ""mov [rax], bx"" assembles to ""668918""",0,False
+828242136244035585,2017-02-05 14:01:27,"@oberien ""mov [rax], bx"" assembles to ""66891D00000000""",0,False
+828241055145480192,2017-02-05 13:57:10,"@oberien ""xor eax, ebx"" assembles to ""31D8""",0,False
+828240877508296704,2017-02-05 13:56:27,"@oberien ""xor rax, rbx"" assembles to ""4831D8""",0,False
+828240762529861632,2017-02-05 13:56:00,"@oberien ""xor eax, ebx"" assembles to ""31D8""",0,False
+828240634272169988,2017-02-05 13:55:29,"@oberien ""xor rax, rdi"" assembles to ""4831F8""",0,False
+828233375240560641,2017-02-05 13:26:39,"@oberien ""jmp rax"" assembles to ""FFE0""",0,False
+828220361095467008,2017-02-05 12:34:56,"@oberien ""push rax"" assembles to ""50""",0,False
+828220309715222529,2017-02-05 12:34:44,"@oberien ""push r14"" assembles to ""4156""",0,False
+828219551456321536,2017-02-05 12:31:43,"@oberien ""mov rax, 0x12345678abcdef"" assembles to ""48B8EFCDAB7856341200""",0,False
+827138762593419267,2017-02-02 12:57:03,"@_mundek_ ""cpuid"" assembles to ""0FA2""",0,False
+825500237120798721,2017-01-29 00:26:08,"@oberien ""jmp r14"" assembles to ""41FFE6""",0,False
+825493143315431428,2017-01-28 23:57:56,"@oberien ""mov r14, 0x12345678"" assembles to ""49C7C678563412""",0,False
+825493081927610368,2017-01-28 23:57:42,"@oberien Sorry, ""mov r14, 0x12345678"" could not be assembled.",0,False
+825488402749542400,2017-01-28 23:39:06,"@oberien ""call rax"" assembles to ""FFD0""",0,False
+824948595388456960,2017-01-27 11:54:06,"@oberien ""mov rdi, 0"" assembles to ""48C7C700000000""",0,False
+824948452782141441,2017-01-27 11:53:32,"@oberien ""xor rdi, rdi"" assembles to ""4831FF""",0,False
+824935351571603456,2017-01-27 11:01:29,"@Schoyvind ""mov ax, 1"" assembles to ""66B80100""",0,False
+824935250014904320,2017-01-27 11:01:04,"@Schoyvind ""movw 1, %ax"" assembles to ""66A300000000""",0,False
+824934982468657152,2017-01-27 11:00:01,"@Schoyvind Sorry, ""mov"" could not be assembled.",0,False
+824803131376664576,2017-01-27 02:16:05,"@iximeow Sorry, ""mov ax, word [ax]"" could not be assembled.",0,False
+824803107133603841,2017-01-27 02:15:59,"@iximeow ""mov ax, word [eax]"" assembles to ""668B4002""",0,False
+823579125508177920,2017-01-23 17:12:19,"@oberien Sorry, ""mov rip, 0x123456789abc"" could not be assembled.",0,False
+823579044914532353,2017-01-23 17:12:00,"@oberien ""mov rax, 0x123456789abc"" assembles to ""48B8BC9A785634120000""",0,False
+823568320909766658,2017-01-23 16:29:23,"@oberien ""JMP 0x12345678"" assembles to ""E974563412""",0,False
+822846176609366016,2017-01-21 16:39:50,"@oberien ""syscall; ret"" assembles to ""0F05C3""",0,False
+822846045558280192,2017-01-21 16:39:19,"@oberien Sorry, """"syscall; ret"""" could not be assembled.",0,False
+821376720691404800,2017-01-17 15:20:45,"@oberien ""syscall"" assembles to ""0F05""",0,False
+820870860013797377,2017-01-16 05:50:38,"@happy_botday Sorry, ""Congratulations to  on your 3rd birthday! 🎉🍭😸 happybotday"" could not be assembled.",1,False
+819170451599527936,2017-01-11 13:13:49,"@numberstation73 Sorry, ""jmp"" could not be assembled.",0,False
+813470380799225857,2016-12-26 19:43:46,"@smsma_33 Sorry, ""Kirbstar_  لو سمحت عايزة اعمل playfair ciper by assembly code"" could not be assembled.",0,False
+813456828289925120,2016-12-26 18:49:55,"@smsma_33 Sorry, ""cdavisafc  لو سمحت محتاجة مساعدة في برنامج اسيمبلي"" could not be assembled.",0,False
+804158473512611844,2016-12-01 03:01:35,"@Kirbstar_ ""vpclmullqhqdq xmm0, xmm1, dqword [rbx]"" assembles to ""C4E37144830000000010""",0,False
+804157247882403841,2016-12-01 02:56:43,"@Kirbstar_ Sorry, ""vpgatherdq xmm1{k4},XMMWORD PTR [rax+xmm2*1]"" could not be assembled.",0,False
+804157150100619271,2016-12-01 02:56:19,"@Kirbstar_ Sorry, ""vpgatherdq xmm1{k4},XMMWORD PTR [rax+xmm2*1] DracheOffiziell"" could not be assembled.",0,False
+804155896309936128,2016-12-01 02:51:20,"@Kirbstar_ ""x86 Subscribe to DracheOffiziell"" assembles to ""86""",0,False
+804155708799406080,2016-12-01 02:50:36,"@Kirbstar_ Sorry, ""1+1"" could not be assembled.",0,False
+804062538275164160,2016-11-30 20:40:22,"@oberien ""xchg rax, rax"" assembles to ""90""",0,False
+804062387695452161,2016-11-30 20:39:46,"@oberien ""xchg eax, eax"" assembles to ""90""",0,False
+804062028549804032,2016-11-30 20:38:21,"@oberien ""nop"" assembles to ""90""",0,False
+804061900631932929,2016-11-30 20:37:50,"@oberien ""nop"" assembles to ""90""",0,False
+803994930427334656,2016-11-30 16:11:43,"@oberien ""mov rax, rdi"" assembles to ""4889F8""",0,False
+803012973795090432,2016-11-27 23:09:46,"@oberien ""mov rax, rdi"" assembles to ""4889F8""",0,False
+803012912986066944,2016-11-27 23:09:32,"@oberien Sorry, ""mox rax, rdi"" could not be assembled.",0,False
+803012699546382336,2016-11-27 23:08:41,"@oberien Sorry, ""mov rax, rdi 64"" could not be assembled.",0,False
+803009953220935680,2016-11-27 22:57:46,"@moritzuehling ""xor rax, rax"" assembles to ""4831C0""",0,False
+803009153379667969,2016-11-27 22:54:36,"@main____ ""xor eax, eax"" assembles to ""31C0""",0,False
+803009104394403840,2016-11-27 22:54:24,"@main____ Sorry, ""xor rax, rax"" could not be assembled.",0,False
+800700587578982405,2016-11-21 14:01:11,"@cozzy010459 Sorry, ""TITLE programma
+.MODEL SMALL
+.STACK
+.DATA
+.CODE
+.STARTUP
+MOV AH, 4Ch
+INT 21h
+END"" could not be assembled.",0,False
+799139172523134976,2016-11-17 06:36:40,"@cdavisafc Sorry, ""movq 0x7fffffffce92,%rbp"" could not be assembled.",1,False
+798590255184035840,2016-11-15 18:15:28,"@0xbadcode ""xor eax, eax
+add al, 3
+add ah, 7
+sub ah, al"" assembles to ""31C0040380C40728C4""",0,False
+793236742795096065,2016-10-31 23:42:31,"@cytlan ""MOV EAX,0xDEADBEEF"" assembles to ""B8EFBEADDE""",1,False
+792713813661478916,2016-10-30 13:04:35,"@cc_stoic ""INC AL"" assembles to ""FEC0""",0,False
+792713573730516992,2016-10-30 13:03:38,"@_kvngjordan ""LAHF"" assembles to ""9F""",0,False
+792713427013754882,2016-10-30 13:03:03,"@cc_stoic Sorry, ""INC AL,5"" could not be assembled.",0,False
+790126873850286080,2016-10-23 09:45:01,"@TheSubmarine Sorry, ""Encore mieux ! Si on tweet à  du code assembleur, il te répond avec le code assemblé ! ..."" could not be assembled.",0,False
+790126020930265088,2016-10-23 09:41:37,"@TheSubmarine ""mov al,1"" assembles to ""B001""",0,False
+789407427217068032,2016-10-21 10:06:11,"@eiphunt3r ""jmp eax"" assembles to ""FFE0""",0,False
+787835885702307840,2016-10-17 02:01:27,"@josh_watson ""push [rsp]"" assembles to ""FF3424""",0,False
+783684944639959040,2016-10-05 15:07:05,"@RedragonX Sorry, ""I see that people are using my  bot a lot more lol"" could not be assembled.",0,False
+783472404584620032,2016-10-05 01:02:32,"@iximeow Sorry, ""spun_off aw shucks. I was thinking more ""is there an instruction I can't tweet at "". 16 bytes i..."" could not be assembled.",0,False
+783449369672638467,2016-10-04 23:31:00,"@iximeow ""mov al, byte ptr ss:[ecx]"" assembles to ""368A01""",1,False
+783378989222129666,2016-10-04 18:51:20,"@RohitK_Singh Sorry, ""asagent7  lol"" could not be assembled.",0,False
+783325429549699072,2016-10-04 15:18:30,"@asagent7 Sorry, ""RohitK_Singh Check this :"" could not be assembled.",0,False
+783320267527491585,2016-10-04 14:57:59,"@zunzutech ""RDTSC
+MOV val1,EAX
+RDTSC
+MOV val2, EAX"" assembles to ""0F31A3000000000F31A300000000""",0,False
+777465112428965889,2016-09-18 11:11:42,"@CheapQuickIdeas Sorry, ""A bot that replies to  using Metal Gear Solid as a source and with the 🍑 emoji."" could not be assembled.",1,False
+775698471366041601,2016-09-13 14:11:42,"@CheapQuickIdeas Sorry, ""A response to  tweeting every three hundred hours, but with new iOS apps."" could not be assembled.",0,False
+773052900650127360,2016-09-06 06:59:08,"@poopnugget1225 Sorry, ""%edi movl 8(%ebp)"" could not be assembled.",0,False
+770817103825862657,2016-08-31 02:54:53,"@AdwayLee ""jne 2;"" assembles to ""0F85FEFFFFFF""",0,False
+770815779583430656,2016-08-31 02:49:37,"@AdwayLee ""mov eax, 0x01; mov ebx, 0x01"" assembles to ""B801000000BB01000000""",0,False
+770814164138921984,2016-08-31 02:43:12,"@AdwayLee ""mov eax, 0x01"" assembles to ""B801000000""",0,False
+770814086510698497,2016-08-31 02:42:53,"@AdwayLee Sorry, """"mov eax, 0x01"""" could not be assembled.",0,False
+770813876250222593,2016-08-31 02:42:03,"@AdwayLee ""inc eax"" assembles to ""40""",0,False
+770812875006935040,2016-08-31 02:38:05,"@AdwayLee ""mov eax, 1"" assembles to ""B801000000""",0,False
+767507955881304067,2016-08-21 23:45:30,"@jasperhsroasts ""push ebp; mov ebp, esp"" assembles to ""5589E5""",0,False
+767507850805538817,2016-08-21 23:45:05,"@jasperhsroasts ""push eax"" assembles to ""50""",0,False
+765549154051452928,2016-08-16 14:01:56,"@DefuseSec Sorry, ""4Dgifts there’s Redragonx’s   but it does assembly not disassembly"" could not be assembled.",0,False
+763711767134494720,2016-08-11 12:20:49,"@ot_av2 ""mov eax,0x12"" assembles to ""B812000000""",0,False
+762711443321921536,2016-08-08 18:05:53,"RT @RedragonX: I made the news! @defcon
+@IoTvillage
+https://t.co/WMec5hwtRo",4,False
+761970923687686146,2016-08-06 17:03:19,Show time! https://t.co/rmitMvSIMY,0,False
+760733318757355521,2016-08-03 07:05:31,"@cin_cinnamon ""int 0x80"" assembles to ""CD80""",0,False
+760733015525982208,2016-08-03 07:04:19,"@cin_cinnamon Sorry, ""not
+ret
+int 0x80"" could not be assembled.",0,False
+756013688071589889,2016-07-21 06:31:23,"@ifao221 ""nop"" assembles to ""90""",0,False
+756013607587045376,2016-07-21 06:31:04,"@ifao221 ""mov eax, 0"" assembles to ""B800000000""",0,False
+756013388094930944,2016-07-21 06:30:12,"@ifao221 ""xor eax, eax"" assembles to ""31C0""",0,False
+745082914031935488,2016-06-21 02:36:24,"@PatriceRoy1 Sorry, ""mattgodbolt lefticus  From French, really? (confused francophone here...)"" could not be assembled.",0,False
+745051252652974081,2016-06-21 00:30:35,"@mattgodbolt Sorry, ""lefticus  awesome! Confused Twitter: ""translate from French?"""" could not be assembled.",0,False
+745050577659437056,2016-06-21 00:27:54,"@lefticus ""JMP 0xd020"" assembles to ""E91CD00000""",0,False
+744321678965116929,2016-06-19 00:11:31,"@CheapQuickIdeas Sorry, ""A mashup of  and cheese written in Haskell, but plus glitch aesthetic ̥̥̥̥̥̥̥�..."" could not be assembled.",0,False
+743773152271032320,2016-06-17 11:51:52,"@vladh ""pop ecx
+dec edi
+push ebp
+and BYTE PTR [esi+0x55],al
+inc ebx
+dec ebx
+inc ebp
+push edx
+d..."" assembles to ""594F55204655434B4552494E4F""",0,False
+743245954476838912,2016-06-16 00:56:59,"@ClarksvilleJeff ""CLC"" assembles to ""F8""",0,False
+743245539643392001,2016-06-16 00:55:20,"@ClarksvilleJeff ""mov ax,1"" assembles to ""66B80100""",0,False
+742440685601722368,2016-06-13 19:37:07,"@RRSSMM101 Sorry, ""Ha! It works!"" could not be assembled.",0,False
+742440268285235200,2016-06-13 19:35:28,"@RRSSMM101 ""f:
+LFB0:
+xor eax, eax
+cmp rdi, rdx
+ja L4
+L3:
+add rax, rdi
+add ..."" assembles to ""6431C04839D7770D4801F84801F74839FA73F5F3C3F3C3""",0,False
+741836629023838209,2016-06-12 03:36:49,"@Cool_Sops ""JMP ESP"" assembles to ""FFE4""",0,False
+735873436237582337,2016-05-26 16:41:13,"@DevKernelBoS ""mov ebx,ecx"" assembles to ""89CB""",0,False
+732132482917761024,2016-05-16 08:56:00,"@excalliburbd Sorry, ""m1 db ""hello""
+LEA DX,m1
+mov AH,9
+int 21h"" could not be assembled.",0,False
+730413568726806529,2016-05-11 15:05:39,"@binaryheadache ""mov eax,[eax*2 + 10]"" assembles to ""8B04450A000000""",0,False
+730014996076363776,2016-05-10 12:41:52,"@BOT_Man_JL ""mov    ds:0x1003907c,eax"" assembles to ""A37C900310""",0,False
+729472184561881089,2016-05-09 00:44:56,"@DevKernelBoS ""jmp 0x08:0x10"" assembles to ""10""",0,False
+727412974172934144,2016-05-03 08:22:22,"@SilentControlz ""xor eax,eax"" assembles to ""31C0""",0,False
+720508117885300738,2016-04-14 07:04:56,"@7NIaL ""sysenter"" assembles to ""0F34""",1,False
+719722466176811014,2016-04-12 03:03:02,"@dryanwood Sorry, ""nop nop or al, 0"" could not be assembled.",0,False
+719720821724483584,2016-04-12 02:56:30,"@dryanwood ""ret"" assembles to ""C3""",0,False
+719036593730936832,2016-04-10 05:37:37,"@Cephurs ""add bl,[eax+ecx-0x1ccbfddf]"" assembles to ""029C08210234E3""",0,False
+719036488814616576,2016-04-10 05:37:12,"@Cephurs Sorry, ""add bl,[eax+ecx-0x1ccbfddf] ; math"" could not be assembled.",0,False
+719036266906587136,2016-04-10 05:36:19,"@Cephurs ""arpl [ebx+0x34],sp"" assembles to ""636334""",0,False
+718892644387155968,2016-04-09 20:05:37,"@charries96 ""JMP EAX"" assembles to ""FFE0""",0,False
+718793286941548544,2016-04-09 13:30:48,"@dryanwood ""add [eax], al"" assembles to """"",0,False
+718645448324554752,2016-04-09 03:43:21,"@Cephurs ""mov ebp,esp"" assembles to ""89E5""",0,False
+718645349649358848,2016-04-09 03:42:57,"@Cephurs ""push ebp"" assembles to ""55""",0,False
+718645248470171648,2016-04-09 03:42:33,"@Cephurs Sorry, ""push ebp
+mov ebp,esp
+add esp"" could not be assembled.",0,False
+718641662910595072,2016-04-09 03:28:18,"@Cephurs Sorry, ""558BEC81C400"" could not be assembled.",0,False
+718641223645458432,2016-04-09 03:26:34,"@Cephurs Sorry, ""55 8B EC 81 C4 00 F8 FF FF"" could not be assembled.",0,False
+718641086244065281,2016-04-09 03:26:01,"@Cephurs Sorry, ""55 8B EC 81 C4 00 F8 FF FF 53 56 57 53 56 57 FC 31 D2 64 8B 52 30 8B 52 0C 8B 52 14 8B 72 28 6A..."" could not be assembled.",0,False
+717454815077511170,2016-04-05 20:52:12,"@vyper_hacks ""jmp 0x0"" assembles to ""E9FCFFFFFF""",0,False
+716178663625125888,2016-04-02 08:21:14,"@dryanwood ""ret"" assembles to ""C3""",0,False
+715197213257961472,2016-03-30 15:21:18,"@lazynickname Sorry, ""lock cmpxchg8b ax"" could not be assembled.",0,False
+714723025241972737,2016-03-29 07:57:02,"@dryanwood ""pushad
+jmp 0x67c4a0
+nop
+nop"" assembles to ""60E99CC467009090""",0,False
+713205056888291329,2016-03-25 03:25:10,"@qinfengling ""nop"" assembles to ""90""",0,False
+710153445072900096,2016-03-16 17:19:09,"@GranPC Sorry, ""mov rsp,rbp
+pop rbp
+retn"" could not be assembled.",0,False
+710153383374675968,2016-03-16 17:18:55,"@GranPC Sorry, ""mov rsp,rbp
+pop rbp
+retn"" could not be assembled.",0,False
+709718400646385665,2016-03-15 12:30:27,"@EzerEli05 Sorry, ""call 0x1122334455667788"" could not be assembled.",0,False
+709718330949636096,2016-03-15 12:30:10,"@EzerEli05 ""call 0x11223344"" assembles to ""E840332211""",0,False
+709718070382690306,2016-03-15 12:29:08,"@EzerEli05 ""call rax"" assembles to ""E8FCFFFFFF""",0,False
+709718048299683840,2016-03-15 12:29:03,"@EzerEli05 ""call eax"" assembles to ""FFD0""",0,False
+709712254875410432,2016-03-15 12:06:02,"@EzerEli05 ""jmp 0x12341234"" assembles to ""E930123412""",0,False
+709712238161043458,2016-03-15 12:05:58,"@EzerEli05 ""pop ebx"" assembles to ""5B""",0,False
+709712201481920512,2016-03-15 12:05:49,"@EzerEli05 ""popad"" assembles to ""61""",0,False
+709712184545247233,2016-03-15 12:05:45,"@EzerEli05 ""backTo32:"" assembles to ""86""",0,False
+709712163846426625,2016-03-15 12:05:40,"@EzerEli05 Sorry, ""jmp far backTo32"" could not be assembled.",0,False
+709712099967168513,2016-03-15 12:05:25,"@EzerEli05 Sorry, ""call far 0x1234123412341234"" could not be assembled.",0,False
+709712028018016256,2016-03-15 12:05:07,"@EzerEli05 Sorry, ""movzx rcx, ebx"" could not be assembled.",0,False
+709711906047709184,2016-03-15 12:04:38,"@EzerEli05 ""pushad"" assembles to ""60""",0,False
+709711580305432576,2016-03-15 12:03:21,"@EzerEli05 ""mov ebx, [esp]"" assembles to ""8B1C24""",0,False
+709711506670276608,2016-03-15 12:03:03,"@EzerEli05 Sorry, ""push ebx
+mov ebx, [esp]
+pushad
+movzx rcx, ebx
+call far 0x1234123412341234
+jmp far backTo32
+
+b..."" could not be assembled.",0,False
+709711374117634049,2016-03-15 12:02:32,"@EzerEli05 ""push ebx"" assembles to ""53""",0,False
+709679715762769920,2016-03-15 09:56:44,"@NikeSlayer_ ""push rbp
+mov rbp, rsp
+mov rsp, rbp
+pop rbp"" assembles to ""554889E54889EC5D""",0,False

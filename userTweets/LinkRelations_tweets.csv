@@ -1,0 +1,81 @@
+id,created_at,text,retweet_count,tweet.retweeted
+794509508110262272,2016-11-04 12:00:02,"""restconf"" (https://t.co/CfXliI0WvZ) Identifies the root of RESTCONF…",0,False
+764431312924971008,2016-08-13 12:00:02,"""convertedFrom"" (https://t.co/N6y2WERByB) The document linked to was later con…",0,False
+722756710553616388,2016-04-20 12:00:02,"""webmention"" (https://t.co/tdqqwhYIFF) Identifies a target URI that supports the Webmention…",0,False
+704637403252719616,2016-03-01 12:00:23,"""prerender"" (https://t.co/gd8t3Lr3QG) Used to identify a resource that might be requir…",0,False
+704637360575655936,2016-03-01 12:00:12,"""preconnect"" (https://t.co/gd8t3Lr3QG) Used to indicate an origin that will be used to…",0,False
+704637317584039936,2016-03-01 12:00:02,"""dns-prefetch"" (https://t.co/gd8t3Lr3QG) Used to indicate an origin that will be used …",1,False
+695577620939800578,2016-02-05 12:00:02,"""pingback"" (https://t.co/Id0yOzKFGE) Gives the address of the pingback resource …",1,False
+690866579261620224,2016-01-23 12:00:02,"""preload"" (https://t.co/lESybYnc48) Refers to a resource that should be loaded early in the pr…",1,False
+679270163636600832,2015-12-22 12:00:01,"""blocked-by"" (https://t.co/VF96XNmnld) Identifies t…",0,False
+558232621394583552,2015-01-22 12:00:03,"""derivedfrom"" (draft-hoffman-xml2rfc) The target IRI points to a resource from which this material w…",2,False
+443109606370197504,2014-03-10 19:42:17,"""working-copy-of"" (http://t.co/s7NUCNrHJY) Points to the versioned resource from which t…",0,False
+443109563542167552,2014-03-10 19:42:07,"""working-copy"" (http://t.co/s7NUCNrHJY) Points to a working copy for this resource.",0,False
+443109520852516865,2014-03-10 19:41:57,"""via"" (http://t.co/tzAaUEJwy9) Identifies a resource that is the source of the informati…",0,False
+443109478146125824,2014-03-10 19:41:46,"""version-history"" (http://t.co/s7NUCNrHJY) Points to a resource containing the version h…",0,False
+443109435515224064,2014-03-10 19:41:36,"""up"" (http://t.co/7QeoQDe95c) Refers to a parent document in a hierarchy of documents.",0,False
+443109392905302016,2014-03-10 19:41:26,"""type"" (http://t.co/dtFpmH5Sl2) Refers to a resource identifying the abstract semantic t…",0,False
+443109350198882304,2014-03-10 19:41:16,"""timemap"" (http://t.co/2raVCidjDv) The Target IRI points to a TimeMap for an Original Re…",0,False
+443109307328905216,2014-03-10 19:41:06,"""timegate"" (http://t.co/2raVCidjDv) The Target IRI points to a TimeGate for an Original …",0,False
+443109264605736960,2014-03-10 19:40:55,"""terms-of-service"" (http://t.co/dtFpmH5Sl2) Refers to the terms of service associated wi…",0,False
+443109221765115905,2014-03-10 19:40:45,"""tag"" (http://t.co/zyAXg9SlBa) Gives a tag (identified by the given add…",0,False
+443109178840608768,2014-03-10 19:40:35,"""successor-version"" (http://t.co/s7NUCNrHJY) Points to a resource containing the success…",0,False
+443109136188731392,2014-03-10 19:40:25,"""subsection"" (http://t.co/BtEuNtrPuj) Refers to a resource serving as a subs…",0,False
+443109092433747969,2014-03-10 19:40:14,"""stylesheet"" (http://t.co/VORuZ1mp3N) Refers to a stylesheet.",0,False
+443109049836376064,2014-03-10 19:40:04,"""start"" (http://t.co/BtEuNtrPuj) Refers to the first resource in a collectio…",0,False
+443109007230631936,2014-03-10 19:39:54,"""service"" (http://t.co/JHkRKerEK8) Indicates a URI that can be used to retrieve a servic…",0,False
+443108964184506369,2014-03-10 19:39:44,"""self"" (http://t.co/tzAaUEJwy9) Conveys an identifier for the link's context.",0,False
+443108921578778624,2014-03-10 19:39:34,"""section"" (http://t.co/BtEuNtrPuj) Refers to a section in a collection of re…",0,False
+443108878926876672,2014-03-10 19:39:23,"""search"" (http://t.co/a5IJPKN8Ht) Refers to a resource that can be …",0,False
+443108836245659648,2014-03-10 19:39:13,"""replies"" (http://t.co/qsbCNvidWr) Identifies a resource that is a reply to the context …",0,False
+443108793656688640,2014-03-10 19:39:03,"""related"" (http://t.co/tzAaUEJwy9) Identifies a related resource.",0,False
+443108750946095104,2014-03-10 19:38:53,"""profile"" (http://t.co/KFiSV2WLu2) Identifying that a resource representation conforms t…",0,False
+443108708185165824,2014-03-10 19:38:43,"""privacy-policy"" (http://t.co/dtFpmH5Sl2) Refers to a privacy policy associated with the…",0,False
+443108665420046336,2014-03-10 19:38:33,"""previous"" (http://t.co/BtEuNtrPuj) Refers to the previous resource in an or…",0,False
+443108622742986753,2014-03-10 19:38:22,"""preview"" (http://t.co/dtFpmH5Sl2) Refers to a resource that provides a preview of the l…",0,False
+443108580170809344,2014-03-10 19:38:12,"""prev-archive"" (http://t.co/zBfKMnBFr6) Refers to the immediately preceding archive reso…",0,False
+443108537305034752,2014-03-10 19:38:02,"""prev"" (http://t.co/OWibL1PnkA) Indicates that the link's context is a…",0,False
+443108494594437120,2014-03-10 19:37:52,"""prefetch"" (http://t.co/leIeWB0sEP) Indicates that the link target…",0,False
+443108451753787393,2014-03-10 19:37:42,"""predecessor-version"" (http://t.co/s7NUCNrHJY) Points to a resource containing the prede…",0,False
+443108409106112512,2014-03-10 19:37:31,"""payment"" (http://t.co/7QeoQDe95c) Indicates a resource where payment is accepted.",0,False
+443108366353567744,2014-03-10 19:37:21,"""original"" (http://t.co/2raVCidjDv) The Target IRI points to an Original Resource.",0,False
+443108323496189952,2014-03-10 19:37:11,"""noreferrer"" (http://t.co/7tJM3YzDns) Indicates that no referrer…",0,False
+443108280504578048,2014-03-10 19:37:01,"""nofollow"" (http://t.co/XLULUR0vhO) Indicates that the context’s o…",1,False
+443108237890433024,2014-03-10 19:36:51,"""next-archive"" (http://t.co/zBfKMnBFr6) Refers to the immediately following archive reso…",0,False
+443108195129491456,2014-03-10 19:36:40,"""next"" (http://t.co/FzJoLFAgoL) Indicates that the link's context is a…",0,False
+443108152339206144,2014-03-10 19:36:30,"""monitor-group"" (http://t.co/wM8OhhldTT) Refers to a resource that can be used to monito…",0,False
+443108109523771393,2014-03-10 19:36:20,"""monitor"" (http://t.co/wM8OhhldTT) Refers to a resource that can be used to monitor chan…",0,False
+443108066582867968,2014-03-10 19:36:10,"""memento"" (http://t.co/C1L07cMBFz) The Target IRI points to a Memento, a fixed resource …",0,False
+443108023536324608,2014-03-10 19:36:00,"""lrdd"" (http://t.co/uaod2RbzSO) Refers to further information about the link's context, …",0,False
+443107980817350656,2014-03-10 19:35:49,"""license"" (http://t.co/8tHSdEcDfc) Refers to a license associated with this context.",0,False
+443107937947357184,2014-03-10 19:35:39,"""latest-version"" (http://t.co/s7NUCNrHJY) Points to a resource containing the latest (e.…",0,False
+443107894951555072,2014-03-10 19:35:29,"""last"" (http://t.co/7QeoQDe95c) An IRI that refers to the furthest following resource in…",0,False
+443107852199026688,2014-03-10 19:35:19,"""item"" (http://t.co/RTKD1wQpNH) The target IRI points to a resource that is a member of …",0,False
+443107809505193984,2014-03-10 19:35:08,"""index"" (http://t.co/BtEuNtrPuj) Refers to an index.",0,False
+443107766748459008,2014-03-10 19:34:58,"""icon"" (http://t.co/Lr6s44LjDm) Refers to an icon representing the lin…",0,False
+443107723937185792,2014-03-10 19:34:48,"""hub"" (http://t.co/3FZsMSxtOn) Refers to a hub that enables registration for notificatio…",0,False
+443107681096568832,2014-03-10 19:34:38,"""hosts"" (http://t.co/6s33Q0Sicz) Refers to a resource hosted by the server indicated by …",0,False
+443107638335635456,2014-03-10 19:34:28,"""help"" (http://t.co/YhZk8o5DL9) Refers to context-sensitive help.",0,False
+443107595738304512,2014-03-10 19:34:18,"""glossary"" (http://t.co/BtEuNtrPuj) Refers to a glossary of terms.",0,False
+443107552960606209,2014-03-10 19:34:07,"""first"" (http://t.co/7QeoQDe95c) An IRI that refers to the furthest preceding resource i…",0,False
+443107510182887424,2014-03-10 19:33:57,"""enclosure"" (http://t.co/tzAaUEJwy9) Identifies a related resource that is potentially l…",0,False
+443107467577143296,2014-03-10 19:33:47,"""edit-media"" (http://t.co/JHkRKerEK8) Refers to a resource that can be used to edit medi…",0,False
+443107424229023744,2014-03-10 19:33:37,"""edit-form"" (http://t.co/fFklMxIlEU) The target IRI points to a resource where a submiss…",0,False
+443107381375815680,2014-03-10 19:33:26,"""edit"" (http://t.co/JHkRKerEK8) Refers to a resource that can be used to edit the link's…",0,False
+443107338744897536,2014-03-10 19:33:16,"""duplicate"" (http://t.co/OMugus0PVE) Refers to a resource whose available representation…",0,False
+443107295992348672,2014-03-10 19:33:06,"""disclosure"" (http://t.co/Iztys2K6ZH) Refers to a list of patent disclosures made with r…",0,False
+443107253239832576,2014-03-10 19:32:56,"""describes"" (http://t.co/YJUdgLucw5) The relationship A 'describes' B asserts that resou…",0,False
+443107210399199232,2014-03-10 19:32:46,"""describedby"" (http://t.co/eAUgIoSLot) Refers to a resource providing informa…",0,False
+443107167445323776,2014-03-10 19:32:35,"""current"" (http://t.co/zBfKMnBFr6) Refers to a resource containing the most recent item(…",0,False
+443107124797640704,2014-03-10 19:32:25,"""create-form"" (http://t.co/fFklMxIlEU) The target IRI points to a resource where a submi…",0,False
+443107081915080704,2014-03-10 19:32:15,"""copyright"" (http://t.co/BtEuNtrPuj) Refers to a copyright statement that ap…",0,False
+443107039271591937,2014-03-10 19:32:05,"""contents"" (http://t.co/BtEuNtrPuj) Refers to a table of contents.",0,False
+443106996682641408,2014-03-10 19:31:55,"""collection"" (http://t.co/RTKD1wQpNH) The target IRI points to a resource which represen…",0,False
+443106954034962432,2014-03-10 19:31:45,"""chapter"" (http://t.co/BtEuNtrPuj) Refers to a chapter in a collection of re…",0,False
+443106911295000576,2014-03-10 19:31:34,"""canonical"" (http://t.co/URol4dYN9R) Designates the preferred version of a resource (the…",0,False
+443106868617949184,2014-03-10 19:31:24,"""bookmark"" (http://t.co/xtXKOh4QmI) Gives a permanent link to use …",0,False
+443106825982840832,2014-03-10 19:31:14,"""author"" (http://t.co/ouVAmKDgkA) Refers to the context's author.",0,False
+443106783284834304,2014-03-10 19:31:04,"""archives"" (http://t.co/4PKasZuYrQ) Refers to a collect…",0,False
+443106740628774912,2014-03-10 19:30:54,"""appendix"" (http://t.co/BtEuNtrPuj) Refers to an appendix.",0,False
+443106697842675712,2014-03-10 19:30:43,"""alternate"" (http://t.co/G4G9wE7ttN) Refers to a substitute for t…",0,False
+443106655186608128,2014-03-10 19:30:33,"""about"" (http://t.co/dtFpmH5Sl2) Refers to a resource that is the subject of the link's …",0,False

@@ -1,0 +1,220 @@
+id,created_at,text,retweet_count,tweet.retweeted
+850085568478302208,2017-04-06 20:39:28,"@RobinClowers @bionhart action creators I mean. I'm leaning on flow enums instead of constants for action ""names"".",0,False
+850066406271877120,2017-04-06 19:23:19,@bionhart @RobinClowers What about structure? I am currently keeping reducer and getXX together in foo/index.js wit… https://t.co/IWWDAyIWUa,0,False
+850045155537178624,2017-04-06 17:58:52,@RobinClowers (as distinct from a HoC function or something that does renderChildrenWithProps and doesn't know its child component types),0,False
+850044965564448772,2017-04-06 17:58:07,"@RobinClowers ""container"" component is this case is the thing that does fetchXXX in componentWillMount and knows wh… https://t.co/oMkNgfm95S",0,False
+850037393805549568,2017-04-06 17:28:02,@RobinClowers What sort of directory structure are you using? And do you create HoCs for get/fetch combos?,0,False
+850016491395088384,2017-04-06 16:04:58,Also redux-related - thoughts on creating wrapper component w/ getXX and do fetchXX in componentWillMount if not present? Always? Sometimes?,0,False
+850014150168166402,2017-04-06 15:55:40,Redux users: do you differentiate between GET/fetchXXX actions that don't mutate server state and the actions that do? How so?,0,False
+849308587319066625,2017-04-04 17:12:01,@thomaswilburn the band Mastodon has a new record out and I was really confused by some of the mentions until learning about this.,0,False
+849256879402266624,2017-04-04 13:46:33,@adymitruk it sounds like their workload is CPU-bound (parse; verify; format; send) -- hard to scale in node.,0,False
+848334569757483009,2017-04-02 00:41:37,Car2go really has their shit together.,0,False
+848246162138083328,2017-04-01 18:50:19,@arbeck @mattoak which line? I almost never see it on the D. I usually take one of the faster lines during commute times though.,0,False
+847976301998727168,2017-04-01 00:57:59,@mattoak I have seen fare enforcement 3 times total on rapid rides,0,False
+847506585446268929,2017-03-30 17:51:30,@bionhart yeah I have only used flow in anger but @aaronjensen has some opinions (see our earlier discussion),0,False
+847486511545147394,2017-03-30 16:31:44,@aaronjensen ah right. I was considering that lodash auto-optimizing thing but it seems as easy to just go through and fix the imports.,0,False
+847485881128632321,2017-03-30 16:29:14,@aaronjensen why?,0,False
+847485668691369984,2017-03-30 16:28:23,@aaronjensen I like the lego-like nature of babel vs monolithic TS thing but might have a different opinion in a te… https://t.co/XMVJbIo8O9,0,False
+847485041689083904,2017-03-30 16:25:54,@aaronjensen ah ok. I'm still amazed at the babel magical-prop-types-from-flow-type thing even if it's an utter hack.,0,False
+847484508744040450,2017-03-30 16:23:47,@aaronjensen interesting... what is the use case?,0,False
+847484250001522689,2017-03-30 16:22:45,@aaronjensen Oh that does look nice and terse. One of my flow projects does a lot of data-pipeline stuff; would be useful.,0,False
+847483835088486402,2017-03-30 16:21:06,"@aaronjensen OTOH I've had to unsafely cast or introduce mutability in cases of Object.assign({}, ...) or similar with flow",0,False
+847483498885554177,2017-03-30 16:19:46,"@aaronjensen If flow fixed the two-locations-per-error thing so the call location was the primary one, it would rea… https://t.co/ytpRhNQzjK",0,False
+847482911506825216,2017-03-30 16:17:26,"@aaronjensen I would not mind an all-javascript solution. Other than that, what are your thoughts so far?",0,False
+847482601228992512,2017-03-30 16:16:12,#flowtype thoughts: I've tried different strategies for typing redux(-thunk) actions and they all are kinda crap,0,False
+847482181811191808,2017-03-30 16:14:32,"#flowtype thoughts: In retrospect, I might have opted for babel-register rather than a static file build for node-hosted flow app.",0,False
+847481897672335360,2017-03-30 16:13:24,#flowtype thoughts: big thanks to @aaronjensen for the early help. Probably would have given up without it.,0,False
+847481756886351872,2017-03-30 16:12:50,#flowtype thoughts: flow-typed definitions are a mixed bag. Good idea but confusing to work with.,0,False
+847481484172644352,2017-03-30 16:11:45,#flowtype thoughts: tooling is important and much of it is very early days. Tried VS Code but ended up back in vim.,0,False
+847480959461072896,2017-03-30 16:09:40,"#flowtype thoughts: The body of online documentation and discussion ranges from confusing to outdated to useful (expected of new tech, TBH).",0,False
+847480606095065088,2017-03-30 16:08:16,#flowtype thoughts: there is some friction to strictly segregating interfaces in javascript. Adding a type system can really help with that.,0,False
+847480334404931584,2017-03-30 16:07:11,#flowtype thoughts: It has been really useful to me in places with many in-process transformations. Less so at process seams.,0,False
+847132962248318977,2017-03-29 17:06:51,RT @Sickayduh: Man photos himself every month since Inauguration Day https://t.co/rwmp08tFep,9917,False
+846774682539835392,2017-03-28 17:23:11,@jzonedonttweet @KoolntheGngLIVE Eddie Hazel?,0,False
+845484014265745409,2017-03-25 03:54:31,@ijoyce why?,0,False
+845482309490958337,2017-03-25 03:47:45,"RT @jaboukie: me: is extra cheese free
+chipotle employee: yes
+me: can i get extra cheese
+chipotle employee: yes
+me, turning to camera: http…",109129,False
+845352352387248128,2017-03-24 19:11:21,"RT @KaivanShroff: Turns out ""but Benghazi"" isn't actually a comprehensive health insurance plan. #KillTheBill",722,False
+845287149347885059,2017-03-24 14:52:15,@WayStyles yeah my thinking is just use react or one of its lighter clones and only bring in the other more frameworky stuff as you need it.,0,False
+844739190067642369,2017-03-23 02:34:52,@kthorjensen you ain't skeetin duke,0,False
+844352508868767744,2017-03-22 00:58:20,100% https://t.co/iMpNCc7ixl,0,False
+844266110576840704,2017-03-21 19:15:01,"@mamossman @simonwjohns It helps carriers who have other hubs in the region, including US-based ones (via operated flights and codeshares).",0,False
+844255855541342209,2017-03-21 18:34:16,@simonwjohns it's a calculated attempt to get business travelers to switch to USA carriers.,0,False
+842121451805138948,2017-03-15 21:12:54,"@raganwald that is music for everyone, ever.",0,False
+841299300655153154,2017-03-13 14:45:58,"RT @guardiannews: Teachers must ditch 'neuromyth' of learning styles, say scientists https://t.co/lWt0QDslW7",27,False
+840612430220673024,2017-03-11 17:16:35,RT @AoDespair: Fucking Giuliani. Guy will just not take a hint. https://t.co/UgTmBnMl96,177,False
+840011219935219712,2017-03-10 01:27:36,@garybernhardt @shun_geki_satsu ah ok that seems achievable,0,False
+840009006705868800,2017-03-10 01:18:48,"@garybernhardt @shun_geki_satsu are you expecting -80dB? That seems amazing without like, actual construction.",0,False
+838892078675312640,2017-03-06 23:20:32,RT @cmpriest: Literally no self-employed person I know overlooked this. https://t.co/pegC6df9gR,2360,False
+838877907191619584,2017-03-06 22:24:13,@socialretard have you listened to this? https://t.co/J4WYWWcCh8,0,False
+838813053860773890,2017-03-06 18:06:31,"RT @HistoryLink: #OnThisDay in 1977, the Ramones had their Seattle debut in - of all places - the Georgian Room in the Olympic Hotel. https…",8,False
+837390688157384704,2017-03-02 19:54:32,RT @arthur_affect: Yo your husband said he wanted to auction off half the national parks to developers https://t.co/7OgwnKAbQA,48,False
+836764790995365888,2017-03-01 02:27:27,RT @FiveThirtyEight: Immigrants (including undocumented immigrants) commit crimes at lower rates than native-born Americans: https://t.co/P…,846,False
+836763927186821120,2017-03-01 02:24:01,@Max_Fisher 1. RTJ2 2. RTJ1 3. RTJ3,0,False
+836761117963640834,2017-03-01 02:12:51,@muchrejoicing anytime he doesn't sound totally deranged it's TelePrompTer time. Also some of the times he does sound deranged.,0,False
+836760870994620417,2017-03-01 02:11:52,@Max_Fisher I might put Royal Scam #1 though,0,False
+836760709732052992,2017-03-01 02:11:14,@Max_Fisher the top 5 are all excellent,0,False
+835313893077471232,2017-02-25 02:22:06,@adamskt it is something stereo or phase related that I can't put my finger on.,0,False
+835306580690100224,2017-02-25 01:53:02,"Does it seem like there is something not quite right about Spotify's audio quality, even on highest setting and saved locally?",0,False
+835168602319798273,2017-02-24 16:44:46,RT @Shteyngart: The problem with trying to write satire in 2017. https://t.co/jq7IgzWNuW,887,False
+834952275369963520,2017-02-24 02:25:09,@AaronCampeau @SeaTimesOpinion haven't schadenfreuded this hard since Durant gave OKC the Felicia.,0,False
+834888625120681984,2017-02-23 22:12:14,"Uh, ok? https://t.co/xKgrdaVVdk",0,False
+834786422653456384,2017-02-23 15:26:07,"RT @geeksam: A couple days late, but in light of the latest story about sexist bullshit in tech, your regular reminder: https://t.co/dIPp7y…",811,False
+834538254061838337,2017-02-22 22:59:59,"@NotMyself if you can't change your org, change your org",0,False
+832405118364422144,2017-02-17 01:43:40,RT @JulieDiCaro: When you realize halfway through mansplaining that you have zero idea what you're talking about https://t.co/babgA85tMU,213,False
+832041942909284353,2017-02-16 01:40:32,"RT @brad_evans3: Despite the stupid ass MLS player acquisition mechanism, I'd never go to a rival team.",254,False
+831983325489213440,2017-02-15 21:47:36,"I am mostly decently happy with docker but the whole occasional ""Fuck it; `rm -rf /var/lib/docker`"" maintenance is, uh, less than optimal.",0,False
+831700413032304641,2017-02-15 03:03:25,"Can you give an example of this ""deal making""? ""One time Russia had compromising video of ME but I got THEM to rig the election so I won!""",1,False
+829871223177752577,2017-02-10 01:54:52,"@AaronCampeau I subscribe to the ""cognitive degeneration"" theory",0,False
+828485403690688512,2017-02-06 06:08:07,RT @AriLiljenwall: These are polarizing times we live in but if there's an objective truth we can all agree on I think it's that soccer is…,10,False
+828291513046036480,2017-02-05 17:17:40,RT @BrandyLJensen: President Reviews Blood Meridian https://t.co/U0rSFWQ61g,1213,False
+826287977756110848,2017-01-31 04:36:20,@djfrane dope.,0,False
+825523099240062977,2017-01-29 01:56:58,"RT @Ibrahim_M_: RT if you've ever met a Syrian, Iranian, Somali, Turkish, Iraqi, Sudanese or Yemeni person &amp; they weren't detrimental to yo…",69504,False
+825090360854450176,2017-01-27 21:17:26,@andrew_sather I'm with you on that. It's just that there is no more plausible explanation for his behavior than degraded cognitive ability.,0,False
+825083119111856128,2017-01-27 20:48:39,"@andrew_sather I'm thinking ""sick"", not ""stupid"".",0,False
+824303331778535424,2017-01-25 17:10:03,@hyrmn Fiction: The Water Knife,0,False
+823760302810333184,2017-01-24 05:12:15,@brianleroux duke nukem forever of language features,0,False
+823548343330582529,2017-01-23 15:10:00,@dougcole that city is the best,0,False
+822472239194853377,2017-01-20 15:53:57,RT @skinny412: who wore it better https://t.co/L4nG5p7Osb,9,False
+822188644052176897,2017-01-19 21:07:02,"RT @colinjones: 3 Doors Down Tour
+
+1. Trump Inauguration
+2. Strawberry Festival
+3. Casino
+4. Casino https://t.co/AUxkosfnrk",322,False
+821160261889335296,2017-01-17 01:00:37,@socialretard ah fuck this dry January shit,0,False
+821012298655416320,2017-01-16 15:12:40,"RT @ClintSmithIII: Annual reminder that, per Gallup polls in 1966, 63% of Americans didn't approve of MLK. Many thought he was too radical…",1989,False
+820675571336085504,2017-01-15 16:54:38,"RT @thomaswilburn: Imagine the NYT meeting where editors said ""who really deserves a voice right now? I know: more white Trump voters."" htt…",6,False
+819784292943310849,2017-01-13 05:53:00,@bedirthan @MitchB425 uh how frequently does this occur in a non-Sounders setting?,0,False
+819783816424230913,2017-01-13 05:51:07,"@bionhart the thing I like is that I could implement redux myself if I needed to... the design is the thing, very simple and appropriate.",0,False
+819780188988768257,2017-01-13 05:36:42,RT @ajplus: Journalist @xeni is tweeting about her struggles with insurance when she was diagnosed with cancer. She says Obamacare saved he…,1435,False
+819779580357525504,2017-01-13 05:34:17,So late to the party on this but I really like the react+redux combo.,0,False
+818853671756709888,2017-01-10 16:15:03,"@adymitruk what ? I just checked our largest repo (100 packages betweens deps and dev deps, using npm v2) and it's 432MB, incl. dev deps.",0,False
+816891923520622593,2017-01-05 06:19:46,@garybernhardt perhaps one of the greatest triumphs in the history of naming things,0,False
+816736265768935424,2017-01-04 20:01:14,@muffinresearch Thanks for the credit card SVGs.,0,False
+816720303233449984,2017-01-04 18:57:48,@kellabyte typically companies use multiple bank accounts and only fund the payables one with enough to cover the outgoing,0,False
+816692597288644608,2017-01-04 17:07:43,@jeremydmiller third option: don't test them,0,False
+816674783723069440,2017-01-04 15:56:56,RT @jzonedonttweet: The latest in my @RBMA drummer interview series is with Tower of Power's supremely funky David Garibaldi (@DGotTOP) htt…,19,False
+816456224954662912,2017-01-04 01:28:27,@garybernhardt @NotMyself it's hard not to focus on how good FO4 *could* have been though,0,False
+815104221607444480,2016-12-31 07:56:04,@AaronCampeau *from* Seattle?,0,False
+813871366885642240,2016-12-27 22:17:09,Want to learn git? Don't use `git pull` or any other command that combines remote-&gt;repo state change with changes to/from HEAD.,0,False
+813586133019869185,2016-12-27 03:23:44,"@jsdnxx ok on first two, but portfolio?",0,False
+809843478662262787,2016-12-16 19:31:46,"@lixelart it's ""libraries"" that differ per customer so the icon ribbon left-nav thing probably won't work",0,False
+809842778754543616,2016-12-16 19:28:59,@lixelart litmus kind of does it but their top-level category is fixed whereas our is variable per customer,0,False
+809842101408043008,2016-12-16 19:26:17,"@lixelart  I can't think of a great example of this online, but it's the direction I'm thinking.",0,False
+809814866017951745,2016-12-16 17:38:04,UX aficionados: Do you have favorite online web app examples of multi-level left-to-right nav layout that works well? @lixelart @lauraklein,0,False
+809777664101748737,2016-12-16 15:10:14,@socialretard me too,0,False
+808344296994672641,2016-12-12 16:14:33,RT @SopanDeb: It literally came up during a debate. https://t.co/dextpmQcha,1676,False
+807823304723546113,2016-12-11 05:44:19,RT @aviel: This Sounders win is extra special because this is probably the last MLS cup.,1,False
+807768588564066304,2016-12-11 02:06:53,@ryanisinallofus Roldan will be USMNT soon,0,False
+807343104286081024,2016-12-09 21:56:10,@ijoyce It's unfathomable; just use divvy and the keyboard,0,False
+806542768008884224,2016-12-07 16:55:55,@jonmadison would love to hear some stuff,0,False
+806370597789900801,2016-12-07 05:31:46,Twitter in one screenshot. https://t.co/ICzTR1tuoT,0,False
+806369971643228161,2016-12-07 05:29:17,@MattBruenig if only we could trace this back to some macroeconomic domestic fiscal policy...,0,False
+806347914930814976,2016-12-07 04:01:38,"RT @camarleigh: Hey, I'm looking for something new! Full stack, ruby, js, c#? International/remote 
+teams welcome!  https://t.co/QfR66kgNPl…",51,False
+805427683815366656,2016-12-04 15:04:58,@lorainekv the screen adaptations don't feature the BG nearly as much as the books. It's a shame.,0,False
+804750638147989508,2016-12-02 18:14:38,is there a good react popover component that is 1) maintained and 2) not part of a heavier framework?,0,False
+804421142488367104,2016-12-01 20:25:20,This is poor math. https://t.co/tSyjJeTwXi,0,False
+804139778165747712,2016-12-01 01:47:17,@mattoak exact type of attacker we have problems with.,0,False
+804099812522008576,2016-11-30 23:08:29,"RT @SeanMcElwee: In every state, a majority of Americans support raising taxes on the rich ($250,000+). https://t.co/ZVN5Ulqi07 https://t.c…",587,False
+803982139029012480,2016-11-30 15:20:53,RT @alecperkins: Remember how you could mail supplies to armed white terrorists who occupied a federal building? https://t.co/wmUe3JjLXj,16709,False
+803778920562630656,2016-11-30 01:53:22,"@datawitch000 still awful, regardless -- and actual numbers are many times greater",0,False
+803778583759962112,2016-11-30 01:52:02,@datawitch000 my takeaway is that hate crimes are concentrated in the states that have people in them,0,False
+803649348420530176,2016-11-29 17:18:30,Unloop is hiring a programming teacher. Help incarcerated people learn programming skills. Please share. https://t.co/jEmzmwoYmq,18,False
+803064352265760768,2016-11-28 02:33:56,RT @AaronCampeau: If Jesus was back among us it would literally signal the end of the world have you ever read the bible https://t.co/sQ1gO…,4,False
+802905664624308224,2016-11-27 16:03:22,RT @lauraolin: it is strange to know for sure that you are more qualified than the next president of the united states to be president of t…,480,False
+802679455579709440,2016-11-27 01:04:29,The Americans remake in 30 years (set in 2016) is gonna be SO FUCKIN LIT,0,False
+801939018703212545,2016-11-25 00:02:16,I would rather troubleshoot VB6 code than deal with fucking timezones,0,False
+801891014180904960,2016-11-24 20:51:30,"@rhomieux yeah. As opposed to being on the other end of that agreement, which is what one expects with a name like mine.",0,False
+801879521095917569,2016-11-24 20:05:50,@TrevorBramble metzgers has them ... they have a few other cities too.,0,False
+801879366779080704,2016-11-24 20:05:13,@rhomieux but growing up we really just ate turkey. Pretty much considered TG a bunch of made up BS since at least high school days.,0,False
+801878785234649088,2016-11-24 20:02:55,"@rhomieux also found an ancestor whose name was on the indenturer side of multiple writs of indenture, which was surprising.",0,False
+801878398943399940,2016-11-24 20:01:23,"@rhomieux almost totally opposite experience, growing up in Seattle. Only found out in the past 3 months about revolutionary war ancestors.",0,False
+801877515266469888,2016-11-24 19:57:52,"Hey @geotoys this should be ""Jose Rizal"" after the Filipino hero, not ""John Rizal"" -- on your Seattle puzzle. https://t.co/9QgZ0E7eoG",0,False
+801671845355212800,2016-11-24 06:20:36,@bostonsteamer @EmilyGorcenski it is insane that this code is closed source.,0,False
+801671660260577281,2016-11-24 06:19:52,"That time when the guy that created Beavis and Butthead totally nailed it, just 489 years off.",0,False
+801665782958596096,2016-11-24 05:56:31,@EmilyGorcenski agree that voting machine software should *at least* be audited but really -- it should be open source and widely reviewed.,0,False
+801253201919938560,2016-11-23 02:37:04,"RT @bostonsteamer: BLM: blacks should be treated the same as whites
+Media: Thugs!
+Nazis: USA should be whites-only
+Media: Nattily-Dressed G…",10,False
+801253106629496832,2016-11-23 02:36:41,"RT @bostonsteamer: I'll buy a paid subscription to the first major publication that uses ""Nazi"" in a headline, without a question-mark. Edi…",2,False
+800574544377511936,2016-11-21 05:40:19,"@mdaisey in all seriousness: a reality tv star and a publisher of white nat ""journalism"" together make a powerful media force in 2016.",0,False
+799823674337439744,2016-11-19 03:56:38,@davidcrosss was sessions the basis for tankerbell?,0,False
+799646522946134016,2016-11-18 16:12:42,@milesmosley @daddykev @RollingStone @mosreeves Hurry that album out!,0,False
+799645907545268224,2016-11-18 16:10:15,@amirahaile My guess is that slack can't fix an org that can't deal with this type of problem itself.,0,False
+799635456308625408,2016-11-18 15:28:43,"Relativistic bullshit. ""Welcome to 2016: Calling out bigotry is now bullying!"" https://t.co/X8TiG8Gq3g",1,False
+798545997139849217,2016-11-15 15:19:36,"RT @lottelydia: As a historian, I would like to say: THIS IS TERRIBLE ADVICE. My evidence is: ALL OF HISTORY. https://t.co/hHRy2zcOcQ",24826,False
+798543197966188544,2016-11-15 15:08:29,"@dougcole @jackdanger I tried to talk to my republican uncle and he said ""Listen! I didn't vote for Trump.""",0,False
+798542901177266176,2016-11-15 15:07:18,"RT @OwensDamien: As long as I live, I will never understand how this alone wasn’t the end of it. https://t.co/2MaLkBJ2Xo",125635,False
+797569962818740224,2016-11-12 22:41:11,"@adymitruk Pence actually might be worse, esp. given Senate and Congress.",0,False
+796461683543719936,2016-11-09 21:17:17,@lizuselton there are a lot of white supremacists and misogynists. We have just been afraid to call them that until now.,0,False
+796188928294297601,2016-11-09 03:13:27,The racism comes out... https://t.co/MsTecp2IJT,0,False
+796177384806305792,2016-11-09 02:27:35,"RT @julito77: My drinking game clue is ""Take a shot when you see a Latino on TV tonight discussing #ElectionNight."" Am still sober. Like su…",103,False
+796172243562704896,2016-11-09 02:07:09,@lkdamer OK not looking so good now,0,False
+796170787405209600,2016-11-09 02:01:22,RT @Luvvie: The fact that Donald Trump the Hateful isn't losing by a landslide to Hillary Clinton is a stain that America cannot bleach awa…,9651,False
+796162390593191936,2016-11-09 01:28:00,@lkdamer dope Salavador Dali museum too; no lie,0,False
+796161959083188225,2016-11-09 01:26:17,@lkdamer I was not. It was awful.,0,False
+796161326905032704,2016-11-09 01:23:46,@lkdamer they have cities,0,False
+796160875002359808,2016-11-09 01:21:59,"@lkdamer Now that, thanks to 2000, we are all experts on FL geography",0,False
+796160767577817088,2016-11-09 01:21:33,@lkdamer It looks like dead even but broward and palm beach only partially reported,0,False
+796159883884122113,2016-11-09 01:18:02,Unless I misunderstand (totally possible -- I'm literally watching CNN like a fucking savage) Clinton is going to win Florida.,0,False
+796155472617160704,2016-11-09 01:00:31,"Is it wrong that I traded Clinton votes with more than 100 swing state supporters of ""Gary's Johnson"" on the internet web?",0,False
+796003381990989824,2016-11-08 14:56:09,"Is there a prediction market with a ""Garland to be confirmed before Inauguration Day"" option?",0,False
+795993231708155904,2016-11-08 14:15:49,"RT @JarrettHill: Trump's last closing song: 
+You Can't Always Get What You Want
+
+Hillary's last closing song: 
+Rise Up. 
+
+I mean, you can't…",917,False
+795823571759022080,2016-11-08 03:01:39,@lizuselton definitely a shitload of misogyny and double standards out there as well,0,False
+795821521264513024,2016-11-08 02:53:30,"@lizuselton it also might be anchoring -- we compare Obama to W, but will compare Hillary to Obama. Slightly different level there.",0,False
+795452408067342336,2016-11-07 02:26:47,I don't agree with 100% of this but this is one of the most informed takes on local elections this year. https://t.co/Wkg2STC8mV,0,False
+795127941516521473,2016-11-06 04:57:28,Wait. What? https://t.co/HTBGW12U4n,0,False
+795064190415216641,2016-11-06 00:44:09,@lorainekv @acmei I haven't got around to ctags on current computer either (2.5 years later),0,False
+794703503121756160,2016-11-05 00:50:54,"RT @ericmichel: What the mainstream media won't show you: 300,000 people and counting at a Trump rally this morning in Philadelphia #MAGA h…",4302,False
+794314820203868160,2016-11-03 23:06:25,@mdaisey @crewless it is a pitchforkian world these days,0,False
+794314501604528128,2016-11-03 23:05:09,@jbogard NYT thought it was a good idea,0,False
+794314195583967232,2016-11-03 23:03:56,@amirahaile no. Although I'm a little skeptical of our $white and $black variables... just in case we decide to change them I guess...,0,False
+794313911851884544,2016-11-03 23:02:48,@adamhjk and oathbreaker!,0,False
+793489343243354112,2016-11-01 16:26:16,"@flohdot I had a similar experience when ""play"" on my earbuds opened some random aac instead of spotify... cymbals that sound like cymbals!",0,False
+793330475494285312,2016-11-01 05:54:59,Whoa - this is costume of the decade. https://t.co/4C0mcnhQ3o,0,False
+793330045867610112,2016-11-01 05:53:16,"@kvanh @GlennF me too - Edison the inventor, then FDR and Jam Master Jay.",0,False
+793290996020764672,2016-11-01 03:18:06,@lkdamer @ln1draw was everyone literally standing up?,0,False
+793271748758089728,2016-11-01 02:01:37,@WayStyles @Slate FBI seems to suggest it was legitimate mx record lookup... seems fishy that would be the only source though.,0,False
+793265770394333184,2016-11-01 01:37:52,@WayStyles @Slate odd that they used DNS at all if they were concerned about privacy,0,False
+793248843848556544,2016-11-01 00:30:36,wow.  https://t.co/re7sbNOJEm,1,False
+792454802156367872,2016-10-29 19:55:22,@adymitruk it depends what the source of your actions is. It could be events that transform the state (whether redux or other impl),0,False
+792438114832650240,2016-10-29 18:49:04,@adymitruk isn't flux event based though? Just map your domain events to actions?,0,False
+792095611864494080,2016-10-28 20:08:04,Do *NOT* try to picture this headline. https://t.co/CWOw8l64Rm,1,False
+791877336186523648,2016-10-28 05:40:43,@AlexiLalas @FS1 @MLS @ipswichtwn cc @BotLuap @lixelart,0,False
+791060693478813696,2016-10-25 23:35:41,@socialretard yes it is.,0,False
+790787276926099457,2016-10-25 05:29:13,@jsdnxx literally a wave whilst in transit and a set of particles at rest,0,False
+790722679233925122,2016-10-25 01:12:32,Also has any 6 sigma black belt actually succeeded in attaining that elusive seventh sigma? I've heard rumors but... probably fairy tales.,0,False
+790722236176998401,2016-10-25 01:10:46,Anyone out there with a 6 sigma black belt: how many 6 sigma brown belts do you think you could fight off at once? An estimate is fine.,2,False
+789617984700489729,2016-10-22 00:02:52,"I never thought the place I'd hear PSK by Schoolly D the most times would be on our corporate co-working space's in-house ""radio"" station.",0,False
+789168495900491776,2016-10-20 18:16:46,@ln1draw You should click on it if you want to charge the campaign money https://t.co/75vSIB5x2G,0,False
+788526041459326976,2016-10-18 23:43:53,@lizuselton Should be fine -- the u-haul record boxes are decent enough.,0,False
+788463919983505408,2016-10-18 19:37:02,vim over scp is really great except for the fact that I only use it when working on wordpress sites.,0,False
+788463125888507904,2016-10-18 19:33:52,"Everything in software design and dev process is a tradeoff. Be very afraid of value-judgment words like ""best"", ""proper"", etc.",0,False
+786674293782478848,2016-10-13 21:05:41,@aviel ah nm - sounds great,0,False
+786674183279292417,2016-10-13 21:05:15,@aviel what is it today?,0,False
+786620822236520453,2016-10-13 17:33:13,What is the deal with people who don't take off their backpacks when the bus is over capacity?,0,False
+786390614782771200,2016-10-13 02:18:27,@jzonedonttweet the first track was like nothing before it,0,False
+786369272071135232,2016-10-13 00:53:39,RT @Claire_Phipps: Do read these tweets from former Miss Teen USA @TheRealKamie on Trump and women – especially women of colour: https://t.…,6419,False
+786273118817955840,2016-10-12 18:31:34,@ijoyce seems odd to consider backend a higher level than frontend,0,False
+786069997869293568,2016-10-12 05:04:26,"@jsdnxx I already have cassette and LP, I will willingly pay for digital copy without anachronistic plastic",0,False
+786069602312843265,2016-10-12 05:02:52,"@jsdnxx seems like now, if you want to live in a city, it's either maximize your earnings or GTFO",0,False
+786069428362444800,2016-10-12 05:02:10,@jsdnxx people my age were more fortunate in this respect (if not in some others) WRT the economy when we were young adults making choices.,0,False
+786068572510486532,2016-10-12 04:58:46,"@jsdnxx I want to pay money for it or otherwise consume it in a way that benefits the artists though, which seems eminently doable.",0,False
+786067555953893376,2016-10-12 04:54:44,"Def Leppard's Pyromania, one of the best albums of an entire decade, is effectively unavailable through any primary means at present.",0,False
+786065899094732800,2016-10-12 04:48:09,Totally agree with the Berlusconi comparison. https://t.co/ntRjWFcmMC,0,False
+783143696984182784,2016-10-04 03:16:22,"@garybernhardt @peregrine for chat, easy to use ""room"" in the routing key, or keep a hash of connected clients on each dyno and route to all",0,False
+783143250358001664,2016-10-04 03:14:35,"@garybernhardt @peregrine we used a hosted rabbitmq service for distributing rt messages across dynos. Worked decent, pretty simple.",0,False
+783141418789326848,2016-10-04 03:07:18,@peregrine @garybernhardt won't you run out of ephemeral ports eventually?,0,False
+782267382387515392,2016-10-01 17:14:12,@lkdamer by yes I mean: they pay per click in many cases,0,False
